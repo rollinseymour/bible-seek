@@ -1,0 +1,424 @@
+/* ============================================================
+   Bible Seek developer hub
+   Shared stylesheet for all pages
+   ============================================================ */
+
+:root {
+  --navy: #0F2A47;
+  --navy-soft: #1B3C61;
+  --gold: #D4A537;
+  --gold-soft: #E8C46A;
+  --bg: #FAF6EE;
+  --card: #FFFFFF;
+  --text: #1A1A1A;
+  --text-muted: #5A5A5A;
+  --border: #E5DFD2;
+  --shadow: 0 2px 8px rgba(15, 42, 71, 0.08);
+  --shadow-lg: 0 6px 24px rgba(15, 42, 71, 0.12);
+  --radius: 12px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--navy);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+a:hover,
+a:focus {
+  border-bottom-color: var(--gold);
+}
+
+a:focus-visible {
+  outline: 3px solid var(--gold-soft);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ----- Header ----- */
+
+.site-header {
+  background: var(--navy);
+  color: #fff;
+  padding: 1rem 0;
+  border-bottom: 4px solid var(--gold);
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-header .brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: #fff;
+  border-bottom: none;
+}
+
+.site-header .brand-mark {
+  width: 32px;
+  height: 32px;
+  background: var(--gold);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--navy);
+  font-weight: 800;
+  font-size: 1rem;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.95rem;
+  border-bottom: none;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  color: var(--gold-soft);
+  border-bottom: none;
+}
+
+/* ----- Layout ----- */
+
+.container {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+main {
+  padding: 3rem 0 4rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+/* ----- Hero ----- */
+
+.hero {
+  text-align: center;
+  padding: 3rem 0 2rem;
+}
+
+.hero h1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: var(--navy);
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.02em;
+}
+
+.hero p {
+  font-size: 1.15rem;
+  color: var(--text-muted);
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* ----- Typography ----- */
+
+h1,
+h2,
+h3 {
+  color: var(--navy);
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--gold);
+  display: inline-block;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+ul,
+ol {
+  margin: 0 0 1rem 1.5rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+/* ----- App cards ----- */
+
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.app-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 1.75rem;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.app-card h3 {
+  margin-top: 0;
+  color: var(--navy);
+  font-size: 1.4rem;
+}
+
+.app-card .tagline {
+  color: var(--gold);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.app-card p {
+  color: var(--text-muted);
+  flex: 1;
+}
+
+.app-card .card-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-weight: 600;
+  color: var(--navy);
+  border-bottom: 2px solid var(--gold);
+  align-self: flex-start;
+}
+
+/* ----- Buttons ----- */
+
+.button {
+  display: inline-block;
+  background: var(--navy);
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius);
+  font-weight: 600;
+  border-bottom: none;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.button:hover,
+.button:focus {
+  background: var(--navy-soft);
+  border-bottom: none;
+  transform: translateY(-1px);
+}
+
+.button.secondary {
+  background: transparent;
+  color: var(--navy);
+  border: 2px solid var(--navy);
+}
+
+.button.secondary:hover,
+.button.secondary:focus {
+  background: var(--navy);
+  color: #fff;
+}
+
+.button-row {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+
+/* ----- Legal / long-form pages ----- */
+
+.legal h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.legal .meta {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+
+.legal h2 {
+  font-size: 1.3rem;
+  margin-top: 2.5rem;
+  display: block;
+  border-bottom: 2px solid var(--gold);
+  padding-bottom: 0.4rem;
+}
+
+.legal h3 {
+  font-size: 1.05rem;
+  color: var(--navy-soft);
+  margin-top: 1.5rem;
+}
+
+.legal .toc {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem 1.5rem 1.5rem 3rem;
+  margin: 2rem 0;
+}
+
+.legal .toc h2 {
+  margin-top: 0;
+  border: none;
+  padding: 0;
+  font-size: 1.1rem;
+  margin-left: -1.5rem;
+  display: block;
+}
+
+.legal .toc ol {
+  margin-bottom: 0;
+}
+
+.legal .summary {
+  background: rgba(212, 165, 55, 0.08);
+  border-left: 4px solid var(--gold);
+  padding: 1.25rem 1.5rem;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  margin: 1.5rem 0 2rem;
+}
+
+.legal .in-short {
+  font-style: italic;
+  color: var(--text-muted);
+  margin: 0.5rem 0 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--gold-soft);
+}
+
+/* ----- Contact / support ----- */
+
+.contact-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 2rem;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.contact-card .email {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--navy);
+  word-break: break-all;
+}
+
+/* ----- Footer ----- */
+
+.site-footer {
+  background: var(--navy);
+  color: rgba(255, 255, 255, 0.75);
+  padding: 2.5rem 0;
+  margin-top: 4rem;
+  font-size: 0.9rem;
+}
+
+.site-footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-footer .footer-links {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.site-footer .footer-links a {
+  color: rgba(255, 255, 255, 0.85);
+  border-bottom: none;
+}
+
+.site-footer .footer-links a:hover,
+.site-footer .footer-links a:focus {
+  color: var(--gold-soft);
+}
+
+/* ----- Responsive tweaks ----- */
+
+@media (max-width: 640px) {
+  body {
+    font-size: 16px;
+  }
+
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+
+  main {
+    padding: 2rem 0 3rem;
+  }
+
+  .site-footer .container {
+    justify-content: center;
+    text-align: center;
+  }
+}
