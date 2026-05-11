@@ -422,3 +422,16 @@ li {
     text-align: center;
   }
 }
+
+/* ----- App Store download CTA ----- */
+.app-store-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.app-store-icon {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
