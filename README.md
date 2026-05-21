@@ -1,1 +1,1 @@
-GitHub repository for the Bible Seek iOS application.
+GitHub repository for the Bible Games: Suite iOS application.
