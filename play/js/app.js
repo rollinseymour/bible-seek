@@ -126,6 +126,14 @@ async function home() {
   body.append(el('div', { style: { marginTop: '22px', textAlign: 'center' } }, [
     button('Your stats', { cls: 'btn', onclick: () => go('#/stats') }),
   ]));
+
+  // A worded way back to the site, and the App Store pitch this edition exists
+  // to serve. The top-bar ⌂ covers every other screen.
+  body.append(el('div.site-footer-link', {}, [
+    el('a', { href: '../', text: '← Back to Bible Games: Suite' }),
+    el('div.small.muted', { style: { marginTop: '6px' },
+      text: 'Progress here is saved in this browser. The iPhone and iPad app keeps it with you.' }),
+  ]));
   main.append(body);
 }
 

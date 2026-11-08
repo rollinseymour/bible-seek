@@ -75,6 +75,14 @@ p { margin: 0; }
 }
 .topbar button:hover { background: rgba(255,255,255,.24); }
 .topbar .spacer { width: 36px; }
+/* Same affordance as the top-bar buttons, but a real anchor — it leaves the
+   app for the marketing site, so it should middle-click and long-press. */
+.topbar .iconlink {
+  display: grid; place-items: center; text-decoration: none;
+  background: rgba(255,255,255,.14); color: #fff;
+  width: 36px; height: 36px; border-radius: 10px; font-size: 17px; flex: none;
+}
+.topbar .iconlink:hover { background: rgba(255,255,255,.24); }
 
 main { flex: 1; width: 100%; max-width: var(--maxw); margin: 0 auto; padding: 16px; }
 
@@ -457,3 +465,10 @@ button { font-family: inherit; font-size: inherit; }
   border: 1px solid color-mix(in srgb, var(--on-muted) 28%, transparent);
 }
 .ws-cell.sel, .ws-cell.found { border-color: currentColor; }
+
+.site-footer-link {
+  margin-top: 26px; padding-top: 18px; border-top: 1px solid var(--rule);
+  text-align: center; font-size: 15px;
+}
+.site-footer-link a { color: var(--secondary); font-weight: 600; text-decoration: none; }
+.site-footer-link a:hover { text-decoration: underline; }
