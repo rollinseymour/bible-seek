@@ -31,7 +31,19 @@ function setChrome(title, canGoBack) {
   document.title = title === 'Bible Games' ? 'Bible Games — Play Online Free' : `${title} — Bible Games`;
 }
 
-export const go = (hash) => { location.hash = hash; };
+/** How many entries this app has pushed, so `goBack` knows it is safe to
+ *  unwind rather than stranding a deep-linked visitor outside the app. */
+let depth = 0;
+export const go = (hash) => { depth += 1; location.hash = hash; };
+/** Replace the current entry — for moving within one screen (reader pages). */
+export const swap = (hash) => {
+  history.replaceState(history.state, '', location.pathname + hash);
+  route();
+};
+/** Leave a screen the way the player entered it. */
+export const goBack = (fallback) => {
+  if (depth > 0) { depth -= 1; history.back(); } else { swap(fallback); }
+};
 
 // ── Router ───────────────────────────────────────────────────────────────────
 
@@ -44,6 +56,7 @@ async function route() {
     if (path[0] === 'journey') {
       if (path.length === 1) return Journey.map(main, setChrome);
       if (path.length === 2) return Journey.stop(main, setChrome, path[1]);
+      if (path.length === 4 && path[2] === 'read') return Journey.reader(main, setChrome, path[1], +path[3]);
       if (path.length === 4 && path[2] === 'play') return gateGame(path[1], path[3]);
     }
     if (path[0] === 'vault') return Journey.vault(main, setChrome, path[1] || null);
@@ -155,7 +168,7 @@ async function freePlay(key) {
   setChrome(meta.name, true);
   clear(main).append(el('div.empty', { text: 'Loading…' }));
   const mod = await loaders[key]();
-  runGame(main, { game: key, onDone: () => go('#/'), play: mod.play });
+  runGame(main, { game: key, onDone: () => goBack('#/'), play: mod.play });
 }
 
 async function gateGame(stopId, key) {
@@ -169,7 +182,7 @@ async function gateGame(stopId, key) {
   const mod = await loaders[key]();
   runGame(main, {
     game: key, story: challenge, stopId,
-    onDone: () => go(`#/journey/${stopId}`),
+    onDone: () => goBack(`#/journey/${stopId}`),
     play: mod.play,
   });
 }

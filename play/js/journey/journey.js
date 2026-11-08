@@ -8,6 +8,7 @@ import {
   Content, Bible, Store, el, clear, button, shuffle, buzz, todayIndex, gameFor,
 } from '../core/core.js';
 import { recordGate } from '../core/scaffold.js';
+import { go, swap, goBack } from '../app.js';
 
 const MAX_STAGE = 6;
 const MEMORY_STAR_STAGE = 3;         // stage at which a verse counts as taking root
@@ -16,10 +17,7 @@ const GATE_CAP = 3;
 const BASE_INTERVAL = [0, 1, 3, 7, 16, 35, 90];
 const MAX_CHUNK_WORDS = 14;
 
-let go;                              // set in init(), avoids a circular import
-
 export function init() {
-  go = (h) => { location.hash = h; };
   // scaffold.js records gate results but can't import us without a cycle.
   recordGate.evaluate = evaluate;
   backfillVault();
@@ -339,7 +337,7 @@ export async function stop(main, setChrome, stopId) {
       const isRead = rs.has(i);
       const unlocked = isPassageUnlocked(j, stopId, i);
       const row = el('button.passage', {
-        onclick: unlocked ? () => openReader(i) : null,
+        onclick: unlocked ? () => go(`#/journey/${stopId}/read/${i}`) : null,
       }, [
         el('div.mark', { text: isRead ? '✅' : unlocked ? '📖' : '🔒' }),
         el('div', {}, [
@@ -401,58 +399,71 @@ export async function stop(main, setChrome, stopId) {
     }
   }
 
-  /** The reader walks the whole story: Next advances, Continue closes at the end. */
-  async function openReader(startIndex) {
-    let i = startIndex;
-    await show();
+  // Opening a passage is a real navigation now: it pushes #/journey/<id>/read/<i>,
+  // so Back returns to the story instead of jumping out to the map.
+}
 
-    async function show() {
-      const p = s.passages[i];
-      setChrome(Bible.displayRef(p.ref), true);
-      clear(main).append(el('div.empty', { text: 'Loading passage…' }));
-      const verses = await Bible.passage(p.ref);
 
-      clear(main);
-      main.append(el('div.small.muted', { text: `Passage ${i + 1} of ${s.passages.length}` }));
-      main.append(el('p', { style: { fontStyle: 'italic', margin: '8px 0 16px' }, class: 'muted', text: p.synopsis }));
-      const body = el('div.card');
-      if (!verses.length) body.append(el('div.muted', { text: 'Passage unavailable.' }));
-      verses.forEach((v) => {
-        body.append(el('div.reader-verse', {}, [
-          el('span.vn', { text: String(v.verse) }),
-          document.createTextNode(v.text),
-        ]));
-      });
-      main.append(body);
+/** Mark a passage read and re-evaluate the story it belongs to. */
+function markRead(stopId, i) {
+  const j = read();
+  const set = readSet(j, stopId);
+  set.add(i);
+  j.passages[stopId] = [...set];
+  save(j);
+  evaluate(stopId);
+  buzz();
+}
 
-      const last = i + 1 >= s.passages.length;
-      const row = el('div.actions');
-      if (i > 0) row.append(button('‹ Previous', { cls: 'btn', onclick: () => { i -= 1; show(); } }));
-      row.append(button(last ? 'Continue' : 'Next ›', {
-        cls: 'btn primary',
-        onclick: () => {
-          markRead(i);
-          if (last) { setChrome(s.title, true); render(); }
-          else { i += 1; show(); }
-        },
-      }));
-      main.append(row);
-      main.append(el('div', { style: { marginTop: '10px' } }, [
-        button('Close', { cls: 'btn', onclick: () => { setChrome(s.title, true); render(); } }),
-      ]));
-      window.scrollTo(0, 0);
-    }
+/**
+ * The KJV reader for one passage, as its own screen.
+ *
+ * Moving between passages REPLACES the history entry rather than pushing one,
+ * so the whole reading session is a single step: Back always means "back to the
+ * story", never "back through four passages one at a time".
+ */
+export async function reader(main, setChrome, stopId, index) {
+  const s = await Content.stop(stopId);
+  await warm();
+  if (!s || !(index >= 0 && index < s.passages.length)) { go(`#/journey/${stopId}`); return; }
+
+  const p = s.passages[index];
+  const back = () => goBack(`#/journey/${stopId}`);
+  setChrome(Bible.displayRef(p.ref), true);
+  clear(main).append(el('div.empty', { text: 'Loading passage…' }));
+  const verses = await Bible.passage(p.ref);
+
+  clear(main);
+  main.append(el('div.small.muted', { text: `Passage ${index + 1} of ${s.passages.length}` }));
+  main.append(el('p', { class: 'muted', style: { fontStyle: 'italic', margin: '8px 0 16px' }, text: p.synopsis }));
+
+  const body = el('div.card');
+  if (!verses.length) body.append(el('div.muted', { text: 'Passage unavailable.' }));
+  verses.forEach((v) => {
+    body.append(el('div.reader-verse', {}, [
+      el('span.vn', { text: String(v.verse) }),
+      document.createTextNode(v.text),
+    ]));
+  });
+  main.append(body);
+
+  const last = index + 1 >= s.passages.length;
+  const row = el('div.actions');
+  if (index > 0) {
+    row.append(button('\u2039 Previous', { cls: 'btn', onclick: () => swap(`#/journey/${stopId}/read/${index - 1}`) }));
   }
-
-  function markRead(i) {
-    const j = read();
-    const set = readSet(j, stopId);
-    set.add(i);
-    j.passages[stopId] = [...set];
-    save(j);
-    evaluate(stopId);
-    buzz();
-  }
+  row.append(button(last ? 'Continue' : 'Next \u203a', {
+    cls: 'btn primary',
+    onclick: () => {
+      markRead(stopId, index);
+      if (last) back(); else swap(`#/journey/${stopId}/read/${index + 1}`);
+    },
+  }));
+  main.append(row);
+  main.append(el('div', { style: { marginTop: '10px' } }, [
+    button('Close', { cls: 'btn', onclick: back }),
+  ]));
+  window.scrollTo(0, 0);
 }
 
 // ── Verse Vault review ───────────────────────────────────────────────────────
@@ -468,7 +479,7 @@ export async function vault(main, setChrome, excludeStop) {
       el('div', { style: { fontSize: '40px' }, text: '✅' }),
       el('h2', { text: 'Nothing due right now' }),
       el('p.muted', { text: 'Verses come back on their own, a little further apart each time you get them right.' }),
-      el('div', { style: { marginTop: '16px' } }, [button('Done', { cls: 'btn primary', onclick: () => history.back() })]),
+      el('div', { style: { marginTop: '16px' } }, [button('Done', { cls: 'btn primary', onclick: () => goBack(excludeStop ? `#/journey/${excludeStop}` : '#/journey') })]),
     ]));
     return;
   }
@@ -486,7 +497,7 @@ export async function vault(main, setChrome, excludeStop) {
       el('div', { style: { fontSize: '40px' }, text: '✨' }),
       el('h2', { text: 'Well done' }),
       el('p.muted', { text: `${queue.length} verse${queue.length === 1 ? '' : 's'} reviewed. They'll come back when it's time.` }),
-      el('div', { style: { marginTop: '16px' } }, [button('Done', { cls: 'btn primary', onclick: () => history.back() })]),
+      el('div', { style: { marginTop: '16px' } }, [button('Done', { cls: 'btn primary', onclick: () => goBack(excludeStop ? `#/journey/${excludeStop}` : '#/journey') })]),
     ]));
   }
 
