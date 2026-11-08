@@ -1,0 +1,119 @@
+{
+  "id": "sng.springtime_of_love",
+  "title": "Springtime of Love",
+  "anchorRef": "SNG.2.4",
+  "backstory": "King Solomon, David's son, wrote over a thousand songs, and this one is called the song of songs — the best of them all. It celebrates the faithful love between a bridegroom and his bride, sung in the language of gardens, springtime, and singing birds. Marriage was God's gift from the very beginning, and many readers have also heard in this song an echo of God's own love for his people.",
+  "passages": [
+    {
+      "ref": "SNG.1.1-8",
+      "synopsis": "The song of songs begins, the finest of all Solomon's songs. The bride sings of how dear her beloved is to her, for his love is better than wine. She has worked long days in the sun keeping vineyards. She asks where her shepherd-beloved feeds his flock, and is told to follow the footsteps of the flock."
+    },
+    {
+      "ref": "SNG.1.9-12",
+      "synopsis": "Now the bridegroom speaks, telling his bride how lovely she is. He compares her to a prized royal horse among Pharaoh's chariots, admiring the rows of jewels at her cheeks and the chains of gold about her neck. He promises to make her borders of gold with studs of silver. Then the bride answers, and while the king sits at his table her sweet spikenard fills the room with its fragrance."
+    },
+    {
+      "ref": "SNG.2.1-7",
+      "synopsis": "The bride calls herself the rose of Sharon and the lily of the valleys. Her beloved answers that she is like a lily among thorns. She rests in his shadow with great delight, like a traveler under an apple tree with sweet fruit. He brings her to the banqueting house, and his banner over her is love."
+    },
+    {
+      "ref": "SNG.2.8-17",
+      "synopsis": "The bride hears her beloved coming, leaping upon the mountains like a young deer. He calls her to rise up and come away, for the winter is past and the rain is over and gone. The flowers appear, the birds sing, and the fig tree puts forth her green figs. She answers with joy, saying that her beloved is hers and she is his."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Song of Solomon 2:1",
+          "text": "I am the rose of Sharon, and the lily of the valleys."
+        },
+        {
+          "reference": "Song of Solomon 2:4",
+          "text": "his banner over me was love."
+        },
+        {
+          "reference": "Song of Solomon 2:11",
+          "text": "For, lo, the winter is past, the rain is over and gone;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In the banqueting house, what was the beloved's banner over his bride?",
+          "options": [
+            "A crown of gold",
+            "A cloud of incense",
+            "Love",
+            "A shield of silver"
+          ],
+          "correctIndex": 2,
+          "explanation": "Song of Solomon 2:4 — \"He brought me to the banqueting house, and his banner over me was love.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What flower of Sharon does the bride call herself?",
+          "options": [
+            "The rose",
+            "The olive blossom",
+            "The almond flower",
+            "The pomegranate"
+          ],
+          "correctIndex": 0,
+          "explanation": "Song of Solomon 2:1 — \"I am the rose of Sharon, and the lily of the valleys.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When the beloved calls, \"Rise up, my love,\" what season is past?",
+          "options": [
+            "Summer",
+            "Winter",
+            "Harvest",
+            "Seedtime"
+          ],
+          "correctIndex": 1,
+          "explanation": "Song of Solomon 2:11 — \"For, lo, the winter is past, the rain is over and gone;\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whose song is the song of songs?",
+          "options": [
+            "David's",
+            "Asaph's",
+            "Moses'",
+            "Solomon's"
+          ],
+          "correctIndex": 3,
+          "explanation": "Song of Solomon 1:1 — \"The song of songs, which is Solomon’s.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Springtime of Love",
+          "words": [
+            "ROSE",
+            "SHARON",
+            "LILY",
+            "BANNER",
+            "WINTER",
+            "FIG",
+            "DOVE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.2.24",
+    "ISA.62.5",
+    "EPH.5.25"
+  ],
+  "reflection": "The beloved's banner over his bride was love. Who shows you steady, faithful love — and how can you show it in return?"
+}

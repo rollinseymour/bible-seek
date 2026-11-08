@@ -1,0 +1,117 @@
+{
+  "id": "exo.passover",
+  "title": "The Passover",
+  "anchorRef": "EXO.12.13",
+  "backstory": "Nine plagues had fallen and Pharaoh still would not yield. God announced a final judgment — but this time his own people needed covering too. What he gave them that night became the meal Israel would keep for thousands of years.",
+  "passages": [
+    {
+      "ref": "EXO.12.1-13",
+      "synopsis": "God gave Israel instructions for a night of deliverance. Each family was to take a spotless lamb and put its blood on their doorposts. That night they would eat it roasted, dressed and ready to leave in haste. When God saw the blood, the plague would pass over that house."
+    },
+    {
+      "ref": "EXO.12.21-28",
+      "synopsis": "Moses gathered the elders and explained what the LORD had commanded. They were to brush the blood on the door and stay inside until morning. He told them to keep this service forever and teach their children its meaning. The people bowed their heads and worshiped, then did as they were told."
+    },
+    {
+      "ref": "EXO.12.29-36",
+      "synopsis": "At midnight the LORD struck down the firstborn throughout Egypt, and a great cry arose. Pharaoh called for Moses and Aaron and at last told Israel to go. The Egyptians urged them to leave quickly and gave them silver, gold, and clothing. After long years, the people walked out of slavery."
+    },
+    {
+      "ref": "EXO.13.1-10",
+      "synopsis": "God told Israel to remember the day they came out of Egypt. Each year they would keep the feast of unleavened bread. It would be like a sign on their hand and a reminder before their eyes. By it they would tell their children how the LORD brought them out with a strong hand."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Exodus 12:20",
+          "text": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread."
+        },
+        {
+          "reference": "Exodus 12:8",
+          "text": "And they shall eat the flesh in that night"
+        },
+        {
+          "reference": "Exodus 12:13",
+          "text": "and when I see the blood, I will pass over you"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Passover",
+          "words": [
+            "BLOOD",
+            "LAMB",
+            "DOOR",
+            "NIGHT",
+            "FEAST"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What was put on the doorposts so the plague would pass over?",
+          "options": [
+            "Oil",
+            "Water",
+            "Ashes",
+            "Blood of a lamb"
+          ],
+          "correctIndex": 3,
+          "explanation": "Exodus 12:13 — \"And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What kind of bread were the Israelites to eat?",
+          "options": [
+            "Barley",
+            "Unleavened",
+            "Honeyed",
+            "Leavened"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exodus 12:8 — \"And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "The Passover was to be kept throughout their generations as a what?",
+          "options": [
+            "Fast",
+            "Silence",
+            "Memorial and feast",
+            "Secret"
+          ],
+          "correctIndex": 2,
+          "explanation": "Exodus 12:14 — \"And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When the LORD saw the blood, whom would He not let enter to smite them?",
+          "options": [
+            "The destroyer",
+            "The Egyptians",
+            "The flood",
+            "The fire"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exodus 12:23 — \"For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "1CO.5.7",
+    "JHN.1.29",
+    "HEB.11.28"
+  ],
+  "reflection": "The lamb's blood spared the people. How does this point ahead to Jesus, our Passover?"
+}

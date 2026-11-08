@@ -1,0 +1,154 @@
+{
+  "id": "hos.hosea_and_gomer",
+  "title": "Hosea and Gomer",
+  "anchorRef": "HOS.2.23",
+  "backstory": "Hosea preached in the northern kingdom of Israel during its last comfortable years, when the people still crowded the altars but their hearts had wandered to idols. God gave them more than a sermon — he gave them a living picture. Hosea's own marriage, with all its heartbreak, would show Israel exactly how God loves a people who leave him.",
+  "passages": [
+    {
+      "ref": "HOS.1.1-5",
+      "synopsis": "The word of the LORD came to Hosea, the son of Beeri, in the days of the kings of Judah and of Jeroboam king of Israel. God told him to marry, and his family would become a picture of Israel, a people who had wandered far from the LORD. Hosea married Gomer, and their first son was born. God named the boy Jezreel, a warning that the northern kingdom would not stand."
+    },
+    {
+      "ref": "HOS.1.6-11",
+      "synopsis": "Two more children were born, and their names carried God's message. A daughter was called Lo-ruhamah, meaning no mercy, and a son Lo-ammi, meaning not my people. Israel had walked so far from God that the names sounded final. Yet in the very same breath God promised a day when they would be called the sons of the living God."
+    },
+    {
+      "ref": "HOS.2.14-23",
+      "synopsis": "God spoke of winning his people back the way a husband wins back his bride. He would lead her into the wilderness and speak comfortably to her, turning the valley of Achor into a door of hope. He promised to betroth her to himself for ever in righteousness and mercy. Those once called not my people would say again, Thou art my God."
+    },
+    {
+      "ref": "HOS.3.1-5",
+      "synopsis": "Gomer had left, but God told Hosea to go and love her still. Hosea bought her back for fifteen pieces of silver and some barley and brought her home. He asked her to stay with him, and he promised to be faithful to her. In the same way, Israel would one day return and seek the LORD their God and his goodness."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Hosea",
+          "clues": [
+            "I was the son of Beeri, and the word of the LORD came to me.",
+            "My own family became a living picture of God's love.",
+            "I bought my wife back and brought her home again."
+          ],
+          "wrongChoices": [
+            "Amos",
+            "Jonah",
+            "Micah"
+          ]
+        },
+        {
+          "name": "Gomer",
+          "clues": [
+            "I was the wife of the prophet Hosea.",
+            "I wandered far from my home and my husband.",
+            "Fifteen pieces of silver and some barley brought me home."
+          ],
+          "wrongChoices": [
+            "Naomi",
+            "Abigail",
+            "Miriam"
+          ]
+        },
+        {
+          "name": "Jezreel",
+          "clues": [
+            "I was the first child of Hosea and Gomer.",
+            "The LORD himself chose my name.",
+            "My name points to a valley where God said he would break Israel's bow."
+          ],
+          "wrongChoices": [
+            "Lo-ammi",
+            "Obed",
+            "Ichabod"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What was the name of Hosea's wife?",
+          "options": [
+            "Gomer",
+            "Ruth",
+            "Miriam",
+            "Deborah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hosea 1:3 — \"So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the name of Hosea's son Lo-ammi mean?",
+          "options": [
+            "My beloved",
+            "Not my people",
+            "God is strong",
+            "A door of hope"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hosea 1:9 — \"Then said God, Call his name Lo-ammi: for ye are not my people, and I will not be your God.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Hosea give to bring his wife home again?",
+          "options": [
+            "A flock of sheep",
+            "Thirty shekels of gold",
+            "Fifteen pieces of silver and some barley",
+            "A vineyard in Jezreel"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hosea 3:2 — \"So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What new name did God promise for those once called 'not my people'?",
+          "options": [
+            "Children of Jezreel",
+            "Servants of the king",
+            "People of the valley",
+            "The sons of the living God"
+          ],
+          "correctIndex": 3,
+          "explanation": "Hosea 1:10 — \"Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "GOMER",
+          "hint": "Hosea's wife, whom he brought home again",
+          "theme": "people"
+        },
+        {
+          "word": "JEZREEL",
+          "hint": "The first child of Hosea and Gomer",
+          "theme": "people"
+        },
+        {
+          "word": "SILVER",
+          "hint": "Hosea paid fifteen pieces of this",
+          "theme": "things"
+        },
+        {
+          "word": "BARLEY",
+          "hint": "Grain Hosea gave along with silver",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ROM.9.25",
+    "1PE.2.10",
+    "EPH.5.25"
+  ],
+  "reflection": "Hosea kept loving Gomer and brought her home at great cost. What does his story show you about how God loves people who wander from him?"
+}

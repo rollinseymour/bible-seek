@@ -1,0 +1,122 @@
+{
+  "id": "exo.commandments",
+  "title": "The Ten Commandments",
+  "anchorRef": "EXO.20.3",
+  "backstory": "Three months out of Egypt, Israel arrived at Sinai — a nation newly free but with no laws, no land, and no shape to their life together. God had rescued them; now he would make them his own people. What he gave at that mountain would define Israel ever after.",
+  "passages": [
+    {
+      "ref": "EXO.19.1-9",
+      "synopsis": "Three months after leaving Egypt, Israel camped before Mount Sinai. God told Moses that if they would obey his voice, they would be his treasured people. They would be a kingdom of priests and a holy nation. The people answered together, \"All that the LORD hath spoken we will do.\""
+    },
+    {
+      "ref": "EXO.19.16-25",
+      "synopsis": "On the third day the mountain was covered with thunder, lightning, and thick cloud. A loud trumpet sounded, and the people trembled as God descended in fire. The whole mountain shook while Moses spoke and God answered him. God warned the people not to come too close to his holiness."
+    },
+    {
+      "ref": "EXO.20.1-11",
+      "synopsis": "God spoke the first commandments, which show how to love him. They were to have no other gods and to make no idols. They were not to misuse his name. And they were to remember the sabbath day and keep it holy, resting as God had rested."
+    },
+    {
+      "ref": "EXO.20.12-21",
+      "synopsis": "God gave the commandments that show how to love others. They were to honor their parents and not to murder, commit adultery, steal, lie, or covet. The people saw the thunder and smoke and drew back in fear. Moses told them not to be afraid, for God had come to teach them to reverence him."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SINAI",
+          "hint": "The mountain where the law was given",
+          "theme": "places"
+        },
+        {
+          "word": "SABBATH",
+          "hint": "The day to keep holy",
+          "theme": "things"
+        },
+        {
+          "word": "COVENANT",
+          "hint": "The binding agreement God made with Israel",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How many commandments did God write on the tables of stone?",
+          "options": [
+            "Seven",
+            "Twelve",
+            "Ten",
+            "Five"
+          ],
+          "correctIndex": 2,
+          "explanation": "Exodus 34:28 — \"And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "\"Thou shalt have no other ___ before me.\"",
+          "options": [
+            "kings",
+            "idols",
+            "masters",
+            "gods"
+          ],
+          "correctIndex": 3,
+          "explanation": "Exodus 20:3 — \"Thou shalt have no other gods before me.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which day were the people to remember and keep holy?",
+          "options": [
+            "The sabbath",
+            "The first day",
+            "The feast day",
+            "The new moon"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exodus 20:8 — \"Remember the sabbath day, to keep it holy.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "\"Honour thy father and thy ___.\"",
+          "options": [
+            "brother",
+            "mother",
+            "elders",
+            "king"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exodus 20:12 — \"Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Exodus 20:3",
+          "text": "Thou shalt have no other gods before me."
+        },
+        {
+          "reference": "Exodus 20:12",
+          "text": "Honour thy father and thy mother:"
+        },
+        {
+          "reference": "Exodus 20:8",
+          "text": "Remember the sabbath day, to keep it holy."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.22.37",
+    "ROM.13.9",
+    "DEU.5.7"
+  ],
+  "reflection": "The commandments begin with loving God and honouring others. Which one speaks to you today?"
+}

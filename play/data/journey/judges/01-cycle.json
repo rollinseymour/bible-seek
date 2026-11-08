@@ -1,0 +1,113 @@
+{
+  "id": "jdg.cycle",
+  "title": "The Cycle of the Judges",
+  "anchorRef": "JDG.2.16",
+  "backstory": "Joshua and the elders who outlived him died, and a generation grew up that had not seen God's works firsthand. Israel had land but no king, and every tribe fended for itself. What followed was a pattern that repeats through the whole book.",
+  "passages": [
+    {
+      "ref": "JDG.2.11-19",
+      "synopsis": "After Joshua died, Israel forgot the LORD and served other gods. God let enemies trouble them, and they cried out in their distress. Then the LORD raised up judges to rescue them. But when each judge died, the people fell back into sin, and the cycle began again."
+    },
+    {
+      "ref": "JDG.3.7-11",
+      "synopsis": "When Israel did evil and forgot the LORD, an enemy king oppressed them for eight years. The people cried out, and God raised up Othniel to deliver them. The Spirit of the LORD came upon him, and he set Israel free. The land had rest for forty years."
+    },
+    {
+      "ref": "JDG.3.12-30",
+      "synopsis": "Israel sinned again, and a king named Eglon ruled over them. God raised up Ehud, a left-handed man, to deliver them. With courage and a hidden plan, Ehud freed Israel from the oppressor. Once more the land had rest."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Judges",
+          "words": [
+            "JUDGE",
+            "SIN",
+            "SAVE",
+            "PEACE",
+            "CRY"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the LORD raise up to rescue Israel from their enemies?",
+          "options": [
+            "Judges",
+            "Kings",
+            "Priests",
+            "Prophets"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 2:16 — \"Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Israel keep doing after each judge died?",
+          "options": [
+            "Falling back into sin",
+            "Moving to a new land",
+            "Choosing a king",
+            "Building temples"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 2:19 — \"And it came to pass, when the judge was dead, that they returned, and corrupted themselves more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who was the first deliverer the LORD raised up for Israel?",
+          "options": [
+            "Ehud the son of Gera",
+            "Othniel the son of Kenaz",
+            "Barak the son of Abinoam",
+            "Gideon the son of Joash"
+          ],
+          "correctIndex": 1,
+          "explanation": "Judges 3:9 — \"And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb’s younger brother.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How long did the land have rest after that first deliverer judged Israel?",
+          "options": [
+            "Eight years",
+            "Twenty years",
+            "Forty years",
+            "Eighty years"
+          ],
+          "correctIndex": 2,
+          "explanation": "Judges 3:11 — \"And the land had rest forty years. And Othniel the son of Kenaz died.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Judges 2:13",
+          "text": "And they forsook the LORD, and served Baal and Ashtaroth."
+        },
+        {
+          "reference": "Judges 3:9",
+          "text": "And when the children of Israel cried unto the LORD,"
+        },
+        {
+          "reference": "Judges 2:18",
+          "text": "then the LORD was with the judge,"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JDG.21.25",
+    "NEH.9.27",
+    "PSA.106.43"
+  ],
+  "reflection": "Israel kept forgetting God the moment things went well. What helps you keep remembering Him in good times?"
+}

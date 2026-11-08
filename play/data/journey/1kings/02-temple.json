@@ -1,0 +1,127 @@
+{
+  "id": "1ki.temple",
+  "title": "Building the Temple",
+  "anchorRef": "1KI.8.27",
+  "backstory": "Nearly five hundred years after Israel left Egypt, the ark of the covenant still rests in a tent. Solomon sets out to build the LORD a house of stone, cedar, and gold on a hill in Jerusalem — the house his father David longed to build. When it is finished, God himself comes to fill it.",
+  "passages": [
+    {
+      "ref": "1KI.6.1-14",
+      "synopsis": "In the fourth year of his reign, Solomon began to build the house of the LORD. The stones were made ready before they were brought, so no hammer or axe was heard while the house rose. As he built, the word of the LORD came to Solomon. If he would walk in God's statutes, God would dwell among the children of Israel."
+    },
+    {
+      "ref": "1KI.8.1-11",
+      "synopsis": "Solomon gathered all the elders of Israel to bring the ark of the covenant up to the temple. The priests set the ark in the most holy place, beneath the wings of the cherubims. Inside it were only the two tables of stone from Horeb. When the priests came out, a cloud filled the house — the glory of the LORD."
+    },
+    {
+      "ref": "1KI.8.22-30",
+      "synopsis": "Solomon stood before the altar and spread out his hands toward heaven. He praised the God of Israel, who keeps covenant and mercy with his servants. Then he wondered aloud how God could dwell on the earth, when the heaven of heavens cannot contain him. He asked God to hear from heaven every prayer made toward this house, and to forgive."
+    },
+    {
+      "ref": "1KI.8.54-61",
+      "synopsis": "When Solomon finished praying, he rose from his knees and blessed all the congregation. He praised the LORD who had given rest to his people, just as he promised — not one word had failed. He asked God to incline the hearts of the people toward him. \"Let your heart therefore be perfect with the LORD our God,\" he told them."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "TEMPLE",
+          "hint": "The house Solomon built for the LORD",
+          "theme": "things"
+        },
+        {
+          "word": "CEDAR",
+          "hint": "Wood from Lebanon that lined the house",
+          "theme": "things"
+        },
+        {
+          "word": "ARK",
+          "hint": "The covenant chest set in the most holy place",
+          "theme": "things"
+        },
+        {
+          "word": "CLOUD",
+          "hint": "It filled the house so the priests could not stand",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "1 Kings 6:14",
+          "text": "So Solomon built the house, and finished it."
+        },
+        {
+          "reference": "1 Kings 8:11",
+          "text": "for the glory of the LORD had filled the house of the LORD."
+        },
+        {
+          "reference": "1 Kings 8:61",
+          "text": "Let your heart therefore be perfect with the LORD our God"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What sound was not heard in the house while it was being built?",
+          "options": [
+            "Singing",
+            "Any tool of iron",
+            "Trumpets",
+            "The voices of the workmen"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Kings 6:7 — \"And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was inside the ark when it was brought into the temple?",
+          "options": [
+            "Aaron's rod",
+            "A pot of manna",
+            "Solomon's crown",
+            "The two tables of stone"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Kings 8:9 — \"There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the LORD made a covenant with the children of Israel, when they came out of the land of Egypt.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What filled the house of the LORD when the priests came out of the holy place?",
+          "options": [
+            "A cloud",
+            "Smoke from the altar",
+            "Sunlight",
+            "The sound of harps"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Kings 8:10 — \"And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the LORD,\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Solomon say cannot contain God?",
+          "options": [
+            "The great sea",
+            "The whole earth",
+            "The heaven of heavens",
+            "The mountains"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Kings 8:27 — \"But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.40.34",
+    "2CH.5.14",
+    "REV.21.3"
+  ],
+  "reflection": "The heaven of heavens cannot contain God, yet he chose to fill the house Solomon built. Where does God make his home today?"
+}

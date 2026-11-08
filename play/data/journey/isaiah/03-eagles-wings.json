@@ -1,0 +1,91 @@
+{
+  "id": "isa.eagles_wings",
+  "title": "Wings as Eagles",
+  "anchorRef": "ISA.40.31",
+  "backstory": "Isaiah looked ahead to a day when God's people would be worn out and far from home, exiles in Babylon. For them God gave some of the most comforting words in the Bible. Their God had not forgotten them — he is the everlasting Creator who carries his flock like a shepherd.",
+  "passages": [
+    {
+      "ref": "ISA.40.1-11",
+      "synopsis": "God told his prophet to speak comfort to his people: their hard service was over and their sin was pardoned. A voice cries in the wilderness to prepare the way of the LORD. Grass withers and flowers fade, but the word of our God stands for ever. Like a shepherd, God gathers his lambs in his arms and carries them close."
+    },
+    {
+      "ref": "ISA.40.12-17",
+      "synopsis": "Isaiah asks who has measured the oceans in the hollow of his hand and weighed the mountains in scales. No one taught God or gave him counsel. Beside him, all the nations together are like a single drop in a bucket. He is greater than everything he has made."
+    },
+    {
+      "ref": "ISA.40.18-26",
+      "synopsis": "Nothing we could make or imagine compares to God. He sits above the circle of the earth, and its people seem as small as grasshoppers. Lift up your eyes to the stars: he made every one, calls each by name, and not one is missing. Such is the greatness of his power."
+    },
+    {
+      "ref": "ISA.40.27-31",
+      "synopsis": "God's people felt forgotten, as if their way was hidden from him. But the everlasting God never faints and never grows weary. He gives power to the faint and strength to those who have no might. They that wait upon the LORD shall renew their strength and mount up with wings as eagles."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Isaiah 40:1",
+          "text": "Comfort ye, comfort ye my people, saith your God."
+        },
+        {
+          "reference": "Isaiah 40:8",
+          "text": "but the word of our God shall stand for ever."
+        },
+        {
+          "reference": "Isaiah 40:29",
+          "text": "He giveth power to the faint;"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Comfort for God's People",
+          "words": [
+            "COMFORT",
+            "SHEPHERD",
+            "LAMBS",
+            "EAGLES",
+            "WINGS",
+            "GRASS",
+            "VALLEY"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "WILDERNESS",
+          "hint": "Where the voice cries, Prepare ye the way of the LORD",
+          "theme": "places"
+        },
+        {
+          "word": "JERUSALEM",
+          "hint": "Isaiah was told to speak comfortably to this city",
+          "theme": "places"
+        },
+        {
+          "word": "EAGLES",
+          "hint": "They that wait upon the LORD mount up with wings like these",
+          "theme": "things"
+        },
+        {
+          "word": "BUCKET",
+          "hint": "The nations are as a drop of one of these",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.3.3",
+    "1PE.1.25",
+    "JHN.10.11"
+  ],
+  "reflection": "The grass withers, but God's word stands for ever. Where in your life do you need to wait on the LORD and let him renew your strength?"
+}

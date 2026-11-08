@@ -1,0 +1,127 @@
+{
+  "id": "deu.moses_death",
+  "title": "Moses' Farewell",
+  "anchorRef": "DEU.34.10",
+  "backstory": "Moses had led Israel for forty years, from Pharaoh's court to the edge of Canaan. Because of his failure at the waters of Meribah he would not cross over. His last acts were to bless the people and hand them to a new leader.",
+  "passages": [
+    {
+      "ref": "DEU.32.1-4",
+      "synopsis": "Moses sang a song to teach Israel about their God. He called Him the Rock, whose work is perfect and whose ways are just. God is faithful, without wrong, righteous and true. Even in farewell, Moses lifted their eyes to God's greatness."
+    },
+    {
+      "ref": "DEU.34.1-8",
+      "synopsis": "Moses climbed Mount Nebo, and the LORD showed him the whole promised land. He saw it with his own eyes but would not cross over into it. There Moses died, and the LORD Himself buried him. All Israel wept for him thirty days."
+    },
+    {
+      "ref": "DEU.34.9-12",
+      "synopsis": "Joshua, full of the spirit of wisdom, took up the leadership as Moses had laid hands on him. There never arose a prophet in Israel like Moses, whom the LORD knew face to face. He had done great signs and wonders in Egypt. His life closed one age and opened another."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Moses",
+          "clues": [
+            "I saw the promised land from a mountaintop.",
+            "I was an hundred and twenty years old, and my eye was not dim.",
+            "The LORD knew me face to face."
+          ],
+          "wrongChoices": [
+            "Joshua",
+            "Aaron",
+            "Abraham"
+          ]
+        },
+        {
+          "name": "Joshua",
+          "clues": [
+            "Moses laid his hands upon me, and I was full of the spirit of wisdom.",
+            "I was the son of Nun, and the children of Israel hearkened unto me.",
+            "I would bring the people into the land Moses only saw from the mountain."
+          ],
+          "wrongChoices": [
+            "Caleb",
+            "Eleazar",
+            "Aaron"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "From what mountain did Moses see the promised land?",
+          "options": [
+            "Nebo",
+            "Sinai",
+            "Carmel",
+            "Hor"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 34:4 — \"And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who took up the leadership of Israel after Moses?",
+          "options": [
+            "Joshua",
+            "Caleb",
+            "Eleazar",
+            "Aaron"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 34:9 — \"And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In his song, what did Moses call God, whose work is perfect?",
+          "options": [
+            "The Shepherd",
+            "The Shield",
+            "The Rock",
+            "The Tower"
+          ],
+          "correctIndex": 2,
+          "explanation": "Deuteronomy 32:4 — \"He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What is said of Moses at the very end of Deuteronomy?",
+          "options": [
+            "He wrote the book of Psalms",
+            "There arose not a prophet since in Israel like unto him",
+            "He was buried in Jerusalem",
+            "He lived to see the temple built"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deuteronomy 34:10 — \"And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Moses' Farewell",
+          "words": [
+            "NEBO",
+            "ROCK",
+            "SONG",
+            "LAND",
+            "DIED"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "DEU.18.15",
+    "MAT.17.3",
+    "JOS.1.1"
+  ],
+  "reflection": "Moses saw the promise but a new leader carried it on. How does it help to know God's work continues beyond any one person?"
+}

@@ -1,0 +1,141 @@
+{
+  "id": "job.my_redeemer_liveth",
+  "title": "My Redeemer Liveth",
+  "anchorRef": "JOB.19.25",
+  "backstory": "Job had lost everything in a single day, and still he fell down and worshipped, blessing the name of the LORD. But his testing was not over. Long and painful days lay ahead of him, and long arguments about why such trouble should ever come to a good man. Through it all Job kept reaching for God — and in the middle of that argument he would speak some of the brightest words of hope in all the Old Testament.",
+  "passages": [
+    {
+      "ref": "JOB.2.1-10",
+      "synopsis": "Satan came before the LORD again and said Job would give up if he lost his health. So Job was struck with painful sores from head to foot, and he sat down among the ashes. His wife told him to give up on God, but Job refused. He said we should receive both good and hard things from God's hand, and he did not sin with his lips."
+    },
+    {
+      "ref": "JOB.2.11-13",
+      "synopsis": "Job's three friends — Eliphaz, Bildad, and Zophar — heard of his trouble and came to comfort him. When they saw him from far away, they hardly knew him, and they wept. Then they sat with him on the ground for seven days and seven nights. No one said a word, for they saw that his grief was very great."
+    },
+    {
+      "ref": "JOB.19.13-22",
+      "synopsis": "As the long talks wore on, Job's friends began to blame him for his own suffering. Job poured out how lonely he felt. His family, his servants, and even little children had turned away from him. He begged his friends to have pity on him instead of accusing him."
+    },
+    {
+      "ref": "JOB.19.23-27",
+      "synopsis": "Then, in the middle of his sorrow, Job spoke words of shining hope. He wished his words could be written down in a book forever. He declared that he knew his redeemer liveth, and that one day, in his flesh, he would see God with his own eyes. Job's hope reached beyond his suffering all the way to God himself."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Job",
+          "clues": [
+            "I lost my health, my children, and all I owned, yet I held on to God.",
+            "My three friends sat with me in silence for seven days.",
+            "I said, I know that my redeemer liveth."
+          ],
+          "wrongChoices": [
+            "Elihu",
+            "Joseph",
+            "Jeremiah"
+          ]
+        },
+        {
+          "name": "Eliphaz",
+          "clues": [
+            "I traveled from Teman to sit with a suffering friend.",
+            "I was one of three companions who came to comfort Job.",
+            "I was the first of Job's friends to speak."
+          ],
+          "wrongChoices": [
+            "Bildad",
+            "Zophar",
+            "Elihu"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "ELIPHAZ",
+          "hint": "Job's friend from Teman",
+          "theme": "people"
+        },
+        {
+          "word": "BILDAD",
+          "hint": "Job's friend, the Shuhite",
+          "theme": "people"
+        },
+        {
+          "word": "REDEEMER",
+          "hint": "Job said he knew that his ___ liveth",
+          "theme": "things"
+        },
+        {
+          "word": "ASHES",
+          "hint": "Where Job sat in his sorrow",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How many friends came to comfort Job?",
+          "options": [
+            "Two",
+            "Four",
+            "Three",
+            "Seven"
+          ],
+          "correctIndex": 2,
+          "explanation": "Job 2:11 — \"Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How long did Job's friends sit with him without speaking?",
+          "options": [
+            "Seven days and seven nights",
+            "Three days",
+            "One night",
+            "Forty days"
+          ],
+          "correctIndex": 0,
+          "explanation": "Job 2:13 — \"So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who did Job say he knew liveth?",
+          "options": [
+            "His accuser",
+            "His redeemer",
+            "His judge",
+            "His shepherd"
+          ],
+          "correctIndex": 1,
+          "explanation": "Job 19:25 — \"For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whom did Job say he would see in his flesh?",
+          "options": [
+            "His friends",
+            "The king",
+            "An angel",
+            "God"
+          ],
+          "correctIndex": 3,
+          "explanation": "Job 19:26 — \"And though after my skin worms destroy this body, yet in my flesh shall I see God:\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JHN.11.25",
+    "1CO.15.20",
+    "PSA.19.14"
+  ],
+  "reflection": "In his darkest hour, Job said he knew that his redeemer liveth. Where does your hope rest when comfort from others falls short?"
+}

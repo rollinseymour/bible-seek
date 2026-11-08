@@ -1,0 +1,113 @@
+{
+  "id": "deu.choose_life",
+  "title": "Choose Life",
+  "anchorRef": "DEU.30.19",
+  "backstory": "Moses had rehearsed the whole covenant — its blessings, its warnings, and its call to love God. Now he brought it to a decision. Standing between the wilderness behind and the land ahead, Israel had to choose.",
+  "passages": [
+    {
+      "ref": "DEU.28.1-14",
+      "synopsis": "Moses set before Israel the blessings of obeying the LORD. They would be blessed in the city and field, coming in and going out. God would defeat their enemies and make them fruitful. Walking with God brings life and flourishing."
+    },
+    {
+      "ref": "DEU.30.11-20",
+      "synopsis": "Moses said God's command was not too hard or far away, but near, in their mouth and heart. He set before them life and death, blessing and cursing. \"Therefore choose life,\" he urged, \"that both thou and thy seed may live.\" Life is found in loving and obeying the LORD."
+    },
+    {
+      "ref": "DEU.31.1-8",
+      "synopsis": "Moses, now old, told Israel he could no longer lead them. He commissioned Joshua before them all to bring them into the land. \"Be strong and of a good courage,\" he said, for the LORD goes with you. God \"will not fail thee, nor forsake thee.\""
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Choose Life",
+          "words": [
+            "LIFE",
+            "DEATH",
+            "CHOOSE",
+            "BLESSING",
+            "OBEY"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Moses set before Israel life and death, then urged them to ___.",
+          "options": [
+            "choose life",
+            "choose peace",
+            "choose rest",
+            "choose land"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 30:19 — \"I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whom did Moses commission to lead Israel into the land?",
+          "options": [
+            "Joshua",
+            "Caleb",
+            "Aaron",
+            "Eleazar"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 31:7 — \"And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "If Israel hearkened to God's commandments, what would the LORD make them?",
+          "options": [
+            "A city upon a hill",
+            "The head, and not the tail",
+            "A light to the Gentiles",
+            "A garden by the water"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deuteronomy 28:13 — \"And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do them:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What reason did Moses give Israel for not being afraid?",
+          "options": [
+            "Their walls were high",
+            "Their army was great",
+            "Their enemies were few",
+            "The LORD their God would go with them and never fail them"
+          ],
+          "correctIndex": 3,
+          "explanation": "Deuteronomy 31:6 — \"Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Deuteronomy 31:8",
+          "text": "And the LORD, he it is that doth go before thee;"
+        },
+        {
+          "reference": "Deuteronomy 30:19",
+          "text": "therefore choose life, that both thou and thy seed may live:"
+        },
+        {
+          "reference": "Deuteronomy 31:6",
+          "text": "Be strong and of a good courage,"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JOS.1.9",
+    "HEB.13.5",
+    "JHN.10.10"
+  ],
+  "reflection": "God said the choice of life was near — in the heart and mouth. What would 'choosing life' look like for you today?"
+}

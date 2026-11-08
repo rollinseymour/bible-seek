@@ -1,0 +1,108 @@
+{
+  "id": "hab.yet_will_i_rejoice",
+  "title": "Yet Will I Rejoice",
+  "anchorRef": "HAB.3.18",
+  "backstory": "Habakkuk began his book with hard questions, but he ends it with a song, a prayer set to music for stringed instruments. He remembers how mightily God saved His people in days of old, and he trusts Him for the trouble still to come. Even knowing Babylon's invasion is near, the prophet finds a joy that does not depend on full barns or blooming trees.",
+  "passages": [
+    {
+      "ref": "HAB.3.1-2",
+      "synopsis": "Habakkuk turned his questions into a prayer. He had heard what God was about to do, and it made him tremble. He asked the LORD to revive His work in the middle of the years, so that everyone would see it. And he made one tender request: in wrath, remember mercy."
+    },
+    {
+      "ref": "HAB.3.3-7",
+      "synopsis": "The prophet remembered how God came to His people in days of old. His glory covered the heavens, and the earth was full of His praise. His brightness was as the light, and horns came out of His hand, where His power lay hidden. When He stood and measured the earth, the everlasting mountains scattered and the ancient hills bowed low."
+    },
+    {
+      "ref": "HAB.3.8-15",
+      "synopsis": "Habakkuk sang of the LORD riding forth like a warrior to save His people. The mountains saw Him and trembled, and the deep lifted up its hands. The sun and moon stood still at the light of His arrows. God went forth for the salvation of His people, walking through the sea with His horses as He did at the Red Sea."
+    },
+    {
+      "ref": "HAB.3.16-19",
+      "synopsis": "When Habakkuk heard all this, he trembled, yet he chose to rest quietly in the day of trouble. Then he sang one of the bravest songs of trust in the Bible. Even if the fig tree never blossomed, the vines and fields gave no food, and every stall stood empty, still he would rejoice in the LORD. The LORD God was his strength, making his feet like a deer's feet on the high places."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Habakkuk 3:10",
+          "text": "The mountains saw thee, and they trembled:"
+        },
+        {
+          "reference": "Habakkuk 3:15",
+          "text": "Thou didst walk through the sea with thine horses,"
+        },
+        {
+          "reference": "Habakkuk 3:18",
+          "text": "Yet I will rejoice in the LORD,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Habakkuk ask God to remember in wrath?",
+          "options": [
+            "Justice",
+            "Mercy",
+            "His covenant",
+            "Jerusalem"
+          ],
+          "correctIndex": 1,
+          "explanation": "Habakkuk 3:2 — \"O LORD, I have heard thy speech, and was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Even if the fig tree did not blossom, what did Habakkuk say he would do?",
+          "options": [
+            "Rejoice in the LORD",
+            "Plant new fields",
+            "Cry unto the mountains",
+            "Wait in silence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Habakkuk 3:18 — \"Yet I will rejoice in the LORD, I will joy in the God of my salvation.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Like what did Habakkuk say the LORD would make his feet?",
+          "options": [
+            "Eagles' wings",
+            "Pillars of brass",
+            "Hinds' feet",
+            "Burning lamps"
+          ],
+          "correctIndex": 2,
+          "explanation": "Habakkuk 3:19 — \"The LORD God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Yet Will I Rejoice",
+          "words": [
+            "FIG",
+            "VINES",
+            "OLIVE",
+            "FLOCK",
+            "REJOICE",
+            "SALVATION",
+            "STRENGTH",
+            "HINDS"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.18.33",
+    "JOB.13.15",
+    "PHP.4.4"
+  ],
+  "reflection": "Habakkuk's joy did not depend on full fields or full barns — it rested on God Himself. If everything you counted on grew bare for a season, what would it mean to still rejoice in the God of your salvation?"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "mrk.the_beginning",
+  "title": "The Beginning of the Gospel",
+  "anchorRef": "MRK.1.17",
+  "backstory": "Mark's gospel moves quickly — his favorite word is 'straightway' — and it opens not with a manger but with a messenger. After four hundred years of silence since the prophets, John the Baptist appears in the wilderness, preparing the way for someone far greater. When Jesus of Nazareth steps into the Jordan, heaven itself tears open.",
+  "passages": [
+    {
+      "ref": "MRK.1.1-8",
+      "synopsis": "Mark begins his book by calling Jesus the Son of God, just as the prophets promised. John the Baptist appears in the wilderness, preaching that people should repent and be baptized. He wears camel's hair, eats locusts and wild honey, and crowds come out from all Judaea to hear him. John tells them plainly that someone far mightier is coming — one whose shoes he is not worthy to unloose."
+    },
+    {
+      "ref": "MRK.1.9-13",
+      "synopsis": "Jesus comes from Nazareth and is baptized by John in the river Jordan. As he rises from the water, the heavens open and the Spirit descends on him like a dove. A voice from heaven says, \"Thou art my beloved Son, in whom I am well pleased.\" Then the Spirit leads Jesus into the wilderness, where he is tempted for forty days, and angels care for him."
+    },
+    {
+      "ref": "MRK.1.14-20",
+      "synopsis": "Jesus comes into Galilee preaching that the kingdom of God is at hand. Walking by the sea, he sees Simon and Andrew casting their fishing net. \"Come ye after me,\" he says, \"and I will make you to become fishers of men.\" They drop their nets at once, and a little farther on, James and John leave their father's boat to follow him too."
+    },
+    {
+      "ref": "MRK.1.29-39",
+      "synopsis": "In the town of Capernaum, Jesus enters the house of Simon and Andrew, where Simon's wife's mother lies sick with a fever. He takes her by the hand and lifts her up, and she is well. By evening the whole city gathers at the door, and Jesus heals many who are sick. Early the next morning he slips away to a solitary place to pray, then sets out to preach in the next towns across Galilee."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Mark 1:3",
+          "text": "Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+          "reference": "Mark 1:11",
+          "text": "Thou art my beloved Son, in whom I am well pleased."
+        },
+        {
+          "reference": "Mark 1:17",
+          "text": "Come ye after me, and I will make you to become fishers of men."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did John the Baptist eat in the wilderness?",
+          "options": [
+            "Bread and fish",
+            "Locusts and wild honey",
+            "Figs and olives",
+            "Manna from heaven"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mark 1:6 — \"And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the voice from heaven say when Jesus was baptized?",
+          "options": [
+            "\"Behold the King of Israel\"",
+            "\"This is Elias come again\"",
+            "\"Thou art my beloved Son\"",
+            "\"Prepare ye the way\""
+          ],
+          "correctIndex": 2,
+          "explanation": "Mark 1:11 — \"And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did Jesus promise to make Simon and Andrew?",
+          "options": [
+            "Fishers of men",
+            "Rulers in his kingdom",
+            "Keepers of the temple",
+            "Shepherds of Israel"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mark 1:17 — \"And Jesus said unto them, Come ye after me, and I will make you to become fishers of men.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How long was Jesus tempted in the wilderness?",
+          "options": [
+            "Seven days",
+            "Twelve days",
+            "Three days",
+            "Forty days"
+          ],
+          "correctIndex": 3,
+          "explanation": "Mark 1:13 — \"And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "John the Baptist",
+          "clues": [
+            "I preached in the wilderness and baptized people in the river Jordan.",
+            "I wore camel's hair and ate locusts and wild honey.",
+            "I said one mightier than I was coming, whose shoes I was not worthy to unloose."
+          ],
+          "wrongChoices": [
+            "Elijah",
+            "Andrew",
+            "Isaiah"
+          ]
+        },
+        {
+          "name": "Simon Peter",
+          "clues": [
+            "I was casting a net into the sea of Galilee when Jesus called me.",
+            "My brother Andrew and I left our nets straightway to follow him.",
+            "Jesus healed my wife's mother of a fever in my own house."
+          ],
+          "wrongChoices": [
+            "James",
+            "John",
+            "Levi"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.40.3",
+    "MAL.3.1",
+    "MAT.4.19"
+  ],
+  "reflection": "Simon and Andrew left their nets straightway when Jesus called. What might following Jesus without delay look like in your life?"
+}

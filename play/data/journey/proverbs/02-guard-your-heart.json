@@ -1,0 +1,111 @@
+{
+  "id": "pro.guard_your_heart",
+  "title": "Guard Your Heart",
+  "anchorRef": "PRO.4.23",
+  "backstory": "In Proverbs 4 the wise king speaks like a loving father, remembering the lessons his own father David once taught him. Wisdom, he says, is handed down from one generation to the next like a family treasure. Two very different paths lie ahead of every person, and everything depends on which one you walk — and on what you keep in your heart.",
+  "passages": [
+    {
+      "ref": "PRO.4.1-9",
+      "synopsis": "The father calls his children to listen, for he too was once a son learning at his father's knee. His father told him to hold on to wise words and live. Wisdom is the principal thing, so get wisdom and understanding above all. Love her and she will keep you, and she will set a crown of glory on your head."
+    },
+    {
+      "ref": "PRO.4.10-19",
+      "synopsis": "The father has taught his son the way of wisdom, where his steps will not stumble. He warns him plainly: do not even enter the path of the wicked — avoid it, turn from it, and pass on. Evil men cannot rest unless they have caused harm. But the path of the just is like the morning light, shining brighter and brighter until full day."
+    },
+    {
+      "ref": "PRO.4.20-27",
+      "synopsis": "The son is told to keep these words in the midst of his heart, for they are life and health. Above everything, keep your heart with all diligence, because everything you do flows out of it. Let your eyes look straight ahead and ponder the path of your feet. Turn neither right nor left, and keep your foot from evil."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "WISDOM",
+          "hint": "The principal thing — get it!",
+          "theme": "things"
+        },
+        {
+          "word": "HEART",
+          "hint": "Keep it with all diligence",
+          "theme": "things"
+        },
+        {
+          "word": "LIGHT",
+          "hint": "The path of the just shines like this",
+          "theme": "things"
+        },
+        {
+          "word": "CROWN",
+          "hint": "Wisdom sets one of glory on your head",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Proverbs 4:7",
+          "text": "Wisdom is the principal thing; therefore get wisdom:"
+        },
+        {
+          "reference": "Proverbs 4:18",
+          "text": "But the path of the just is as the shining light"
+        },
+        {
+          "reference": "Proverbs 4:23",
+          "text": "Keep thy heart with all diligence;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What should we keep with all diligence?",
+          "options": [
+            "Our treasure",
+            "Our garden",
+            "Our heart",
+            "Our gate"
+          ],
+          "correctIndex": 2,
+          "explanation": "Proverbs 4:23 — \"Keep thy heart with all diligence; for out of it are the issues of life.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "The path of the just is like what?",
+          "options": [
+            "The shining light",
+            "A deep river",
+            "A high wall",
+            "A quiet field"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proverbs 4:18 — \"But the path of the just is as the shining light, that shineth more and more unto the perfect day.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does Proverbs call the principal thing?",
+          "options": [
+            "Strength",
+            "Riches",
+            "Honour",
+            "Wisdom"
+          ],
+          "correctIndex": 3,
+          "explanation": "Proverbs 4:7 — \"Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.119.105",
+    "MAT.15.19",
+    "PSA.1.6"
+  ],
+  "reflection": "Everything you say and do flows out of your heart. What are you letting into it — and what are you keeping out?"
+}

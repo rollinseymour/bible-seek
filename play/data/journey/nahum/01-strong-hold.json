@@ -1,0 +1,119 @@
+{
+  "id": "nam.strong_hold",
+  "title": "A Strong Hold in Trouble",
+  "anchorRef": "NAM.1.7",
+  "backstory": "More than a hundred years after Jonah preached in Nineveh, the great city returned to its cruel ways, and Assyria's armies crushed nation after nation. Little Judah lived under that fearful shadow. Then God gave the prophet Nahum a vision: the LORD is slow to anger and great in power, and he is a strong hold for everyone who trusts in him.",
+  "passages": [
+    {
+      "ref": "NAM.1.1-3",
+      "synopsis": "Nahum opens his book with a vision about Nineveh, the capital of cruel Assyria. He begins not with the city but with who God is. The LORD is slow to anger and great in power, and he will not let the wicked go free forever. Even the whirlwind and the storm are his pathway, and the clouds are the dust of his feet."
+    },
+    {
+      "ref": "NAM.1.4-6",
+      "synopsis": "Nahum describes the power of God over all creation. The LORD rebukes the sea and dries up the rivers. The mountains quake at him and the hills melt, and the whole earth trembles at his presence. No one can stand against his anger when he rises to set things right."
+    },
+    {
+      "ref": "NAM.1.7-8",
+      "synopsis": "Right in the middle of the storm comes one of the gentlest verses in the Bible. The LORD is good, a strong hold in the day of trouble. He knows every person who trusts in him. But for Nineveh, whose cruelty would not stop, an end was coming like a flood."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Nahum 1:1",
+          "text": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite."
+        },
+        {
+          "reference": "Nahum 1:7",
+          "text": "The LORD is good, a strong hold in the day of trouble;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Nahum's book is called the burden of which city?",
+          "options": [
+            "Babylon",
+            "Jerusalem",
+            "Nineveh",
+            "Damascus"
+          ],
+          "correctIndex": 2,
+          "explanation": "Nahum 1:1 — \"The burden of Nineveh. The book of the vision of Nahum the Elkoshite.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "The LORD is slow to anger and great in what?",
+          "options": [
+            "Riches",
+            "Power",
+            "Years",
+            "Number"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nahum 1:3 — \"The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What is the LORD in the day of trouble?",
+          "options": [
+            "A strong hold",
+            "A far-off judge",
+            "A silent watcher",
+            "A swift wind"
+          ],
+          "correctIndex": 0,
+          "explanation": "Nahum 1:7 — \"The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What do the mountains do at God's presence?",
+          "options": [
+            "Sing",
+            "Stand still",
+            "Grow taller",
+            "Quake"
+          ],
+          "correctIndex": 3,
+          "explanation": "Nahum 1:5 — \"The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "NINEVEH",
+          "hint": "The great city Nahum's vision is about",
+          "theme": "places"
+        },
+        {
+          "word": "NAHUM",
+          "hint": "The prophet from Elkosh who wrote this book",
+          "theme": "people"
+        },
+        {
+          "word": "WHIRLWIND",
+          "hint": "The LORD has his way in this and in the storm",
+          "theme": "things"
+        },
+        {
+          "word": "TROUBLE",
+          "hint": "The LORD is a strong hold in this kind of day",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.34.6",
+    "PSA.46.1",
+    "JON.4.2"
+  ],
+  "reflection": "The same God whose power shakes mountains knows every person who trusts in him. When trouble comes, where do you run first?"
+}

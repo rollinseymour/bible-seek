@@ -1,0 +1,101 @@
+{
+  "id": "2sa.kindness_to_mephibosheth",
+  "title": "Kindness to Mephibosheth",
+  "anchorRef": "2SA.9.1",
+  "backstory": "Long before he was king, David and Prince Jonathan promised to show kindness to each other's families for ever. Now Jonathan is gone, and David sits securely on the throne of Israel. He remembers his promise and goes looking for someone from Saul's house to bless.",
+  "passages": [
+    {
+      "ref": "2SA.9.1-5",
+      "synopsis": "King David asked whether anyone was left of the house of Saul, so that he could show him kindness for Jonathan's sake. A servant named Ziba told him about Jonathan's son Mephibosheth, who was lame in both feet. He lived far away in Lo-debar. David sent for him at once."
+    },
+    {
+      "ref": "2SA.9.6-8",
+      "synopsis": "Mephibosheth came before the king and bowed down, afraid. David said, \"Fear not,\" and promised to show him kindness for Jonathan his father's sake. He would restore to him all the land of Saul, and Mephibosheth would eat bread at the king's table continually. Mephibosheth could hardly believe such kindness was for him."
+    },
+    {
+      "ref": "2SA.9.9-13",
+      "synopsis": "David told Ziba that he and his sons would farm the land for Mephibosheth. But Mephibosheth himself would live in Jerusalem. He ate at the king's table like one of the king's own sons. David's old promise to his friend Jonathan was kept in full."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Mephibosheth",
+          "clues": [
+            "My father was Jonathan, and my grandfather was King Saul.",
+            "I was lame in both my feet.",
+            "King David gave me a place at his table for ever."
+          ],
+          "wrongChoices": [
+            "Ziba",
+            "Jonathan",
+            "Absalom"
+          ]
+        },
+        {
+          "name": "Ziba",
+          "clues": [
+            "I was a servant of the house of Saul.",
+            "I told King David where to find Jonathan's son.",
+            "My sons and I farmed the land for Mephibosheth."
+          ],
+          "wrongChoices": [
+            "Joab",
+            "Abner",
+            "Mephibosheth"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Kindness to Mephibosheth",
+          "words": [
+            "DAVID",
+            "JONATHAN",
+            "ZIBA",
+            "TABLE",
+            "KINDNESS",
+            "LODEBAR",
+            "SAUL"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JONATHAN",
+          "hint": "Mephibosheth's father and David's dear friend",
+          "theme": "people"
+        },
+        {
+          "word": "LODEBAR",
+          "hint": "The far-off place where Mephibosheth lived",
+          "theme": "places"
+        },
+        {
+          "word": "TABLE",
+          "hint": "Where Mephibosheth ate every day, like one of the king's own sons",
+          "theme": "things"
+        },
+        {
+          "word": "ZIBA",
+          "hint": "Servant of Saul's house who answered David's question",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "1SA.20.14-15",
+    "LUK.14.12-14",
+    "EPH.2.6-7"
+  ],
+  "reflection": "David searched for someone to bless for Jonathan's sake, and gave a lame man a seat at the king's table. Who could you show the kindness of God to this week?"
+}

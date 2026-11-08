@@ -1,0 +1,133 @@
+{
+  "id": "nam.good_tidings",
+  "title": "Good Tidings of Peace",
+  "anchorRef": "NAM.1.15",
+  "backstory": "Assyria seemed unstoppable, and Judah had felt the weight of its yoke for many years. But Nahum saw that no empire built on cruelty can stand before the LORD. He promised that the yoke would be broken, and that a messenger would come over the mountains with good tidings of peace.",
+  "passages": [
+    {
+      "ref": "NAM.1.9-11",
+      "synopsis": "Nahum asks what anyone could possibly plan against the LORD. Assyria's plots would come to nothing, like dry stubble before a fire. Out of Nineveh had come a counsellor who imagined evil against the LORD. God would make an utter end of such schemes, and this trouble would not rise up a second time."
+    },
+    {
+      "ref": "NAM.1.12-15",
+      "synopsis": "God speaks tenderly to Judah at last. Though he had allowed affliction for a season, it would end, and he would break Assyria's yoke from Judah's neck. Then Nahum sees a beautiful picture, a messenger running over the mountains with good tidings of peace. Judah could keep her feasts again, for the wicked would no more pass through her land."
+    },
+    {
+      "ref": "NAM.2.1-2",
+      "synopsis": "Nahum warns Nineveh that he who dashes in pieces has come up before her face, and the city is told to keep the fort, watch the road, and fortify her power mightily. All that bracing will not be enough. Then Nahum looks back at what Judah had already suffered: the LORD had turned away the excellency of Jacob, for the emptiers had emptied His people out and marred their vine branches. God had seen every bit of that ruin, and now the destroyer's own turn had come."
+    },
+    {
+      "ref": "NAM.3.18-19",
+      "synopsis": "The book closes with the end of the king of Assyria's empire. His shepherds slumber, his nobles rest in the dust, and his people are scattered on the mountains with no one to gather them. The empire's wound cannot be healed. Everyone who had suffered under its cruelty could breathe freely at last, for God does not let cruelty rule forever."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Nahum",
+          "clues": [
+            "I wrote down a vision about the great city of Nineveh.",
+            "I said the LORD is slow to anger and great in power.",
+            "I came from a town called Elkosh."
+          ],
+          "wrongChoices": [
+            "Jonah",
+            "Habakkuk",
+            "Obadiah"
+          ]
+        },
+        {
+          "name": "Jonah",
+          "clues": [
+            "I was swallowed by a great fish.",
+            "God sent me to preach to Nineveh many years before Nahum.",
+            "I learned that God is gracious and slow to anger."
+          ],
+          "wrongChoices": [
+            "Nahum",
+            "Amos",
+            "Elijah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the LORD promise to break from off Judah?",
+          "options": [
+            "The city walls",
+            "The yoke",
+            "The chariots",
+            "The gates"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nahum 1:13 — \"For now will I break his yoke from off thee, and will burst thy bonds in sunder.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does the messenger upon the mountains publish?",
+          "options": [
+            "War",
+            "Famine",
+            "A new king",
+            "Peace"
+          ],
+          "correctIndex": 3,
+          "explanation": "Nahum 1:15 — \"Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Nahum say would not rise up a second time?",
+          "options": [
+            "The walls of Nineveh",
+            "Affliction",
+            "The king of Assyria",
+            "The vine of Jacob"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nahum 1:9 — \"What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Nahum say about the shepherds of the king of Assyria?",
+          "options": [
+            "They watch by night",
+            "They gather the flock",
+            "They slumber",
+            "They sing for joy"
+          ],
+          "correctIndex": 2,
+          "explanation": "Nahum 3:18 — \"Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Good Tidings of Peace",
+          "words": [
+            "NINEVEH",
+            "JUDAH",
+            "PEACE",
+            "YOKE",
+            "TIDINGS",
+            "FEASTS",
+            "ASSYRIA"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.52.7",
+    "ROM.10.15",
+    "JON.3.10"
+  ],
+  "reflection": "Nahum promised that cruelty would not have the last word, and that a messenger would bring good tidings of peace. Where do you see God's good news of peace in your own day?"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "mal.sun_of_righteousness",
+  "title": "The Sun of Righteousness",
+  "anchorRef": "MAL.4.2",
+  "backstory": "The people had grown tired of waiting and asked where the God of justice had gone. Malachi answers with the last promise of the Old Testament: a messenger is coming to prepare the way, and the Lord himself will come to his temple. These are the final written words before four hundred silent years, and they end with a name to watch for, a sober warning, and hope.",
+  "passages": [
+    {
+      "ref": "MAL.2.17-3.4",
+      "synopsis": "The people had wearied God with their words, asking where the God of judgment was. God answers that he is sending a messenger to prepare the way before him, and the Lord they seek will suddenly come to his temple. His coming will be like a refiner's fire that melts silver to make it pure. He will purify the priests so that their offerings please him again, as in the days of old."
+    },
+    {
+      "ref": "MAL.4.1-3",
+      "synopsis": "Malachi describes a day that is coming, when everything proud and wicked will burn away like stubble in a field. But for those who fear God's name it is a sunrise, not a fire. The Sun of righteousness will rise with healing in his wings. They will go out like calves let loose from the stall, free and glad in the morning light."
+    },
+    {
+      "ref": "MAL.4.4-6",
+      "synopsis": "God gives his people two things to hold onto while they wait. First, remember the law of Moses, given at Horeb long before. Second, watch for Elijah the prophet, who will come before the great and dreadful day of the LORD. He will turn the hearts of fathers to their children and children to their fathers, lest God come and smite the earth with a curse. The Old Testament closes on that hope and that sober warning together, and Israel waits."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Elijah",
+          "clues": [
+            "I was a prophet in Israel long before Malachi was born.",
+            "Malachi said God would send me before the great and dreadful day of the LORD.",
+            "I am the one who would turn the hearts of the fathers to the children."
+          ],
+          "wrongChoices": [
+            "Elisha",
+            "Isaiah",
+            "Samuel"
+          ]
+        },
+        {
+          "name": "Moses",
+          "clues": [
+            "I led God's people out of Egypt.",
+            "God gave me his law at Horeb for all Israel.",
+            "Malachi told the people to remember the law I was given."
+          ],
+          "wrongChoices": [
+            "Aaron",
+            "Joshua",
+            "Levi"
+          ]
+        },
+        {
+          "name": "Malachi",
+          "clues": [
+            "My name means my messenger.",
+            "I carried the burden of the word of the LORD to Israel.",
+            "Mine are the last written words before four hundred silent years."
+          ],
+          "wrongChoices": [
+            "Haggai",
+            "Zechariah",
+            "Nehemiah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Sun of Righteousness",
+          "words": [
+            "ELIJAH",
+            "MOSES",
+            "HEALING",
+            "WINGS",
+            "REFINER",
+            "MESSENGER",
+            "TEMPLE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What is God compared to when he comes to purify his people?",
+          "options": [
+            "A refiner and purifier of silver",
+            "A shepherd counting sheep",
+            "A farmer sowing seed",
+            "A watchman on a wall"
+          ],
+          "correctIndex": 0,
+          "explanation": "Malachi 3:3 — \"And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whom did God promise to send to prepare the way before him?",
+          "options": [
+            "A king",
+            "My messenger",
+            "An army",
+            "A scribe"
+          ],
+          "correctIndex": 1,
+          "explanation": "Malachi 3:1 — \"Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which prophet did God promise to send before the great and dreadful day?",
+          "options": [
+            "Moses",
+            "Isaiah",
+            "Elijah",
+            "Jonah"
+          ],
+          "correctIndex": 2,
+          "explanation": "Malachi 4:5 — \"Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What will arise with healing in his wings for those who fear God's name?",
+          "options": [
+            "A cloud",
+            "A trumpet",
+            "A star",
+            "The Sun of righteousness"
+          ],
+          "correctIndex": 3,
+          "explanation": "Malachi 4:2 — \"But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MRK.1.2",
+    "MAT.11.14",
+    "LUK.1.17"
+  ],
+  "reflection": "Malachi's last word is a promise, and then Israel waited four hundred years. How do you keep hoping in God's promise while you are still waiting?"
+}

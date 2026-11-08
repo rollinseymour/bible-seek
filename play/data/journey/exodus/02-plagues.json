@@ -1,0 +1,154 @@
+{
+  "id": "exo.plagues",
+  "title": "The Plagues",
+  "anchorRef": "EXO.8.1",
+  "backstory": "Moses returned to Egypt with God's demand, but Pharaoh was not merely a king — he was worshipped as a god. Each plague struck at something Egypt trusted as divine: the Nile, the livestock, the sun, and finally Pharaoh's own heir. This was a contest over who truly rules.",
+  "passages": [
+    {
+      "ref": "EXO.7.14-25",
+      "synopsis": "Pharaoh's heart was hard, and he refused to let Israel go. So God sent Moses to meet him at the river with a warning. Moses lifted his rod and struck the water, and it turned to blood. The fish died and the Egyptians could not drink, yet Pharaoh would not listen."
+    },
+    {
+      "ref": "EXO.8.1-15",
+      "synopsis": "God told Pharaoh again, \"Let my people go, that they may serve me.\" When he refused, frogs swarmed out of the river and filled the land. Pharaoh begged Moses to pray them away and promised to release Israel. But when relief came, he hardened his heart and broke his word."
+    },
+    {
+      "ref": "EXO.10.21-29",
+      "synopsis": "Moses stretched out his hand, and a thick darkness covered Egypt for three days. It was so deep that no one could see or move, yet the Israelites had light. Pharaoh offered to let the people go if they left their flocks behind. When Moses refused, Pharaoh angrily sent him away."
+    },
+    {
+      "ref": "EXO.11.1-10",
+      "synopsis": "God announced one final plague that would break Pharaoh's stubbornness. At midnight the firstborn of every Egyptian household would die, from Pharaoh's son to the servant's. There would be a great cry throughout Egypt, but Israel would be spared. Even so, Pharaoh's heart remained hard."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Pharaoh",
+          "clues": [
+            "I was the king of Egypt.",
+            "I hardened my heart against God's plagues.",
+            "My army chased Israel to the sea."
+          ],
+          "wrongChoices": [
+            "Herod",
+            "Nebuchadnezzar",
+            "Caesar"
+          ]
+        },
+        {
+          "name": "Moses",
+          "clues": [
+            "I was drawn from the river as a baby.",
+            "God spoke to me from a burning bush.",
+            "I stretched forth my hand toward heaven, and thick darkness covered Egypt."
+          ],
+          "wrongChoices": [
+            "Aaron",
+            "Joshua",
+            "Elijah"
+          ]
+        },
+        {
+          "name": "Aaron",
+          "clues": [
+            "I was Moses' brother and his spokesman.",
+            "I became the first high priest of Israel.",
+            "My rod became a serpent before Pharaoh."
+          ],
+          "wrongChoices": [
+            "Moses",
+            "Hur",
+            "Caleb"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "FROGS",
+          "hint": "Second plague, swarming from the river",
+          "theme": "things"
+        },
+        {
+          "word": "HAIL",
+          "hint": "Plague of fire and ice on Egypt",
+          "theme": "things"
+        },
+        {
+          "word": "LOCUSTS",
+          "hint": "Swarms that ate every green thing",
+          "theme": "things"
+        },
+        {
+          "word": "DARKNESS",
+          "hint": "Ninth plague, three days over Egypt",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God repeatedly tell Pharaoh through Moses?",
+          "options": [
+            "Build my temple",
+            "Let my people go",
+            "Bow before me",
+            "Leave the land"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exodus 8:1 — \"And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the first plague turn the river into?",
+          "options": [
+            "Ice",
+            "Sand",
+            "Wine",
+            "Blood"
+          ],
+          "correctIndex": 3,
+          "explanation": "Exodus 7:17 — \"Thus saith the LORD, In this thou shalt know that I am the LORD: behold, I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "The ninth plague covered Egypt with what for three days?",
+          "options": [
+            "Darkness",
+            "Locusts",
+            "Frogs",
+            "Hail"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exodus 10:22 — \"And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "The final plague struck down whom in every Egyptian house?",
+          "options": [
+            "The eldest women",
+            "The soldiers",
+            "The firstborn",
+            "The priests"
+          ],
+          "correctIndex": 2,
+          "explanation": "Exodus 11:5 — \"And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.78.43",
+    "ROM.9.17",
+    "EXO.9.16"
+  ],
+  "reflection": "Pharaoh kept hardening his heart. What warnings are easy to ignore until it is too late?"
+}

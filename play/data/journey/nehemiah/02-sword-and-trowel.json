@@ -1,0 +1,146 @@
+{
+  "id": "neh.sword_and_trowel",
+  "title": "Sword and Trowel",
+  "anchorRef": "NEH.4.6",
+  "backstory": "Nehemiah has arrived in Jerusalem with the king's letters and a burden from God. The wall has lain broken for more than a hundred years, and enemies like Sanballat and Tobiah want it to stay that way. Rebuilding will take courage, prayer, and every willing pair of hands.",
+  "passages": [
+    {
+      "ref": "NEH.2.17-20",
+      "synopsis": "Nehemiah told the people of Jerusalem what they could all see: the city lay waste and its gates were burned. He told them how God's good hand had been on him, and they said, Let us rise up and build. Sanballat, Tobiah, and Geshem laughed and despised them. Nehemiah answered that the God of heaven would prosper his servants."
+    },
+    {
+      "ref": "NEH.4.1-9",
+      "synopsis": "When Sanballat heard the wall was going up, he was angry and mocked the feeble Jews. Tobiah joked that even a fox could knock their stone wall down. Nehemiah prayed, and the people kept building, for the people had a mind to work. When the enemies plotted to fight against Jerusalem, the people prayed to God and set a watch day and night."
+    },
+    {
+      "ref": "NEH.4.13-23",
+      "synopsis": "Nehemiah set families along the wall with their swords, spears, and bows. He told them not to be afraid, but to remember the Lord, who is great and terrible. From then on the builders worked with one hand and held a weapon in the other. A trumpeter stayed by Nehemiah, ready to call everyone together wherever the trumpet sounded, for God would fight for them."
+    },
+    {
+      "ref": "NEH.6.1-16",
+      "synopsis": "The enemies tried tricks next. Four times they invited Nehemiah to a meeting, but he answered that he was doing a great work and could not come down. They spread false letters and even hired a man to scare him into hiding, but Nehemiah would not run. The wall was finished in fifty-two days, and even the enemies saw that this work was wrought of God."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Sword and Trowel",
+          "words": [
+            "WALL",
+            "SWORD",
+            "SPEAR",
+            "TRUMPET",
+            "SANBALLAT",
+            "TOBIAH",
+            "WATCH"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Nehemiah",
+          "clues": [
+            "I was cupbearer to a great king in Shushan.",
+            "I rode out at night to look at Jerusalem's broken wall.",
+            "I led the builders, and the wall was finished in fifty and two days."
+          ],
+          "wrongChoices": [
+            "Ezra",
+            "Zerubbabel",
+            "Hanani"
+          ]
+        },
+        {
+          "name": "Sanballat",
+          "clues": [
+            "I did not want the wall of Jerusalem to be rebuilt.",
+            "I mocked, asking what these feeble Jews were doing.",
+            "I tried to lure Nehemiah to a meeting in the plain of Ono."
+          ],
+          "wrongChoices": [
+            "Tobiah",
+            "Geshem",
+            "Haman"
+          ]
+        },
+        {
+          "name": "Tobiah",
+          "clues": [
+            "I was an Ammonite who stood with Sanballat.",
+            "I joked that a fox could break down the stone wall.",
+            "I kept sending letters to make Nehemiah afraid."
+          ],
+          "wrongChoices": [
+            "Sanballat",
+            "Geshem",
+            "Rehum"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How long did it take to finish the wall?",
+          "options": [
+            "Forty days",
+            "Fifty and two days",
+            "Seven years",
+            "Twenty years"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nehemiah 6:15 — \"So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the builders hold in one hand while they worked with the other?",
+          "options": [
+            "A torch",
+            "A trumpet",
+            "A weapon",
+            "A book"
+          ],
+          "correctIndex": 2,
+          "explanation": "Nehemiah 4:17 — \"They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who joked that a fox could break down the stone wall?",
+          "options": [
+            "Sanballat",
+            "Geshem",
+            "Shemaiah",
+            "Tobiah"
+          ],
+          "correctIndex": 3,
+          "explanation": "Nehemiah 4:3 — \"Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Nehemiah answer when his enemies asked him to come and meet them?",
+          "options": [
+            "I am doing a great work, so that I cannot come down",
+            "Wait until the wall is finished",
+            "Come up and see the wall",
+            "Ask the king's permission first"
+          ],
+          "correctIndex": 0,
+          "explanation": "Nehemiah 6:3 — \"And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EZR.4.4",
+    "PSA.127.1",
+    "1CO.16.13"
+  ],
+  "reflection": "The builders held a tool in one hand and a weapon in the other, and God watched over the work. When has God helped you keep going when something good was hard to finish?"
+}

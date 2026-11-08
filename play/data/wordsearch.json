@@ -1,0 +1,994 @@
+[
+  {
+    "category": "Books of the Bible",
+    "words": [
+      "GENESIS",
+      "EXODUS",
+      "RUTH",
+      "PSALMS",
+      "ACTS"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Apostles",
+    "words": [
+      "PETER",
+      "JAMES",
+      "JOHN",
+      "PAUL",
+      "ANDREW"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Animals in the Bible",
+    "words": [
+      "DOVE",
+      "LAMB",
+      "LION",
+      "FISH",
+      "RAVEN"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Creation",
+    "words": [
+      "LIGHT",
+      "WATER",
+      "EARTH",
+      "STARS",
+      "ADAM"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Jesus",
+    "words": [
+      "LOVE",
+      "GRACE",
+      "CROSS",
+      "RISEN",
+      "KING"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Noah's Ark",
+    "words": [
+      "NOAH",
+      "ARK",
+      "FLOOD",
+      "DOVE",
+      "RAIN"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Prayer",
+    "words": [
+      "PRAY",
+      "AMEN",
+      "FAITH",
+      "HOPE",
+      "KNEEL"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Heaven",
+    "words": [
+      "ANGEL",
+      "GLORY",
+      "LIGHT",
+      "PEACE",
+      "HOLY"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "God's Names",
+    "words": [
+      "LORD",
+      "KING",
+      "SAVIOR",
+      "FATHER",
+      "MAKER"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Christmas Story",
+    "words": [
+      "STAR",
+      "BABY",
+      "ANGEL",
+      "GIFT",
+      "MANGER"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "David and Goliath",
+    "words": [
+      "DAVID",
+      "STONE",
+      "SLING",
+      "GIANT",
+      "ARMOR"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Garden of Eden",
+    "words": [
+      "EDEN",
+      "TREE",
+      "FRUIT",
+      "SNAKE",
+      "EVE"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Worship",
+    "words": [
+      "SING",
+      "PRAISE",
+      "HYMN",
+      "HARP",
+      "DANCE"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Bible Foods",
+    "words": [
+      "BREAD",
+      "HONEY",
+      "GRAPE",
+      "FIG",
+      "OLIVE"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Virtues",
+    "words": [
+      "LOVE",
+      "TRUTH",
+      "MERCY",
+      "GRACE",
+      "PEACE"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Bible Heroes",
+    "words": [
+      "MOSES",
+      "DAVID",
+      "DANIEL",
+      "JOSEPH",
+      "ESTHER",
+      "GIDEON",
+      "SAMSON"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Fruits of the Spirit",
+    "words": [
+      "LOVE",
+      "JOY",
+      "PEACE",
+      "PATIENCE",
+      "KINDNESS",
+      "GOODNESS",
+      "FAITH"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Places in the Bible",
+    "words": [
+      "EDEN",
+      "EGYPT",
+      "JORDAN",
+      "BETHEL",
+      "SINAI",
+      "JERICHO",
+      "GALILEE"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Old Testament Books",
+    "words": [
+      "GENESIS",
+      "EXODUS",
+      "JUDGES",
+      "PSALMS",
+      "ISAIAH",
+      "DANIEL",
+      "JONAH"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Miracles of Jesus",
+    "words": [
+      "HEALING",
+      "WATER",
+      "WINE",
+      "BREAD",
+      "FISH",
+      "SIGHT",
+      "RAISED"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Parables of Jesus",
+    "words": [
+      "SOWER",
+      "MUSTARD",
+      "TALENTS",
+      "PEARL",
+      "SEEDS",
+      "HARVEST",
+      "LAMP"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Tribes of Israel",
+    "words": [
+      "JUDAH",
+      "REUBEN",
+      "LEVI",
+      "DAN",
+      "ASHER",
+      "SIMEON",
+      "BENJAMIN"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Items in the Tabernacle",
+    "words": [
+      "ALTAR",
+      "CURTAIN",
+      "TABLE",
+      "LAMPSTAND",
+      "INCENSE",
+      "BASIN",
+      "ARK"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "The Exodus",
+    "words": [
+      "PHARAOH",
+      "PLAGUE",
+      "MOSES",
+      "PASSOVER",
+      "DESERT",
+      "MANNA",
+      "PILLAR"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "New Testament Books",
+    "words": [
+      "MATTHEW",
+      "MARK",
+      "LUKE",
+      "JOHN",
+      "ACTS",
+      "ROMANS",
+      "JAMES"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "The Psalms",
+    "words": [
+      "SHEPHERD",
+      "REFUGE",
+      "PRAISE",
+      "GLORY",
+      "MERCY",
+      "SONG",
+      "BLESSED"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Gifts of the Magi",
+    "words": [
+      "GOLD",
+      "MYRRH",
+      "STAR",
+      "MANGER",
+      "JOSEPH",
+      "BETHLEHEM",
+      "HEROD"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "The Ten Plagues",
+    "words": [
+      "FROGS",
+      "LOCUSTS",
+      "HAIL",
+      "BLOOD",
+      "BOILS",
+      "GNATS",
+      "FLIES"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Bible Occupations",
+    "words": [
+      "SHEPHERD",
+      "FISHER",
+      "PRIEST",
+      "SOLDIER",
+      "BUILDER",
+      "FARMER",
+      "SCRIBE"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Beatitudes",
+    "words": [
+      "BLESSED",
+      "MEEK",
+      "MERCY",
+      "PURE",
+      "PEACE",
+      "MOURN",
+      "HUNGER"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Disciples of Jesus",
+    "words": [
+      "PETER",
+      "JOHN",
+      "JAMES",
+      "ANDREW",
+      "PHILIP",
+      "THOMAS",
+      "JUDAS"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Heavenly Things",
+    "words": [
+      "THRONE",
+      "STREETS",
+      "GATES",
+      "CROWN",
+      "PRAISE",
+      "GLORY",
+      "ETERNAL"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "category": "Prophets",
+    "words": [
+      "ISAIAH",
+      "JEREMIAH",
+      "EZEKIEL",
+      "DANIEL",
+      "HOSEA",
+      "AMOS",
+      "MALACHI",
+      "MICAH",
+      "HABAKKUK"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Kings of Israel",
+    "words": [
+      "SOLOMON",
+      "DAVID",
+      "SAUL",
+      "REHOBOAM",
+      "HEZEKIAH",
+      "JOSIAH",
+      "AHAB",
+      "JEROBOAM"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "New Testament Books",
+    "words": [
+      "MATTHEW",
+      "ROMANS",
+      "HEBREWS",
+      "TIMOTHY",
+      "GALATIANS",
+      "EPHESIANS",
+      "PHILEMON",
+      "JAMES"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Bible Women",
+    "words": [
+      "SARAH",
+      "REBECCA",
+      "RACHEL",
+      "MIRIAM",
+      "DEBORAH",
+      "HANNAH",
+      "ESTHER",
+      "RUTH",
+      "MARY"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Armor of God",
+    "words": [
+      "TRUTH",
+      "BREASTPLATE",
+      "PEACE",
+      "FAITH",
+      "SALVATION",
+      "SPIRIT",
+      "SWORD",
+      "SHIELD"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Paul's Journeys",
+    "words": [
+      "CORINTH",
+      "EPHESUS",
+      "ANTIOCH",
+      "THESSALONICA",
+      "PHILIPPI",
+      "GALATIA",
+      "DAMASCUS",
+      "ROME"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Judges of Israel",
+    "words": [
+      "DEBORAH",
+      "GIDEON",
+      "SAMSON",
+      "SAMUEL",
+      "JEPHTHAH",
+      "EHUD",
+      "OTHNIEL",
+      "SHAMGAR"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Names of God",
+    "words": [
+      "JEHOVAH",
+      "ELOHIM",
+      "ADONAI",
+      "ALMIGHTY",
+      "SHEPHERD",
+      "PROVIDER",
+      "REDEEMER",
+      "CREATOR"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Revelation",
+    "words": [
+      "THRONE",
+      "TRUMPET",
+      "ANGELS",
+      "DRAGON",
+      "PARADISE",
+      "WORSHIP",
+      "LAMB",
+      "HEAVEN",
+      "KINGDOM"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Proverbs & Wisdom",
+    "words": [
+      "WISDOM",
+      "PRUDENCE",
+      "KNOWLEDGE",
+      "COUNSEL",
+      "JUSTICE",
+      "DISCIPLINE",
+      "INSIGHT",
+      "DISCRETION"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Enemies of Israel",
+    "words": [
+      "PHARAOH",
+      "GOLIATH",
+      "HEROD",
+      "JEZEBEL",
+      "HAMAN",
+      "SISERA",
+      "SENNACHERIB",
+      "BALAK"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Mountains in the Bible",
+    "words": [
+      "SINAI",
+      "ARARAT",
+      "CARMEL",
+      "HERMON",
+      "MORIAH",
+      "TABOR",
+      "CALVARY",
+      "OLIVE",
+      "ZION"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Rivers & Bodies of Water",
+    "words": [
+      "JORDAN",
+      "EUPHRATES",
+      "TIGRIS",
+      "GALILEE",
+      "NILE",
+      "KISHON",
+      "JABBOK",
+      "ARNON"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Temple & Priesthood",
+    "words": [
+      "LEVITES",
+      "EPHOD",
+      "INCENSE",
+      "OFFERING",
+      "SACRIFICE",
+      "COVENANT",
+      "TABERNACLE",
+      "PRIEST"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Angels & Heavenly Beings",
+    "words": [
+      "GABRIEL",
+      "MICHAEL",
+      "SERAPHIM",
+      "CHERUBIM",
+      "ANGEL",
+      "GUARDIAN",
+      "MESSENGER",
+      "HEAVENLY"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Garden Stories",
+    "words": [
+      "SEED",
+      "SOIL",
+      "ROOT",
+      "GROW",
+      "TREE"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "Ten Commandments",
+    "words": [
+      "LOVE",
+      "HONOR",
+      "STEAL",
+      "LIE",
+      "WORK"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "category": "The Beatitudes",
+    "words": [
+      "BLESSED",
+      "POOR",
+      "MEEK",
+      "MERCIFUL",
+      "PURE",
+      "PEACEMAKERS",
+      "PERSECUTED",
+      "KINGDOM"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Paul's Letters",
+    "words": [
+      "ROMANS",
+      "GALATIANS",
+      "EPHESIANS",
+      "COLOSSIANS",
+      "HEBREWS",
+      "TIMOTHY",
+      "PHILEMON",
+      "TITUS"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "category": "Old Testament Books",
+    "words": [
+      "GENESIS",
+      "EXODUS",
+      "NUMBERS",
+      "JOSHUA",
+      "JUDGES",
+      "RUTH",
+      "SAMUEL",
+      "KINGS",
+      "EZRA",
+      "ESTHER",
+      "JOB",
+      "PSALMS",
+      "ISAIAH",
+      "EZEKIEL",
+      "DANIEL",
+      "HOSEA",
+      "JOEL",
+      "AMOS",
+      "JONAH",
+      "MICAH"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "category": "New Testament People",
+    "words": [
+      "JESUS",
+      "MARY",
+      "JOSEPH",
+      "PETER",
+      "ANDREW",
+      "JAMES",
+      "JOHN",
+      "PHILIP",
+      "THOMAS",
+      "MATTHEW",
+      "PAUL",
+      "BARNABAS",
+      "TIMOTHY",
+      "TITUS",
+      "LUKE",
+      "MARK",
+      "STEPHEN",
+      "LYDIA",
+      "LAZARUS",
+      "MARTHA"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "category": "Places in the Bible",
+    "words": [
+      "BETHLEHEM",
+      "NAZARETH",
+      "JERUSALEM",
+      "JERICHO",
+      "GALILEE",
+      "JUDEA",
+      "EGYPT",
+      "BABYLON",
+      "NINEVEH",
+      "DAMASCUS",
+      "CORINTH",
+      "EPHESUS",
+      "ROME",
+      "ATHENS",
+      "ANTIOCH",
+      "CANAAN",
+      "SINAI",
+      "JORDAN",
+      "ZION",
+      "GAZA"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "category": "Prophets",
+    "words": [
+      "ISAIAH",
+      "JEREMIAH",
+      "EZEKIEL",
+      "DANIEL",
+      "HOSEA",
+      "JOEL",
+      "AMOS",
+      "OBADIAH",
+      "JONAH",
+      "MICAH",
+      "NAHUM",
+      "HABAKKUK",
+      "HAGGAI",
+      "MALACHI",
+      "ELIJAH",
+      "ELISHA",
+      "SAMUEL",
+      "NATHAN",
+      "MOSES",
+      "ZECHARIAH"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "category": "Kings & Leaders",
+    "words": [
+      "SAUL",
+      "DAVID",
+      "SOLOMON",
+      "REHOBOAM",
+      "JEROBOAM",
+      "AHAB",
+      "JEHU",
+      "HEZEKIAH",
+      "JOSIAH",
+      "UZZIAH",
+      "ASA",
+      "OMRI",
+      "JOTHAM",
+      "AHAZ",
+      "JORAM",
+      "NADAB",
+      "ELAH",
+      "ZIMRI",
+      "JEHOASH",
+      "AMON"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "category": "Christian Virtues",
+    "words": [
+      "LOVE",
+      "JOY",
+      "PEACE",
+      "PATIENCE",
+      "KINDNESS",
+      "GOODNESS",
+      "FAITH",
+      "MERCY",
+      "GRACE",
+      "HOPE",
+      "HUMILITY",
+      "WISDOM",
+      "COURAGE",
+      "HONESTY",
+      "JUSTICE",
+      "PURITY",
+      "COMPASSION",
+      "GENEROSITY",
+      "TRUTH",
+      "GENTLENESS"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "category": "Books of the Bible",
+    "words": [
+      "GENESIS",
+      "EXODUS",
+      "LEVITICUS",
+      "NUMBERS",
+      "JOSHUA",
+      "JUDGES",
+      "SAMUEL",
+      "KINGS",
+      "EZRA",
+      "NEHEMIAH",
+      "ESTHER",
+      "PSALMS",
+      "PROVERBS",
+      "ISAIAH",
+      "JEREMIAH",
+      "EZEKIEL",
+      "DANIEL",
+      "MATTHEW",
+      "ROMANS",
+      "GALATIANS",
+      "EPHESIANS",
+      "HEBREWS",
+      "TIMOTHY",
+      "TITUS",
+      "REVELATION"
+    ],
+    "difficulty": "extreme"
+  },
+  {
+    "category": "Old Testament People",
+    "words": [
+      "ADAM",
+      "EVE",
+      "NOAH",
+      "ABRAHAM",
+      "ISAAC",
+      "JACOB",
+      "JOSEPH",
+      "MOSES",
+      "AARON",
+      "JOSHUA",
+      "CALEB",
+      "GIDEON",
+      "SAMSON",
+      "SAMUEL",
+      "SAUL",
+      "DAVID",
+      "SOLOMON",
+      "ELIJAH",
+      "ELISHA",
+      "DANIEL",
+      "EZRA",
+      "NEHEMIAH",
+      "JOB",
+      "RUTH",
+      "ESTHER"
+    ],
+    "difficulty": "extreme"
+  },
+  {
+    "category": "New Testament People",
+    "words": [
+      "JESUS",
+      "MARY",
+      "JOSEPH",
+      "JOHN",
+      "PETER",
+      "ANDREW",
+      "JAMES",
+      "PHILIP",
+      "THOMAS",
+      "MATTHEW",
+      "THADDEUS",
+      "PAUL",
+      "BARNABAS",
+      "SILAS",
+      "TIMOTHY",
+      "TITUS",
+      "LUKE",
+      "MARK",
+      "STEPHEN",
+      "LYDIA",
+      "PRISCILLA",
+      "AQUILA",
+      "LAZARUS",
+      "MARTHA",
+      "PILATE"
+    ],
+    "difficulty": "extreme"
+  },
+  {
+    "category": "Places in the Bible",
+    "words": [
+      "EDEN",
+      "BETHEL",
+      "EGYPT",
+      "SINAI",
+      "CANAAN",
+      "JERICHO",
+      "JORDAN",
+      "GALILEE",
+      "JUDEA",
+      "SAMARIA",
+      "NAZARETH",
+      "BETHLEHEM",
+      "JERUSALEM",
+      "BABYLON",
+      "NINEVEH",
+      "DAMASCUS",
+      "ANTIOCH",
+      "CORINTH",
+      "EPHESUS",
+      "ATHENS",
+      "ROME",
+      "PATMOS",
+      "ZION",
+      "GAZA",
+      "TARSUS"
+    ],
+    "difficulty": "extreme"
+  },
+  {
+    "category": "Christian Virtues",
+    "words": [
+      "LOVE",
+      "JOY",
+      "PEACE",
+      "PATIENCE",
+      "KINDNESS",
+      "GOODNESS",
+      "FAITH",
+      "GENTLENESS",
+      "MERCY",
+      "GRACE",
+      "HOPE",
+      "HUMILITY",
+      "WISDOM",
+      "COURAGE",
+      "HONESTY",
+      "JUSTICE",
+      "PURITY",
+      "TRUTH",
+      "CHARITY",
+      "MEEKNESS",
+      "TEMPERANCE",
+      "COMPASSION",
+      "GENEROSITY",
+      "DEVOTION",
+      "REVERENCE"
+    ],
+    "difficulty": "extreme"
+  },
+  {
+    "category": "Prophets & Kings",
+    "words": [
+      "ISAIAH",
+      "JEREMIAH",
+      "EZEKIEL",
+      "DANIEL",
+      "HOSEA",
+      "JOEL",
+      "AMOS",
+      "OBADIAH",
+      "JONAH",
+      "MICAH",
+      "NAHUM",
+      "HABAKKUK",
+      "HAGGAI",
+      "MALACHI",
+      "ELIJAH",
+      "ELISHA",
+      "NATHAN",
+      "SAUL",
+      "DAVID",
+      "SOLOMON",
+      "AHAB",
+      "JOSIAH",
+      "HEZEKIAH",
+      "UZZIAH",
+      "JOTHAM"
+    ],
+    "difficulty": "extreme"
+  }
+]

@@ -1,0 +1,1754 @@
+[
+  {
+    "word": "ADAM",
+    "hint": "The first man",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "EVE",
+    "hint": "The first woman",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "NOAH",
+    "hint": "He built the ark",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "ABEL",
+    "hint": "Adam's second son",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "CAIN",
+    "hint": "Adam's firstborn son",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "SETH",
+    "hint": "Adam and Eve's third son",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "LOT",
+    "hint": "Abraham's nephew",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "ESAU",
+    "hint": "Jacob's hairy twin brother",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "LEVI",
+    "hint": "The priestly tribe",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "BOAZ",
+    "hint": "Ruth's husband",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "SAUL",
+    "hint": "First king of Israel",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "RUTH",
+    "hint": "A loyal daughter-in-law",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "JOB",
+    "hint": "He was tested with great suffering",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "EZRA",
+    "hint": "A scribe who taught God's law",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "AMOS",
+    "hint": "A shepherd who became a prophet",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "JOEL",
+    "hint": "Prophet who wrote about locusts",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "MARY",
+    "hint": "Mother of Jesus",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "PAUL",
+    "hint": "Apostle to the Gentiles",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "JOHN",
+    "hint": "The beloved disciple",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "MARK",
+    "hint": "Author of the shortest Gospel",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "LUKE",
+    "hint": "A physician who wrote a Gospel",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "TITUS",
+    "hint": "Paul wrote a letter to him about church leadership",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "NAOMI",
+    "hint": "Ruth's mother-in-law",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "CALEB",
+    "hint": "One of two faithful spies",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "ENOCH",
+    "hint": "He walked with God and was taken up",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "MICAH",
+    "hint": "Prophet who foretold Jesus' birthplace",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "ABRAM",
+    "hint": "Abraham's name before God changed it",
+    "difficulty": "easy",
+    "theme": "people"
+  },
+  {
+    "word": "DOVE",
+    "hint": "Noah sent this bird from the ark",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "LAMB",
+    "hint": "Jesus is called the ___ of God",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "FISH",
+    "hint": "Jesus multiplied loaves and these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "LION",
+    "hint": "Daniel was thrown into a den of these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "RAM",
+    "hint": "God provided this instead of Isaac",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "FIG",
+    "hint": "Jesus cursed a ___ tree",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "OAK",
+    "hint": "Absalom got caught in one",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "RAVEN",
+    "hint": "Birds that fed Elijah",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "WHEAT",
+    "hint": "A grain mentioned in many parables",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "THORN",
+    "hint": "Jesus wore a crown of these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "ARK",
+    "hint": "Built to survive the flood",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "HARP",
+    "hint": "David played this instrument",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "LAMP",
+    "hint": "Your word is a ___ to my feet",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "ROBE",
+    "hint": "Joseph had a colorful one",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "SEED",
+    "hint": "The parable of the sower involved these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "VINE",
+    "hint": "Jesus said \"I am the true ___\"",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "HORN",
+    "hint": "Used like a trumpet in battle",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "TENT",
+    "hint": "Abraham and Sarah lived in these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "COIN",
+    "hint": "A widow gave two of these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "SWORD",
+    "hint": "The word of God is compared to this",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "STAFF",
+    "hint": "Moses carried one before Pharaoh",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "CROSS",
+    "hint": "Symbol of Jesus' sacrifice",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "CROWN",
+    "hint": "Jesus wore one of thorns",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "PEARL",
+    "hint": "The kingdom of heaven is like one of great value",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "ALTAR",
+    "hint": "A place for making offerings",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "BREAD",
+    "hint": "Jesus said \"I am the ___ of life\"",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "STONE",
+    "hint": "David used one against Goliath",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "SLING",
+    "hint": "David's weapon against the giant",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "BOWL",
+    "hint": "Used for washing feet",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "NET",
+    "hint": "Fishermen disciples used these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "WELL",
+    "hint": "Jesus met a woman at one in Samaria",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "BOAT",
+    "hint": "Jesus calmed a storm from one",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "TOMB",
+    "hint": "Where Jesus was buried",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "YOKE",
+    "hint": "Jesus said \"My ___ is easy\"",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "EDEN",
+    "hint": "The first garden",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "ROME",
+    "hint": "Paul wrote a letter to Christians here",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "ZION",
+    "hint": "A name for Jerusalem or God's dwelling",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "NILE",
+    "hint": "Great river of Egypt",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "TYRE",
+    "hint": "Ancient seaport city",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "SODOM",
+    "hint": "Wicked city destroyed by fire",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "BABEL",
+    "hint": "Tower built to reach heaven",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "SINAI",
+    "hint": "Mountain where Moses got the commandments",
+    "difficulty": "easy",
+    "theme": "places"
+  },
+  {
+    "word": "PRAY",
+    "hint": "Talk to God",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "HOPE",
+    "hint": "Faith, ____, and love",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "HOLY",
+    "hint": "Set apart for God",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "AMEN",
+    "hint": "Word said at the end of a prayer",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "KING",
+    "hint": "David was one of Israel",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "HYMN",
+    "hint": "A song of praise",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "WINE",
+    "hint": "Jesus turned water into this",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "STAR",
+    "hint": "It guided the wise men",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "SALT",
+    "hint": "You are the ___ of the earth",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "GATE",
+    "hint": "Jesus said \"I am the ___\"",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "LOVE",
+    "hint": "The greatest commandment",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "GRACE",
+    "hint": "Unmerited favor from God",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "MERCY",
+    "hint": "God's compassion for sinners",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "PEACE",
+    "hint": "Jesus said \"My ___ I give to you\"",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "FAITH",
+    "hint": "Substance of things hoped for",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "TRUTH",
+    "hint": "Jesus said \"I am the way, the ___, and the life\"",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "LIGHT",
+    "hint": "The first thing God created",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "GLORY",
+    "hint": "The ___ of the Lord filled the temple",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "PSALM",
+    "hint": "A song or poem of praise",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "FEAST",
+    "hint": "The Passover was one",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "ANGEL",
+    "hint": "A heavenly messenger",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "TITHE",
+    "hint": "Giving a tenth to God",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "JOY",
+    "hint": "A fruit of the Spirit",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "VOW",
+    "hint": "A sacred promise to God",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "SIN",
+    "hint": "Missing the mark; disobeying God",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "FAST",
+    "hint": "Going without food for spiritual reasons",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "REST",
+    "hint": "God did this on the seventh day",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "FLOOD",
+    "hint": "God sent this to cleanse the earth",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "HEART",
+    "hint": "Where God's love dwells",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "OIL",
+    "hint": "Anointing substance used by priests and kings",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "CAVE",
+    "hint": "David hid from Saul in one of these",
+    "difficulty": "easy",
+    "theme": "things"
+  },
+  {
+    "word": "MOSES",
+    "hint": "He parted the Red Sea",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "DAVID",
+    "hint": "He defeated Goliath",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "PETER",
+    "hint": "He walked on water",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "JONAH",
+    "hint": "Swallowed by a great fish",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "JUDAS",
+    "hint": "He betrayed Jesus",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "JOSHUA",
+    "hint": "He led Israel into Canaan",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "ESTHER",
+    "hint": "A queen who saved her people",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "SAMSON",
+    "hint": "His strength was in his hair",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "DANIEL",
+    "hint": "He survived the lion's den",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "JOSEPH",
+    "hint": "He had a coat of many colors",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "ELIJAH",
+    "hint": "Taken to heaven in a chariot of fire",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "GIDEON",
+    "hint": "He defeated Midian with 300 men",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "ANDREW",
+    "hint": "Peter's brother",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "MARTHA",
+    "hint": "She was busy serving while her sister listened",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "ISAAC",
+    "hint": "Abraham's promised son",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "JACOB",
+    "hint": "He wrestled with God",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "SARAH",
+    "hint": "She laughed when told she would have a son",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "AARON",
+    "hint": "Moses' brother and first high priest",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "MIRIAM",
+    "hint": "Moses' sister who watched over him as a baby",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "HANNAH",
+    "hint": "She prayed for a son and got Samuel",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "ELISHA",
+    "hint": "He received a double portion of Elijah's spirit",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "NATHAN",
+    "hint": "Prophet who confronted David about his sin",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "PHILIP",
+    "hint": "Apostle who brought Nathanael to Jesus",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "THOMAS",
+    "hint": "The doubting disciple",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "SIMEON",
+    "hint": "He held baby Jesus in the temple",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "RAHAB",
+    "hint": "She hid the spies in Jericho",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "NAAMAN",
+    "hint": "A Syrian commander healed of leprosy",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "BALAAM",
+    "hint": "His donkey spoke to him",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "SILAS",
+    "hint": "Paul's companion who sang in prison",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "LYDIA",
+    "hint": "A seller of purple cloth who believed",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "BARUCH",
+    "hint": "Jeremiah's scribe",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "DORCAS",
+    "hint": "A woman known for helping the poor, raised from the dead by Peter",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "HOSEA",
+    "hint": "Prophet told to marry an unfaithful wife",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "CYRUS",
+    "hint": "Persian king who freed the Israelites",
+    "difficulty": "medium",
+    "theme": "people"
+  },
+  {
+    "word": "JORDAN",
+    "hint": "River where Jesus was baptized",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "JOPPA",
+    "hint": "Where Peter had a vision on a rooftop",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "SHILOH",
+    "hint": "Where the tabernacle stood for many years",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "PILATE",
+    "hint": "Roman governor who judged Jesus",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "GILEAD",
+    "hint": "Region known for its healing balm",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "CYRENE",
+    "hint": "Simon from here helped carry Jesus' cross",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "PATMOS",
+    "hint": "Island where John wrote Revelation",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "CANAAN",
+    "hint": "The promised land",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "HERMON",
+    "hint": "Tall mountain in northern Israel",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "HEBRON",
+    "hint": "Where Abraham was buried",
+    "difficulty": "medium",
+    "theme": "places"
+  },
+  {
+    "word": "MANGER",
+    "hint": "Where baby Jesus was laid",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "MANNA",
+    "hint": "Bread from heaven in the wilderness",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "QUAIL",
+    "hint": "Bird God sent to feed Israel in the desert",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "FLEECE",
+    "hint": "Gideon used this to test God's will",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "SCROLL",
+    "hint": "How Scripture was written before books",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "MYRRH",
+    "hint": "One of three gifts from the wise men",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "INCENSE",
+    "hint": "Burned in the temple as fragrant worship",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "SHIELD",
+    "hint": "Part of the armor of God",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "CHARIOT",
+    "hint": "Elijah was taken up in one of fire",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "TALENT",
+    "hint": "A unit of money in Jesus' parable",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "GOSPEL",
+    "hint": "The good news",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "EXODUS",
+    "hint": "The departure from Egypt",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "TEMPLE",
+    "hint": "Solomon built one for God",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "THRONE",
+    "hint": "God's seat in heaven",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "PRAISE",
+    "hint": "To worship and glorify God",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "PLAGUE",
+    "hint": "God sent ten of these on Egypt",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "HEBREW",
+    "hint": "Language of the Old Testament",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "SERMON",
+    "hint": "Jesus gave one on a mount",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "PARABLE",
+    "hint": "A teaching story told by Jesus",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "SABBATH",
+    "hint": "The day of rest",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "REPENT",
+    "hint": "To turn away from sin",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "ANOINT",
+    "hint": "To pour oil on someone as a blessing",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "WISDOM",
+    "hint": "Solomon asked God for this",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "VISION",
+    "hint": "Peter had one about clean and unclean animals",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "LOCUST",
+    "hint": "One of the plagues of Egypt",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "PILLAR",
+    "hint": "God led Israel with one of cloud and fire",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "SPIRIT",
+    "hint": "The Holy ___",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "HEAVEN",
+    "hint": "God's dwelling place",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "PRAYER",
+    "hint": "Talking to God",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "FAMINE",
+    "hint": "A severe shortage of food",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "CENSUS",
+    "hint": "What brought Mary and Joseph to Bethlehem",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "DONKEY",
+    "hint": "Jesus rode one into Jerusalem",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "THORNS",
+    "hint": "Woven into a crown for Jesus",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "LEPER",
+    "hint": "Jesus healed ten of these people",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "RANSOM",
+    "hint": "Jesus gave his life as one",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "TABOR",
+    "hint": "Mountain of the Transfiguration by tradition",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "CHURCH",
+    "hint": "The body of Christ",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "TRIBES",
+    "hint": "Israel had twelve of these",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "VESSEL",
+    "hint": "Paul called believers clay ones",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "BURDEN",
+    "hint": "Cast your ___ on the Lord",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "RESCUE",
+    "hint": "God did this for Israel from Egypt",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "DECREE",
+    "hint": "Caesar issued one for a census",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "BRANCH",
+    "hint": "Jesus said \"I am the vine, you are the ___es\"",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "LEGION",
+    "hint": "Name of many demons cast into pigs",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "ARMOR",
+    "hint": "Put on the full ___ of God",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "GARDEN",
+    "hint": "Eden was one; Gethsemane was another",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "SINNER",
+    "hint": "All have fallen short of God's glory",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "PRISON",
+    "hint": "Paul and Silas sang here",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "DEACON",
+    "hint": "A servant leader in the early church",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "SUPPER",
+    "hint": "The Last ___",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "REFUGE",
+    "hint": "God is our ___ and strength",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "HOSANNA",
+    "hint": "Crowd shouted this on Palm Sunday",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "TRUMPET",
+    "hint": "Blown at the walls of Jericho",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "CHERUB",
+    "hint": "Angelic being that guarded Eden",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "WIDOW",
+    "hint": "She gave two mites at the temple",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "STEPHEN",
+    "hint": "The first Christian martyr",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "PURITY",
+    "hint": "Blessed are the pure in ___",
+    "difficulty": "medium",
+    "theme": "things"
+  },
+  {
+    "word": "ABRAHAM",
+    "hint": "Father of many nations",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "SOLOMON",
+    "hint": "The wisest king",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "GOLIATH",
+    "hint": "A giant from Gath",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "PHARAOH",
+    "hint": "Ruler of Egypt",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "MATTHEW",
+    "hint": "A tax collector turned apostle",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "LAZARUS",
+    "hint": "Jesus raised him from the dead",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "ZACCHAEUS",
+    "hint": "Short tax collector who climbed a tree",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "NICODEMUS",
+    "hint": "He visited Jesus at night",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "NEHEMIAH",
+    "hint": "He rebuilt the wall of Jerusalem",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "JEREMIAH",
+    "hint": "The weeping prophet",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "JONATHAN",
+    "hint": "David's best friend",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "REBEKAH",
+    "hint": "Isaac's wife, chosen at a well",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "DEBORAH",
+    "hint": "A prophetess and judge of Israel",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "ABSALOM",
+    "hint": "David's rebellious son",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "JEPHTHAH",
+    "hint": "Judge who made a rash vow",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "HEZEKIAH",
+    "hint": "King who prayed and got 15 more years",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "OBADIAH",
+    "hint": "Shortest book in the Old Testament",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "BARNABAS",
+    "hint": "Paul's missionary companion, \"Son of Encouragement\"",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "TIMOTHY",
+    "hint": "Young pastor Paul mentored",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "ZECHARIAH",
+    "hint": "Father of John the Baptist",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "BATHSHEBA",
+    "hint": "Solomon's mother",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "POTIPHAR",
+    "hint": "Egyptian officer who bought Joseph",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "BARABBAS",
+    "hint": "Prisoner released instead of Jesus",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "CORNELIUS",
+    "hint": "Roman centurion who believed through Peter",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "DELILAH",
+    "hint": "She betrayed Samson's secret",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "JEZEBEL",
+    "hint": "Wicked queen who opposed Elijah",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "JEROBOAM",
+    "hint": "First king of the northern kingdom",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "REHOBOAM",
+    "hint": "Solomon's son who split the kingdom",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "MELCHIZEDEK",
+    "hint": "King of Salem and priest of God Most High",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "NATHANAEL",
+    "hint": "Disciple Jesus saw under a fig tree",
+    "difficulty": "hard",
+    "theme": "people"
+  },
+  {
+    "word": "BETHLEHEM",
+    "hint": "Birthplace of Jesus",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "JERUSALEM",
+    "hint": "The holy city",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "GALILEE",
+    "hint": "Sea where Jesus walked on water",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "NAZARETH",
+    "hint": "Jesus grew up here",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "GETHSEMANE",
+    "hint": "Garden where Jesus prayed before arrest",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "JERICHO",
+    "hint": "Its walls came tumbling down",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "BETHANY",
+    "hint": "Village where Lazarus lived",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "CAPERNAUM",
+    "hint": "Jesus' home base during his ministry",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "GOLGOTHA",
+    "hint": "Place of the skull where Jesus was crucified",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "NINEVEH",
+    "hint": "City Jonah was sent to warn",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "ANTIOCH",
+    "hint": "Where believers were first called Christians",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "DAMASCUS",
+    "hint": "City where Paul was blinded on the road",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "BABYLON",
+    "hint": "Empire that conquered Jerusalem",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "CORINTH",
+    "hint": "Greek city Paul wrote two letters to",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "PHILIPPI",
+    "hint": "City where Paul and Silas sang in prison",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "THESSALONICA",
+    "hint": "Paul wrote two letters to believers here",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "EPHESUS",
+    "hint": "City with a famous temple to Artemis",
+    "difficulty": "hard",
+    "theme": "places"
+  },
+  {
+    "word": "GENESIS",
+    "hint": "First book of the Bible",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "LEVITICUS",
+    "hint": "Book of laws for the priests",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "DEUTERONOMY",
+    "hint": "Moses' final speeches to Israel",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "EPHESIANS",
+    "hint": "Paul's letter about the armor of God",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "CORINTHIANS",
+    "hint": "Paul wrote two letters to this church",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "REVELATION",
+    "hint": "Last book of the Bible",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "PHILIPPIANS",
+    "hint": "Paul's joyful letter from prison",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "COLOSSIANS",
+    "hint": "Paul's letter about Christ's supremacy",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "GALATIANS",
+    "hint": "Paul's letter about freedom in Christ",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "PROVERBS",
+    "hint": "Book of wise sayings",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "LAMENTATIONS",
+    "hint": "Jeremiah's sorrowful poems",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "HABAKKUK",
+    "hint": "Prophet who questioned God's justice",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "ZEPHANIAH",
+    "hint": "Prophet who warned of the Day of the Lord",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "BAPTISM",
+    "hint": "A sacred washing",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "PROPHET",
+    "hint": "One who speaks God's message",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "TABERNACLE",
+    "hint": "Portable tent of worship in the wilderness",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "CRUCIFIXION",
+    "hint": "How Jesus was killed",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "RESURRECTION",
+    "hint": "Jesus rising from the dead",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "PENTECOST",
+    "hint": "Day the Holy Spirit came",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "SAMARITAN",
+    "hint": "The good ___ in Jesus' parable",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "BEATITUDES",
+    "hint": "Blessings Jesus taught on the mount",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "ARMAGEDDON",
+    "hint": "The final battle in Revelation",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "COVENANT",
+    "hint": "A binding agreement between God and his people",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "PASSOVER",
+    "hint": "Festival recalling Israel's deliverance from Egypt",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "OFFERING",
+    "hint": "A gift given to God in worship",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "REDEMPTION",
+    "hint": "Being bought back from sin",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "SANCTIFY",
+    "hint": "To make holy or set apart",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "SALVATION",
+    "hint": "Being saved from sin through Jesus",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "BLESSING",
+    "hint": "God's favor and goodness",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "RIGHTEOUS",
+    "hint": "Morally right in God's eyes",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "COMMUNION",
+    "hint": "Sharing bread and wine in remembrance of Jesus",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "APOSTLE",
+    "hint": "One of the twelve sent out by Jesus",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "DISCIPLE",
+    "hint": "A follower and learner of Jesus",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "MIRACLE",
+    "hint": "A supernatural act of God",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "SCRIPTURE",
+    "hint": "The sacred writings",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "ATONEMENT",
+    "hint": "Making amends for sin",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "TRIBULATION",
+    "hint": "Great period of suffering in end times",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "PERSECUTE",
+    "hint": "What early Christians faced for their faith",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "FORGIVENESS",
+    "hint": "What Jesus offers for all sins",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "TRANSFIGURATION",
+    "hint": "When Jesus' appearance changed on the mountain",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "INHERITANCE",
+    "hint": "What awaits believers in heaven",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "OMNIPOTENT",
+    "hint": "All-powerful, describing God",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "HALLELUJAH",
+    "hint": "Praise the Lord!",
+    "difficulty": "hard",
+    "theme": "things"
+  },
+  {
+    "word": "MATTHIAS",
+    "hint": "Chosen to replace Judas as an apostle",
+    "difficulty": "hard",
+    "theme": "things"
+  }
+]

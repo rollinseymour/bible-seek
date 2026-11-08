@@ -1,0 +1,127 @@
+{
+  "id": "mic.what_the_lord_requires",
+  "title": "What the LORD Requires",
+  "anchorRef": "MIC.6.8",
+  "backstory": "Micah has announced judgment and promised a Ruler from Bethlehem. Now the LORD calls His people into court, with the mountains standing as witnesses, and asks a tender question: what have I done unto thee? The people wonder what gift could ever satisfy God — and Micah gives one of the most beloved answers in all the Bible.",
+  "passages": [
+    {
+      "ref": "MIC.2.1-5",
+      "synopsis": "Micah described men who lay awake at night planning evil, then carried it out at first light. They coveted fields and houses and simply took them, crushing families out of their own inheritance. So the LORD promised that trouble would come upon the schemers in turn. The land they had grabbed would be taken from them, and they would lose their portion among God's people."
+    },
+    {
+      "ref": "MIC.6.1-5",
+      "synopsis": "The LORD called His people into court, with the mountains standing as witnesses. His opening question was tender: O my people, what have I done unto thee? He reminded them how He brought them out of Egypt and sent Moses, Aaron, and Miriam before them. He asked them to remember what Balak king of Moab plotted, and how Balaam answered him, so that they might know the righteousness of the LORD."
+    },
+    {
+      "ref": "MIC.6.6-8",
+      "synopsis": "The people wondered what gift could possibly please so great a God. Thousands of rams? Ten thousand rivers of oil? Even their most precious treasure? Micah answered that God has already shown what is good: to do justly, to love mercy, and to walk humbly with your God."
+    },
+    {
+      "ref": "MIC.6.9-16",
+      "synopsis": "The LORD's voice cried out to the city about the cheating hidden in its houses. Merchants used scant measures, wicked balances, and bags of deceitful weights, and the rich were full of violence and lies. So their harvests would fail, and what they planted they would not enjoy. Micah warned that walking in the ways of wicked kings like Omri and Ahab could only end in sorrow."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Micah 6:1",
+          "text": "Hear ye now what the LORD saith;"
+        },
+        {
+          "reference": "Micah 6:3",
+          "text": "O my people, what have I done unto thee?"
+        },
+        {
+          "reference": "Micah 6:8",
+          "text": "He hath shewed thee, O man, what is good;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "According to Micah, what does the LORD require of thee?",
+          "options": [
+            "Burnt offerings and calves",
+            "Thousands of rams",
+            "To do justly, love mercy, and walk humbly with thy God",
+            "Ten thousands of rivers of oil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Micah 6:8 — \"He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whom did God send before Israel when He brought them out of Egypt?",
+          "options": [
+            "Moses, Aaron, and Miriam",
+            "Joshua and Caleb",
+            "Samuel and Eli",
+            "Elijah and Elisha"
+          ],
+          "correctIndex": 0,
+          "explanation": "Micah 6:4 — \"For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which king of Moab plotted against Israel, as the LORD reminds His people?",
+          "options": [
+            "Balaam",
+            "Balak",
+            "Og",
+            "Sihon"
+          ],
+          "correctIndex": 1,
+          "explanation": "Micah 6:5 — \"O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What dishonest things did Micah say were carried in the bag of the wicked?",
+          "options": [
+            "Stolen coins",
+            "Broken promises",
+            "Graven images",
+            "Deceitful weights"
+          ],
+          "correctIndex": 3,
+          "explanation": "Micah 6:11 — \"Shall I count them pure with the wicked balances, and with the bag of deceitful weights?\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "BALAAM",
+          "hint": "Balak asked him to curse Israel",
+          "theme": "people"
+        },
+        {
+          "word": "MIRIAM",
+          "hint": "Sent before Israel with Moses and Aaron",
+          "theme": "people"
+        },
+        {
+          "word": "EGYPT",
+          "hint": "The land God brought His people out of",
+          "theme": "places"
+        },
+        {
+          "word": "MERCY",
+          "hint": "The LORD asks us to love this",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "DEU.10.12",
+    "HOS.6.6",
+    "MAT.23.23"
+  ],
+  "reflection": "Micah says God wants justice, mercy, and a humble walk with Him more than costly gifts. Which of those three is God inviting you to grow in this week?"
+}

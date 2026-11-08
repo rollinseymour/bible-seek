@@ -1,0 +1,114 @@
+{
+  "id": "luk.seek_and_save",
+  "title": "Seek and Save",
+  "anchorRef": "LUK.19.10",
+  "backstory": "Jesus is on his last journey up to Jerusalem, and the road runs through Jericho. Everything here turns on one sentence he speaks in a tax collector's house: the Son of man is come to seek and to save that which was lost. In a story he tells and in the people he meets along the way, a proud man, a rich man, a beggar, and a tax collector each come within reach of that seeking love. Two of them are found, and two walk away holding on to what they already had.",
+  "passages": [
+    {
+      "ref": "LUK.18.9-14",
+      "synopsis": "Jesus told a story to people who were sure they were better than everyone else. Two men went up to the temple to pray, a respected Pharisee and a tax collector. The Pharisee thanked God that he was not like other men and listed all he did right. The tax collector would not even look up, but beat his breast and asked God for mercy, and Jesus said it was that man who went home right with God."
+    },
+    {
+      "ref": "LUK.18.18-27",
+      "synopsis": "A rich ruler asked Jesus what he had to do to inherit eternal life. Jesus pointed him to the commandments, and the man said he had kept them all since he was young. Then Jesus told him to sell what he had, give to the poor, and come follow him, and the man went away very sorrowful because he was very rich. Jesus said it is hard for the rich to enter God's kingdom, but what is impossible with men is possible with God."
+    },
+    {
+      "ref": "LUK.18.35-43",
+      "synopsis": "As Jesus came near Jericho, a blind man was sitting by the road begging. Hearing a crowd go past, he asked what was happening and was told that Jesus of Nazareth was passing by. He shouted for mercy, and when people told him to be quiet he only shouted louder. Jesus stopped, called for him, gave him his sight, and the man followed him, praising God with all the people."
+    },
+    {
+      "ref": "LUK.19.1-10",
+      "synopsis": "In Jericho lived a chief tax collector named Zacchaeus, a rich man and a short one. He could not see over the crowd, so he ran ahead and climbed a sycomore tree. Jesus stopped beneath it, called him by name, and said he was coming to his house that day, which made the crowd murmur. Zacchaeus promised to give half his goods to the poor and repay anyone he had cheated four times over, and Jesus said salvation had come to that house."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Luke 19:6",
+          "text": "And he made haste, and came down, and received him joyfully."
+        },
+        {
+          "reference": "Luke 18:27",
+          "text": "And he said, The things which are impossible with men are possible with God."
+        },
+        {
+          "reference": "Luke 18:42",
+          "text": "And Jesus said unto him, Receive thy sight: thy faith hath saved thee."
+        },
+        {
+          "reference": "Luke 19:1",
+          "text": "And Jesus entered and passed through Jericho."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Seek and Save",
+          "words": [
+            "ZACCHAEUS",
+            "JERICHO",
+            "SYCOMORE",
+            "PUBLICAN",
+            "MERCY",
+            "SIGHT",
+            "TREE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Zacchaeus",
+          "clues": [
+            "I was rich, and chief among the publicans in Jericho.",
+            "I climbed a sycomore tree because I was little of stature.",
+            "Jesus called me by name and came to my house that day."
+          ],
+          "wrongChoices": [
+            "Matthew",
+            "Nicodemus",
+            "Cornelius"
+          ]
+        },
+        {
+          "name": "The Blind Man of Jericho",
+          "clues": [
+            "I sat by the way side begging.",
+            "I cried out, 'Thou Son of David, have mercy on me.'",
+            "Jesus told me, 'Receive thy sight: thy faith hath saved thee.'"
+          ],
+          "wrongChoices": [
+            "Zacchaeus",
+            "Lazarus",
+            "Simeon"
+          ]
+        },
+        {
+          "name": "The Publican in the Temple",
+          "clues": [
+            "I stood far off and would not lift up my eyes to heaven.",
+            "I beat upon my breast and asked God to be merciful to me.",
+            "Jesus said I went home justified rather than the Pharisee."
+          ],
+          "wrongChoices": [
+            "The Pharisee",
+            "The Rich Ruler",
+            "John the Baptist"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.35.5",
+    "MRK.10.47",
+    "2CO.5.17"
+  ],
+  "reflection": "Jesus stopped for the people everyone else walked past. Who around you is easy to overlook?"
+}

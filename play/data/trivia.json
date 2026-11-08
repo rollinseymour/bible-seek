@@ -1,0 +1,860 @@
+[
+  {
+    "question": "Who built the ark?",
+    "options": [
+      "Abraham",
+      "Noah",
+      "Moses",
+      "David"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "God told Noah to build an ark to survive the great flood (Genesis 6).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "How many days did God take to create the world?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "10"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "God created the world in 6 days and rested on the 7th (Genesis 1-2).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who was swallowed by a great fish?",
+    "options": [
+      "Jonah",
+      "Peter",
+      "Paul",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Jonah was swallowed by a great fish when fleeing from God (Jonah 1:17).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "What is the first book of the Bible?",
+    "options": [
+      "Exodus",
+      "Psalms",
+      "Genesis",
+      "Matthew"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who killed Goliath?",
+    "options": [
+      "Saul",
+      "Jonathan",
+      "David",
+      "Samuel"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "David defeated Goliath with a sling and a stone (1 Samuel 17).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "What did God create on the first day?",
+    "options": [
+      "Animals",
+      "Light",
+      "Water",
+      "Trees"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "God said \"Let there be light\" on the first day (Genesis 1:3).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who was the mother of Jesus?",
+    "options": [
+      "Martha",
+      "Mary",
+      "Elizabeth",
+      "Ruth"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "How many apostles did Jesus have?",
+    "options": [
+      "10",
+      "12",
+      "7",
+      "15"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "What animal spoke to Balaam?",
+    "options": [
+      "A sheep",
+      "A donkey",
+      "A camel",
+      "A dog"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Balaam's donkey spoke to him when it saw the angel (Numbers 22:28).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "Where was Jesus born?",
+    "options": [
+      "Nazareth",
+      "Jerusalem",
+      "Bethlehem",
+      "Capernaum"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "Who parted the Red Sea?",
+    "options": [
+      "Joshua",
+      "Moses",
+      "Aaron",
+      "Elijah"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What was the name of the garden where Adam and Eve lived?",
+    "options": [
+      "Gethsemane",
+      "Eden",
+      "Babylon",
+      "Paradise"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who was thrown into a den of lions?",
+    "options": [
+      "David",
+      "Samson",
+      "Daniel",
+      "Elijah"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What fruit is often associated with Adam and Eve's sin?",
+    "options": [
+      "Apple",
+      "Fig",
+      "Grape",
+      "The Bible doesn't specify"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "The Bible only says \"fruit\" — the specific type is not mentioned (Genesis 3:6).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who baptized Jesus?",
+    "options": [
+      "Peter",
+      "John the Baptist",
+      "Paul",
+      "James"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "How many commandments did God give Moses?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What is the last book of the Bible?",
+    "options": [
+      "Jude",
+      "Malachi",
+      "Revelation",
+      "Acts"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "Who was the first king of Israel?",
+    "options": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Samuel"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "How many people were saved on Noah's ark?",
+    "options": [
+      "2",
+      "8",
+      "12",
+      "40"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Noah, his wife, his three sons and their wives — eight in all (1 Peter 3:20).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "What sign did God give after the flood?",
+    "options": [
+      "A star",
+      "A rainbow",
+      "A dove",
+      "Thunder"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "God set a rainbow in the clouds as a covenant (Genesis 9:13).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "On which day did God rest from creating?",
+    "options": [
+      "The fifth",
+      "The sixth",
+      "The seventh",
+      "The eighth"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "God rested on the seventh day and made it holy (Genesis 2:2-3).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "What did Jesus feed the 5,000 with?",
+    "options": [
+      "Bread and wine",
+      "Loaves and fish",
+      "Manna",
+      "Figs"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Five loaves and two fish fed the multitude (Matthew 14:17-21).",
+    "category": "newTestament"
+  },
+  {
+    "question": "Which disciple betrayed Jesus?",
+    "options": [
+      "Peter",
+      "Thomas",
+      "Judas Iscariot",
+      "Andrew"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "How many books are in the Bible?",
+    "options": [
+      "39",
+      "66",
+      "72",
+      "27"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": null
+  },
+  {
+    "question": "Who wrote most of the Psalms?",
+    "options": [
+      "Solomon",
+      "Moses",
+      "David",
+      "Asaph"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What was the name of Moses' brother?",
+    "options": [
+      "Aaron",
+      "Levi",
+      "Caleb",
+      "Joshua"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": null
+  },
+  {
+    "question": "Which prophet was taken to heaven in a chariot of fire?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Isaiah",
+      "Enoch"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Elijah was taken up to heaven in a whirlwind with a chariot of fire (2 Kings 2:11).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "What river was Jesus baptized in?",
+    "options": [
+      "Nile",
+      "Euphrates",
+      "Jordan",
+      "Tigris"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "Who was Jacob's twin brother?",
+    "options": [
+      "Laban",
+      "Esau",
+      "Joseph",
+      "Ishmael"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": null
+  },
+  {
+    "question": "How many plagues did God send on Egypt?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What was Paul's name before his conversion?",
+    "options": [
+      "Simon",
+      "Saul",
+      "Stephen",
+      "Silas"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": null
+  },
+  {
+    "question": "Which book tells the story of the Israelites' exodus from Egypt?",
+    "options": [
+      "Genesis",
+      "Leviticus",
+      "Exodus",
+      "Numbers"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": null
+  },
+  {
+    "question": "Who was known as the wisest man?",
+    "options": [
+      "David",
+      "Solomon",
+      "Daniel",
+      "Moses"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What did Esau sell his birthright for?",
+    "options": [
+      "Gold",
+      "A coat",
+      "A bowl of stew",
+      "Land"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Esau sold his birthright to Jacob for bread and lentil stew (Genesis 25:33-34).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who interpreted dreams for Pharaoh?",
+    "options": [
+      "Moses",
+      "Daniel",
+      "Joseph",
+      "Aaron"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What was the first miracle Jesus performed?",
+    "options": [
+      "Walking on water",
+      "Feeding 5000",
+      "Turning water to wine",
+      "Healing a blind man"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Jesus turned water into wine at the wedding in Cana (John 2:1-11).",
+    "category": "newTestament"
+  },
+  {
+    "question": "Who was the strongest man in the Bible?",
+    "options": [
+      "Goliath",
+      "Samson",
+      "David",
+      "Joshua"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "What happened on the road to Damascus?",
+    "options": [
+      "Moses saw the burning bush",
+      "Jesus was tempted",
+      "Saul was blinded by a light",
+      "Peter denied Jesus"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "Who was thrown into the fiery furnace and unharmed?",
+    "options": [
+      "Daniel",
+      "Shadrach, Meshach, and Abednego",
+      "Elijah and Elisha",
+      "Joseph and Benjamin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The three were unharmed in Nebuchadnezzar's furnace (Daniel 3).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "What did God use to speak to Moses in the desert?",
+    "options": [
+      "A cloud",
+      "A burning bush",
+      "An angel",
+      "Thunder"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who replaced Moses as leader of Israel?",
+    "options": [
+      "Aaron",
+      "Joshua",
+      "Caleb",
+      "Eleazar"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Joshua led Israel into the Promised Land after Moses' death (Joshua 1:1-9).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "How many books are in the New Testament?",
+    "options": [
+      "24",
+      "27",
+      "39",
+      "66"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The New Testament contains 27 books, from Matthew to Revelation.",
+    "category": "newTestament"
+  },
+  {
+    "question": "Which mountain did Noah's Ark rest on?",
+    "options": [
+      "Mount Sinai",
+      "Mount Carmel",
+      "Mount Ararat",
+      "Mount Hermon"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "The ark rested upon the mountains of Ararat (Genesis 8:4).",
+    "category": null
+  },
+  {
+    "question": "Who was Ruth's great-grandson, who became king?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Boaz"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Ruth was the great-grandmother of King David (Ruth 4:17).",
+    "category": null
+  },
+  {
+    "question": "Who was the oldest person mentioned in the Bible?",
+    "options": [
+      "Noah",
+      "Adam",
+      "Methuselah",
+      "Enoch"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Methuselah lived 969 years (Genesis 5:27).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "What were the names of the two pillars in Solomon's temple?",
+    "options": [
+      "Urim and Thummim",
+      "Jachin and Boaz",
+      "Alpha and Omega",
+      "Cherubim and Seraphim"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "The two pillars were named Jachin and Boaz (1 Kings 7:21).",
+    "category": null
+  },
+  {
+    "question": "How many books did Paul write in the New Testament?",
+    "options": [
+      "7",
+      "10",
+      "13",
+      "15"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Paul is traditionally credited with writing 13 epistles.",
+    "category": "newTestament"
+  },
+  {
+    "question": "What was the name of Abraham's nephew?",
+    "options": [
+      "Ishmael",
+      "Lot",
+      "Laban",
+      "Nahor"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": null
+  },
+  {
+    "question": "Which Old Testament book does not mention God by name?",
+    "options": [
+      "Ruth",
+      "Esther",
+      "Jonah",
+      "Ecclesiastes"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "The Book of Esther does not directly mention God by name.",
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who was the first Christian martyr?",
+    "options": [
+      "James",
+      "Stephen",
+      "Peter",
+      "Paul"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Stephen was stoned to death, becoming the first Christian martyr (Acts 7:59-60).",
+    "category": "newTestament"
+  },
+  {
+    "question": "What was the name of the pool where Jesus healed a man who had been ill for 38 years?",
+    "options": [
+      "Siloam",
+      "Bethesda",
+      "Bethlehem",
+      "Jordan"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "The Pool of Bethesda in Jerusalem (John 5:2-9).",
+    "category": "newTestament"
+  },
+  {
+    "question": "How many sons did Jacob have?",
+    "options": [
+      "10",
+      "12",
+      "7",
+      "14"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Jacob had 12 sons who became the 12 tribes of Israel.",
+    "category": "oldTestament"
+  },
+  {
+    "question": "Which angel announced the birth of Jesus to Mary?",
+    "options": [
+      "Michael",
+      "Gabriel",
+      "Raphael",
+      "Uriel"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "What was the name of the mountain where Moses received the Ten Commandments?",
+    "options": [
+      "Mount Carmel",
+      "Mount Sinai",
+      "Mount Ararat",
+      "Mount Zion"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "Who was Barabbas?",
+    "options": [
+      "A disciple",
+      "A prisoner released instead of Jesus",
+      "A Pharisee",
+      "A Roman soldier"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "What language was most of the Old Testament written in?",
+    "options": [
+      "Greek",
+      "Latin",
+      "Hebrew",
+      "Aramaic"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": null
+  },
+  {
+    "question": "Who replaced Judas as the twelfth apostle?",
+    "options": [
+      "Paul",
+      "Matthias",
+      "Barnabas",
+      "Timothy"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Matthias was chosen by lot to replace Judas (Acts 1:26).",
+    "category": "newTestament"
+  },
+  {
+    "question": "What is the shortest verse in the Bible?",
+    "options": [
+      "God is love.",
+      "Jesus wept.",
+      "Pray always.",
+      "Amen."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "\"Jesus wept.\" — John 11:35.",
+    "category": "newTestament"
+  },
+  {
+    "question": "Which queen visited Solomon to test his wisdom?",
+    "options": [
+      "Queen Jezebel",
+      "Queen Esther",
+      "Queen of Sheba",
+      "Queen Vashti"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": "oldTestament"
+  },
+  {
+    "question": "How many days and nights did Jesus fast in the wilderness?",
+    "options": [
+      "7",
+      "21",
+      "40",
+      "30"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "What was the name of the garden where Jesus prayed before his arrest?",
+    "options": [
+      "Eden",
+      "Gethsemane",
+      "Golgotha",
+      "Calvary"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "Who was the Roman governor who sentenced Jesus to death?",
+    "options": [
+      "Herod",
+      "Pontius Pilate",
+      "Caesar",
+      "Felix"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": null,
+    "category": "newTestament"
+  },
+  {
+    "question": "Who was the father of John the Baptist?",
+    "options": [
+      "Joseph",
+      "Zechariah",
+      "Zacchaeus",
+      "Eli"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "An angel announced John's birth to his father Zechariah (Luke 1:5-25).",
+    "category": "newTestament"
+  },
+  {
+    "question": "How many years did the Israelites wander in the wilderness?",
+    "options": [
+      "7",
+      "40",
+      "70",
+      "400"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Israel wandered 40 years before entering Canaan (Numbers 14:33-34).",
+    "category": "oldTestament"
+  },
+  {
+    "question": "In which city was the apostle Paul converted?",
+    "options": [
+      "Antioch",
+      "Damascus",
+      "Ephesus",
+      "Corinth"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Saul met Jesus on the road to Damascus (Acts 9:1-19).",
+    "category": "newTestament"
+  },
+  {
+    "question": "Who succeeded Elijah as prophet?",
+    "options": [
+      "Elisha",
+      "Isaiah",
+      "Jeremiah",
+      "Hosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Elisha received a double portion of Elijah's spirit (2 Kings 2).",
+    "category": "oldTestament"
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "id": "gen.abraham",
+  "title": "Abraham",
+  "anchorRef": "GEN.12.2",
+  "backstory": "After the flood the nations scattered and again turned away from God. Rather than starting over, God chose one man from a family of idol-worshippers in Ur. Through this single family he would begin his plan to bless the whole world.",
+  "passages": [
+    {
+      "ref": "GEN.12.1-5",
+      "synopsis": "God called Abram to leave his country and family for a land he would show him. He promised to make Abram a great nation and to bless all peoples through him. Trusting God, Abram set out with his wife Sarai and his nephew Lot. He went, not knowing exactly where God would lead."
+    },
+    {
+      "ref": "GEN.15.1-6",
+      "synopsis": "Abram wondered how God's promise could come true, since he had no child. God took him outside and told him to count the stars — so many would his descendants be. Abram believed the LORD. And God counted his faith to him as righteousness."
+    },
+    {
+      "ref": "GEN.18.1-15",
+      "synopsis": "The LORD appeared to Abraham by the oaks of Mamre as three visitors. They promised that Sarah would have a son within the year. Sarah, listening at the tent, laughed, for she was far too old. But the LORD asked, \"Is any thing too hard for the LORD?\""
+    },
+    {
+      "ref": "GEN.22.1-14",
+      "synopsis": "God tested Abraham, telling him to offer his son Isaac on a mountain. Abraham obeyed, trusting God even in this. As he raised the knife, the angel of the LORD stopped him and provided a ram instead. Abraham named the place \"The LORD will provide.\""
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Genesis 15:6",
+          "text": "And he believed in the LORD; and he counted it to him for righteousness."
+        },
+        {
+          "reference": "Genesis 22:8",
+          "text": "God will provide himself a lamb for a burnt offering:"
+        },
+        {
+          "reference": "Genesis 12:2",
+          "text": "And I will make of thee a great nation"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God ask Abram to leave behind when He called him?",
+          "options": [
+            "His country and his family",
+            "His sheep and cattle",
+            "His name",
+            "His tent"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 12:1 — \"Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "To count what he could not number, God told Abram to look at the what?",
+          "options": [
+            "Grains of sand",
+            "Stars",
+            "Drops of rain",
+            "Leaves"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 15:5 — \"And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How old was Abram when he departed out of Haran?",
+          "options": [
+            "Forty years old",
+            "Sixty years old",
+            "Seventy-five years old",
+            "Ninety years old"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 12:4 — \"So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In place of Isaac, what animal did Abraham offer on the mountain?",
+          "options": [
+            "A lamb",
+            "A goat",
+            "A ram caught in a thicket",
+            "A bullock"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 22:13 — \"And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What name did Abraham give the place where God provided the ram?",
+          "options": [
+            "Beth-el",
+            "Beer-sheba",
+            "Mahanaim",
+            "Jehovah-jireh"
+          ],
+          "correctIndex": 3,
+          "explanation": "Genesis 22:14 — \"And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Abraham",
+          "clues": [
+            "God called me to leave my country for a land He would show me.",
+            "God promised my descendants would be as many as the stars.",
+            "I was told to offer my only son Isaac, but God provided a ram."
+          ],
+          "wrongChoices": [
+            "Noah",
+            "Lot",
+            "Terah"
+          ]
+        },
+        {
+          "name": "Isaac",
+          "clues": [
+            "I was the son God promised to my parents in their old age.",
+            "I carried the wood up the mountain for the burnt offering.",
+            "I asked my father, \"Where is the lamb for a burnt offering?\""
+          ],
+          "wrongChoices": [
+            "Ishmael",
+            "Jacob",
+            "Cain"
+          ]
+        },
+        {
+          "name": "Sarah",
+          "clues": [
+            "I was the wife of a man God called out of Haran.",
+            "I laughed when I heard I would bear a son in old age.",
+            "I bore Isaac when my husband was a hundred years old."
+          ],
+          "wrongChoices": [
+            "Hagar",
+            "Rebekah",
+            "Rachel"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ROM.4.3",
+    "HEB.11.8",
+    "JAS.2.23"
+  ],
+  "reflection": "Abraham obeyed before he could see how God's promise would be kept. Where is God asking you to trust and obey before you see the outcome?"
+}

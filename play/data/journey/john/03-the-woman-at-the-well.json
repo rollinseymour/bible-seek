@@ -1,0 +1,101 @@
+{
+  "id": "jhn.woman_at_the_well",
+  "title": "The Woman at the Well",
+  "anchorRef": "JHN.4.14",
+  "backstory": "Jesus was traveling from Judaea back to Galilee, and the road ran straight through Samaria, a region most Jewish travelers went far out of their way to avoid. Jews and Samaritans had kept their distance from each other for centuries. Tired from the walk, Jesus sat down beside an old well on the parcel of ground Jacob had given to his son Joseph, and waited.",
+  "passages": [
+    {
+      "ref": "JHN.4.5-15",
+      "synopsis": "Weary from his journey, Jesus sat down by Jacob's well about the middle of the day. A woman of Samaria came out to draw water, and he asked her for a drink. She was astonished that a Jewish man would speak to her at all. Jesus told her that if she knew who was asking, she would have asked him instead for living water. He promised a well of water springing up into everlasting life, and she asked him for it at once."
+    },
+    {
+      "ref": "JHN.4.16-26",
+      "synopsis": "Jesus asked her to call her husband, and then showed her gently that he already knew all about her life. Amazed, she called him a prophet and asked him where people ought to worship. Jesus told her the hour was coming when true worshippers would worship the Father in spirit and in truth. She answered that she knew the Messiah was coming and would tell them all things. Jesus told her plainly that he was the one speaking with her."
+    },
+    {
+      "ref": "JHN.4.27-42",
+      "synopsis": "The disciples came back and marvelled to find Jesus talking with her, though no one asked him why. She left her waterpot behind and ran into the city, telling everyone to come and see a man who told her everything she ever did. Jesus told his disciples to lift up their eyes, because the fields were already white for harvest. Many Samaritans believed because of what the woman said, and they begged Jesus to stay with them. After two days they told her they now believed for themselves, and that this is indeed the Christ, the Saviour of the world."
+    },
+    {
+      "ref": "JHN.4.46-54",
+      "synopsis": "Jesus came again to Cana of Galilee, where he had turned the water into wine. A nobleman from Capernaum came to him because his son was at the point of death. He begged Jesus to come down and heal the boy. Jesus simply told him to go his way, because his son was alive, and the man believed his word and set off home. His servants met him on the road with the news that the fever had left at that very hour, and his whole household believed."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "The woman of Samaria",
+          "clues": [
+            "I came alone to a well to draw water.",
+            "A tired traveler asked me for a drink and offered me living water.",
+            "I left my waterpot and ran to tell the whole city about him."
+          ],
+          "wrongChoices": [
+            "Mary Magdalene",
+            "Martha",
+            "Rahab"
+          ]
+        },
+        {
+          "name": "Jacob",
+          "clues": [
+            "I was the son of Isaac and the father of twelve sons.",
+            "I gave a parcel of ground in Samaria to my son Joseph.",
+            "A well beside that ground still carries my name."
+          ],
+          "wrongChoices": [
+            "Abraham",
+            "Joseph",
+            "Moses"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "John 4:24",
+          "text": "and they that worship him must worship him in spirit and in truth."
+        },
+        {
+          "reference": "John 4:26",
+          "text": "Jesus saith unto her, I that speak unto thee am he."
+        },
+        {
+          "reference": "John 4:29",
+          "text": "is not this the Christ?"
+        },
+        {
+          "reference": "John 4:50",
+          "text": "Jesus saith unto him, Go thy way; thy son liveth."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Woman at the Well",
+          "words": [
+            "SAMARIA",
+            "WELL",
+            "WATER",
+            "JACOB",
+            "SPIRIT",
+            "TRUTH",
+            "HARVEST"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.55.1",
+    "JHN.7.37",
+    "REV.22.17"
+  ],
+  "reflection": "Jesus knew everything about this woman and offered her living water anyway. What would it mean to be fully known and still fully welcomed?"
+}

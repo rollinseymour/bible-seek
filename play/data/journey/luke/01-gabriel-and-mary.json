@@ -1,0 +1,150 @@
+{
+  "id": "luk.gabriel_and_mary",
+  "title": "Gabriel and Mary",
+  "anchorRef": "LUK.1.37",
+  "backstory": "Luke wrote his Gospel so that a friend named Theophilus could know for certain the things he had been taught. It opens four hundred years after the last prophet spoke, with Israel living under Roman rule and waiting for God to act. Then, in a temple and in a small town called Nazareth, an angel arrives with news that God has not forgotten his promises.",
+  "passages": [
+    {
+      "ref": "LUK.1.5-17",
+      "synopsis": "An old priest named Zacharias was chosen to burn incense in the temple. He and his wife Elisabeth loved God, but they had never been able to have a child. While he served, an angel stood by the altar and told him not to be afraid. Elisabeth would have a son named John, who would go before the Lord and make a people ready for him."
+    },
+    {
+      "ref": "LUK.1.26-38",
+      "synopsis": "Six months later God sent the angel Gabriel to Nazareth, a small town in Galilee. He greeted a young woman named Mary and told her she had found favour with God. She would have a son, and she was to call his name Jesus, and his kingdom would never end. Mary asked how this could be, and the angel answered that nothing is impossible with God."
+    },
+    {
+      "ref": "LUK.1.39-45",
+      "synopsis": "Mary hurried into the hill country to the house of Zacharias and Elisabeth. When Elisabeth heard Mary's greeting, the baby leaped inside her for joy. Filled with the Holy Ghost, Elisabeth blessed Mary and called her the mother of her Lord. She said that Mary was blessed because she had believed what God told her."
+    },
+    {
+      "ref": "LUK.1.46-56",
+      "synopsis": "Mary answered with a song of praise that has been sung ever since. She rejoiced in God her Saviour, who had noticed a young woman of no importance in the world. She sang that God lifts up the lowly, fills the hungry, and keeps the mercy he promised to Abraham long ago. Mary stayed with Elisabeth about three months and then returned home."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Luke 1:37",
+          "text": "For with God nothing shall be impossible."
+        },
+        {
+          "reference": "Luke 1:30",
+          "text": "Fear not, Mary: for thou hast found favour with God."
+        },
+        {
+          "reference": "Luke 1:46",
+          "text": "And Mary said, My soul doth magnify the Lord,"
+        },
+        {
+          "reference": "Luke 1:47",
+          "text": "And my spirit hath rejoiced in God my Saviour."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What name did the angel tell Zacharias to give his son?",
+          "options": [
+            "James",
+            "John",
+            "Joseph",
+            "Judah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Luke 1:13 — \"But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "In what town was Mary living when Gabriel came to her?",
+          "options": [
+            "Bethlehem",
+            "Jerusalem",
+            "Nazareth",
+            "Capernaum"
+          ],
+          "correctIndex": 2,
+          "explanation": "Luke 1:26 — \"And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How did Mary answer the angel's news?",
+          "options": [
+            "Behold the handmaid of the Lord",
+            "Send someone else",
+            "I am afraid to go",
+            "Give me a sign first"
+          ],
+          "correctIndex": 0,
+          "explanation": "Luke 1:38 — \"And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What happened when Mary greeted Elisabeth?",
+          "options": [
+            "The house shook",
+            "Elisabeth wept",
+            "Mary said nothing",
+            "The babe leaped in Elisabeth's womb for joy"
+          ],
+          "correctIndex": 3,
+          "explanation": "Luke 1:44 — \"For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy.\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Mary",
+          "clues": [
+            "The angel Gabriel came to me in Nazareth.",
+            "I said, 'Behold the handmaid of the Lord.'",
+            "I sang that my soul doth magnify the Lord."
+          ],
+          "wrongChoices": [
+            "Elisabeth",
+            "Martha",
+            "Anna"
+          ]
+        },
+        {
+          "name": "Zacharias",
+          "clues": [
+            "I was a priest, and my lot was to burn incense in the temple.",
+            "I asked the angel how I could know this, and I was struck dumb.",
+            "I could not speak until my son John was born."
+          ],
+          "wrongChoices": [
+            "Simeon",
+            "Joseph",
+            "Eli"
+          ]
+        },
+        {
+          "name": "Elisabeth",
+          "clues": [
+            "I was old, and I had no children.",
+            "My cousin Mary came to visit me in the hill country.",
+            "I called her the mother of my Lord."
+          ],
+          "wrongChoices": [
+            "Mary",
+            "Hannah",
+            "Anna"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.7.14",
+    "2SA.7.16",
+    "GAL.4.4"
+  ],
+  "reflection": "Mary was told something far bigger than she was, and she said yes. What has God asked of you that you cannot do on your own?"
+}

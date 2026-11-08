@@ -1,0 +1,92 @@
+{
+  "id": "job.out_of_the_whirlwind",
+  "title": "Out of the Whirlwind",
+  "anchorRef": "JOB.38.4",
+  "backstory": "For many chapters Job and his friends argued about why he was suffering, and none of them had the full answer. Job longed for God himself to speak. At last the LORD answered — not with an explanation, but out of a mighty whirlwind, with questions no man could answer.",
+  "passages": [
+    {
+      "ref": "JOB.38.1-11",
+      "synopsis": "The LORD answered Job out of the whirlwind. He asked Job where he was when God laid the foundations of the earth, while the morning stars sang together. He asked who shut up the sea behind doors and told the proud waves how far they could come. Job had never faced questions so great."
+    },
+    {
+      "ref": "JOB.38.12-21",
+      "synopsis": "God asked whether Job had ever commanded the morning or shown the dawn its place. He asked whether Job had walked in the springs of the sea or seen where light and darkness live. Job could not answer even one of these questions. Only the Maker of all things could."
+    },
+    {
+      "ref": "JOB.38.31-41",
+      "synopsis": "God pointed Job to the night sky — the Pleiades, Orion, and the constellations in their seasons. He asked who leads them across the heavens, who counts the clouds, and who sends the rain on the earth. Even the lions and the young ravens look to God for their food. All creation depends on him."
+    },
+    {
+      "ref": "JOB.39.19-28",
+      "synopsis": "God asked Job about the wild creatures he had made. The mighty horse paws in the valley and rushes toward battle without fear. The hawk flies by God's wisdom, and the eagle mounts up at his command to make her nest on high. She dwells upon the rock, on the crag of the rock, where no one else can climb. Every creature shows the power and care of its Maker."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Job 38:1",
+          "text": "Then the LORD answered Job out of the whirlwind, and said,"
+        },
+        {
+          "reference": "Job 38:2",
+          "text": "Who is this that darkeneth counsel by words without knowledge?"
+        },
+        {
+          "reference": "Job 38:4",
+          "text": "Where wast thou when I laid the foundations of the earth?"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Out of the Whirlwind",
+          "words": [
+            "WHIRLWIND",
+            "STARS",
+            "MORNING",
+            "SEA",
+            "ORION",
+            "RAVEN",
+            "HORSE",
+            "EAGLE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "WHIRLWIND",
+          "hint": "God answered Job out of this",
+          "theme": "things"
+        },
+        {
+          "word": "PLEIADES",
+          "hint": "A cluster of stars God asked Job about",
+          "theme": "things"
+        },
+        {
+          "word": "THUNDER",
+          "hint": "God clothed the horse's neck with this",
+          "theme": "things"
+        },
+        {
+          "word": "EAGLE",
+          "hint": "She mounts up and nests on high",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.19.1",
+    "ISA.40.26",
+    "ROM.11.33"
+  ],
+  "reflection": "God answered Job with questions about stars, seas, and eagles. How does looking closely at God's creation change the way you see your troubles?"
+}

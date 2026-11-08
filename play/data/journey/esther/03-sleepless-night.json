@@ -1,0 +1,105 @@
+{
+  "id": "est.sleepless_night",
+  "title": "The Sleepless Night",
+  "anchorRef": "EST.6.1",
+  "backstory": "Esther and the Jews of Shushan have fasted for three days, and now she must approach the king uninvited, a step that could cost her life. Haman, meanwhile, stands at the height of his pride and plots against Mordecai. In one restless night, God quietly begins to turn the whole story upside down.",
+  "passages": [
+    {
+      "ref": "EST.5.1-8",
+      "synopsis": "On the third day Esther put on her royal robes and stood in the inner court. When the king saw her, he held out the golden sceptre, and she was safe. He offered her anything, up to half the kingdom, but Esther simply invited the king and Haman to a banquet. There she asked only that they both come again the next day."
+    },
+    {
+      "ref": "EST.5.9-14",
+      "synopsis": "Haman left the banquet glad and proud, until he saw Mordecai at the king's gate still refusing to rise for him. At home he boasted of his riches and honors, yet said it all meant nothing while Mordecai remained. His wife Zeresh and his friends told him to build a high gallows and ask the king to hang Mordecai on it. The idea pleased Haman, and the gallows was built."
+    },
+    {
+      "ref": "EST.6.1-14",
+      "synopsis": "That very night the king could not sleep, so he had the royal records read aloud, and he heard how Mordecai had once saved his life and never been rewarded. Just then Haman arrived, hoping to speak against Mordecai. The king asked him how to honor a worthy man, and Haman, thinking the honor was for himself, described a royal parade. So Haman was made to lead Mordecai through the city on the king's own horse, proclaiming his honor."
+    },
+    {
+      "ref": "EST.7.1-10",
+      "synopsis": "At the second banquet the king again asked Esther for her request. She begged for her own life and the life of her people, for they had been sold to be destroyed. When the king demanded to know who would dare such a thing, Esther answered that the enemy was this wicked Haman. The king rose in anger, and Haman met his end on the very gallows he had prepared for Mordecai."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Haman",
+          "clues": [
+            "The king set my seat above all the princes.",
+            "I was full of wrath when Mordecai would not bow to me.",
+            "I had to lead through the streets the very man I hated, proclaiming his honor."
+          ],
+          "wrongChoices": [
+            "Memucan",
+            "Bigthan",
+            "Ahasuerus"
+          ]
+        },
+        {
+          "name": "Ahasuerus",
+          "clues": [
+            "I reigned from India even unto Ethiopia.",
+            "One night I could not sleep, so I had the book of records read to me.",
+            "I held out my golden sceptre so Esther could live."
+          ],
+          "wrongChoices": [
+            "Darius",
+            "Cyrus",
+            "Nebuchadnezzar"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Esther 6:1",
+          "text": "On that night could not the king sleep"
+        },
+        {
+          "reference": "Esther 7:6",
+          "text": "The adversary and enemy is this wicked Haman."
+        },
+        {
+          "reference": "Esther 5:3",
+          "text": "Then said the king unto her, What wilt thou, queen Esther?"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "BANQUET",
+          "hint": "Esther prepared two of these for the king and Haman",
+          "theme": "things"
+        },
+        {
+          "word": "CHRONICLES",
+          "hint": "The book of records read to the sleepless king",
+          "theme": "things"
+        },
+        {
+          "word": "SCEPTRE",
+          "hint": "The golden rod the king held out to Esther",
+          "theme": "things"
+        },
+        {
+          "word": "ZERESH",
+          "hint": "Haman's wife, who urged him on against Mordecai",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PRO.21.1",
+    "PRO.16.18",
+    "PSA.7.15"
+  ],
+  "reflection": "In one sleepless night, God turned the whole story around without a single visible miracle. When has God quietly worked things out for you?"
+}

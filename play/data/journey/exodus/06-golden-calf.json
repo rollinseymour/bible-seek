@@ -1,0 +1,117 @@
+{
+  "id": "exo.golden_calf",
+  "title": "The Golden Calf",
+  "anchorRef": "EXO.34.6",
+  "backstory": "Moses climbed Sinai and stayed forty days, and the people below grew restless waiting on a leader they could not see. They had witnessed the plagues and the sea, yet they had spent their whole lives surrounded by Egypt's images. Their first instinct was to make a god they could look at.",
+  "passages": [
+    {
+      "ref": "EXO.32.1-6",
+      "synopsis": "When Moses stayed long on the mountain, the people grew impatient. They asked Aaron to make them gods to lead them. Aaron gathered their gold and shaped it into a calf, and they worshiped it. They held a feast, forgetting the God who had rescued them."
+    },
+    {
+      "ref": "EXO.32.15-20",
+      "synopsis": "Moses came down the mountain carrying the two tables of the law, written by God. When he saw the calf and the dancing, his anger burned. He threw down the tables and broke them at the foot of the mountain. Then he ground the idol to powder."
+    },
+    {
+      "ref": "EXO.32.21-29",
+      "synopsis": "Moses asked Aaron how he could have led the people into such a great sin. Aaron made excuses, saying the calf had simply come out of the fire. The people had run wild, and judgment fell that day. Moses called those who were for the LORD to stand with him."
+    },
+    {
+      "ref": "EXO.34.1-9",
+      "synopsis": "God told Moses to cut two new tables of stone like the first. On the mountain the LORD passed by and proclaimed his name. He is merciful and gracious, slow to anger, and abundant in goodness and truth. Moses bowed low and asked the LORD to go with his people and pardon their sin."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Golden Calf",
+          "words": [
+            "CALF",
+            "GOLD",
+            "AARON",
+            "MOUNT",
+            "ANGER"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the people make while Moses was on the mountain?",
+          "options": [
+            "A silver ark",
+            "A golden calf",
+            "A bronze serpent",
+            "A wooden idol"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exodus 32:4 — \"And he received them at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These be thy gods, O Israel, which brought thee up out of the land of Egypt.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who made the calf at the people's request?",
+          "options": [
+            "Aaron",
+            "Joshua",
+            "Hur",
+            "Nadab"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exodus 32:35 — \"And the LORD plagued the people, because they made the calf, which Aaron made.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Moses do with the stone tables when he saw the calf?",
+          "options": [
+            "Hid them",
+            "Buried them",
+            "Lifted them up",
+            "Broke them"
+          ],
+          "correctIndex": 3,
+          "explanation": "Exodus 32:19 — \"And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did the LORD proclaim Himself to Moses afterward?",
+          "options": [
+            "Swift and terrible",
+            "Silent and hidden",
+            "Merciful and gracious",
+            "Distant and holy"
+          ],
+          "correctIndex": 2,
+          "explanation": "Exodus 34:6 — \"And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Exodus 34:17",
+          "text": "Thou shalt make thee no molten gods."
+        },
+        {
+          "reference": "Exodus 34:8",
+          "text": "And Moses made haste, and bowed his head toward the earth, and worshipped."
+        },
+        {
+          "reference": "Exodus 32:4",
+          "text": "after he had made it a molten calf:"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "1CO.10.7",
+    "PSA.106.19",
+    "ACT.7.41"
+  ],
+  "reflection": "Even after Israel's failure, God showed mercy. How does his grace meet you when you fall short?"
+}

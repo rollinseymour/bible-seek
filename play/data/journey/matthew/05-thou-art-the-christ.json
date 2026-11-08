@@ -1,0 +1,133 @@
+{
+  "id": "mat.thou_art_the_christ",
+  "title": "Thou Art the Christ",
+  "anchorRef": "MAT.16.16",
+  "backstory": "Halfway through Matthew the question underneath every miracle finally comes into the open: who is this man? The disciples have watched Jesus heal, teach, feed thousands, and still the crowds cannot agree about him. Now Jesus asks his friends directly, and the answer changes everything about where the story is going.",
+  "passages": [
+    {
+      "ref": "MAT.14.22-33",
+      "synopsis": "Jesus sent the disciples ahead in a boat and went up a mountain alone to pray. Late in the night the boat was far out and tossed by contrary winds, and Jesus came to them walking on the sea. They were frightened until he said, \"Be of good cheer; it is I; be not afraid.\" Peter walked out to him on the water, grew afraid, and began to sink, and Jesus caught him at once. When they climbed into the boat the wind stopped, and the disciples worshipped him as the Son of God."
+    },
+    {
+      "ref": "MAT.16.13-20",
+      "synopsis": "In the region of Caesarea Philippi Jesus asked his disciples who people said he was. They reported the guesses going around: John the Baptist, Elias, Jeremias, or one of the prophets. Then Jesus asked what they themselves believed. Simon Peter answered that he was the Christ, the Son of the living God. Jesus called him blessed, for his Father in heaven had revealed it, and gave him the name Peter, the rock on which he would build his church, charging them all to tell no man for now."
+    },
+    {
+      "ref": "MAT.16.21-28",
+      "synopsis": "From that time Jesus began to tell his disciples plainly that he must go to Jerusalem, suffer, be killed, and rise again the third day. Peter took him aside and objected, and Jesus rebuked him for thinking like men rather than like God. Then he told them all that anyone who would follow him must deny himself and take up his cross. Whoever tries to save his life will lose it, but whoever loses his life for Jesus will find it."
+    },
+    {
+      "ref": "MAT.17.1-9",
+      "synopsis": "Six days later Jesus took Peter, James, and John up a high mountain by themselves. There he was changed before their eyes, his face shining like the sun and his clothing white as light, while Moses and Elias appeared talking with him. Peter offered to build three shelters, but a bright cloud covered them and a voice said this was his beloved Son and that they should hear him. The disciples fell on their faces afraid until Jesus touched them and told them to rise and not be afraid."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Peter",
+          "clues": [
+            "I once walked on the water toward Jesus.",
+            "I answered that Jesus is the Christ, the Son of the living God.",
+            "I saw his face shine on the mountain and offered to build three tabernacles."
+          ],
+          "wrongChoices": [
+            "Andrew",
+            "Thomas",
+            "Philip"
+          ]
+        },
+        {
+          "name": "Moses",
+          "clues": [
+            "I led God's people out of Egypt long ago.",
+            "I received God's law on a mountain.",
+            "I appeared with Elias, talking with Jesus on the mount."
+          ],
+          "wrongChoices": [
+            "Abraham",
+            "Samuel",
+            "Joshua"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Matthew 14:27",
+          "text": "Be of good cheer; it is I; be not afraid."
+        },
+        {
+          "reference": "Matthew 16:16",
+          "text": "Thou art the Christ, the Son of the living God."
+        },
+        {
+          "reference": "Matthew 16:24",
+          "text": "let him deny himself, and take up his cross, and follow me."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Peter cry out when he began to sink on the water?",
+          "options": [
+            "\"Lord, save me\"",
+            "\"Be of good cheer\"",
+            "\"It is a spirit\"",
+            "\"Depart from me\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Matthew 14:30 — \"But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Where was Jesus when he asked his disciples who men said he was?",
+          "options": [
+            "In Bethany",
+            "In the coasts of Caesarea Philippi",
+            "In Capernaum",
+            "In Jericho"
+          ],
+          "correctIndex": 1,
+          "explanation": "Matthew 16:13 — \"When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Who appeared with Jesus on the mountain when he was transfigured?",
+          "options": [
+            "Abraham and Isaac",
+            "David and Samuel",
+            "Noah and Job",
+            "Moses and Elias"
+          ],
+          "correctIndex": 3,
+          "explanation": "Matthew 17:3 — \"And, behold, there appeared unto them Moses and Elias talking with him.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the voice out of the bright cloud say about Jesus?",
+          "options": [
+            "That he was a great prophet",
+            "That he was the son of David",
+            "That he was the beloved Son, and they should hear him",
+            "That he would soon be king"
+          ],
+          "correctIndex": 2,
+          "explanation": "Matthew 17:5 — \"While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.\"",
+          "category": "newTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "DAN.7.13",
+    "2PE.1.17",
+    "ROM.10.9"
+  ],
+  "reflection": "Jesus asked his closest friends, \"But whom say ye that I am?\" How would you answer him today?"
+}

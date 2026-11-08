@@ -1,0 +1,127 @@
+{
+  "id": "rut.loyalty",
+  "title": "Ruth's Loyalty",
+  "anchorRef": "RUT.1.16",
+  "backstory": "Ruth takes place during the days of the judges, when everyone did what was right in their own eyes. Against that dark backdrop it tells a quiet story of one family. A famine in Bethlehem — the 'house of bread' — drives them to Moab, a nation long hostile to Israel.",
+  "passages": [
+    {
+      "ref": "RUT.1.1-5",
+      "synopsis": "In the days of the judges a famine drove a family from Bethlehem to Moab. There the father died, and later both sons died as well. Naomi was left without her husband and her two boys. She was far from home with only her two daughters-in-law."
+    },
+    {
+      "ref": "RUT.1.6-18",
+      "synopsis": "Naomi decided to return to Bethlehem and told her daughters-in-law to go home. Orpah kissed her and left, but Ruth would not go. \"Whither thou goest, I will go,\" Ruth said. \"Thy people shall be my people, and thy God my God.\""
+    },
+    {
+      "ref": "RUT.1.19-22",
+      "synopsis": "Ruth and Naomi arrived in Bethlehem, and the whole town was stirred. Naomi asked to be called Mara, meaning bitter, because of her sorrow. They came back at the start of the barley harvest. God was quietly at work in their grief."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Ruth",
+          "clues": [
+            "I was a woman of Moab.",
+            "I said, 'Whither thou goest, I will go.'",
+            "I left my homeland to stay with Naomi."
+          ],
+          "wrongChoices": [
+            "Orpah",
+            "Naomi",
+            "Rahab"
+          ]
+        },
+        {
+          "name": "Naomi",
+          "clues": [
+            "I lost my husband and both my sons.",
+            "I asked to be called Mara, meaning bitter.",
+            "My daughter-in-law Ruth would not leave me."
+          ],
+          "wrongChoices": [
+            "Ruth",
+            "Orpah",
+            "Hannah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Ruth say to Naomi?",
+          "options": [
+            "\"Whither thou goest, I will go\"",
+            "\"Return to Moab\"",
+            "\"Leave me here\"",
+            "\"Find me a home\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 1:16 — \"And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "To what town did Naomi and Ruth return?",
+          "options": [
+            "Bethlehem",
+            "Jericho",
+            "Moab",
+            "Hebron"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 1:22 — \"So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Naomi ask to be called when she returned?",
+          "options": [
+            "Mara",
+            "Rachel",
+            "Leah",
+            "Hannah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 1:20 — \"And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "At what harvest did Naomi and Ruth come to Bethlehem?",
+          "options": [
+            "The wheat harvest",
+            "The grape harvest",
+            "The barley harvest",
+            "The olive harvest"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ruth 1:22 — \"So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Ruth's Loyalty",
+          "words": [
+            "RUTH",
+            "NAOMI",
+            "MOAB",
+            "STAY",
+            "LOVE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "RUT.2.11",
+    "PRO.17.17",
+    "MAT.1.5"
+  ],
+  "reflection": "Ruth bound herself to Naomi and to Naomi's God. What does loyal, self-giving love cost — and give?"
+}

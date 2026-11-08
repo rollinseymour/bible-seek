@@ -1,0 +1,115 @@
+{
+  "id": "ecc.all_is_vanity",
+  "title": "All Is Vanity",
+  "anchorRef": "ECC.1.2",
+  "backstory": "Solomon, the son of David, was the wisest and richest king Israel ever knew. Near the end of his life he wrote down what he had learned, calling himself the Preacher. He tried everything the world could offer — pleasure, work, wealth, and wisdom — to find out what truly lasts under the sun.",
+  "passages": [
+    {
+      "ref": "ECC.1.1-11",
+      "synopsis": "The Preacher, the son of David and king in Jerusalem, begins his book with a startling cry: vanity of vanities, all is vanity. Generations come and go, but the earth remains. The sun rises and sets, the wind circles round, and the rivers run into the sea that is never full. There is no new thing under the sun."
+    },
+    {
+      "ref": "ECC.1.12-18",
+      "synopsis": "The Preacher gave his heart to search out by wisdom everything done under heaven. He had gained more wisdom than all who were in Jerusalem before him. Yet even wisdom, he found, could not make the crooked straight, nor count what is missing. In much wisdom is much grief, and he that increaseth knowledge increaseth sorrow."
+    },
+    {
+      "ref": "ECC.2.1-11",
+      "synopsis": "Next the Preacher tested pleasure — laughter, feasting, and every delight. He built houses, planted vineyards and gardens, made pools of water, and gathered silver and gold and singers. Whatever his eyes desired, he did not hold back. Then he looked at all his hands had done, and behold, all was vanity and vexation of spirit. There was no lasting profit under the sun."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ecclesiastes 1:2",
+          "text": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity."
+        },
+        {
+          "reference": "Ecclesiastes 1:14",
+          "text": "I have seen all the works that are done under the sun;"
+        },
+        {
+          "reference": "Ecclesiastes 1:18",
+          "text": "For in much wisdom is much grief:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What repeated word does the Preacher use to describe everything under the sun?",
+          "options": [
+            "Glory",
+            "Vanity",
+            "Riches",
+            "Wisdom"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ecclesiastes 1:2 — \"Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who wrote the words of Ecclesiastes?",
+          "options": [
+            "The Preacher, the son of David",
+            "A shepherd of Tekoa",
+            "A scribe in Babylon",
+            "A fisherman of Galilee"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ecclesiastes 1:1 — \"The words of the Preacher, the son of David, king in Jerusalem.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "According to the Preacher, what is there none of under the sun?",
+          "options": [
+            "Rest",
+            "Rain",
+            "Kings",
+            "A new thing"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ecclesiastes 1:9 — \"The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "After finishing his houses, vineyards, and gardens, what did the Preacher find?",
+          "options": [
+            "Lasting joy",
+            "Great honour",
+            "All was vanity and vexation of spirit",
+            "A greater kingdom"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ecclesiastes 2:11 — \"Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "All Is Vanity",
+          "words": [
+            "VANITY",
+            "PREACHER",
+            "SUN",
+            "WISDOM",
+            "GARDENS",
+            "SILVER",
+            "LABOUR"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.39.5",
+    "MAT.16.26",
+    "JAS.4.14"
+  ],
+  "reflection": "The Preacher had everything money and power could gain, yet it left him empty. Where do you look for what truly satisfies?"
+}

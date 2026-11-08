@@ -1,0 +1,116 @@
+{
+  "id": "jos.achan",
+  "title": "The Hidden Sin",
+  "anchorRef": "JOS.7.13",
+  "backstory": "After Jericho fell, everything in it was devoted to God and forbidden to Israel. The next target, Ai, was small enough that Joshua sent only a few thousand men — and they were routed. Joshua had no idea why.",
+  "passages": [
+    {
+      "ref": "JOS.7.1-12",
+      "synopsis": "After Jericho, Israel was defeated at the small city of Ai. Joshua fell on his face before God, wondering why. God said Israel had sinned by taking things that were to be destroyed. Sin in the camp had cost them the victory."
+    },
+    {
+      "ref": "JOS.7.19-26",
+      "synopsis": "The guilty man was found to be Achan. He confessed that he had seen silver, gold, and a beautiful garment and had coveted and hidden them. What he thought was hidden had been seen by God all along. His sin brought sorrow to himself and all Israel."
+    },
+    {
+      "ref": "JOS.8.30-35",
+      "synopsis": "After dealing with the sin, Joshua built an altar to the LORD. He read aloud all the words of the law, the blessings and the curses. Everyone heard, including women, children, and strangers. Israel renewed its commitment to obey God."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Hidden Things",
+          "words": [
+            "SIN",
+            "GOLD",
+            "SILVER",
+            "HIDDEN",
+            "TENT"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Why was Israel defeated at Ai?",
+          "options": [
+            "Someone had sinned in the camp",
+            "The army was too small",
+            "They had no weapons",
+            "They lost their way"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 7:11 — \"Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put it even among their own stuff.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What had Achan taken and hidden?",
+          "options": [
+            "Silver, gold, and a garment",
+            "Bread and wine",
+            "A sword",
+            "A scroll"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 7:21 — \"When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Of which tribe was Achan?",
+          "options": [
+            "Benjamin",
+            "Judah",
+            "Dan",
+            "Levi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Joshua 7:1 — \"But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Joshua write upon the stones of the altar in mount Ebal?",
+          "options": [
+            "The names of the twelve tribes",
+            "The song of Moses",
+            "A copy of the law of Moses",
+            "A record of the battles"
+          ],
+          "correctIndex": 2,
+          "explanation": "Joshua 8:32 — \"And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "ACHAN",
+          "hint": "He hid what was devoted to God",
+          "theme": "people"
+        },
+        {
+          "word": "SILVER",
+          "hint": "Part of the spoil Achan stole",
+          "theme": "things"
+        },
+        {
+          "word": "GARMENT",
+          "hint": "The goodly Babylonish robe Achan took",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "NUM.32.23",
+    "1CO.5.6",
+    "HEB.4.13"
+  ],
+  "reflection": "Achan thought his sin was hidden, but God saw it. How does knowing God sees everything change the way you live?"
+}

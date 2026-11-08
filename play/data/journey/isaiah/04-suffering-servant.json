@@ -1,0 +1,133 @@
+{
+  "id": "isa.suffering_servant",
+  "title": "The Suffering Servant",
+  "anchorRef": "ISA.53.5",
+  "backstory": "Woven through the second half of Isaiah are songs about a mysterious servant of the LORD. He would be gentle and faithful, yet suffer terribly — not for his own sins, but for ours. Written seven hundred years before the cross, these words give the Old Testament's clearest picture of Jesus.",
+  "passages": [
+    {
+      "ref": "ISA.42.1-9",
+      "synopsis": "Long before the servant suffered, God introduced him with delight: Behold my servant, whom I uphold. He would be gentle, never breaking a bruised reed or quenching a dimly burning flame. God would give him as a covenant for the people and a light for the nations. He would open blind eyes and set prisoners free."
+    },
+    {
+      "ref": "ISA.52.13-53.3",
+      "synopsis": "God's servant would deal wisely and be lifted very high, yet first he would be deeply marred. He grew up like a tender plant, with no outward beauty to draw people to him. He was despised and rejected of men, a man of sorrows, acquainted with grief. Many hid their faces from him."
+    },
+    {
+      "ref": "ISA.53.4-9",
+      "synopsis": "The servant carried griefs and sorrows that were not his own. He was wounded for our transgressions and bruised for our iniquities, and with his stripes we are healed. Like sheep, we had all gone astray, and the LORD laid our sin on him. Silent as a lamb, he was led away, though he had done no violence at all."
+    },
+    {
+      "ref": "ISA.53.10-12",
+      "synopsis": "The servant's suffering was not an accident but part of God's plan, for his soul was made an offering for sin. Beyond the sorrow, he would see his seed and be satisfied. God's righteous servant would justify many, for he would bear their iniquities. He was numbered with the transgressors, yet made intercession for them."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Isaiah 53:1",
+          "text": "Who hath believed our report?"
+        },
+        {
+          "reference": "Isaiah 53:5",
+          "text": "But he was wounded for our transgressions,"
+        },
+        {
+          "reference": "Isaiah 53:6",
+          "text": "All we like sheep have gone astray;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "To what animals does Isaiah compare us when he says we have all gone astray?",
+          "options": [
+            "Goats",
+            "Sheep",
+            "Oxen",
+            "Doves"
+          ],
+          "correctIndex": 1,
+          "explanation": "Isaiah 53:6 — \"All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the servant do when he was oppressed and afflicted?",
+          "options": [
+            "He called down fire",
+            "He fled to the mountains",
+            "He opened not his mouth",
+            "He cried out against his enemies"
+          ],
+          "correctIndex": 2,
+          "explanation": "Isaiah 53:7 — \"He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Isaiah says the servant was wounded for our what?",
+          "options": [
+            "Transgressions",
+            "Victories",
+            "Enemies",
+            "Journeys"
+          ],
+          "correctIndex": 0,
+          "explanation": "Isaiah 53:5 — \"But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "For whom did the suffering servant make intercession?",
+          "options": [
+            "The angels",
+            "The kings of the earth",
+            "The priests",
+            "The transgressors"
+          ],
+          "correctIndex": 3,
+          "explanation": "Isaiah 53:12 — \"Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Jesus",
+          "clues": [
+            "Isaiah told my story seven hundred years before I was born in Bethlehem.",
+            "I was despised and rejected of men, a man of sorrows.",
+            "I was brought as a lamb to the slaughter, and with my stripes you are healed."
+          ],
+          "wrongChoices": [
+            "Moses",
+            "Elijah",
+            "David"
+          ]
+        },
+        {
+          "name": "Isaiah",
+          "clues": [
+            "I asked, Who hath believed our report?",
+            "God showed me a servant who would bear the sins of many.",
+            "I wrote of the suffering servant long before the cross."
+          ],
+          "wrongChoices": [
+            "Jeremiah",
+            "Daniel",
+            "Hosea"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ACT.8.35",
+    "1PE.2.24",
+    "JHN.1.29"
+  ],
+  "reflection": "The servant carried sorrows that were not his own. What does it mean to you that he was wounded for our transgressions?"
+}

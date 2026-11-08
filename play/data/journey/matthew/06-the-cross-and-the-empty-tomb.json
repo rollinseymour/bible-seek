@@ -1,0 +1,134 @@
+{
+  "id": "mat.the_cross_and_the_empty_tomb",
+  "title": "The Cross and the Empty Tomb",
+  "anchorRef": "MAT.28.20",
+  "backstory": "Jesus has come to Jerusalem for the last week of his earthly life, knowing exactly what waits for him there. He has eaten a final supper with his friends and told them plainly that he would be handed over. Everything Matthew has been building toward since Bethlehem now comes to its center: the cross, and then the morning that followed it.",
+  "passages": [
+    {
+      "ref": "MAT.26.36-46",
+      "synopsis": "Jesus came with his disciples to a garden called Gethsemane and asked Peter, James, and John to watch with him. Deeply sorrowful, he went a little further and fell on his face to pray. He asked his Father that the cup might pass from him, yet said, \"not as I will, but as thou wilt.\" Three times he returned and found his friends asleep, and he told them to watch and pray. Then he rose, knowing the hour had come."
+    },
+    {
+      "ref": "MAT.27.45-54",
+      "synopsis": "From the sixth hour to the ninth hour darkness covered all the land while Jesus hung on the cross. He cried out with a loud voice, \"My God, my God, why hast thou forsaken me?\" Then he cried again and gave up his spirit. At that moment the veil of the temple was torn in two from top to bottom, the earth shook, and rocks split apart. The centurion and the soldiers watching were filled with fear and said, \"Truly this was the Son of God.\""
+    },
+    {
+      "ref": "MAT.28.1-10",
+      "synopsis": "As the first day of the week began to dawn, Mary Magdalene and the other Mary came to see the tomb. There was a great earthquake, and an angel of the Lord rolled back the stone and sat upon it. The angel told the women not to fear, because Jesus was not there; he had risen, just as he said. They ran with fear and great joy to tell the disciples, and on the way Jesus himself met them and told them not to be afraid."
+    },
+    {
+      "ref": "MAT.28.16-20",
+      "synopsis": "The eleven disciples went to Galilee, to the mountain where Jesus had told them to meet him. When they saw him they worshipped him, though some still wondered. Jesus told them that all power in heaven and in earth had been given to him. He sent them to teach all nations and to baptize them, promising that he would be with them always, even unto the end of the world."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Matthew 26:41",
+          "text": "Watch and pray, that ye enter not into temptation:"
+        },
+        {
+          "reference": "Matthew 28:6",
+          "text": "He is not here: for he is risen, as he said."
+        },
+        {
+          "reference": "Matthew 28:18",
+          "text": "All power is given unto me in heaven and in earth."
+        },
+        {
+          "reference": "Matthew 28:20",
+          "text": "I am with you alway, even unto the end of the world."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Jesus pray in the garden of Gethsemane?",
+          "options": [
+            "\"Father, forgive them\"",
+            "\"O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt\"",
+            "\"Thy word is truth\"",
+            "\"Peace be unto you\""
+          ],
+          "correctIndex": 1,
+          "explanation": "Matthew 26:39 — \"And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What happened to the veil of the temple?",
+          "options": [
+            "It was rent in twain from the top to the bottom",
+            "It was folded and carried away",
+            "It was replaced with a new one",
+            "It was hung across the door"
+          ],
+          "correctIndex": 0,
+          "explanation": "Matthew 27:51 — \"And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Who said, \"Truly this was the Son of God\"?",
+          "options": [
+            "Pilate",
+            "The centurion and those with him",
+            "Peter",
+            "Mary Magdalene"
+          ],
+          "correctIndex": 1,
+          "explanation": "Matthew 27:54 — \"Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the angel tell the women at the tomb?",
+          "options": [
+            "\"He is not here: for he is risen, as he said\"",
+            "\"Wait here until he comes\"",
+            "\"Go home and say nothing\"",
+            "\"Seek him in Jerusalem\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Matthew 28:6 — \"He is not here: for he is risen, as he said. Come, see the place where the Lord lay.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Whom did Jesus send his disciples to teach?",
+          "options": [
+            "Only the people of Jerusalem",
+            "Only the house of Israel",
+            "All nations",
+            "Only their own families"
+          ],
+          "correctIndex": 2,
+          "explanation": "Matthew 28:19 — \"Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Cross and the Empty Tomb",
+          "words": [
+            "JESUS",
+            "RISEN",
+            "ANGEL",
+            "STONE",
+            "GALILEE",
+            "NATIONS"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.22.1",
+    "1CO.15.3",
+    "ACT.1.8"
+  ],
+  "reflection": "Jesus promised, \"lo, I am with you alway.\" How does that promise change the way you face tomorrow?"
+}

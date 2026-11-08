@@ -1,0 +1,134 @@
+{
+  "id": "2ki.hezekiahs_prayer",
+  "title": "Hezekiah's Prayer",
+  "anchorRef": "2KI.19.19",
+  "backstory": "Many years have passed, and the northern kingdom of Israel has already fallen to mighty Assyria. In Jerusalem, good King Hezekiah trusts the LORD as David did. Now the Assyrian army marches into Judah, and its proud king boasts that no god can stop him.",
+  "passages": [
+    {
+      "ref": "2KI.18.13-25",
+      "synopsis": "Sennacherib king of Assyria captured the walled cities of Judah. Hezekiah tried to buy peace with silver and gold, even stripping the temple doors, but the Assyrians marched on Jerusalem anyway. Their spokesman, Rabshakeh, shouted proud words against Hezekiah. He mocked Judah for trusting in Egypt and even sneered at their trust in the LORD, claiming nothing could save the city from the great king of Assyria."
+    },
+    {
+      "ref": "2KI.19.1-7",
+      "synopsis": "When Hezekiah heard it, he tore his clothes, put on sackcloth, and went into the house of the LORD. He sent his officers to the prophet Isaiah, calling it a day of trouble. Isaiah sent back the word of the LORD: do not be afraid of the words you have heard. God himself would send the king of Assyria a rumour that would turn him back to his own land."
+    },
+    {
+      "ref": "2KI.19.14-19",
+      "synopsis": "The king of Assyria sent Hezekiah a threatening letter. Hezekiah carried the letter into the house of the LORD and spread it out before God. He prayed to the LORD who made heaven and earth, asking Him to bow down His ear and hear. He admitted that Assyria had destroyed many nations and burned their idols of wood and stone. Then he asked God to save Judah, so that all the kingdoms of the earth would know that the LORD alone is God."
+    },
+    {
+      "ref": "2KI.19.32-37",
+      "synopsis": "God answered that the king of Assyria would not come into the city or even shoot an arrow there. The LORD would defend Jerusalem for His own sake and for His servant David's sake. That night the angel of the LORD went through the Assyrian camp, and by morning the great army was no more. Sennacherib went home to Nineveh, where his own life ended, and Jerusalem was safe."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Hezekiah",
+          "clues": [
+            "I was king of Judah when Assyria attacked.",
+            "I spread a threatening letter before the LORD and prayed.",
+            "I tore my clothes and put on sackcloth when proud words were spoken against God."
+          ],
+          "wrongChoices": [
+            "Josiah",
+            "Jehoshaphat",
+            "David"
+          ]
+        },
+        {
+          "name": "Isaiah",
+          "clues": [
+            "I am a prophet, the son of Amoz.",
+            "I told the king's servants, 'Be not afraid.'",
+            "I promised that Assyria's king would hear a rumour and return to his own land."
+          ],
+          "wrongChoices": [
+            "Jeremiah",
+            "Elisha",
+            "Micaiah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where did Hezekiah take the letter from the king of Assyria?",
+          "options": [
+            "To Isaiah's house",
+            "To the city gate",
+            "Into the house of the LORD",
+            "To Egypt for help"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Kings 19:14 — \"And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which prophet did Hezekiah's servants go to?",
+          "options": [
+            "Isaiah",
+            "Jeremiah",
+            "Elisha",
+            "Micah"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Kings 19:2 — \"And he sent Eliakim, which was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the LORD say the king of Assyria would not do?",
+          "options": [
+            "Return to Nineveh",
+            "Come into the city or shoot an arrow there",
+            "Hear a rumour",
+            "Fight against Egypt"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Kings 19:32 — \"Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Hezekiah ask of the LORD in his prayer?",
+          "options": [
+            "Send fire from heaven",
+            "Destroy Nineveh at once",
+            "Make him a great king",
+            "Save us out of his hand"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Kings 19:19 — \"Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou art the LORD God, even thou only.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Hezekiah's Prayer",
+          "words": [
+            "HEZEKIAH",
+            "ISAIAH",
+            "ASSYRIA",
+            "LETTER",
+            "PRAYER",
+            "ANGEL",
+            "SACKCLOTH",
+            "JERUSALEM"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.37.36",
+    "2CH.32.8",
+    "PSA.46.1"
+  ],
+  "reflection": "Hezekiah spread a frightening letter before the LORD and prayed. What worry could you bring straight to God today?"
+}

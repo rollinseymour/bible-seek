@@ -1,0 +1,116 @@
+{
+  "id": "jos.jordan",
+  "title": "Crossing the Jordan",
+  "anchorRef": "JOS.3.5",
+  "backstory": "The Jordan was at flood stage, and beyond it stood Jericho. Israel had no bridges and no boats. Their parents had watched God open the Red Sea to bring them out; this generation would see him open a river to bring them in.",
+  "passages": [
+    {
+      "ref": "JOS.3.7-17",
+      "synopsis": "God told Joshua the people would cross the flooded Jordan River. As soon as the priests carrying the ark stepped into the water, the river stopped flowing. The waters stood in a heap upstream, and Israel crossed on dry ground. God showed He was with Joshua as He had been with Moses."
+    },
+    {
+      "ref": "JOS.4.1-9",
+      "synopsis": "God told Joshua to have one man from each tribe take a stone from the riverbed. Twelve stones were set up as a memorial on the far side. When children asked what they meant, parents would tell of the crossing. The stones would keep the story of God's power alive."
+    },
+    {
+      "ref": "JOS.4.19-24",
+      "synopsis": "Israel camped at Gilgal, and Joshua set up the twelve stones there. He explained that they were a sign for all generations. God had dried the Jordan just as He dried the Red Sea. This was so that all the earth would know the LORD's hand is mighty."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Crossing the Jordan",
+          "words": [
+            "ARK",
+            "JORDAN",
+            "STONES",
+            "DRY",
+            "LAND"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What happened when the priests stepped into the Jordan?",
+          "options": [
+            "The river stopped and they crossed dry",
+            "A bridge appeared",
+            "Boats arrived",
+            "The water turned to blood"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 3:17 — \"And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did Israel set up twelve stones?",
+          "options": [
+            "As a memorial to tell their children",
+            "To build an altar",
+            "To mark a grave",
+            "To count the tribes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 4:6 — \"That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the priests carry before the people into the Jordan?",
+          "options": [
+            "The tabernacle curtains",
+            "Twelve silver trumpets",
+            "The ark of the covenant",
+            "Baskets of manna"
+          ],
+          "correctIndex": 2,
+          "explanation": "Joshua 3:14 — \"And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "The drying up of Jordan was to remind Israel of which earlier wonder?",
+          "options": [
+            "The water from the rock",
+            "The manna in the morning",
+            "The pillar of fire",
+            "The drying of the Red sea"
+          ],
+          "correctIndex": 3,
+          "explanation": "Joshua 4:23 — \"For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JORDAN",
+          "hint": "The river Israel crossed on dry ground",
+          "theme": "places"
+        },
+        {
+          "word": "ARK",
+          "hint": "The priests carried this into the river",
+          "theme": "things"
+        },
+        {
+          "word": "STONES",
+          "hint": "Twelve of these made a memorial",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JOS.4.24",
+    "EXO.14.21",
+    "PSA.114.3"
+  ],
+  "reflection": "The stones helped children remember God's works. What 'stones' could you set up to remember what God has done?"
+}

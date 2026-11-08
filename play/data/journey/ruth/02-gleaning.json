@@ -1,0 +1,113 @@
+{
+  "id": "rut.gleaning",
+  "title": "In the Field of Boaz",
+  "anchorRef": "RUT.2.12",
+  "backstory": "Naomi and Ruth reached Bethlehem with nothing: two widows in a world with no safety net for women alone. God's law made provision for the poor — harvesters were to leave the edges of their fields unreaped. That law is where this story turns.",
+  "passages": [
+    {
+      "ref": "RUT.2.1-7",
+      "synopsis": "To find food, Ruth went to glean leftover grain in the fields. She happened to come to a field belonging to Boaz, a relative of Naomi. The workers noticed how hard she worked all day. God was guiding her steps though she did not know it."
+    },
+    {
+      "ref": "RUT.2.8-16",
+      "synopsis": "Boaz showed Ruth great kindness, telling her to stay in his field and drink his water. He had heard how she had left her home to care for Naomi. He prayed the LORD would reward her under whose wings she had come to trust. He made sure she had plenty to gather."
+    },
+    {
+      "ref": "RUT.2.17-23",
+      "synopsis": "Ruth brought home a large amount of grain, and Naomi was amazed. When she learned it was Boaz's field, Naomi rejoiced. She explained that Boaz was a near kinsman who could help them. Ruth kept gleaning in his fields through the harvest."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ruth 2:4",
+          "text": "The LORD be with you."
+        },
+        {
+          "reference": "Ruth 2:12",
+          "text": "under whose wings thou art come to trust."
+        },
+        {
+          "reference": "Ruth 1:16",
+          "text": "thy people shall be my people, and thy God my God:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Whose field did Ruth happen to glean in?",
+          "options": [
+            "Boaz's",
+            "Naomi's",
+            "The king's",
+            "Elimelech's"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 2:3 — \"And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging unto Boaz, who was of the kindred of Elimelech.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Boaz pray the LORD would give Ruth?",
+          "options": [
+            "A full reward",
+            "A new home",
+            "Great riches",
+            "A crown"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 2:12 — \"The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Boaz greet his reapers in the field?",
+          "options": [
+            "\"Peace be unto you\"",
+            "\"The LORD be with you\"",
+            "\"Rise up early\"",
+            "\"Fear not\""
+          ],
+          "correctIndex": 1,
+          "explanation": "Ruth 2:4 — \"And, behold, Boaz came from Beth-lehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did Boaz say he had shown Ruth such kindness?",
+          "options": [
+            "She had left her own people to care for Naomi",
+            "She was of his own family",
+            "She had asked him",
+            "She worked faster than the others"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 2:11 — \"And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and how thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "In the Field",
+          "words": [
+            "FIELD",
+            "GRAIN",
+            "GLEAN",
+            "BOAZ",
+            "KIND"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "LEV.19.9",
+    "PSA.91.4",
+    "PRO.19.17"
+  ],
+  "reflection": "Boaz turned everyday kindness into real provision for a stranger. Whose 'field' could you make room in this week?"
+}

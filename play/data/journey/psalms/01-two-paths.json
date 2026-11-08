@@ -1,0 +1,123 @@
+{
+  "id": "psa.two_paths",
+  "title": "Two Paths",
+  "anchorRef": "PSA.1.6",
+  "backstory": "The book of Psalms is the songbook of the Bible — one hundred fifty prayers and praises that God's people have sung for thousands of years. It opens with a choice between two paths: the way of the righteous and the way of the ungodly. Every psalm that follows walks one of those roads.",
+  "passages": [
+    {
+      "ref": "PSA.1.1-6",
+      "synopsis": "Psalm 1 paints two pictures. The person who delights in God's law is like a tree planted by rivers of water, full of fruit and green leaves. The ungodly are like chaff that the wind blows away. The LORD knows the way of the righteous, but the way of the ungodly leads nowhere."
+    },
+    {
+      "ref": "PSA.15.1-5",
+      "synopsis": "David asks who may abide in the LORD's tabernacle and dwell on his holy hill. The answer describes a life, not a ritual. It is the person who walks uprightly, speaks truth from the heart, and keeps a promise even when it hurts. Such a person, the psalm says, shall never be moved."
+    },
+    {
+      "ref": "PSA.112.1-10",
+      "synopsis": "This psalm sings the blessing of the person who fears the LORD and delights in his commandments. Light rises for the upright even in darkness. His heart is fixed, trusting in the LORD, so bad news does not shake him. He gives freely to the poor, and his righteousness endures for ever."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Psalms 1:1",
+          "text": "Blessed is the man that walketh not in the counsel of the ungodly,"
+        },
+        {
+          "reference": "Psalms 1:6",
+          "text": "For the LORD knoweth the way of the righteous:"
+        },
+        {
+          "reference": "Psalms 15:1",
+          "text": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In Psalm 1, the man who delights in God's law is like what?",
+          "options": [
+            "A tree planted by the rivers of water",
+            "A strong tower",
+            "An eagle in the heavens",
+            "A cedar of Lebanon"
+          ],
+          "correctIndex": 0,
+          "explanation": "Psalms 1:3 — \"And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does Psalm 1 compare the ungodly to?",
+          "options": [
+            "A withered branch",
+            "Dust on the road",
+            "Chaff which the wind driveth away",
+            "Grass on the housetop"
+          ],
+          "correctIndex": 2,
+          "explanation": "Psalms 1:4 — \"The ungodly are not so: but are like the chaff which the wind driveth away.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where is the delight of the blessed man in Psalm 1?",
+          "options": [
+            "In his riches",
+            "In the law of the LORD",
+            "In his own strength",
+            "In the praise of men"
+          ],
+          "correctIndex": 1,
+          "explanation": "Psalms 1:2 — \"But his delight is in the law of the LORD; and in his law doth he meditate day and night.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Psalm 15 asks who shall abide in the LORD's tabernacle and dwell where?",
+          "options": [
+            "In his holy city",
+            "In green pastures",
+            "Beside still waters",
+            "In his holy hill"
+          ],
+          "correctIndex": 3,
+          "explanation": "Psalms 15:1 — \"LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "TREE",
+          "hint": "The blessed man is like this, planted by rivers of water",
+          "theme": "things"
+        },
+        {
+          "word": "CHAFF",
+          "hint": "The wind drives this away, like the ungodly",
+          "theme": "things"
+        },
+        {
+          "word": "FRUIT",
+          "hint": "The planted tree brings this forth in his season",
+          "theme": "things"
+        },
+        {
+          "word": "TABERNACLE",
+          "hint": "Psalm 15 asks who shall abide in this holy tent",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JOS.1.8",
+    "JER.17.8",
+    "MAT.7.13"
+  ],
+  "reflection": "Two paths run through Psalm 1 — one that flourishes like a watered tree and one that blows away like chaff. Which path are your daily choices walking?"
+}

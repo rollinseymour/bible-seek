@@ -1,0 +1,113 @@
+{
+  "id": "lev.offerings",
+  "title": "The Offerings",
+  "anchorRef": "LEV.17.11",
+  "backstory": "Israel now had God's law and his tent pitched in the middle of their camp — a holy God living among an unholy people. Leviticus answers the question that raises: how can anyone safely come near? God himself provides the answer.",
+  "passages": [
+    {
+      "ref": "LEV.1.1-9",
+      "synopsis": "God called to Moses from the tabernacle and gave laws for offerings. Someone bringing a burnt offering laid a hand on the animal, and it was accepted in their place to make atonement. The offering was wholly burned on the altar as a sweet savour to the LORD. It taught that sin is costly and must be covered."
+    },
+    {
+      "ref": "LEV.4.27-31",
+      "synopsis": "If an ordinary person sinned without meaning to, they could bring a young goat as a sin offering. They laid a hand on its head, and it was offered in their place. The priest made atonement for them, and they were forgiven. God made a way for guilt to be taken away."
+    },
+    {
+      "ref": "LEV.6.8-13",
+      "synopsis": "God gave rules for keeping the altar. Each morning the priest added wood and arranged the offering. The fire was to be kept burning and never allowed to go out. It was a picture of worship that never stops."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Leviticus 6:13",
+          "text": "The fire shall ever be burning upon the altar; it shall never go out."
+        },
+        {
+          "reference": "Leviticus 1:4",
+          "text": "And he shall put his hand upon the head of the burnt offering;"
+        },
+        {
+          "reference": "Leviticus 17:11",
+          "text": "For the life of the flesh is in the blood:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What was the priest to keep burning continually on the altar?",
+          "options": [
+            "The fire",
+            "A lamp",
+            "Incense",
+            "A candle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 6:13 — \"The fire shall ever be burning upon the altar; it shall never go out.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did a person lay their hand on when bringing a burnt offering?",
+          "options": [
+            "The animal's head",
+            "The altar",
+            "The priest",
+            "The tent door"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 1:4 — \"And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "From where did the LORD call unto Moses to give these laws?",
+          "options": [
+            "From the top of mount Sinai",
+            "Out of the tabernacle of the congregation",
+            "From a burning bush",
+            "From the pillar of cloud"
+          ],
+          "correctIndex": 1,
+          "explanation": "Leviticus 1:1 — \"And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the priest carry outside the camp to a clean place?",
+          "options": [
+            "The wood for the fire",
+            "The basket of unleavened bread",
+            "The ashes from the altar",
+            "The anointing oil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Leviticus 6:11 — \"And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Offerings",
+          "words": [
+            "ALTAR",
+            "BLOOD",
+            "LAMB",
+            "FIRE",
+            "GIFT"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.9.22",
+    "JHN.1.29",
+    "HEB.10.10"
+  ],
+  "reflection": "Every offering showed that sin is costly and must be covered. How does Jesus fulfill what these offerings pointed to?"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "lev.holiness",
+  "title": "Be Holy",
+  "anchorRef": "LEV.19.18",
+  "backstory": "Israel was leaving Egypt's ways behind and heading toward Canaan's, and God called them to look like neither. 'Be holy, for I am holy' is the heart of Leviticus — and holiness here is not only ritual. It reaches into fields, wages, courts, and neighbours.",
+  "passages": [
+    {
+      "ref": "LEV.19.1-4",
+      "synopsis": "God told Israel, \"Ye shall be holy: for I the LORD your God am holy.\" They were to honor their parents and keep His sabbaths. They were to turn from idols and worship Him alone. Being God's people meant living differently from the nations."
+    },
+    {
+      "ref": "LEV.19.9-18",
+      "synopsis": "God gave everyday laws of love and fairness. They were to leave grain for the poor, deal honestly, and pay wages promptly. They were not to hate, take revenge, or hold a grudge. Instead they were to love their neighbour as themselves."
+    },
+    {
+      "ref": "LEV.26.3-13",
+      "synopsis": "God promised rich blessings if Israel would walk in His ways. He would send rain, give peace, and make them fruitful in the land. He would walk among them and be their God, and they would be His people. Obedience opened the door to His nearness."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Leviticus 26:12",
+          "text": "And I will walk among you, and will be your God,"
+        },
+        {
+          "reference": "Leviticus 19:2",
+          "text": "Ye shall be holy: for I the LORD your God am holy."
+        },
+        {
+          "reference": "Leviticus 19:18",
+          "text": "but thou shalt love thy neighbour as thyself: I am the LORD."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "\"Thou shalt love thy ___ as thyself.\"",
+          "options": [
+            "neighbour",
+            "brother",
+            "stranger",
+            "enemy"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 19:18 — \"Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why were the Israelites to be holy?",
+          "options": [
+            "Because the LORD their God is holy",
+            "To be praised",
+            "To gain riches",
+            "To be feared"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 19:2 — \"Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What were the Israelites told not to reap when they harvested their land?",
+          "options": [
+            "The first row of every field",
+            "The grain nearest the road",
+            "The wheat sown by strangers",
+            "The corners of their fields"
+          ],
+          "correctIndex": 3,
+          "explanation": "Leviticus 19:9 — \"And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God promise to do if his people walked in his statutes?",
+          "options": [
+            "Make them rulers over all nations",
+            "Fill their houses with silver and gold",
+            "Walk among them and be their God",
+            "Take away all their labour"
+          ],
+          "correctIndex": 2,
+          "explanation": "Leviticus 26:12 — \"And I will walk among you, and will be your God, and ye shall be my people.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Be Holy",
+          "words": [
+            "HOLY",
+            "LOVE",
+            "OBEY",
+            "IDOLS",
+            "REST"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.22.39",
+    "1PE.1.16",
+    "ROM.13.9"
+  ],
+  "reflection": "\"Love thy neighbour as thyself\" runs from Leviticus to Jesus. Who is a neighbour you can love this week?"
+}

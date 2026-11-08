@@ -1,0 +1,113 @@
+{
+  "id": "lev.atonement",
+  "title": "The Day of Atonement",
+  "anchorRef": "LEV.16.30",
+  "backstory": "Daily offerings covered particular sins, but Israel needed something for all of it — the sins they knew and the ones they didn't. So God set apart one day each year, the most solemn on their calendar, when the high priest went where no one else could go.",
+  "passages": [
+    {
+      "ref": "LEV.16.1-10",
+      "synopsis": "Once a year the high priest could enter the most holy place to make atonement. He took two goats: one for the LORD and one to be sent away. Careful preparation was required, for God's presence is holy. This was the most important day of Israel's year."
+    },
+    {
+      "ref": "LEV.16.20-22",
+      "synopsis": "The high priest laid both hands on the live goat and confessed the sins of the people over it. The goat carried their sins away into the wilderness, to a land uninhabited. It was a vivid picture of sins being removed. The people were sent away clean."
+    },
+    {
+      "ref": "LEV.16.29-34",
+      "synopsis": "God made the Day of Atonement a lasting rule for Israel. On it they were to rest and afflict their souls in humility. The priest made atonement to cleanse them from all their sins before the LORD. It happened once every year."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Day of Atonement",
+          "words": [
+            "GOAT",
+            "BLOOD",
+            "CLEAN",
+            "SINS",
+            "HOLY"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How often was the Day of Atonement kept?",
+          "options": [
+            "Once a year",
+            "Every month",
+            "Every week",
+            "Twice a year"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 16:34 — \"And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where did the scapegoat carry the people's sins?",
+          "options": [
+            "Into the wilderness",
+            "Into the sea",
+            "Up the mountain",
+            "To another nation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 16:22 — \"And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Aaron decide which of the two goats was for the LORD?",
+          "options": [
+            "He asked the elders",
+            "He chose the larger one",
+            "He cast lots upon them",
+            "He waited for a dream"
+          ],
+          "correctIndex": 2,
+          "explanation": "Leviticus 16:8 — \"And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "On what day of the year was the atonement to be made?",
+          "options": [
+            "The first day of the first month",
+            "The tenth day of the seventh month",
+            "The fifteenth day of the third month",
+            "The last day of the year"
+          ],
+          "correctIndex": 1,
+          "explanation": "Leviticus 16:29 — \"And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you:\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Leviticus 16:22",
+          "text": "and he shall let go the goat in the wilderness."
+        },
+        {
+          "reference": "Leviticus 16:30",
+          "text": "that ye may be clean from all your sins before the LORD."
+        },
+        {
+          "reference": "Leviticus 16:34",
+          "text": "And he did as the LORD commanded Moses."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.9.7",
+    "HEB.9.12",
+    "PSA.103.12"
+  ],
+  "reflection": "The scapegoat carried sins far away. How does it comfort you that God removes sin so completely?"
+}

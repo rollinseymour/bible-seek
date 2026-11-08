@@ -1,0 +1,107 @@
+{
+  "id": "oba.eagles_nest",
+  "title": "The Eagle's Nest",
+  "anchorRef": "OBA.1.4",
+  "backstory": "Obadiah is the shortest book in the Old Testament — one chapter, one vision, about the nation of Edom. The Edomites were descended from Esau, the twin brother of Jacob, so Edom and Israel were family. Edom lived high in rocky cliffs and felt certain no one could ever touch them, but God sees every proud heart.",
+  "passages": [
+    {
+      "ref": "OBA.1.1-4",
+      "synopsis": "God gave Obadiah a vision about Edom, and the nations were already stirring to rise against her. Edom lived in the clefts of the rock, high above everyone else, and asked, \"Who shall bring me down to the ground?\" But the pride of their heart had deceived them. God said that even if they set their nest among the stars like an eagle, He would bring them down."
+    },
+    {
+      "ref": "OBA.1.5-7",
+      "synopsis": "Thieves take only what they want, and grape gatherers leave a few grapes behind — but Edom would be searched out completely. Even her hidden treasures would be found. Saddest of all, her own allies would be the ones to deceive her. The very friends who ate her bread would lay a trap beneath her."
+    },
+    {
+      "ref": "OBA.1.8-9",
+      "synopsis": "Edom was famous for its wise men, but God said that in that day their wisdom would fail. Understanding would vanish from the mount of Esau. Even the mighty warriors of Teman would be dismayed. Nothing Edom trusted — cliffs, clever minds, or strong men — could stand against the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Obadiah 1:2",
+          "text": "Behold, I have made thee small among the heathen: thou art greatly despised."
+        },
+        {
+          "reference": "Obadiah 1:4",
+          "text": "thence will I bring thee down, saith the LORD."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Obadiah's vision was about which nation?",
+          "options": [
+            "Moab",
+            "Edom",
+            "Assyria",
+            "Egypt"
+          ],
+          "correctIndex": 1,
+          "explanation": "Obadiah 1:1 — \"The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Obadiah say had deceived the people of Edom?",
+          "options": [
+            "Their riches",
+            "Their wise men",
+            "The pride of their heart",
+            "Their many soldiers"
+          ],
+          "correctIndex": 2,
+          "explanation": "Obadiah 1:3 — \"The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Though Edom set its nest among the stars, what did the LORD say He would do?",
+          "options": [
+            "Bring them down",
+            "Leave them alone",
+            "Lift them higher",
+            "Hide them away"
+          ],
+          "correctIndex": 0,
+          "explanation": "Obadiah 1:4 — \"Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "EDOM",
+          "hint": "The proud nation of Obadiah's vision",
+          "theme": "places"
+        },
+        {
+          "word": "EAGLE",
+          "hint": "Edom soared as high as this bird",
+          "theme": "things"
+        },
+        {
+          "word": "TEMAN",
+          "hint": "Its mighty men would be dismayed",
+          "theme": "places"
+        },
+        {
+          "word": "ESAU",
+          "hint": "Jacob's twin, forefather of Edom",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.25.30",
+    "JER.49.16",
+    "PRO.16.18"
+  ],
+  "reflection": "Edom felt safe in its high cliffs, but pride had deceived its heart. Is there anything you trust to keep you safe more than you trust God?"
+}

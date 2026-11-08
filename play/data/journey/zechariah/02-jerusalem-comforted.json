@@ -1,0 +1,127 @@
+{
+  "id": "zec.jerusalem_comforted",
+  "title": "Jerusalem Comforted",
+  "anchorRef": "ZEC.8.5",
+  "backstory": "The temple is rising again, but the people still carry the habits of exile. For seventy years they have kept fasts to mourn a burned city, and messengers come to ask whether the mourning should continue. God first reminds them what he had always wanted instead of fasting, and then answers with a picture of Jerusalem so ordinary and so happy that it must have sounded impossible.",
+  "passages": [
+    {
+      "ref": "ZEC.7.8-14",
+      "synopsis": "God tells Zechariah what he had asked of their fathers all along: true judgment, mercy, and kindness to the widow, the fatherless, the stranger and the poor. Instead they pulled away the shoulder, stopped their ears, and made their hearts as hard as stone. So when trouble came and they cried out, the answer was silence. The land was left desolate behind them. It is a sober look back, and it sets up the promise that follows."
+    },
+    {
+      "ref": "ZEC.8.1-8",
+      "synopsis": "God declares that he is jealous for Zion and has returned to dwell in the middle of Jerusalem, which will be called a city of truth. He paints the scene: old men and old women sitting in the streets, each with a staff for very age, and the streets full of boys and girls playing. If that seems marvellous to the small remnant, it is not marvellous to God. He will gather his people from east and west, and they shall be his people and he will be their God."
+    },
+    {
+      "ref": "ZEC.8.9-17",
+      "synopsis": "God tells the builders to let their hands be strong, for the hard years of no wages and no peace are over. The seed will prosper, the vine will give her fruit, and the people who were once a byword will become a blessing. Then he names the life that fits the promise: speak the truth to your neighbour, judge with truth and peace, and plan no evil against one another. Twice he says, \"fear not.\""
+    },
+    {
+      "ref": "ZEC.8.18-23",
+      "synopsis": "God turns the old fast days into cheerful feasts and tells them to love truth and peace. Whole cities will urge one another to go and pray before the LORD, and many strong nations will come to seek him in Jerusalem. Ten men out of every language will take hold of the skirt of one Jew and ask to come along. Their reason is simple: we have heard that God is with you."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Zechariah 7:9",
+          "text": "Execute true judgment, and shew mercy and compassions every man to his brother:"
+        },
+        {
+          "reference": "Zechariah 8:3",
+          "text": "Jerusalem shall be called a city of truth;"
+        },
+        {
+          "reference": "Zechariah 8:21",
+          "text": "Let us go speedily to pray before the LORD,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God say would fill the streets of Jerusalem?",
+          "options": [
+            "Soldiers on watch",
+            "Boys and girls playing",
+            "Merchants and traders",
+            "Priests in procession"
+          ],
+          "correctIndex": 1,
+          "explanation": "Zechariah 8:5 — \"And the streets of the city shall be full of boys and girls playing in the streets thereof.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who else did God say would dwell in the streets of Jerusalem, staff in hand?",
+          "options": [
+            "Kings and princes",
+            "Judges and scribes",
+            "Shepherds and farmers",
+            "Old men and old women"
+          ],
+          "correctIndex": 3,
+          "explanation": "Zechariah 8:4 — \"Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God tell the people to speak to their neighbours?",
+          "options": [
+            "Blessings only",
+            "Nothing at all",
+            "The truth",
+            "Songs of praise"
+          ],
+          "correctIndex": 2,
+          "explanation": "Zechariah 8:16 — \"These are the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How many men out of all languages would take hold of the skirt of a Jew?",
+          "options": [
+            "Ten",
+            "Three",
+            "Seven",
+            "Twelve"
+          ],
+          "correctIndex": 0,
+          "explanation": "Zechariah 8:23 — \"Thus saith the LORD of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "ZECHARIAH",
+          "hint": "The prophet who brought this word of comfort",
+          "theme": "people"
+        },
+        {
+          "word": "JERUSALEM",
+          "hint": "The city God promised to dwell in again",
+          "theme": "places"
+        },
+        {
+          "word": "MERCY",
+          "hint": "What God asked them to show their brother",
+          "theme": "things"
+        },
+        {
+          "word": "TRUTH",
+          "hint": "What every man was to speak to his neighbour",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JER.31.13",
+    "ISA.2.3",
+    "REV.21.3"
+  ],
+  "reflection": "God's picture of a healed city was old people resting and children playing safely in the street. What ordinary good would you ask God to restore?"
+}

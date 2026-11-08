@@ -1,0 +1,126 @@
+{
+  "id": "pro.words_and_friends",
+  "title": "Words and Friends",
+  "anchorRef": "PRO.15.1",
+  "backstory": "The middle chapters of Proverbs are filled with short, two-line sayings about everyday life — how we speak, how we work, and how we treat the people around us. Solomon shows that small choices, like a gentle answer or a loyal friendship, carry great weight with God. These little sayings are easy to remember and meant to be lived out every single day.",
+  "passages": [
+    {
+      "ref": "PRO.15.1-7",
+      "synopsis": "A soft answer turns away wrath, but harsh words stir up anger. The tongue of the wise uses knowledge well, and a wholesome tongue is a tree of life. The eyes of the LORD are in every place, seeing both the evil and the good. Wise lips spread knowledge to everyone who listens."
+    },
+    {
+      "ref": "PRO.16.20-25",
+      "synopsis": "Whoever handles a matter wisely finds good, and whoever trusts in the LORD is happy. The heart of the wise teaches his mouth what to say. Pleasant words are like a honeycomb, sweet to the soul and health to the bones. But there is a way that seems right to a man, and yet its end leads only to death — so choose your path with care."
+    },
+    {
+      "ref": "PRO.17.17-22",
+      "synopsis": "A friend loves at all times, and a brother is born for the day of trouble. Those who love quarrels and crooked speech only find sorrow and mischief. A foolish child brings grief to a father. But a merry heart does good like a medicine, while a broken spirit dries the bones."
+    },
+    {
+      "ref": "PRO.18.4-10",
+      "synopsis": "The words of a man's mouth are like deep waters, and wisdom flows like a brook. A fool's mouth gets him into trouble, and a talebearer's whispers wound deeply. Even laziness is called the brother of great waste. Best of all, the name of the LORD is a strong tower — the righteous run into it and are safe."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Words and Friends",
+          "words": [
+            "ANSWER",
+            "TONGUE",
+            "FRIEND",
+            "HONEYCOMB",
+            "MERRY",
+            "TOWER"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What turneth away wrath?",
+          "options": [
+            "A soft answer",
+            "A loud voice",
+            "A costly gift",
+            "A strong wall"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proverbs 15:1 — \"A soft answer turneth away wrath: but grievous words stir up anger.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Pleasant words are compared to what?",
+          "options": [
+            "Cold water",
+            "An honeycomb",
+            "Fine gold",
+            "A crown"
+          ],
+          "correctIndex": 1,
+          "explanation": "Proverbs 16:24 — \"Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When does a friend love, according to Proverbs?",
+          "options": [
+            "In good times only",
+            "When rewarded",
+            "At all times",
+            "On feast days"
+          ],
+          "correctIndex": 2,
+          "explanation": "Proverbs 17:17 — \"A friend loveth at all times, and a brother is born for adversity.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does Proverbs call the name of the LORD?",
+          "options": [
+            "A strong tower",
+            "A wide river",
+            "A green tree",
+            "A bright star"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proverbs 18:10 — \"The name of the LORD is a strong tower: the righteous runneth into it, and is safe.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "WRATH",
+          "hint": "A soft answer turneth this away",
+          "theme": "things"
+        },
+        {
+          "word": "TALEBEARER",
+          "hint": "This one's whispered words wound deeply",
+          "theme": "people"
+        },
+        {
+          "word": "BROOK",
+          "hint": "The wellspring of wisdom flows like this",
+          "theme": "places"
+        },
+        {
+          "word": "MEDICINE",
+          "hint": "A merry heart doeth good like this",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JAS.3.5",
+    "EPH.4.29",
+    "JHN.15.13"
+  ],
+  "reflection": "A soft answer, a kind word, a faithful friend — Proverbs says these small things are mighty. How could your words bring healing to someone this week?"
+}

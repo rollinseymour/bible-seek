@@ -1,0 +1,123 @@
+{
+  "id": "luk.fathers_business",
+  "title": "My Father's Business",
+  "anchorRef": "LUK.2.49",
+  "backstory": "Luke is the only Gospel that lets us watch Jesus growing up. He gives us one day in Jerusalem when Jesus was twelve, and then jumps ahead about eighteen years to the Jordan River. There the cousin whose birth the angel promised, John, is calling Israel to get ready for the Lord.",
+  "passages": [
+    {
+      "ref": "LUK.2.41-52",
+      "synopsis": "Every year Mary and Joseph went up to Jerusalem for the passover. When Jesus was twelve, he stayed behind in the city without his parents knowing, and they searched for him three days. They found him in the temple, sitting among the teachers, listening and asking questions, and everyone was amazed at his understanding. He asked why they had searched, since he had to be about his Father's business, and then went home to Nazareth and obeyed them."
+    },
+    {
+      "ref": "LUK.3.1-6",
+      "synopsis": "Luke names the rulers of the day so we know exactly when this happened. The word of God came to John, the son of Zacharias, out in the wilderness. He went through the country around the Jordan, preaching that people should turn from their sins and be baptized. Isaiah had written of a voice crying in the wilderness, telling everyone to prepare the way of the Lord."
+    },
+    {
+      "ref": "LUK.3.15-22",
+      "synopsis": "The crowds began to wonder whether John himself might be the Christ. John said plainly that he baptized with water, but one mightier than he was coming whose shoes he was not worthy to untie. Herod the ruler had John shut up in prison for telling him the truth. But before that, when Jesus was baptized and praying, heaven opened, the Holy Ghost came down like a dove, and a voice said that he was the beloved Son."
+    },
+    {
+      "ref": "LUK.4.16-21",
+      "synopsis": "Jesus came back to Nazareth, the town where he grew up, and went to the synagogue as he always did. He stood up to read and was handed the book of the prophet Isaiah. He read of the Spirit of the Lord anointing him to preach good news to the poor and freedom to the captives. Then he closed the book, and with every eye on him he said that this scripture was fulfilled that very day."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How old was Jesus when he stayed behind in Jerusalem?",
+          "options": [
+            "Seven",
+            "Ten",
+            "Twelve",
+            "Thirty"
+          ],
+          "correctIndex": 2,
+          "explanation": "Luke 2:42 — \"And when he was twelve years old, they went up to Jerusalem after the custom of the feast.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Where did Mary and Joseph finally find him?",
+          "options": [
+            "In the temple among the teachers",
+            "On the road home",
+            "At the market",
+            "By the river"
+          ],
+          "correctIndex": 0,
+          "explanation": "Luke 2:46 — \"And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the voice from heaven say at Jesus' baptism?",
+          "options": [
+            "\"Thou art my beloved Son\"",
+            "\"Behold the Lamb of God\"",
+            "\"Rise and follow me\"",
+            "\"This is the prophet\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Luke 3:22 — \"And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Whose book did Jesus read from in the synagogue at Nazareth?",
+          "options": [
+            "David",
+            "Moses",
+            "The prophet Esaias",
+            "Solomon"
+          ],
+          "correctIndex": 2,
+          "explanation": "Luke 4:17 — \"And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "My Father's Business",
+          "words": [
+            "TEMPLE",
+            "JORDAN",
+            "JOHN",
+            "DOVE",
+            "NAZARETH",
+            "WISDOM",
+            "BAPTIZE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Luke 2:52",
+          "text": "And Jesus increased in wisdom and stature, and in favour with God and man."
+        },
+        {
+          "reference": "Luke 2:47",
+          "text": "And all that heard him were astonished at his understanding and answers."
+        },
+        {
+          "reference": "Luke 3:6",
+          "text": "And all flesh shall see the salvation of God."
+        },
+        {
+          "reference": "Luke 4:21",
+          "text": "This day is this scripture fulfilled in your ears."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.61.1",
+    "MAT.3.17",
+    "JHN.4.34"
+  ],
+  "reflection": "At twelve years old Jesus already knew what his life was for. What has God given you to do where you are right now?"
+}

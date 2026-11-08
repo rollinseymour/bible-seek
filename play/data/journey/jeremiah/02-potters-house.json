@@ -1,0 +1,111 @@
+{
+  "id": "jer.potters_house",
+  "title": "The Potter's House",
+  "anchorRef": "JER.18.6",
+  "backstory": "Jeremiah has been preaching for years, but Judah keeps chasing idols and ignoring God's warnings. He has set two ways plainly before them — a bare shrub in the desert for the heart that trusts in man, a green tree by the water for the heart that trusts in the LORD — and still the people will not choose. So God teaches his prophet with a picture instead of a sermon. He sends Jeremiah down the hill to watch an ordinary craftsman at work — a potter shaping wet clay on his wheel.",
+  "passages": [
+    {
+      "ref": "JER.17.5-10",
+      "synopsis": "Jeremiah set two ways of living side by side. The person who trusts only in human strength is like a shrub in a dry desert. But the person who trusts in the LORD is like a tree planted by the waters, green even in a year of drought. God alone searches the heart and knows what is truly inside us."
+    },
+    {
+      "ref": "JER.18.1-6",
+      "synopsis": "God told Jeremiah to go down to the potter's house and wait for his message there. Jeremiah watched the potter working clay on his wheel. When the vessel was marred, the potter did not throw the clay away — he shaped it again into another vessel. God said that Israel was like that clay in his hand."
+    },
+    {
+      "ref": "JER.18.7-11",
+      "synopsis": "God explained what the potter's wheel meant. If he warns a nation and that nation turns from its evil, he will not send the trouble he spoke of. But if a nation turns away from him, its promised blessing can be lost. So God pleaded with Judah: return now, every one, from your evil way."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Potter's House",
+          "words": [
+            "POTTER",
+            "CLAY",
+            "WHEEL",
+            "VESSEL",
+            "MARRED",
+            "ISRAEL",
+            "JUDAH"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where did God tell Jeremiah to go to hear his word?",
+          "options": [
+            "The temple gate",
+            "The potter's house",
+            "The king's palace",
+            "The top of a mountain"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jeremiah 18:2 — \"Arise, and go down to the potter’s house, and there I will cause thee to hear my words.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the potter do with the marred vessel of clay?",
+          "options": [
+            "He threw it away",
+            "He sold it in the market",
+            "He gave it to Jeremiah",
+            "He made it again into another vessel"
+          ],
+          "correctIndex": 3,
+          "explanation": "Jeremiah 18:4 — \"And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "According to the LORD, what is Israel like in his hand?",
+          "options": [
+            "Clay in the potter's hand",
+            "A sword in a soldier's hand",
+            "A pen in a writer's hand",
+            "A stone in a builder's hand"
+          ],
+          "correctIndex": 0,
+          "explanation": "Jeremiah 18:6 — \"O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter’s hand, so are ye in mine hand, O house of Israel.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who is blessed, according to Jeremiah?",
+          "options": [
+            "The man who trusts in riches",
+            "The man who trusts in princes",
+            "The man who trusts in the LORD",
+            "The man who trusts in himself"
+          ],
+          "correctIndex": 2,
+          "explanation": "Jeremiah 17:7 — \"Blessed is the man that trusteth in the LORD, and whose hope the LORD is.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Jeremiah 17:7",
+          "text": "Blessed is the man that trusteth in the LORD,"
+        },
+        {
+          "reference": "Jeremiah 18:2",
+          "text": "Arise, and go down to the potter’s house,"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.64.8",
+    "ROM.9.21",
+    "JON.3.10"
+  ],
+  "reflection": "The potter did not throw away the marred clay — he made it again. What might God want to reshape in you?"
+}

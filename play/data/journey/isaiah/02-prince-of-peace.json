@@ -1,0 +1,133 @@
+{
+  "id": "isa.prince_of_peace",
+  "title": "The Prince of Peace",
+  "anchorRef": "ISA.9.6",
+  "backstory": "King Ahaz of Judah was terrified: two enemy armies had joined forces against Jerusalem. Into that fear God sent Isaiah with promises about a child — a son called Immanuel, God with us. These promises reached far beyond Ahaz's day, all the way to a manger in Bethlehem.",
+  "passages": [
+    {
+      "ref": "ISA.7.1-9",
+      "synopsis": "Two enemy kings marched against Jerusalem, and King Ahaz's heart shook like trees in the wind. God sent Isaiah to meet him with a message of courage. The two invaders were only smoking firebrands, nearly burned out, and their plan would not stand. But God gave a warning too: if Ahaz would not believe, he would not be established."
+    },
+    {
+      "ref": "ISA.7.10-16",
+      "synopsis": "God invited Ahaz to ask for any sign at all, but Ahaz refused to ask. So the Lord gave a sign of his own choosing. A virgin would conceive and bear a son, and his name would be called Immanuel. Long before the trouble was over, God was pointing to a child."
+    },
+    {
+      "ref": "ISA.9.1-7",
+      "synopsis": "Isaiah looked past the gloom to a great dawn. The people walking in darkness would see a great light, for a child would be born to us, a son given. The government would rest on his shoulder, and his name would be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. His kingdom of peace on David's throne would never end."
+    },
+    {
+      "ref": "ISA.11.1-10",
+      "synopsis": "From the family tree of Jesse, seemingly cut down, a fresh Branch would grow. The Spirit of the LORD would rest upon him, and he would judge the poor with perfect fairness. In his kingdom the wolf will live with the lamb, and a little child will lead them. Nothing will hurt or destroy in all God's holy mountain."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Ahaz",
+          "clues": [
+            "I was a king of Judah, and my heart shook like trees in the wind when two enemies marched against me.",
+            "Isaiah met me by the upper pool and told me not to fear two smoking firebrands.",
+            "The LORD told me to ask for a sign, but I would not ask."
+          ],
+          "wrongChoices": [
+            "Hezekiah",
+            "Jotham",
+            "Uzziah"
+          ]
+        },
+        {
+          "name": "Immanuel",
+          "clues": [
+            "My name means God with us.",
+            "Isaiah promised King Ahaz that a virgin's son would bear my name.",
+            "Matthew says this promise came true when Jesus was born."
+          ],
+          "wrongChoices": [
+            "Ishmael",
+            "Samuel",
+            "Solomon"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What name did Isaiah say the virgin's son would be called?",
+          "options": [
+            "Ebenezer",
+            "Jedidiah",
+            "Immanuel",
+            "Solomon"
+          ],
+          "correctIndex": 2,
+          "explanation": "Isaiah 7:14 — \"Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What have the people that walked in darkness seen?",
+          "options": [
+            "A great light",
+            "A pillar of cloud",
+            "A burning bush",
+            "A rainbow in the sky"
+          ],
+          "correctIndex": 0,
+          "explanation": "Isaiah 9:2 — \"The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which of these names belongs to the promised child in Isaiah 9:6?",
+          "options": [
+            "The Rose of Sharon",
+            "The Prince of Peace",
+            "The Lion of Judah",
+            "The Balm of Gilead"
+          ],
+          "correctIndex": 1,
+          "explanation": "Isaiah 9:6 — \"For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Upon whose throne will the child's government be established for ever?",
+          "options": [
+            "Pharaoh's",
+            "Caesar's",
+            "Saul's",
+            "David's"
+          ],
+          "correctIndex": 3,
+          "explanation": "Isaiah 9:7 — \"Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Promised Child",
+          "words": [
+            "IMMANUEL",
+            "COUNSELLOR",
+            "PEACE",
+            "LIGHT",
+            "AHAZ",
+            "JESSE",
+            "BRANCH"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.1.23",
+    "MAT.4.16",
+    "LUK.1.33"
+  ],
+  "reflection": "Ahaz would not even ask for a sign, but God gave one anyway. What do the names of this promised child tell you about who Jesus is?"
+}

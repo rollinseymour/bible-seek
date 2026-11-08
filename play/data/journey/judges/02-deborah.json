@@ -1,0 +1,127 @@
+{
+  "id": "jdg.deborah",
+  "title": "Deborah and Barak",
+  "anchorRef": "JDG.5.31",
+  "backstory": "Israel had turned away again, and for twenty years a Canaanite commander named Sisera oppressed them with nine hundred iron chariots. Israel's foot soldiers had nothing to answer them. In that moment God raised up a prophetess to lead.",
+  "passages": [
+    {
+      "ref": "JDG.4.1-10",
+      "synopsis": "Israel was cruelly oppressed by a commander named Sisera. Deborah, a prophetess who judged Israel, called Barak to lead the army. Barak would only go if Deborah went with him. She agreed, and together they gathered ten thousand men."
+    },
+    {
+      "ref": "JDG.4.12-24",
+      "synopsis": "God threw Sisera's army into confusion, and Barak's men won the battle. Sisera fled on foot and hid in a tent, where a woman named Jael stopped him. That day God gave Israel victory over the one who had oppressed them. The land was set free."
+    },
+    {
+      "ref": "JDG.5.1-5",
+      "synopsis": "Deborah and Barak sang a song of victory to the LORD. They praised God for leading His people and giving the triumph. The song remembered how the earth trembled at God's presence. All the glory went to the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Deborah",
+          "clues": [
+            "I was a prophetess and a judge of Israel.",
+            "I sat under a palm tree to judge the people.",
+            "I sent Barak to fight against Sisera."
+          ],
+          "wrongChoices": [
+            "Miriam",
+            "Jael",
+            "Ruth"
+          ]
+        },
+        {
+          "name": "Barak",
+          "clues": [
+            "Deborah called me to lead Israel's army.",
+            "I would only go if Deborah came with me.",
+            "God gave me victory over Sisera's chariots."
+          ],
+          "wrongChoices": [
+            "Gideon",
+            "Ehud",
+            "Othniel"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who was the prophetess that judged Israel and called Barak?",
+          "options": [
+            "Deborah",
+            "Jael",
+            "Miriam",
+            "Hannah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 4:4 — \"And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "On one condition Barak agreed to go — what was it?",
+          "options": [
+            "That Deborah go with him",
+            "That he lead alone",
+            "That he have chariots",
+            "That he wait a year"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 4:8 — \"And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, then I will not go.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where did Deborah sit when Israel came to her for judgment?",
+          "options": [
+            "In the gate of Hazor",
+            "Under the palm tree between Ramah and Beth-el",
+            "Beside the river Kishon",
+            "On the top of mount Tabor"
+          ],
+          "correctIndex": 1,
+          "explanation": "Judges 4:5 — \"And she dwelt under the palm tree of Deborah between Ramah and Beth-el in mount Ephraim: and the children of Israel came up to her for judgment.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who sang with Deborah on the day of victory?",
+          "options": [
+            "Miriam",
+            "Jael",
+            "Othniel",
+            "Barak the son of Abinoam"
+          ],
+          "correctIndex": 3,
+          "explanation": "Judges 5:1 — \"Then sang Deborah and Barak the son of Abinoam on that day, saying,\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Deborah",
+          "words": [
+            "PALM",
+            "JUDGE",
+            "ARMY",
+            "SONG",
+            "WIN"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.11.32",
+    "PSA.83.9",
+    "JDG.4.9"
+  ],
+  "reflection": "Deborah led with wisdom and courage in a hard time. How can you be brave and faithful where God has placed you?"
+}

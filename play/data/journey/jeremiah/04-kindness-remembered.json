@@ -1,0 +1,118 @@
+{
+  "id": "jer.kindness_remembered",
+  "title": "Kindness Remembered",
+  "anchorRef": "JER.39.18",
+  "backstory": "Babylon's army has surrounded Jerusalem, just as Jeremiah said it would, and the city's princes are furious with him for telling the truth. King Zedekiah is too weak to protect him. In the darkest chapter of Jeremiah's life, God's care arrives through one brave, kind servant from a faraway land.",
+  "passages": [
+    {
+      "ref": "JER.38.1-6",
+      "synopsis": "Jeremiah kept telling the people God's hard message: the city would be given to Babylon. The princes were so angry that they asked King Zedekiah to put him to death, and the weak king let them do as they pleased. They lowered Jeremiah with cords into a dungeon that had no water, only deep mud. There the prophet sank in the mire."
+    },
+    {
+      "ref": "JER.38.7-13",
+      "synopsis": "Ebed-melech, a servant from Ethiopia who worked in the king's house, heard what had been done. He bravely went to the king and spoke up for Jeremiah, and the king told him to take thirty men and lift the prophet out. Ebed-melech gathered armfuls of old cast clouts and rotten rags and lowered them by cords so the ropes would not cut Jeremiah's arms. So they drew Jeremiah up out of the dungeon."
+    },
+    {
+      "ref": "JER.39.11-14",
+      "synopsis": "In time the city fell to Babylon's army, just as God had said. Yet even then God watched over his prophet. The king of Babylon commanded his captain to look well to Jeremiah and do him no harm. Jeremiah was taken out of the prison court and lived safely among his people."
+    },
+    {
+      "ref": "JER.39.15-18",
+      "synopsis": "While Jeremiah was still shut up in prison, God had given him a message for Ebed-melech. The hard day coming on the city would not sweep the kind Ethiopian away. God promised to surely deliver him, 'because thou hast put thy trust in me, saith the LORD.' God saw and remembered his brave kindness."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Ebed-melech",
+          "clues": [
+            "I served in the king's house in Jerusalem.",
+            "I came from the land of Ethiopia.",
+            "I drew Jeremiah out of the dungeon with cords and old rags."
+          ],
+          "wrongChoices": [
+            "Baruch",
+            "Gedaliah",
+            "Obadiah"
+          ]
+        },
+        {
+          "name": "Zedekiah",
+          "clues": [
+            "I was the last king to sit on the throne in Jerusalem.",
+            "I let the princes do as they pleased with Jeremiah.",
+            "Later I told Ebed-melech to take thirty men and rescue him."
+          ],
+          "wrongChoices": [
+            "Jehoiakim",
+            "Josiah",
+            "Hezekiah"
+          ]
+        },
+        {
+          "name": "Jeremiah",
+          "clues": [
+            "I spoke God's word even when it made the princes angry.",
+            "I sank in the mire of a dungeon with no water.",
+            "A kind Ethiopian lifted me out with cords and old rags."
+          ],
+          "wrongChoices": [
+            "Isaiah",
+            "Ezekiel",
+            "Baruch"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Kindness Remembered",
+          "words": [
+            "DUNGEON",
+            "CORDS",
+            "RAGS",
+            "MIRE",
+            "KING",
+            "PRISON",
+            "TRUST"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "DUNGEON",
+          "hint": "The muddy pit where Jeremiah sank",
+          "theme": "things"
+        },
+        {
+          "word": "CORDS",
+          "hint": "Ebed-melech lowered these with old rags",
+          "theme": "things"
+        },
+        {
+          "word": "ETHIOPIA",
+          "hint": "Ebed-melech's faraway homeland",
+          "theme": "places"
+        },
+        {
+          "word": "BABYLON",
+          "hint": "The kingdom whose army took Jerusalem",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.40.2",
+    "MAT.25.40",
+    "HEB.13.3"
+  ],
+  "reflection": "God remembered Ebed-melech's one brave act of kindness. Whose need might God be asking you to notice today?"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "2sa.king_and_ark",
+  "title": "The King and the Ark",
+  "anchorRef": "2SA.5.10",
+  "backstory": "After King Saul died, David waited years for God's promise to come true. Now all the tribes of Israel gather at Hebron to crown the shepherd from Bethlehem as their king. David's first great desire is to bring the ark of God — the sign of God's presence — home to his new city, Jerusalem.",
+  "passages": [
+    {
+      "ref": "2SA.5.1-5",
+      "synopsis": "All the tribes of Israel came to David at Hebron. They remembered that God had said David would be the shepherd of his people. The elders anointed him king over all Israel. He was thirty years old when he began to reign, and he reigned forty years."
+    },
+    {
+      "ref": "2SA.5.6-12",
+      "synopsis": "David captured the strong hold of Zion and called it the city of David. He made Jerusalem his royal city and built it up round about. David went on and grew great, for the LORD God of hosts was with him. He understood that God had established his kingdom for the sake of his people Israel."
+    },
+    {
+      "ref": "2SA.6.1-11",
+      "synopsis": "David gathered thirty thousand chosen men to bring the ark of God up to Jerusalem with music and joy. But they set the ark on a new cart instead of carrying it the way God had commanded. When the oxen stumbled, Uzzah took hold of the ark, and he died there, for the ark was holy. David was afraid, so the ark stayed three months at the house of Obed-edom — and the LORD blessed that whole house."
+    },
+    {
+      "ref": "2SA.6.12-19",
+      "synopsis": "When David heard that God had blessed Obed-edom because of the ark, he went to bring it up with gladness. This time the ark was carried, and David danced before the LORD with all his might. All Israel shouted and the trumpet sounded as the ark came into the city of David. David blessed the people and gave everyone bread, meat, and a flagon of wine."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The King and the Ark",
+          "words": [
+            "DAVID",
+            "HEBRON",
+            "ZION",
+            "ARK",
+            "DANCE",
+            "TRUMPET",
+            "EPHOD",
+            "ISRAEL"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where did the elders of Israel anoint David king over all Israel?",
+          "options": [
+            "Jerusalem",
+            "Hebron",
+            "Bethlehem",
+            "Gilgal"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Samuel 5:3 — \"So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did David worship as the ark came into the city of David?",
+          "options": [
+            "He stood silently",
+            "He rode before it on a mule",
+            "He danced before the LORD with all his might",
+            "He carried the ark himself"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Samuel 6:14 — \"And David danced before the LORD with all his might; and David was girded with a linen ephod.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What strong hold did David take and call the city of David?",
+          "options": [
+            "Zion",
+            "Jericho",
+            "Ramah",
+            "Carmel"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Samuel 5:7 — \"Nevertheless David took the strong hold of Zion: the same is the city of David.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did David give to every person after the ark was set in its place?",
+          "options": [
+            "Silver and gold",
+            "A lamb from his flocks",
+            "New garments",
+            "Bread, a piece of flesh, and a flagon of wine"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Samuel 6:19 — \"And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Samuel 5:10",
+          "text": "and the LORD God of hosts was with him."
+        },
+        {
+          "reference": "2 Samuel 6:14",
+          "text": "And David danced before the LORD with all his might;"
+        },
+        {
+          "reference": "2 Samuel 6:18",
+          "text": "he blessed the people in the name of the LORD of hosts."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "1SA.16.13",
+    "PSA.24.7-10",
+    "MAT.21.9"
+  ],
+  "reflection": "David worshipped God with all his might and did not care who was watching. What would it look like for you to bring God your whole-hearted best?"
+}

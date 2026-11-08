@@ -1,0 +1,117 @@
+{
+  "id": "oba.deliverance_on_zion",
+  "title": "Deliverance on Zion",
+  "anchorRef": "OBA.1.17",
+  "backstory": "Edom and Israel were brother nations, born from the twins Esau and Jacob. Yet when enemies broke into Jerusalem and carried her people away, Edom stood across the valley and watched — and even joined in. Obadiah tells why that day grieved God so deeply, then lifts our eyes to the day when God sets everything right on mount Zion.",
+  "passages": [
+    {
+      "ref": "OBA.1.10-14",
+      "synopsis": "When strangers carried Jerusalem's people captive and cast lots for the city, Edom stood on the other side as if they were one of the enemies. They rejoiced over their brother Jacob's trouble and spoke proudly in the day of distress. Some even entered the gates to take what was left, and waited at the crossroads to stop those trying to escape. God saw it all, and said shame would cover Edom for treating a brother that way."
+    },
+    {
+      "ref": "OBA.1.15-16",
+      "synopsis": "Obadiah declared that the day of the LORD is near upon all nations. As Edom had done to others, so it would be done to them. What we send out toward our neighbor returns upon our own head. God is the fair and faithful judge of every nation."
+    },
+    {
+      "ref": "OBA.1.17-21",
+      "synopsis": "The little book ends with a great promise: upon mount Zion shall be deliverance, and there shall be holiness. The house of Jacob would receive back all they had lost, and God's people would be safe at last. Saviours would come up on mount Zion to judge the mount of Esau. And the kingdom shall be the LORD's."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Obadiah",
+          "clues": [
+            "God gave me a vision about the nation of Edom.",
+            "My name means servant of the LORD.",
+            "My book is the shortest one in the Old Testament."
+          ],
+          "wrongChoices": [
+            "Amos",
+            "Jonah",
+            "Joel"
+          ]
+        },
+        {
+          "name": "Esau",
+          "clues": [
+            "My descendants became the nation of Edom.",
+            "I was Jacob's twin brother.",
+            "I once sold my birthright for a meal of red pottage."
+          ],
+          "wrongChoices": [
+            "Jacob",
+            "Ishmael",
+            "Laban"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Deliverance on Zion",
+          "words": [
+            "ZION",
+            "JACOB",
+            "ESAU",
+            "KINGDOM",
+            "STUBBLE",
+            "HOLINESS",
+            "FIRE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Why did Obadiah say shame would cover Edom?",
+          "options": [
+            "They worshipped golden idols",
+            "They forgot to keep the feasts",
+            "They refused to pay tribute",
+            "Their violence against their brother Jacob"
+          ],
+          "correctIndex": 3,
+          "explanation": "Obadiah 1:10 — \"For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Obadiah promise would be upon mount Zion?",
+          "options": [
+            "Deliverance",
+            "A great famine",
+            "A new wall",
+            "Deep silence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Obadiah 1:17 — \"But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How does the book of Obadiah end — whose shall the kingdom be?",
+          "options": [
+            "Edom's",
+            "Babylon's",
+            "The LORD's",
+            "Pharaoh's"
+          ],
+          "correctIndex": 2,
+          "explanation": "Obadiah 1:21 — \"And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD’s.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.137.7",
+    "JOL.2.32",
+    "REV.11.15"
+  ],
+  "reflection": "Obadiah ends with a promise: the kingdom shall be the LORD's. How does knowing who reigns at the end change the way you face trouble today?"
+}

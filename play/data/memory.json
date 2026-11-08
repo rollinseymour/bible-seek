@@ -1,0 +1,740 @@
+{
+  "easy": [
+    {
+      "front": "Genesis 1:1",
+      "back": "In the beginning God created the heaven and the earth."
+    },
+    {
+      "front": "John 3:16",
+      "back": "For God so loved the world."
+    },
+    {
+      "front": "Psalm 23:1",
+      "back": "The LORD is my shepherd; I shall not want."
+    },
+    {
+      "front": "John 11:35",
+      "back": "Jesus wept."
+    },
+    {
+      "front": "Philippians 4:13",
+      "back": "I can do all things through Christ which strengtheneth me."
+    },
+    {
+      "front": "Proverbs 3:5",
+      "back": "Trust in the LORD with all thine heart."
+    },
+    {
+      "front": "Genesis 1:3",
+      "back": "And God said, Let there be light."
+    },
+    {
+      "front": "Matthew 5:14",
+      "back": "Ye are the light of the world."
+    },
+    {
+      "front": "Psalm 119:105",
+      "back": "Thy word is a lamp unto my feet."
+    },
+    {
+      "front": "John 14:6",
+      "back": "I am the way, the truth, and the life."
+    },
+    {
+      "front": "Romans 3:23",
+      "back": "For all have sinned, and come short of the glory of God."
+    },
+    {
+      "front": "Romans 6:23",
+      "back": "For the wages of sin is death."
+    },
+    {
+      "front": "Matthew 28:20",
+      "back": "Lo, I am with you alway, even unto the end of the world."
+    },
+    {
+      "front": "John 1:1",
+      "back": "In the beginning was the Word."
+    },
+    {
+      "front": "Psalm 46:10",
+      "back": "Be still, and know that I am God."
+    },
+    {
+      "front": "Matthew 6:33",
+      "back": "But seek ye first the kingdom of God."
+    },
+    {
+      "front": "Psalm 100:1",
+      "back": "Make a joyful noise unto the LORD, all ye lands."
+    },
+    {
+      "front": "John 10:11",
+      "back": "I am the good shepherd."
+    },
+    {
+      "front": "Psalm 139:14",
+      "back": "I am fearfully and wonderfully made."
+    },
+    {
+      "front": "Matthew 7:7",
+      "back": "Ask, and it shall be given you."
+    },
+    {
+      "front": "John 8:12",
+      "back": "I am the light of the world."
+    },
+    {
+      "front": "Psalm 27:1",
+      "back": "The LORD is my light and my salvation."
+    },
+    {
+      "front": "Genesis 9:13",
+      "back": "I do set my bow in the cloud."
+    },
+    {
+      "front": "John 15:5",
+      "back": "I am the vine, ye are the branches."
+    },
+    {
+      "front": "Matthew 11:28",
+      "back": "Come unto me, all ye that labour and are heavy laden."
+    },
+    {
+      "front": "Psalm 37:4",
+      "back": "Delight thyself also in the LORD."
+    },
+    {
+      "front": "Proverbs 18:10",
+      "back": "The name of the LORD is a strong tower."
+    },
+    {
+      "front": "Isaiah 9:6",
+      "back": "For unto us a child is born."
+    },
+    {
+      "front": "Psalm 34:8",
+      "back": "O taste and see that the LORD is good."
+    },
+    {
+      "front": "Matthew 5:16",
+      "back": "Let your light so shine before men."
+    },
+    {
+      "front": "Romans 8:28",
+      "back": "And we know that all things work together for good to them that love God."
+    },
+    {
+      "front": "Psalm 150:6",
+      "back": "Let every thing that hath breath praise the LORD."
+    },
+    {
+      "front": "John 13:34",
+      "back": "A new commandment I give unto you."
+    },
+    {
+      "front": "Psalm 56:3",
+      "back": "What time I am afraid, I will trust in thee."
+    },
+    {
+      "front": "Matthew 19:26",
+      "back": "With God all things are possible."
+    },
+    {
+      "front": "Proverbs 22:6",
+      "back": "Train up a child in the way he should go."
+    },
+    {
+      "front": "John 6:35",
+      "back": "I am the bread of life."
+    },
+    {
+      "front": "Genesis 1:27",
+      "back": "So God created man in his own image."
+    },
+    {
+      "front": "Psalm 118:24",
+      "back": "This is the day which the LORD hath made."
+    },
+    {
+      "front": "Matthew 22:37",
+      "back": "Thou shalt love the Lord thy God with all thy heart."
+    },
+    {
+      "front": "Isaiah 41:10",
+      "back": "Fear thou not; for I am with thee."
+    },
+    {
+      "front": "Psalm 91:1",
+      "back": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty."
+    },
+    {
+      "front": "Joshua 1:9",
+      "back": "Be strong and of a good courage; be not afraid, neither be thou dismayed."
+    },
+    {
+      "front": "Psalm 23:4",
+      "back": "Yea, though I walk through the valley of the shadow of death, I will fear no evil."
+    },
+    {
+      "front": "John 16:33",
+      "back": "In the world ye shall have tribulation: but be of good cheer; I have overcome the world."
+    },
+    {
+      "front": "Romans 10:9",
+      "back": "That if thou shalt confess with thy mouth the Lord Jesus."
+    },
+    {
+      "front": "Psalm 103:1",
+      "back": "Bless the LORD, O my soul."
+    },
+    {
+      "front": "Matthew 5:9",
+      "back": "Blessed are the peacemakers."
+    },
+    {
+      "front": "John 14:27",
+      "back": "Peace I leave with you."
+    },
+    {
+      "front": "Proverbs 3:6",
+      "back": "In all thy ways acknowledge him."
+    },
+    {
+      "front": "Psalm 46:1",
+      "back": "God is our refuge and strength."
+    },
+    {
+      "front": "Isaiah 40:31",
+      "back": "But they that wait upon the LORD shall renew their strength."
+    },
+    {
+      "front": "Psalm 121:1",
+      "back": "I will lift up mine eyes unto the hills."
+    },
+    {
+      "front": "Matthew 6:9",
+      "back": "Our Father which art in heaven, Hallowed be thy name."
+    },
+    {
+      "front": "Psalm 19:1",
+      "back": "The heavens declare the glory of God."
+    },
+    {
+      "front": "John 4:14",
+      "back": "But whosoever drinketh of the water that I shall give him shall never thirst."
+    },
+    {
+      "front": "Mark 12:30",
+      "back": "And thou shalt love the Lord thy God with all thy heart."
+    },
+    {
+      "front": "Hebrews 11:1",
+      "back": "Now faith is the substance of things hoped for."
+    },
+    {
+      "front": "Acts 16:31",
+      "back": "Believe on the Lord Jesus Christ, and thou shalt be saved."
+    }
+  ],
+  "medium": [
+    {
+      "front": "Genesis 1:1",
+      "back": "In the beginning God created the heaven and the earth."
+    },
+    {
+      "front": "John 3:16",
+      "back": "For God so loved the world."
+    },
+    {
+      "front": "Psalm 23:1",
+      "back": "The LORD is my shepherd; I shall not want."
+    },
+    {
+      "front": "Philippians 4:13",
+      "back": "I can do all things through Christ which strengtheneth me."
+    },
+    {
+      "front": "Jeremiah 29:11",
+      "back": "For I know the thoughts that I think toward you."
+    },
+    {
+      "front": "Romans 8:28",
+      "back": "And we know that all things work together for good to them that love God."
+    },
+    {
+      "front": "Isaiah 40:31",
+      "back": "But they that wait upon the LORD shall renew their strength."
+    },
+    {
+      "front": "Hebrews 11:1",
+      "back": "Now faith is the substance of things hoped for."
+    },
+    {
+      "front": "Galatians 5:22",
+      "back": "But the fruit of the Spirit is love, joy, peace."
+    },
+    {
+      "front": "2 Timothy 1:7",
+      "back": "For God hath not given us the spirit of fear."
+    },
+    {
+      "front": "Ephesians 2:8",
+      "back": "For by grace are ye saved through faith."
+    },
+    {
+      "front": "1 Corinthians 13:4",
+      "back": "Charity suffereth long, and is kind; charity envieth not."
+    },
+    {
+      "front": "James 1:5",
+      "back": "If any of you lack wisdom."
+    },
+    {
+      "front": "Hebrews 12:1",
+      "back": "Wherefore seeing we also are compassed about with so great a cloud of witnesses."
+    },
+    {
+      "front": "Romans 12:2",
+      "back": "And be not conformed to this world: but be ye transformed by the renewing of your mind."
+    },
+    {
+      "front": "2 Corinthians 5:17",
+      "back": "Therefore if any man be in Christ."
+    },
+    {
+      "front": "Ephesians 6:11",
+      "back": "Put on the whole armour of God."
+    },
+    {
+      "front": "1 Peter 5:7",
+      "back": "Casting all your care upon him."
+    },
+    {
+      "front": "Colossians 3:23",
+      "back": "And what soever ye do, do it heartily, as to the Lord."
+    },
+    {
+      "front": "James 4:7",
+      "back": "Submit yourselves therefore to God."
+    },
+    {
+      "front": "1 John 4:8",
+      "back": "He that loveth not knoweth not God."
+    },
+    {
+      "front": "Hebrews 13:8",
+      "back": "Jesus Christ the same yesterday, and to day."
+    },
+    {
+      "front": "Romans 5:8",
+      "back": "While we were yet sinners, Christ died for us."
+    },
+    {
+      "front": "1 Thessalonians 5:16",
+      "back": "Rejoice evermore."
+    },
+    {
+      "front": "Ephesians 4:32",
+      "back": "And be ye kind one to another, tenderhearted."
+    },
+    {
+      "front": "2 Corinthians 12:9",
+      "back": "My grace is sufficient for thee."
+    },
+    {
+      "front": "Galatians 2:20",
+      "back": "I am crucified with Christ: nevertheless I live."
+    },
+    {
+      "front": "1 John 1:9",
+      "back": "If we confess our sins."
+    },
+    {
+      "front": "Romans 15:13",
+      "back": "Now the God of hope fill you with all joy and peace in believing."
+    },
+    {
+      "front": "Philippians 2:3",
+      "back": "Let nothing be done through strife or vainglory."
+    },
+    {
+      "front": "Colossians 3:2",
+      "back": "Set your affection on things above."
+    },
+    {
+      "front": "1 Corinthians 10:13",
+      "back": "There hath no temptation taken you but such as is common to man."
+    },
+    {
+      "front": "Ephesians 3:20",
+      "back": "Now unto him that is able to do exceeding abundantly above all that we ask or think."
+    },
+    {
+      "front": "Philippians 4:6",
+      "back": "Be careful for nothing."
+    },
+    {
+      "front": "James 1:2",
+      "back": "Count it all joy when ye fall into divers temptations."
+    },
+    {
+      "front": "Romans 1:16",
+      "back": "For I am not ashamed of the gospel of Christ."
+    },
+    {
+      "front": "1 Peter 2:9",
+      "back": "But ye are a chosen generation, a royal priesthood."
+    },
+    {
+      "front": "Hebrews 4:12",
+      "back": "For the word of God is quick, and powerful."
+    },
+    {
+      "front": "Philippians 1:6",
+      "back": "Being confident of this very thing."
+    },
+    {
+      "front": "Colossians 3:15",
+      "back": "And let the peace of God rule in your hearts."
+    },
+    {
+      "front": "1 Corinthians 15:58",
+      "back": "Therefore, my beloved brethren, be ye stedfast, unmoveable."
+    },
+    {
+      "front": "Ephesians 2:10",
+      "back": "For we are his workmanship."
+    },
+    {
+      "front": "Romans 8:1",
+      "back": "There is therefore now no condemnation to them which are in Christ Jesus."
+    },
+    {
+      "front": "2 Timothy 3:16",
+      "back": "All scripture is given by inspiration of God."
+    },
+    {
+      "front": "Galatians 6:9",
+      "back": "And let us not be weary in well doing."
+    },
+    {
+      "front": "1 John 4:19",
+      "back": "We love him, because he first loved us."
+    },
+    {
+      "front": "Romans 12:12",
+      "back": "Rejoicing in hope; patient in tribulation; continuing instant in prayer."
+    },
+    {
+      "front": "Philippians 4:8",
+      "back": "Finally, brethren, whatsoever things are true, whatsoever things are honest."
+    },
+    {
+      "front": "1 Thessalonians 5:18",
+      "back": "In every thing give thanks."
+    },
+    {
+      "front": "Hebrews 11:6",
+      "back": "But without faith it is impossible to please him."
+    },
+    {
+      "front": "James 1:17",
+      "back": "Every good gift and every perfect gift is from above."
+    },
+    {
+      "front": "Ephesians 6:18",
+      "back": "Praying always with all prayer and supplication in the Spirit."
+    },
+    {
+      "front": "Romans 8:38",
+      "back": "For I am persuaded, that neither death, nor life."
+    },
+    {
+      "front": "1 Corinthians 16:14",
+      "back": "Let all your things be done with charity."
+    },
+    {
+      "front": "Colossians 1:16",
+      "back": "For by him were all things created."
+    },
+    {
+      "front": "1 Peter 3:15",
+      "back": "But sanctify the Lord God in your hearts."
+    },
+    {
+      "front": "Philippians 3:14",
+      "back": "I press toward the mark for the prize of the high calling of God in Christ Jesus."
+    },
+    {
+      "front": "Romans 10:17",
+      "back": "So then faith cometh by hearing."
+    },
+    {
+      "front": "Isaiah 53:5",
+      "back": "But he was wounded for our transgressions."
+    },
+    {
+      "front": "Matthew 11:28",
+      "back": "Come unto me, all ye that labour and are heavy laden."
+    },
+    {
+      "front": "John 8:32",
+      "back": "Ye shall know the truth, and the truth shall make you free."
+    }
+  ],
+  "hard": [
+    {
+      "front": "Genesis 1:1",
+      "back": "In the beginning God created the heaven and the earth."
+    },
+    {
+      "front": "John 3:16",
+      "back": "For God so loved the world."
+    },
+    {
+      "front": "Psalm 23:1",
+      "back": "The LORD is my shepherd; I shall not want."
+    },
+    {
+      "front": "Philippians 4:13",
+      "back": "I can do all things through Christ which strengtheneth me."
+    },
+    {
+      "front": "Jeremiah 29:11",
+      "back": "For I know the thoughts that I think toward you."
+    },
+    {
+      "front": "Romans 8:28",
+      "back": "And we know that all things work together for good to them that love God."
+    },
+    {
+      "front": "Isaiah 40:31",
+      "back": "But they that wait upon the LORD shall renew their strength."
+    },
+    {
+      "front": "Hebrews 11:1",
+      "back": "Now faith is the substance of things hoped for."
+    },
+    {
+      "front": "Matthew 6:33",
+      "back": "But seek ye first the kingdom of God."
+    },
+    {
+      "front": "Ephesians 2:8",
+      "back": "For by grace are ye saved through faith."
+    },
+    {
+      "front": "Micah 6:8",
+      "back": "To do justly, and to love mercy, and to walk humbly with thy God."
+    },
+    {
+      "front": "Habakkuk 2:4",
+      "back": "The just shall live by his faith."
+    },
+    {
+      "front": "Deuteronomy 6:5",
+      "back": "And thou shalt love the LORD thy God with all thine heart."
+    },
+    {
+      "front": "Isaiah 53:5",
+      "back": "But he was wounded for our transgressions."
+    },
+    {
+      "front": "Lamentations 3:22",
+      "back": "It is of the LORD's mercies that we are not consumed."
+    },
+    {
+      "front": "Nahum 1:7",
+      "back": "The LORD is good."
+    },
+    {
+      "front": "Zechariah 4:6",
+      "back": "Not by might, nor by power, but by my spirit, saith the LORD of hosts."
+    },
+    {
+      "front": "Malachi 3:10",
+      "back": "Bring ye all the tithes into the storehouse."
+    },
+    {
+      "front": "Hosea 6:6",
+      "back": "For I desired mercy, and not sacrifice."
+    },
+    {
+      "front": "Amos 5:24",
+      "back": "But let judgment run down as waters."
+    },
+    {
+      "front": "Daniel 3:17",
+      "back": "Our God whom we serve is able to deliver us."
+    },
+    {
+      "front": "Ezekiel 36:26",
+      "back": "A new heart also will I give you."
+    },
+    {
+      "front": "Isaiah 6:8",
+      "back": "Here am I; send me."
+    },
+    {
+      "front": "Jeremiah 33:3",
+      "back": "Call unto me, and I will answer thee."
+    },
+    {
+      "front": "Isaiah 26:3",
+      "back": "Thou wilt keep him in perfect peace."
+    },
+    {
+      "front": "Proverbs 16:9",
+      "back": "A man's heart deviseth his way."
+    },
+    {
+      "front": "Ecclesiastes 3:1",
+      "back": "To every thing there is a season."
+    },
+    {
+      "front": "Deuteronomy 31:6",
+      "back": "Be strong and of a good courage, fear not."
+    },
+    {
+      "front": "Numbers 6:24",
+      "back": "The LORD bless thee, and keep thee."
+    },
+    {
+      "front": "Isaiah 43:2",
+      "back": "When thou passest through the waters."
+    },
+    {
+      "front": "1 Samuel 16:7",
+      "back": "Man looketh on the outward appearance, but the LORD looketh on the heart."
+    },
+    {
+      "front": "Proverbs 27:17",
+      "back": "Iron sharpeneth iron."
+    },
+    {
+      "front": "Exodus 14:14",
+      "back": "The LORD shall fight for you."
+    },
+    {
+      "front": "Isaiah 55:8",
+      "back": "For my thoughts are not your thoughts."
+    },
+    {
+      "front": "Proverbs 31:25",
+      "back": "Strength and honour are her clothing."
+    },
+    {
+      "front": "Song of Solomon 2:4",
+      "back": "He brought me to the banqueting house."
+    },
+    {
+      "front": "Isaiah 12:2",
+      "back": "Behold, God is my salvation."
+    },
+    {
+      "front": "Habakkuk 3:19",
+      "back": "The LORD God is my strength."
+    },
+    {
+      "front": "Zephaniah 3:17",
+      "back": "The LORD thy God in the midst of thee is mighty."
+    },
+    {
+      "front": "Proverbs 4:23",
+      "back": "Keep thy heart with all diligence."
+    },
+    {
+      "front": "Ecclesiastes 12:13",
+      "back": "Let us hear the conclusion of the whole matter."
+    },
+    {
+      "front": "Isaiah 54:17",
+      "back": "No weapon that is formed against thee shall prosper."
+    },
+    {
+      "front": "Daniel 2:21",
+      "back": "And he changeth the times and the seasons."
+    },
+    {
+      "front": "Jeremiah 17:7",
+      "back": "Blessed is the man that trusteth in the LORD."
+    },
+    {
+      "front": "Isaiah 40:29",
+      "back": "He giveth power to the faint."
+    },
+    {
+      "front": "Proverbs 9:10",
+      "back": "The fear of the LORD is the beginning of wisdom."
+    },
+    {
+      "front": "Leviticus 19:18",
+      "back": "Thou shalt love thy neighbour as thyself."
+    },
+    {
+      "front": "Deuteronomy 7:9",
+      "back": "Know therefore that the LORD thy God, he is God."
+    },
+    {
+      "front": "Joshua 24:15",
+      "back": "And if it seem evil unto you to serve the LORD."
+    },
+    {
+      "front": "Isaiah 30:21",
+      "back": "This is the way, walk ye in it."
+    },
+    {
+      "front": "Psalm 51:10",
+      "back": "Create in me a clean heart, O God."
+    },
+    {
+      "front": "Isaiah 64:8",
+      "back": "But now, O LORD, thou art our father."
+    },
+    {
+      "front": "Proverbs 14:26",
+      "back": "In the fear of the LORD is strong confidence."
+    },
+    {
+      "front": "Joel 2:25",
+      "back": "And I will restore to you the years that the locust hath eaten."
+    },
+    {
+      "front": "Psalm 18:2",
+      "back": "The LORD is my rock, and my fortress."
+    },
+    {
+      "front": "Isaiah 58:11",
+      "back": "And the LORD shall guide thee continually."
+    },
+    {
+      "front": "Proverbs 1:7",
+      "back": "The fear of the LORD is the beginning of knowledge."
+    },
+    {
+      "front": "2 Chronicles 7:14",
+      "back": "If my people, which are called by my name, shall humble themselves, and pray."
+    },
+    {
+      "front": "Psalm 32:8",
+      "back": "I will instruct thee and teach thee in the way which thou shalt go."
+    },
+    {
+      "front": "Obadiah 1:15",
+      "back": "For the day of the LORD is near upon all the heathen."
+    },
+    {
+      "front": "Ephesians 6:11",
+      "back": "Put on the whole armour of God."
+    },
+    {
+      "front": "1 John 1:9",
+      "back": "If we confess our sins."
+    },
+    {
+      "front": "2 Timothy 3:16",
+      "back": "All scripture is given by inspiration of God."
+    }
+  ]
+}

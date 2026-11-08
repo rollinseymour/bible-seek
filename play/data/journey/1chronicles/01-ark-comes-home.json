@@ -1,0 +1,147 @@
+{
+  "id": "1ch.ark_comes_home",
+  "title": "The Ark Comes Home",
+  "anchorRef": "1CH.13.8",
+  "backstory": "First Chronicles retells Israel's story with worship at its very heart. David is now king over all Israel, and his first great desire is to bring the ark of God — the sign of the LORD's presence — home to Jerusalem. But even a good desire, David will learn, must be carried out God's way.",
+  "passages": [
+    {
+      "ref": "1CH.13.1-8",
+      "synopsis": "David talked with his captains and with all the congregation of Israel about bringing back the ark of God, which had been neglected in the days of Saul. All the people agreed that the thing was right. So Israel gathered from one end of the land to the other and set the ark on a new cart. David and all Israel celebrated before God with all their might, with singing, harps, cymbals, and trumpets."
+    },
+    {
+      "ref": "1CH.13.9-14",
+      "synopsis": "At the threshingfloor the oxen stumbled, and Uzza reached out his hand to steady the ark. God's anger was kindled, and Uzza died there beside it. David was afraid that day and wondered how the ark of God could ever come home to him. So he carried it aside into the house of Obed-edom, and for three months the LORD blessed that whole household."
+    },
+    {
+      "ref": "1CH.15.1-15",
+      "synopsis": "David prepared a place for the ark in Jerusalem and pitched a tent for it. This time he called the priests and the Levites, for none ought to carry the ark of God but the Levites, whom the LORD had chosen. David admitted that the first attempt had gone wrong because they had not sought God after the due order. So the Levites sanctified themselves and bore the ark on their shoulders with staves, just as Moses had commanded."
+    },
+    {
+      "ref": "1CH.15.25-16.6",
+      "synopsis": "With great joy David, the elders, and all Israel brought up the ark from the house of Obed-edom. There was shouting and the sound of cornets, trumpets, cymbals, and harps, and David wore a linen ephod as he celebrated. They set the ark inside the tent, offered sacrifices, and David blessed the people in the name of the LORD. Then he gave every man and woman a loaf of bread, and appointed Levites like Asaph to praise the LORD before the ark continually."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How did Israel first try to carry the ark of God?",
+          "options": [
+            "On the shoulders of priests",
+            "On camels",
+            "On a new cart",
+            "In a golden chariot"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Chronicles 13:7 — \"And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In whose house did the ark stay for three months?",
+          "options": [
+            "Obed-edom's",
+            "Abinadab's",
+            "Ahio's",
+            "Zadok's"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Chronicles 13:14 — \"And the ark of God remained with the family of Obed-edom in his house three months. And the LORD blessed the house of Obed-edom, and all that he had.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who did David say ought to carry the ark of God?",
+          "options": [
+            "The captains of thousands",
+            "The Levites",
+            "The mighty men",
+            "The princes of Israel"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Chronicles 15:2 — \"Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did the Levites carry the ark, as Moses commanded?",
+          "options": [
+            "In a wagon",
+            "Wrapped in fine linen",
+            "Behind a team of oxen",
+            "Upon their shoulders with staves"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Chronicles 15:15 — \"And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Ark Comes Home",
+          "words": [
+            "ARK",
+            "DAVID",
+            "LEVITES",
+            "OBEDEDOM",
+            "HARPS",
+            "TRUMPETS",
+            "CYMBALS",
+            "JERUSALEM"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "David",
+          "clues": [
+            "I was Israel's shepherd king.",
+            "I longed to bring the ark of God home to Jerusalem.",
+            "I danced before God with all my might in a linen ephod."
+          ],
+          "wrongChoices": [
+            "Saul",
+            "Solomon",
+            "Samuel"
+          ]
+        },
+        {
+          "name": "Obed-edom",
+          "clues": [
+            "The ark of God stayed at my house for three months.",
+            "The LORD blessed my whole household while it was there.",
+            "Later I served among the singers before the ark."
+          ],
+          "wrongChoices": [
+            "Uzza",
+            "Ahio",
+            "Abinadab"
+          ]
+        },
+        {
+          "name": "Michal",
+          "clues": [
+            "I was King Saul's daughter.",
+            "I watched from a window as the ark came into the city.",
+            "When I saw King David dancing, I despised him in my heart."
+          ],
+          "wrongChoices": [
+            "Abigail",
+            "Bathsheba",
+            "Merab"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "2SA.6.14",
+    "EXO.25.14",
+    "PSA.132.8"
+  ],
+  "reflection": "David learned that loving God means doing things God's way, not just meaning well. When have you had to slow down and obey, even with a good goal in mind?"
+}

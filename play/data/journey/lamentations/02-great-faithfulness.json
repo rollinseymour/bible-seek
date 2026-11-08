@@ -1,0 +1,127 @@
+{
+  "id": "lam.great_faithfulness",
+  "title": "Great Is Thy Faithfulness",
+  "anchorRef": "LAM.3.22",
+  "backstory": "Right in the middle of the saddest book in the Bible, light breaks through. Sitting among the ruins of Jerusalem, Jeremiah calls to mind something about God that changes everything: his mercies never run out, and they are new every morning. That hope carries the book all the way to its closing prayer — turn thou us unto thee, O LORD.",
+  "passages": [
+    {
+      "ref": "LAM.3.19-26",
+      "synopsis": "Jeremiah remembers his affliction, and his soul is bowed low within him. Then he calls something to mind that gives him hope. It is because of the LORD's mercies that we are not consumed; his compassions fail not. They are new every morning, and great is his faithfulness. The LORD is good to those who wait for him and seek him."
+    },
+    {
+      "ref": "LAM.3.27-33",
+      "synopsis": "It is good, Jeremiah says, when a person bears the yoke while he is still young. Hard things carried early teach the heart to sit alone, keep silence, and quietly hope. The Lord will not cast off for ever; though he allows grief, he will show compassion according to the multitude of his mercies. God does not afflict willingly or grieve the children of men. Even hard days pass through his kind hands."
+    },
+    {
+      "ref": "LAM.3.37-41",
+      "synopsis": "Nothing comes to pass unless the Lord allows it, so grumbling gets us nowhere. Instead, Jeremiah invites the people to search their ways, test them, and turn again to the LORD. Let us lift up our hearts with our hands to God in the heavens. Honest turning is the road home."
+    },
+    {
+      "ref": "LAM.5.15-21",
+      "synopsis": "The book closes with one last prayer. The people's joy has ceased and their dance is turned into mourning, but they remember that the LORD remains for ever, and his throne endures from generation to generation. So they pray, \"Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.\" Hope rests on the God who never changes."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Lamentations 3:22",
+          "text": "It is of the LORD’s mercies that we are not consumed,"
+        },
+        {
+          "reference": "Lamentations 3:23",
+          "text": "They are new every morning: great is thy faithfulness."
+        },
+        {
+          "reference": "Lamentations 3:25",
+          "text": "The LORD is good unto them that wait for him,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Why are we not consumed, according to Lamentations 3:22?",
+          "options": [
+            "Because our walls are strong",
+            "Because our enemies have gone away",
+            "Because the LORD's mercies and compassions fail not",
+            "Because we have earned it"
+          ],
+          "correctIndex": 2,
+          "explanation": "Lamentations 3:22 — \"It is of the LORD’s mercies that we are not consumed, because his compassions fail not.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When are God's mercies new?",
+          "options": [
+            "Every morning",
+            "Once a year",
+            "On the sabbath",
+            "At harvest time"
+          ],
+          "correctIndex": 0,
+          "explanation": "Lamentations 3:23 — \"They are new every morning: great is thy faithfulness.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "According to Lamentations 3:26, what is it good for a man to do?",
+          "options": [
+            "Build a strong tower",
+            "March around the city",
+            "Hide from every trouble",
+            "Both hope and quietly wait for the salvation of the LORD"
+          ],
+          "correctIndex": 3,
+          "explanation": "Lamentations 3:26 — \"It is good that a man should both hope and quietly wait for the salvation of the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does Lamentations say is good for a man to bear in his youth?",
+          "options": [
+            "A sword",
+            "The yoke",
+            "A crown",
+            "A harp"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lamentations 3:27 — \"It is good for a man that he bear the yoke in his youth.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "MERCIES",
+          "hint": "They are new every morning",
+          "theme": "things"
+        },
+        {
+          "word": "PORTION",
+          "hint": "The LORD is my ___, saith my soul",
+          "theme": "things"
+        },
+        {
+          "word": "HOPE",
+          "hint": "It is good to quietly wait with this",
+          "theme": "things"
+        },
+        {
+          "word": "ZION",
+          "hint": "God's holy hill in Jerusalem",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.30.5",
+    "2CO.1.3",
+    "HEB.10.23"
+  ],
+  "reflection": "Jeremiah found hope by remembering God's mercies in the middle of the ruins. What mercy of God, new this morning, could you thank him for?"
+}

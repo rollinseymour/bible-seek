@@ -1,0 +1,133 @@
+{
+  "id": "job.job_restored",
+  "title": "Job Restored",
+  "anchorRef": "JOB.42.2",
+  "backstory": "God's questions showed Job how great his Maker is, and how small our understanding can be. Job had no more arguments — only worship. The story ends not in the ashes but in blessing, for God had never stopped loving his servant Job.",
+  "passages": [
+    {
+      "ref": "JOB.40.1-5",
+      "synopsis": "The LORD asked whether the one who argues with the Almighty will correct him. Job answered very humbly. He said he was unworthy and would lay his hand upon his mouth. He had spoken before, but he would say no more."
+    },
+    {
+      "ref": "JOB.42.1-6",
+      "synopsis": "Job answered the LORD with a humbled heart. He said he knew God can do every thing, and that nothing can be hidden from him. Job had heard of God before, but now it was as if he had seen him with his own eyes. He repented in dust and ashes."
+    },
+    {
+      "ref": "JOB.42.7-9",
+      "synopsis": "The LORD spoke to Eliphaz and his two friends. They had not spoken rightly about God the way Job had. God told them to bring offerings, and his servant Job would pray for them. They obeyed, and the LORD accepted Job's prayer for his friends."
+    },
+    {
+      "ref": "JOB.42.10-17",
+      "synopsis": "When Job prayed for his friends, the LORD turned his captivity and gave him twice as much as he had before. His family and friends returned and comforted him. God gave him seven more sons and three more daughters, and he named the girls Jemima, Kezia, and Keren-happuch. Job lived a hundred and forty more years and saw four generations of his family."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Job do when the LORD asked if he would answer?",
+          "options": [
+            "He laid his hand upon his mouth",
+            "He argued his case again",
+            "He asked for a sign",
+            "He called for his friends"
+          ],
+          "correctIndex": 0,
+          "explanation": "Job 40:4 — \"Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When did the LORD turn the captivity of Job?",
+          "options": [
+            "When Job offered a sacrifice",
+            "When Job fasted for forty days",
+            "When Job's friends left him",
+            "When Job prayed for his friends"
+          ],
+          "correctIndex": 3,
+          "explanation": "Job 42:10 — \"And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did the LORD bless the latter end of Job?",
+          "options": [
+            "The same as his beginning",
+            "More than his beginning",
+            "With a new house",
+            "With a kingdom"
+          ],
+          "correctIndex": 1,
+          "explanation": "Job 42:12 — \"So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was the name of Job's first daughter born after his trials?",
+          "options": [
+            "Kezia",
+            "Keren-happuch",
+            "Jemima",
+            "Dinah"
+          ],
+          "correctIndex": 2,
+          "explanation": "Job 42:14 — \"And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Job",
+          "clues": [
+            "I prayed for my three friends, and the LORD turned my captivity.",
+            "The LORD gave me twice as much as I had before.",
+            "I lived a hundred and forty more years and saw four generations."
+          ],
+          "wrongChoices": [
+            "Abraham",
+            "Isaac",
+            "Noah"
+          ]
+        },
+        {
+          "name": "Jemima",
+          "clues": [
+            "I was the first daughter born to Job after the LORD restored him.",
+            "In all the land no women were found so fair as my sisters and me.",
+            "My father was a man of Uz whom God restored."
+          ],
+          "wrongChoices": [
+            "Hannah",
+            "Miriam",
+            "Deborah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Job 42:2",
+          "text": "I know that thou canst do every thing,"
+        },
+        {
+          "reference": "Job 40:4",
+          "text": "I will lay mine hand upon my mouth."
+        },
+        {
+          "reference": "Job 42:5",
+          "text": "but now mine eye seeth thee."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JAS.5.16",
+    "1PE.5.10",
+    "ROM.8.28"
+  ],
+  "reflection": "God turned Job's sorrow into blessing while Job was praying for the very friends who had hurt him. Who could you pray for today?"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "num.korah",
+  "title": "Korah's Rebellion",
+  "anchorRef": "NUM.16.5",
+  "backstory": "After the spies' report Israel was condemned to wander, and resentment against Moses and Aaron grew. Korah was a Levite, already given a sacred role, but he wanted the priesthood too. His challenge forced the question: who does God appoint?",
+  "passages": [
+    {
+      "ref": "NUM.16.1-11",
+      "synopsis": "Korah and others rose up against Moses and Aaron, claiming they had taken too much authority. Moses said the LORD would show whom He had chosen. He warned them not to despise the calling God had given. The rebellion was really against God Himself."
+    },
+    {
+      "ref": "NUM.16.23-35",
+      "synopsis": "Moses warned the people to move away from the rebels' tents. The ground opened and swallowed Korah's household and all they had. Fire also consumed the men who offered incense wrongly. God made clear whom He had appointed."
+    },
+    {
+      "ref": "NUM.17.1-10",
+      "synopsis": "To end all grumbling, God had each tribe's leader lay up a rod. In the morning Aaron's rod had budded, blossomed, and even produced almonds. It was kept as a sign against the rebels. God confirmed Aaron's priesthood by a living miracle."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Aaron's Rod",
+          "words": [
+            "ROD",
+            "BUDS",
+            "LEVI",
+            "EARTH",
+            "AARON"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What happened to Korah and those with him?",
+          "options": [
+            "The earth swallowed them",
+            "They fled to Egypt",
+            "They were forgiven",
+            "They became priests"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 16:32 — \"And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained unto Korah, and all their goods.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whose rod budded and brought forth almonds?",
+          "options": [
+            "Aaron's",
+            "Moses'",
+            "Korah's",
+            "Caleb's"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 17:8 — \"And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whom did Korah and his company gather themselves against?",
+          "options": [
+            "The Egyptians",
+            "The Levites",
+            "Moses and Aaron",
+            "The spies"
+          ],
+          "correctIndex": 2,
+          "explanation": "Numbers 16:3 — \"And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why was Aaron's rod kept before the testimony?",
+          "options": [
+            "As a token against the rebels",
+            "To measure the altar",
+            "As a walking staff",
+            "To part the water"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 17:10 — \"And the LORD said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "KORAH",
+          "hint": "Levite who led a rebellion against Moses",
+          "theme": "people"
+        },
+        {
+          "word": "CENSER",
+          "hint": "Vessel used to burn incense",
+          "theme": "things"
+        },
+        {
+          "word": "ALMONDS",
+          "hint": "Aaron's rod budded and produced these",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JUD.1.11",
+    "NUM.16.30",
+    "HEB.5.4"
+  ],
+  "reflection": "Korah wanted a place God had not given him. Where might contentment with God's calling bring you peace?"
+}

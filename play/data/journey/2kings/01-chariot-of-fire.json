@@ -1,0 +1,94 @@
+{
+  "id": "2ki.chariot_of_fire",
+  "title": "The Chariot of Fire",
+  "anchorRef": "2KI.2.11",
+  "backstory": "Elijah the prophet has served God boldly through Israel's darkest days — calling down fire on Mount Carmel and hearing God's still small voice at Horeb. Now his work is nearly finished, and God is about to take him home in a way no one has ever seen. Young Elisha, his helper, refuses to leave his master's side.",
+  "passages": [
+    {
+      "ref": "2KI.2.1-6",
+      "synopsis": "The time had come for the LORD to take Elijah up to heaven. Elijah and Elisha walked together from Gilgal to Bethel to Jericho and on toward the Jordan. At each stop Elijah told Elisha to stay behind, but Elisha would not leave him. The sons of the prophets kept saying that Elisha's master would be taken away that very day, and Elisha answered that he knew."
+    },
+    {
+      "ref": "2KI.2.7-10",
+      "synopsis": "At the Jordan River, Elijah rolled up his mantle and struck the water. The river divided, and the two men crossed over on dry ground. Elijah asked what he could do for Elisha before being taken away, and Elisha asked for a double portion of Elijah's spirit. Elijah said it was a hard thing, but if Elisha saw him taken up, it would be granted."
+    },
+    {
+      "ref": "2KI.2.11-15",
+      "synopsis": "As they walked and talked, a chariot of fire and horses of fire came between them, and Elijah went up to heaven in a whirlwind. Elisha cried out, then picked up the mantle that had fallen from Elijah. He struck the Jordan with it and asked, 'Where is the LORD God of Elijah?' The waters parted for him too, and the sons of the prophets saw that Elijah's spirit now rested on Elisha."
+    },
+    {
+      "ref": "2KI.2.19-22",
+      "synopsis": "The men of Jericho told Elisha that their city was pleasant but its water was bad. Elisha asked for a new jar with salt in it. He threw the salt into the spring and declared that the LORD had healed the waters. The water stayed good from that day on, for God's power now worked through Elisha just as it had through Elijah."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Kings 2:13",
+          "text": "He took up also the mantle of Elijah that fell from him"
+        },
+        {
+          "reference": "2 Kings 2:22",
+          "text": "So the waters were healed unto this day"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Chariot of Fire",
+          "words": [
+            "ELIJAH",
+            "ELISHA",
+            "MANTLE",
+            "CHARIOT",
+            "FIRE",
+            "WHIRLWIND",
+            "JORDAN",
+            "HORSES"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Elijah",
+          "clues": [
+            "I was taken up to heaven in a whirlwind.",
+            "A chariot of fire and horses of fire appeared as I was taken away.",
+            "My mantle fell to the friend who walked with me to the Jordan."
+          ],
+          "wrongChoices": [
+            "Moses",
+            "Enoch",
+            "Isaiah"
+          ]
+        },
+        {
+          "name": "Elisha",
+          "clues": [
+            "I asked for a double portion of my master's spirit.",
+            "I picked up my master's mantle by the Jordan River.",
+            "I healed the bad waters of Jericho with a jar of salt."
+          ],
+          "wrongChoices": [
+            "Elijah",
+            "Gehazi",
+            "Samuel"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "1KI.19.19",
+    "MAL.4.5",
+    "MAT.17.3"
+  ],
+  "reflection": "Elisha stayed close to his master to the very end and asked for a double portion of his spirit. What good gift could you ask God for — and will you stay close to Him while you wait?"
+}

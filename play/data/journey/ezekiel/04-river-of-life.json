@@ -1,0 +1,128 @@
+{
+  "id": "ezk.river_of_life",
+  "title": "The River of Life",
+  "anchorRef": "EZK.47.9",
+  "backstory": "Ezekiel's book ends with his greatest vision of hope: a new temple, measured out room by room, waiting for God. Years before, Ezekiel had watched God's glory depart from Jerusalem because of sin. Now, in this final vision, he watches the glory come home — and from the temple's doorstep a little trickle of water begins to flow.",
+  "passages": [
+    {
+      "ref": "EZK.43.1-5",
+      "synopsis": "A heavenly guide brought Ezekiel to the east gate of the new temple. There the glory of the God of Israel came from the way of the east, with a voice like the noise of many waters, and the earth shined with his glory. It was like the vision Ezekiel had seen by the river Chebar, and he fell on his face. Then the Spirit lifted him into the inner court, and the glory of the LORD filled the house."
+    },
+    {
+      "ref": "EZK.47.1-5",
+      "synopsis": "Ezekiel was brought back to the door of the temple, and waters were flowing out from under the threshold, toward the east. His guide measured a thousand cubits and led him through — the water reached his ankles. Another thousand, and it reached his knees; another, and it reached his waist. After one more thousand it had become a river he could not cross, waters to swim in. The farther it flowed from God's house, the deeper it grew."
+    },
+    {
+      "ref": "EZK.47.6-12",
+      "synopsis": "Back on the bank, Ezekiel saw very many trees on both sides of the river. His guide explained that the waters flow down to the sea, and the salty sea is healed. Everything that lives, wherever the river comes, shall live, and fish will fill the waters as fishermen line the shore. On the banks grow trees whose leaves never fade and whose fruit never fails, bearing new fruit every month — fruit for food, and leaves for medicine."
+    },
+    {
+      "ref": "EZK.48.30-35",
+      "synopsis": "The vision closes with the city itself. It has twelve gates, three on each side, named for the tribes of Israel. The city is measured all the way around, complete and secure. And the book ends with the best promise of all: from that day forward, the name of the city shall be, The LORD is there."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "TEMPLE",
+          "hint": "The waters flowed from under its threshold",
+          "theme": "places"
+        },
+        {
+          "word": "ANKLES",
+          "hint": "The water reached these at the first measuring",
+          "theme": "things"
+        },
+        {
+          "word": "MEDICINE",
+          "hint": "What the leaves of the riverside trees were for",
+          "theme": "things"
+        },
+        {
+          "word": "GLORY",
+          "hint": "It came from the east and filled the house",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "From under the threshold of which building did the waters flow out?",
+          "options": [
+            "The king's palace",
+            "The east gate tower",
+            "The city wall",
+            "The house of the LORD"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ezekiel 47:1 — \"Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How deep were the waters after the first thousand cubits were measured?",
+          "options": [
+            "To the ankles",
+            "To the knees",
+            "To the loins",
+            "Waters to swim in"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ezekiel 47:3 — \"And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What happens to every thing the river comes to?",
+          "options": [
+            "It is swept away",
+            "It turns to salt",
+            "It shall live",
+            "It stands still"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ezekiel 47:9 — \"And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What is the name of the city from that day forward?",
+          "options": [
+            "The City of Peace",
+            "The LORD is there",
+            "The New Jerusalem",
+            "The Gate of Heaven"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ezekiel 48:35 — \"It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The River of Life",
+          "words": [
+            "RIVER",
+            "WATERS",
+            "TREES",
+            "FISH",
+            "LEAF",
+            "EAST",
+            "GATES",
+            "HEALED"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.46.4",
+    "JHN.7.38",
+    "REV.22.2"
+  ],
+  "reflection": "The river grew deeper the farther it flowed, and everything it touched came alive. Where would you like God's healing river to flow in your life?"
+}

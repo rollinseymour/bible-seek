@@ -1,0 +1,129 @@
+{
+  "id": "psa.a_clean_heart",
+  "title": "A Clean Heart",
+  "anchorRef": "PSA.51.10",
+  "backstory": "King David, the man after God's own heart, took what was not his and tried to hide it. God sent the prophet Nathan, and David's heart broke over his sin. Psalm 51 is the prayer he prayed, and Psalm 32 is the joy he found on the other side of forgiveness.",
+  "passages": [
+    {
+      "ref": "PSA.51.1-9",
+      "synopsis": "David cries out for mercy according to God's lovingkindness. He makes no excuses — he admits his sin is always before him. He asks God to wash him thoroughly, to purge him with hyssop, to make him whiter than snow. He knows only God can blot out what he has done."
+    },
+    {
+      "ref": "PSA.51.10-17",
+      "synopsis": "David asks God to create in him a clean heart and renew a right spirit within him. He begs not to be cast away from God's presence, and asks for the joy of salvation to be restored. Then he will teach others God's ways. The sacrifice God wants most, he learns, is a broken and a contrite heart."
+    },
+    {
+      "ref": "PSA.32.1-7",
+      "synopsis": "This psalm is David's song after forgiveness. When he kept silent about his sin, he felt worn down day and night. When he confessed, God forgave the iniquity of his sin. Now God himself is his hiding place, surrounding him with songs of deliverance."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "David",
+          "clues": [
+            "I was a shepherd boy who became king of Israel.",
+            "I wrote many of the psalms.",
+            "After my great sin, I prayed for a clean heart."
+          ],
+          "wrongChoices": [
+            "Solomon",
+            "Saul",
+            "Asaph"
+          ]
+        },
+        {
+          "name": "Nathan",
+          "clues": [
+            "I was a prophet in the days of King David.",
+            "I told the king a story about a poor man's little lamb.",
+            "My words led David to confess his sin to the LORD."
+          ],
+          "wrongChoices": [
+            "Samuel",
+            "Gad",
+            "Elijah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Psalms 51:2",
+          "text": "Wash me throughly from mine iniquity, and cleanse me from my sin."
+        },
+        {
+          "reference": "Psalms 51:10",
+          "text": "Create in me a clean heart, O God;"
+        },
+        {
+          "reference": "Psalms 32:1",
+          "text": "Blessed is he whose transgression is forgiven, whose sin is covered."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did David ask God to create in him?",
+          "options": [
+            "A clean heart",
+            "A new kingdom",
+            "A strong army",
+            "A wise mind"
+          ],
+          "correctIndex": 0,
+          "explanation": "Psalms 51:10 — \"Create in me a clean heart, O God; and renew a right spirit within me.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "David prayed, wash me, and I shall be whiter than what?",
+          "options": [
+            "Wool",
+            "Snow",
+            "Light",
+            "Fine linen"
+          ],
+          "correctIndex": 1,
+          "explanation": "Psalms 51:7 — \"Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What sacrifice will God not despise?",
+          "options": [
+            "A burnt offering",
+            "Gold and silver",
+            "A broken and a contrite heart",
+            "A costly gift"
+          ],
+          "correctIndex": 2,
+          "explanation": "Psalms 51:17 — \"The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Psalm 32 says the man is blessed whose transgression is what?",
+          "options": [
+            "Remembered",
+            "Punished",
+            "Hidden away",
+            "Forgiven"
+          ],
+          "correctIndex": 3,
+          "explanation": "Psalms 32:1 — \"Blessed is he whose transgression is forgiven, whose sin is covered.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "2SA.12.13",
+    "ISA.1.18",
+    "1JN.1.9"
+  ],
+  "reflection": "David did not hide his sin from God; he brought it honestly to him and found mercy. What would it look like for you to pray for a clean heart today?"
+}

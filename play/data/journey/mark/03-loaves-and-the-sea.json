@@ -1,0 +1,119 @@
+{
+  "id": "mrk.loaves_and_the_sea",
+  "title": "Loaves and the Sea",
+  "anchorRef": "MRK.6.50",
+  "backstory": "The twelve apostles have just returned from their first preaching journey, tired and hungry, and Jesus leads them away for rest. But the crowds run ahead around the shore, and thousands are waiting when the boat lands. What follows is one of the most beloved miracles in the Bible — and a night on the sea the disciples would never forget.",
+  "passages": [
+    {
+      "ref": "MRK.6.30-34",
+      "synopsis": "The apostles gather around Jesus to tell him all they have done and taught. He invites them to come apart to a desert place and rest a while, for they have had no time even to eat. But the people see them leaving and run on foot from all the cities, arriving first. When Jesus steps ashore and sees the great crowd, he is moved with compassion, for they are like sheep without a shepherd, and he begins to teach them."
+    },
+    {
+      "ref": "MRK.6.35-44",
+      "synopsis": "As the day grows late, the disciples ask Jesus to send the crowd away to buy bread. Instead he says, \"Give ye them to eat,\" though they have only five loaves and two fishes. Jesus has everyone sit in companies on the green grass, looks up to heaven, blesses the bread, and keeps dividing it. All eat and are filled, twelve baskets of fragments are left over, and about five thousand men have been fed."
+    },
+    {
+      "ref": "MRK.6.45-52",
+      "synopsis": "Jesus sends the disciples ahead by ship toward Bethsaida while he goes up a mountain alone to pray. In the night the wind turns against them, and they toil at the oars in the middle of the sea. About the fourth watch, Jesus comes to them walking on the water, and they cry out, thinking he is a spirit. \"Be of good cheer: it is I; be not afraid,\" he says, and when he climbs into the ship, the wind ceases."
+    },
+    {
+      "ref": "MRK.6.53-56",
+      "synopsis": "The ship comes to shore in the land of Gennesaret, and the people recognize Jesus at once. They run through the whole region, carrying the sick on beds to wherever he is. In villages, cities, and countryside, they lay the sick in the streets. All who touch even the border of his garment are made whole."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Mark 6:42",
+          "text": "And they did all eat, and were filled."
+        },
+        {
+          "reference": "Mark 6:46",
+          "text": "And when he had sent them away, he departed into a mountain to pray."
+        },
+        {
+          "reference": "Mark 6:50",
+          "text": "Be of good cheer: it is I; be not afraid."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Five Thousand Fed",
+          "words": [
+            "LOAVES",
+            "FISHES",
+            "BASKETS",
+            "GRASS",
+            "SHIP",
+            "WIND",
+            "BETHSAIDA"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How much food did the disciples find for the crowd?",
+          "options": [
+            "Seven loaves and a few small fishes",
+            "Five loaves and two fishes",
+            "Twelve loaves and five fishes",
+            "Two loaves and seven fishes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mark 6:38 — \"He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How many baskets of fragments were taken up after everyone ate?",
+          "options": [
+            "Five",
+            "Seven",
+            "Three",
+            "Twelve"
+          ],
+          "correctIndex": 3,
+          "explanation": "Mark 6:43 — \"And they took up twelve baskets full of the fragments, and of the fishes.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Why was Jesus moved with compassion toward the crowd?",
+          "options": [
+            "They were as sheep not having a shepherd",
+            "They had followed him for three days",
+            "They were poor and sick",
+            "They had come to crown him king"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mark 6:34 — \"And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "When did Jesus come to the disciples walking on the sea?",
+          "options": [
+            "At sunset",
+            "At the rising of the sun",
+            "About the fourth watch of the night",
+            "At midday"
+          ],
+          "correctIndex": 2,
+          "explanation": "Mark 6:48 — \"And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.\"",
+          "category": "newTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.16.15",
+    "PSA.23.1",
+    "JHN.6.35"
+  ],
+  "reflection": "Jesus fed five thousand with five loaves and two fishes, and walked to his friends through the storm. What small thing could you place in his hands today?"
+}

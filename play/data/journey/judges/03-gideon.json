@@ -1,0 +1,117 @@
+{
+  "id": "jdg.gideon",
+  "title": "Gideon's Small Army",
+  "anchorRef": "JDG.6.12",
+  "backstory": "For seven years the Midianites had swept in at harvest time, stripping Israel's crops and driving families into caves. The nation was starving and hiding. God's messenger found the man he had chosen threshing wheat in a winepress, out of sight.",
+  "passages": [
+    {
+      "ref": "JDG.6.11-24",
+      "synopsis": "While Gideon threshed wheat in hiding, the angel of the LORD appeared to him. \"The LORD is with thee, thou mighty man of valour,\" he said. Gideon felt weak and unworthy, but God promised to be with him. God was calling an ordinary man to a great task."
+    },
+    {
+      "ref": "JDG.6.36-40",
+      "synopsis": "Gideon asked God for a sign to be sure of His call. He laid a wool fleece out overnight and asked for dew on it alone. In the morning the fleece was wet and the ground dry. To be certain, Gideon asked for the opposite the next night, and God did that too."
+    },
+    {
+      "ref": "JDG.7.1-8",
+      "synopsis": "Gideon gathered an army, but God said there were too many men. God did not want Israel to boast that they had saved themselves. He reduced the army to just three hundred men. With so few, everyone would know the victory came from God."
+    },
+    {
+      "ref": "JDG.7.16-22",
+      "synopsis": "Gideon's three hundred men surrounded the enemy camp at night. At his signal they blew trumpets, broke jars, and held up torches. The enemy panicked in the darkness and turned on each other. God gave Israel a great victory with a tiny army."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Judges 6:12",
+          "text": "The LORD is with thee, thou mighty man of valour."
+        },
+        {
+          "reference": "Judges 6:14",
+          "text": "Go in this thy might,"
+        },
+        {
+          "reference": "Judges 7:7",
+          "text": "By the three hundred men that lapped will I save you,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Gideon use to make sure of God's call?",
+          "options": [
+            "A fleece of wool",
+            "A rod",
+            "A stone",
+            "A cloud"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 6:37 — \"Behold, I will put a fleece of wool in the floor; and if the dew be on the fleece only, and it be dry upon all the earth beside, then shall I know that thou wilt save Israel by mine hand, as thou hast said.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How many men did God use with Gideon to win?",
+          "options": [
+            "Three hundred",
+            "Ten thousand",
+            "A thousand",
+            "Thirty"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 7:7 — \"And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the other people go every man unto his place.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the angel of the LORD call Gideon while he threshed wheat?",
+          "options": [
+            "The least in his father's house",
+            "A prophet unto the nations",
+            "Thou mighty man of valour",
+            "A shepherd of Israel"
+          ],
+          "correctIndex": 2,
+          "explanation": "Judges 6:12 — \"And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Gideon put into the hands of his three hundred men?",
+          "options": [
+            "Swords and shields",
+            "A trumpet, an empty pitcher, and a lamp",
+            "Bows and arrows",
+            "Slings and smooth stones"
+          ],
+          "correctIndex": 1,
+          "explanation": "Judges 7:16 — \"And he divided the three hundred men into three companies, and he put a trumpet in every man’s hand, with empty pitchers, and lamps within the pitchers.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Gideon",
+          "words": [
+            "FLEECE",
+            "DEW",
+            "HORN",
+            "JARS",
+            "LAMP"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.11.32",
+    "1CO.1.27",
+    "2CO.4.7"
+  ],
+  "reflection": "God won with three hundred so the glory would be His. Where do you feel too small — and could that be the point?"
+}

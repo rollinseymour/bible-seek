@@ -1,0 +1,146 @@
+{
+  "id": "2ch.book_and_promise",
+  "title": "The Book and the Promise",
+  "anchorRef": "2CH.34.27",
+  "backstory": "Josiah became king of Judah when he was only eight years old, and he chose to walk in the ways of his father David. While workers repaired the temple, something long lost came to light — the book of the law of the LORD. What Josiah did next, and what came after him, closes 2 Chronicles with sorrow and a bright promise.",
+  "passages": [
+    {
+      "ref": "2CH.34.14-21",
+      "synopsis": "While the money was being brought out to repair the temple, Hilkiah the priest found the book of the law of the LORD. Shaphan the scribe carried it to King Josiah and read it aloud. When Josiah heard God's words, he tore his clothes in sorrow. He sent his men to ask the LORD what Judah should do, for the people had not kept his word."
+    },
+    {
+      "ref": "2CH.34.22-28",
+      "synopsis": "The king's men went to Huldah the prophetess in Jerusalem. She said the trouble written in the book would truly come, because the people had forsaken the LORD. But she carried a gentle word for Josiah himself. Because his heart was tender and he had humbled himself before God, he would be gathered to his fathers in peace."
+    },
+    {
+      "ref": "2CH.34.29-33",
+      "synopsis": "Josiah gathered all the people, great and small, to the house of the LORD. He read in their ears all the words of the book of the covenant. Standing in his place, the king made a covenant to follow the LORD with all his heart and all his soul. And all his days, the people did not turn away from the God of their fathers."
+    },
+    {
+      "ref": "2CH.36.15-23",
+      "synopsis": "After Josiah, the kings and people would not listen, though God kept sending messengers because he had compassion on them. At last Jerusalem fell, and the people were carried away to Babylon for seventy years, just as Jeremiah had said. But the story does not end in the dark. God stirred Cyrus king of Persia to send his people home to build the house of the LORD in Jerusalem."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Josiah",
+          "clues": [
+            "I became king when I was eight years old.",
+            "I tore my clothes when I heard the book of the law read.",
+            "I made a covenant to walk after the LORD with all my heart."
+          ],
+          "wrongChoices": [
+            "Hezekiah",
+            "Joash",
+            "Manasseh"
+          ]
+        },
+        {
+          "name": "Hilkiah",
+          "clues": [
+            "I served as priest in the house of the LORD.",
+            "I found a long-lost book while the temple was being repaired.",
+            "I delivered the book of the law to Shaphan the scribe."
+          ],
+          "wrongChoices": [
+            "Shaphan",
+            "Ezra",
+            "Jeremiah"
+          ]
+        },
+        {
+          "name": "Huldah",
+          "clues": [
+            "I was a prophetess living in Jerusalem.",
+            "The king's men came to ask me about the words of the book.",
+            "I told Josiah that God had heard him because his heart was tender."
+          ],
+          "wrongChoices": [
+            "Deborah",
+            "Miriam",
+            "Esther"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who read the book of the law aloud before King Josiah?",
+          "options": [
+            "Hilkiah the priest",
+            "Huldah the prophetess",
+            "Shaphan the scribe",
+            "Ahikam the son of Shaphan"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Chronicles 34:18 — \"Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did the LORD promise Josiah he would not see the evil coming on that place?",
+          "options": [
+            "Because his heart was tender and he humbled himself before God",
+            "Because he had gathered much silver for the temple",
+            "Because he had won a great battle",
+            "Because he had built a new city wall"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Chronicles 34:27 — \"Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How long did the land enjoy her sabbaths while it lay desolate?",
+          "options": [
+            "Forty years",
+            "Threescore and ten years",
+            "One hundred years",
+            "Twelve years"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Chronicles 36:21 — \"To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which king proclaimed that God's people could go up and build the house in Jerusalem?",
+          "options": [
+            "Nebuchadnezzar",
+            "Pharaoh",
+            "Darius",
+            "Cyrus king of Persia"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Chronicles 36:23 — \"Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Chronicles 34:15",
+          "text": "I have found the book of the law in the house of the LORD."
+        },
+        {
+          "reference": "2 Chronicles 34:18",
+          "text": "And Shaphan read it before the king."
+        },
+        {
+          "reference": "2 Chronicles 34:19",
+          "text": "that he rent his clothes."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "2KI.22.8",
+    "JER.29.10",
+    "EZR.1.1"
+  ],
+  "reflection": "Even after the exile, God kept his promise to bring his people home. When waiting feels long, how can you hold on to God's promises?"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ezk.watchman_call",
+  "title": "The Watchman's Call",
+  "anchorRef": "EZK.3.17",
+  "backstory": "Ezekiel was a young priest carried away to Babylon with King Jehoiachin, years before Jerusalem fell. Far from the temple, settled among the exiles by the river Chebar, he must have wondered if God had stayed behind in Jerusalem. Then one day the heavens opened, and Ezekiel saw that God's glory travels with his people — even into exile.",
+  "passages": [
+    {
+      "ref": "EZK.1.1-5",
+      "synopsis": "By the river Chebar in Babylon, among the captives, the heavens opened and Ezekiel saw visions of God. A whirlwind came out of the north — a great cloud with fire folding in on itself and brightness all around, glowing like amber. Out of the midst of it came the likeness of four living creatures. Each had the likeness of a man. God was arriving in glory, right there in the land of exile."
+    },
+    {
+      "ref": "EZK.1.26-28",
+      "synopsis": "Above the living creatures Ezekiel saw the likeness of a throne, like a sapphire stone, and on the throne the appearance of a man surrounded by fire and brightness. The glow around him looked like the rainbow in the clouds on a rainy day. This was the appearance of the likeness of the glory of the LORD. When Ezekiel saw it, he fell on his face and heard a voice speak."
+    },
+    {
+      "ref": "EZK.2.1-10",
+      "synopsis": "The voice said, \"Son of man, stand upon thy feet,\" and the Spirit set Ezekiel on his feet. God sent him to the children of Israel, a rebellious house, and told him not to be afraid of their words or their looks. Whether they would hear or not, they would know a prophet had been among them. Then a hand stretched out to Ezekiel holding a roll of a book, written on both sides with lamentations, mourning, and woe."
+    },
+    {
+      "ref": "EZK.3.16-21",
+      "synopsis": "After seven days the word of the LORD came to Ezekiel: God had made him a watchman for the house of Israel. A watchman's job is to see danger coming and sound the warning. If Ezekiel warned people and they refused to listen, he had done his duty; but if he stayed silent, their fate would be on his hands. His calling was simple and weighty — hear God's word, and faithfully pass the warning on."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where was Ezekiel when the heavens were opened and he saw visions of God?",
+          "options": [
+            "In the temple at Jerusalem",
+            "On Mount Sinai",
+            "By the river of Chebar",
+            "In the king's palace"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ezekiel 1:1 — \"Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How many living creatures came out of the midst of the fire?",
+          "options": [
+            "Four",
+            "Two",
+            "Seven",
+            "Twelve"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ezekiel 1:5 — \"Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was written in the roll of the book spread before Ezekiel?",
+          "options": [
+            "Songs and praises",
+            "Laws and statutes",
+            "Names and numbers",
+            "Lamentations, and mourning, and woe"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ezekiel 2:10 — \"And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God make Ezekiel unto the house of Israel?",
+          "options": [
+            "A judge",
+            "A watchman",
+            "A shepherd",
+            "A king"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ezekiel 3:17 — \"Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ezekiel 2:1",
+          "text": "Son of man, stand upon thy feet"
+        },
+        {
+          "reference": "Ezekiel 2:9",
+          "text": "behold, an hand was sent unto me;"
+        },
+        {
+          "reference": "Ezekiel 3:17",
+          "text": "I have made thee a watchman unto the house of Israel:"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "CHEBAR",
+          "hint": "The river in Babylon where Ezekiel saw visions",
+          "theme": "places"
+        },
+        {
+          "word": "WATCHMAN",
+          "hint": "God made Ezekiel this for the house of Israel",
+          "theme": "people"
+        },
+        {
+          "word": "ROLL",
+          "hint": "The written book handed to Ezekiel",
+          "theme": "things"
+        },
+        {
+          "word": "WHIRLWIND",
+          "hint": "It came out of the north with a great cloud and fire",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.6.8",
+    "REV.4.7",
+    "REV.10.9"
+  ],
+  "reflection": "God made Ezekiel a watchman, called to speak faithfully whether people listened or not. When has God asked you to speak the truth in love, even when it was hard?"
+}

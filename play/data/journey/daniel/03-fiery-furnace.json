@@ -1,0 +1,101 @@
+{
+  "id": "dan.fiery_furnace",
+  "title": "The Fiery Furnace",
+  "anchorRef": "DAN.3.17",
+  "backstory": "King Nebuchadnezzar has built a towering golden image and commanded everyone in his kingdom to bow down to it. Daniel's three friends — Shadrach, Meshach, and Abed-nego — serve the living God and will not bow. Their faith is about to be tested by fire.",
+  "passages": [
+    {
+      "ref": "DAN.3.1-7",
+      "synopsis": "King Nebuchadnezzar set up a huge golden image on the plain of Dura and gathered all his officials for its dedication. When the music played, everyone was commanded to fall down and worship the image. Whoever refused would be cast into a burning fiery furnace. So when the instruments sounded, all the people bowed — or almost all."
+    },
+    {
+      "ref": "DAN.3.8-18",
+      "synopsis": "Certain men told the king that Shadrach, Meshach, and Abed-nego would not worship the golden image. The furious king gave them one more chance. They answered that their God was able to deliver them from the furnace — but even if He did not, they still would not bow. Their trust in God did not depend on being rescued."
+    },
+    {
+      "ref": "DAN.3.19-25",
+      "synopsis": "Full of fury, the king had the furnace heated seven times hotter than usual, and the three friends were bound and cast in. The flames were so fierce that even the mighty soldiers who carried them were overcome. But when the king looked into the furnace, he leaped up astonished. He saw four men walking loose in the fire, unhurt — and the fourth looked like the Son of God."
+    },
+    {
+      "ref": "DAN.3.26-30",
+      "synopsis": "The king called the three friends to come out, and they walked out of the fire. Not a hair of their heads was singed, their coats were unchanged, and they did not even smell of smoke. Nebuchadnezzar blessed the God who sent His angel to deliver His servants who trusted in Him. Then he decreed that no one might speak against their God, and he promoted the three friends in Babylon."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Nebuchadnezzar",
+          "clues": [
+            "I was the king of great Babylon.",
+            "I set up a golden image on the plain of Dura.",
+            "I looked into a furnace and saw a fourth man in the fire."
+          ],
+          "wrongChoices": [
+            "Belshazzar",
+            "Darius",
+            "Cyrus"
+          ]
+        },
+        {
+          "name": "Shadrach",
+          "clues": [
+            "I would not bow to the king's golden image.",
+            "I walked in the fire with my two friends, and it did not hurt us.",
+            "Before Babylon renamed me, my name was Hananiah."
+          ],
+          "wrongChoices": [
+            "Meshach",
+            "Abednego",
+            "Daniel"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Daniel 3:17",
+          "text": "and he will deliver us out of thine hand, O king."
+        },
+        {
+          "reference": "Daniel 3:18",
+          "text": "we will not serve thy gods,"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "FURNACE",
+          "hint": "It was heated seven times hotter",
+          "theme": "things"
+        },
+        {
+          "word": "SHADRACH",
+          "hint": "One of the three faithful friends",
+          "theme": "people"
+        },
+        {
+          "word": "DURA",
+          "hint": "The plain where the golden image stood",
+          "theme": "places"
+        },
+        {
+          "word": "IMAGE",
+          "hint": "The king commanded everyone to bow to it",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.43.2",
+    "HEB.11.34",
+    "PSA.66.12"
+  ],
+  "reflection": "The three friends believed God could deliver them, yet said 'but if not' and stood firm anyway. Will you obey God even when you cannot yet see the rescue?"
+}

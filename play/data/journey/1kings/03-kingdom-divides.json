@@ -1,0 +1,154 @@
+{
+  "id": "1ki.kingdom_divides",
+  "title": "The Kingdom Divides",
+  "anchorRef": "1KI.12.7",
+  "backstory": "In his old age Solomon's heart drifted from the LORD, and God said the kingdom would be torn — though not in Solomon's lifetime, for David's sake. Now Solomon has died, and his son Rehoboam travels to Shechem to be crowned. One harsh answer is about to split Israel in two.",
+  "passages": [
+    {
+      "ref": "1KI.11.9-13",
+      "synopsis": "The LORD was angry with Solomon, because his heart had turned away. God told him the kingdom would be rent from him and given to his servant. Yet for David's sake it would not happen in Solomon's days. And one tribe would remain for his son, for the sake of David and Jerusalem."
+    },
+    {
+      "ref": "1KI.11.29-39",
+      "synopsis": "The prophet Ahijah met Jeroboam, one of Solomon's servants, alone in a field. Ahijah tore his new garment into twelve pieces and told Jeroboam to take ten. God would rend the kingdom out of Solomon's hand and give ten tribes to Jeroboam. If Jeroboam would walk in God's ways, God promised to be with him."
+    },
+    {
+      "ref": "1KI.12.1-15",
+      "synopsis": "After Solomon died, all Israel came to Shechem to make his son Rehoboam king. The people asked him to lighten the heavy yoke his father had laid on them. The old men counseled him to serve the people and speak good words, but Rehoboam listened to his young friends instead. He answered the people roughly, promising to make their yoke even heavier."
+    },
+    {
+      "ref": "1KI.12.16-20",
+      "synopsis": "When Israel saw that the king would not listen, they cried, \"To your tents, O Israel!\" Rehoboam fled to Jerusalem in his chariot. The ten northern tribes made Jeroboam their king. Only the tribe of Judah followed the house of David."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Rehoboam",
+          "clues": [
+            "My father was King Solomon.",
+            "I answered the people roughly instead of kindly.",
+            "Ten tribes turned away from me at Shechem."
+          ],
+          "wrongChoices": [
+            "Jeroboam",
+            "Solomon",
+            "Absalom"
+          ]
+        },
+        {
+          "name": "Jeroboam",
+          "clues": [
+            "I became king over Israel's ten northern tribes.",
+            "A prophet handed me ten pieces of a torn garment.",
+            "Before I was king, I served in Solomon's house."
+          ],
+          "wrongChoices": [
+            "Rehoboam",
+            "Ahijah",
+            "Nebat"
+          ]
+        },
+        {
+          "name": "Ahijah",
+          "clues": [
+            "I was a prophet from Shiloh.",
+            "I tore my new garment into twelve pieces.",
+            "I told a servant of Solomon that God would give him ten tribes."
+          ],
+          "wrongChoices": [
+            "Nathan",
+            "Elijah",
+            "Micaiah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Whose counsel did Rehoboam forsake?",
+          "options": [
+            "The prophets",
+            "The priests",
+            "The young men",
+            "The old men"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Kings 12:8 — \"But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How many pieces of the torn garment did Ahijah tell Jeroboam to take?",
+          "options": [
+            "Two",
+            "Ten",
+            "Twelve",
+            "Seven"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Kings 11:31 — \"And he said to Jeroboam, Take thee ten pieces: for thus saith the LORD, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the old men tell Rehoboam to do?",
+          "options": [
+            "Raise the taxes",
+            "Punish the people",
+            "Serve the people and speak good words",
+            "Build more cities"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Kings 12:7 — \"And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which tribe stayed with the house of David?",
+          "options": [
+            "Judah",
+            "Naphtali",
+            "Ephraim",
+            "Dan"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Kings 12:20 — \"And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "REHOBOAM",
+          "hint": "Solomon's son who answered roughly",
+          "theme": "people"
+        },
+        {
+          "word": "JEROBOAM",
+          "hint": "He became king of the ten northern tribes",
+          "theme": "people"
+        },
+        {
+          "word": "SHECHEM",
+          "hint": "Where all Israel gathered to crown a king",
+          "theme": "places"
+        },
+        {
+          "word": "YOKE",
+          "hint": "The heavy burden the people asked to have lightened",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "2CH.10.16",
+    "PRO.15.1",
+    "MAT.12.25"
+  ],
+  "reflection": "The old men urged Rehoboam to serve his people, but he chose harsh words and lost ten tribes. When have gentle words done more good than rough ones in your life?"
+}

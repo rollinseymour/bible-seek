@@ -1,0 +1,154 @@
+{
+  "id": "ezr.temple_finished",
+  "title": "The Temple Finished",
+  "anchorRef": "EZR.5.5",
+  "backstory": "The foundation of the temple was laid, but the work soon ran into trouble. Neighbors who did not truly worship the LORD tried to stop the building, and for years the tools lay silent. Yet God was watching over his people, and through prophets and even a Persian king he made sure his house was finished.",
+  "passages": [
+    {
+      "ref": "EZR.4.1-5",
+      "synopsis": "The adversaries of Judah heard about the building and offered to help, but they did not truly serve the LORD. Zerubbabel and Jeshua answered that Israel alone would build, as king Cyrus had commanded. So the people of the land set out to discourage the builders. They troubled them and hired counsellors to frustrate the work for many years."
+    },
+    {
+      "ref": "EZR.5.1-5",
+      "synopsis": "Then God sent the prophets Haggai and Zechariah to speak to his people. Stirred by their words, Zerubbabel and Jeshua rose up and began to build again. The governor Tatnai came asking who had given them permission. But the eye of their God was upon the elders of the Jews, and the work was not stopped while a letter went to king Darius."
+    },
+    {
+      "ref": "EZR.6.1-12",
+      "synopsis": "King Darius ordered a search of the royal records in Babylon. There a scroll was found with the decree of Cyrus, commanding that the house of God be built in Jerusalem. Darius told Tatnai to let the work alone and even to pay the builders' expenses from the king's treasure. He warned that no one should try to destroy this house of God."
+    },
+    {
+      "ref": "EZR.6.13-22",
+      "synopsis": "The elders built and prospered through the preaching of Haggai and Zechariah, and the house was finished in the sixth year of Darius. The people kept the dedication of God's house with joy and offered many sacrifices. Then the children of the captivity kept the passover on the fourteenth day of the first month. For seven days they kept the feast of unleavened bread with gladness, for the LORD had made them joyful."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Zerubbabel",
+          "clues": [
+            "I led the builders of the house of God in Jerusalem.",
+            "I told the adversaries they had nothing to do with our building.",
+            "The prophet Zechariah said my hands would finish the temple."
+          ],
+          "wrongChoices": [
+            "Jeshua",
+            "Nehemiah",
+            "Sheshbazzar"
+          ]
+        },
+        {
+          "name": "Darius",
+          "clues": [
+            "I was the Persian king who answered Tatnai's letter about the building at Jerusalem.",
+            "My servants searched the house of the rolls, and found the roll at Achmetha.",
+            "I commanded that the work of the temple go on, paid out of the king's goods."
+          ],
+          "wrongChoices": [
+            "Cyrus",
+            "Ahasuerus",
+            "Nebuchadnezzar"
+          ]
+        },
+        {
+          "name": "Haggai",
+          "clues": [
+            "I was a prophet in the days of the temple builders.",
+            "I spoke to the Jews in the name of the God of Israel.",
+            "Together with Zechariah I stirred the people to build again."
+          ],
+          "wrongChoices": [
+            "Zechariah",
+            "Malachi",
+            "Nathan"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Which two prophets stirred the people to build the house of God again?",
+          "options": [
+            "Isaiah and Micah",
+            "Nathan and Gad",
+            "Haggai and Zechariah",
+            "Elijah and Elisha"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ezra 5:1 — \"Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whose eye was upon the elders of the Jews, so the work could not be stopped?",
+          "options": [
+            "Their God's",
+            "King Darius's",
+            "The governor's",
+            "The high priest's"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ezra 5:5 — \"But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "On the third day of which month was the house of God finished?",
+          "options": [
+            "Nisan",
+            "Elul",
+            "Tebeth",
+            "Adar"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ezra 6:15 — \"And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What feast did the children of the captivity keep after the temple was finished?",
+          "options": [
+            "The feast of trumpets",
+            "The passover",
+            "The feast of weeks",
+            "The day of atonement"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ezra 6:19 — \"And the children of the captivity kept the passover upon the fourteenth day of the first month.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "ZERUBBABEL",
+          "hint": "Governor who led the temple builders",
+          "theme": "people"
+        },
+        {
+          "word": "DARIUS",
+          "hint": "King who found the decree of Cyrus",
+          "theme": "people"
+        },
+        {
+          "word": "TEMPLE",
+          "hint": "The house of God finished in Jerusalem",
+          "theme": "places"
+        },
+        {
+          "word": "PASSOVER",
+          "hint": "Feast kept with joy when the work was done",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HAG.1.14",
+    "ZEC.4.9",
+    "EXO.12.14"
+  ],
+  "reflection": "Enemies troubled the builders for years, yet God's house was finished with joy. When the good work God gives you gets hard, what helps you keep building?"
+}

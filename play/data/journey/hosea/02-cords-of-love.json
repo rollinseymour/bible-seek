@@ -1,0 +1,119 @@
+{
+  "id": "hos.cords_of_love",
+  "title": "Cords of Love",
+  "anchorRef": "HOS.11.4",
+  "backstory": "Israel kept drifting, and Hosea kept speaking. In these chapters God speaks as a judge whose word cuts like a sword, and in the very same breath as a father remembering a little child — teaching him to walk, lifting him up, feeding him by hand. Israel had forgotten those early days, but God had not.",
+  "passages": [
+    {
+      "ref": "HOS.6.1-3",
+      "synopsis": "Hosea gave Israel the words of a homecoming song. Come, let us return unto the LORD, for the one who has torn is the one who will heal. He will revive us and raise us up to live in his sight. If we follow on to know the LORD, he will come to us as surely as the morning and the rain."
+    },
+    {
+      "ref": "HOS.6.4-6",
+      "synopsis": "God answered with a father's ache. Israel's goodness was like a morning cloud and the early dew — lovely for a moment, then gone. So God had sent his prophets with words that cut like a sword, and his judgment went out as plain as the morning light. What he wanted was not more burnt offerings but mercy, and hearts that truly knew him."
+    },
+    {
+      "ref": "HOS.11.1-4",
+      "synopsis": "God remembered Israel's beginning like a parent remembering a toddler. When Israel was a child he loved him and called his son out of Egypt. He taught Ephraim to walk, took them by the arms, and healed them, though they never knew it. He drew them with cords of a man, with bands of love, and bent down to feed them."
+    },
+    {
+      "ref": "HOS.11.5-11",
+      "synopsis": "But the child had grown and turned away, bent on backsliding. Trouble was coming through Assyria, and it broke God's heart. How shall I give thee up, Ephraim, God cried — for I am God, and not man. In the end his children would come trembling home like doves, and he would settle them in their houses."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Hosea 11:1",
+          "text": "When Israel was a child, then I loved him,"
+        },
+        {
+          "reference": "Hosea 6:1",
+          "text": "Come, and let us return unto the LORD:"
+        },
+        {
+          "reference": "Hosea 6:6",
+          "text": "For I desired mercy, and not sacrifice;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "According to Hosea, what did God desire more than sacrifice?",
+          "options": [
+            "Burnt offerings",
+            "Gold and silver",
+            "Mercy",
+            "Long prayers"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hosea 6:6 — \"For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Out of what land did God call his son?",
+          "options": [
+            "Babylon",
+            "Egypt",
+            "Assyria",
+            "Moab"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hosea 11:1 — \"When Israel was a child, then I loved him, and called my son out of Egypt.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "With what did God say he drew his people?",
+          "options": [
+            "Bands of love",
+            "Ropes of iron",
+            "Chains of brass",
+            "Nets of flax"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hosea 11:4 — \"I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did God say he would not destroy Ephraim in his anger?",
+          "options": [
+            "Because Ephraim repented quickly",
+            "Because Assyria would help them",
+            "Because Moses prayed for them",
+            "Because he is God, and not man"
+          ],
+          "correctIndex": 3,
+          "explanation": "Hosea 11:9 — \"I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Cords of Love",
+          "words": [
+            "EPHRAIM",
+            "ISRAEL",
+            "EGYPT",
+            "CORDS",
+            "LOVE",
+            "MERCY",
+            "RAIN"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.2.15",
+    "MAT.9.13",
+    "LUK.15.20"
+  ],
+  "reflection": "God remembered teaching Israel to walk and drawing them with bands of love. When have you felt God gently drawing you back to himself?"
+}

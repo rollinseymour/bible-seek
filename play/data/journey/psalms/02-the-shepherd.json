@@ -1,0 +1,116 @@
+{
+  "id": "psa.the_shepherd",
+  "title": "The Shepherd",
+  "anchorRef": "PSA.23.1",
+  "backstory": "David spent his boyhood watching sheep on the hills near Bethlehem, guarding them from lions and bears. Years later he remembered those fields and wrote the best-loved psalm in the world. In it the shepherd boy who became king calls the LORD his own shepherd.",
+  "passages": [
+    {
+      "ref": "PSA.23.1-6",
+      "synopsis": "David calls the LORD his shepherd and says he shall not want. The shepherd leads him to green pastures and still waters and restores his soul. Even in the valley of the shadow of death there is no need to fear, because the shepherd himself is there. Goodness and mercy follow him all the days of his life."
+    },
+    {
+      "ref": "PSA.27.1-6",
+      "synopsis": "David calls the LORD his light, his salvation, and the strength of his life. With such a God, there is no one left to fear. He asks for one thing above all — to dwell in the house of the LORD and behold his beauty. In the day of trouble, God hides him safe in his pavilion."
+    },
+    {
+      "ref": "PSA.27.7-14",
+      "synopsis": "David keeps praying even when the way is hard. When God says seek my face, David answers that his heart will seek it. Even if father and mother forsake him, the LORD will take him up. The psalm ends with brave words — wait on the LORD, and be of good courage."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Psalms 23:1",
+          "text": "The LORD is my shepherd; I shall not want."
+        },
+        {
+          "reference": "Psalms 23:2",
+          "text": "He maketh me to lie down in green pastures:"
+        },
+        {
+          "reference": "Psalms 23:6",
+          "text": "and I will dwell in the house of the LORD for ever."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Shepherd Psalm",
+          "words": [
+            "SHEPHERD",
+            "PASTURES",
+            "WATERS",
+            "VALLEY",
+            "ROD",
+            "STAFF",
+            "GOODNESS",
+            "MERCY"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where does the shepherd make the psalmist lie down?",
+          "options": [
+            "Beside the sheepfold",
+            "In green pastures",
+            "On the mountain",
+            "In a quiet valley"
+          ],
+          "correctIndex": 1,
+          "explanation": "Psalms 23:2 — \"He maketh me to lie down in green pastures: he leadeth me beside the still waters.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why does David fear no evil in the valley of the shadow of death?",
+          "options": [
+            "Because God is with him",
+            "Because he carries a sword",
+            "Because the valley is short",
+            "Because his army follows him"
+          ],
+          "correctIndex": 0,
+          "explanation": "Psalms 23:4 — \"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In Psalm 23, what runneth over?",
+          "options": [
+            "The river",
+            "The oil",
+            "His cup",
+            "The fountain"
+          ],
+          "correctIndex": 2,
+          "explanation": "Psalms 23:5 — \"Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Psalm 27 calls the LORD my light and my what?",
+          "options": [
+            "My shield",
+            "My rock",
+            "My fortress",
+            "My salvation"
+          ],
+          "correctIndex": 3,
+          "explanation": "Psalms 27:1 — \"The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.40.11",
+    "JHN.10.11",
+    "REV.7.17"
+  ],
+  "reflection": "David knew the LORD as a shepherd who provides, leads, and stays close even in the darkest valley. Where do you need to trust the Shepherd's care this week?"
+}

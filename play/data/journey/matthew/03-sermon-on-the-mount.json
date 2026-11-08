@@ -1,0 +1,131 @@
+{
+  "id": "mat.sermon_on_the_mount",
+  "title": "Sermon on the Mount",
+  "anchorRef": "MAT.6.33",
+  "backstory": "Word about Jesus has spread across Galilee, and crowds follow him everywhere he goes. He climbs a hillside, sits down like a teacher, and begins to describe what life in God's kingdom actually looks like. It is the longest stretch of his teaching in Matthew, and it turns the world's idea of a blessed life upside down.",
+  "passages": [
+    {
+      "ref": "MAT.5.1-16",
+      "synopsis": "Seeing the crowds, Jesus went up a mountain, sat down, and taught his disciples. He called blessed the poor in spirit, those who mourn, the meek, the merciful, the pure in heart, and the peacemakers. He said those treated badly for doing right could still rejoice, because their reward is great in heaven. Then he told his followers they are the salt of the earth and the light of the world, meant to shine so others see their good works and glorify their Father."
+    },
+    {
+      "ref": "MAT.6.5-15",
+      "synopsis": "Jesus warned against praying for show, the way people do when they want to be seen. He said to go into a private room and pray to the Father who sees in secret. Then he gave a simple pattern: hallow God's name, ask for his kingdom, ask for daily bread, ask for forgiveness, and ask for help against temptation. He added that those who forgive others will find forgiveness from their heavenly Father."
+    },
+    {
+      "ref": "MAT.6.25-34",
+      "synopsis": "Jesus told his listeners not to be anxious about food, drink, or clothing. He pointed to the birds, who do not store up harvests yet are fed by the heavenly Father, and to the lilies, dressed more beautifully than Solomon. Worry adds nothing to anyone's life, and God already knows what his children need. Instead, seek first the kingdom of God and his righteousness, and these things will be added."
+    },
+    {
+      "ref": "MAT.7.24-29",
+      "synopsis": "Jesus ended with a picture of two builders. The one who hears his words and does them is like a wise man who built on rock, and the storm could not bring his house down. The one who hears and does nothing is like a foolish man who built on sand, and his house fell. When Jesus finished, the crowds were astonished, because he taught as one having authority."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Matthew 5:4",
+          "text": "Blessed are they that mourn: for they shall be comforted."
+        },
+        {
+          "reference": "Matthew 5:9",
+          "text": "Blessed are the peacemakers: for they shall be called the children of God."
+        },
+        {
+          "reference": "Matthew 5:14",
+          "text": "Ye are the light of the world."
+        },
+        {
+          "reference": "Matthew 6:33",
+          "text": "But seek ye first the kingdom of God, and his righteousness;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "According to Jesus, who shall inherit the earth?",
+          "options": [
+            "The merciful",
+            "The peacemakers",
+            "The meek",
+            "The pure in heart"
+          ],
+          "correctIndex": 2,
+          "explanation": "Matthew 5:5 — \"Blessed are the meek: for they shall inherit the earth.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Jesus said a city set on a hill cannot be what?",
+          "options": [
+            "Hid",
+            "Built",
+            "Moved",
+            "Bought"
+          ],
+          "correctIndex": 0,
+          "explanation": "Matthew 5:14 — \"Ye are the light of the world. A city that is set on an hill cannot be hid.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How did Jesus teach his disciples to begin their prayer?",
+          "options": [
+            "\"Lord, hear my voice\"",
+            "\"Blessed be the God of Israel\"",
+            "\"O give thanks unto the LORD\"",
+            "\"Our Father which art in heaven, Hallowed be thy name\""
+          ],
+          "correctIndex": 3,
+          "explanation": "Matthew 6:9 — \"After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the wise man build his house upon?",
+          "options": [
+            "Sand",
+            "A rock",
+            "A hilltop",
+            "Wooden beams"
+          ],
+          "correctIndex": 1,
+          "explanation": "Matthew 7:24 — \"Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "MOUNTAIN",
+          "hint": "Jesus went up here to teach the crowds",
+          "theme": "places"
+        },
+        {
+          "word": "SALT",
+          "hint": "What Jesus called his followers, of the earth",
+          "theme": "things"
+        },
+        {
+          "word": "CANDLE",
+          "hint": "Nobody lights one and hides it under a bushel",
+          "theme": "things"
+        },
+        {
+          "word": "LILIES",
+          "hint": "Field flowers dressed better than Solomon",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.1.1",
+    "LUK.11.2",
+    "JAS.1.22"
+  ],
+  "reflection": "Jesus said the wise builder is the one who hears his words and does them. Which of his words are you being asked to actually do this week?"
+}

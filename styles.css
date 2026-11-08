@@ -435,3 +435,48 @@ li {
   height: 18px;
   flex-shrink: 0;
 }
+
+/* ----- Play Online Free -----
+   The web edition of the app lives at /play/. These give it a single, clearly
+   primary treatment: a gold pill in the nav and a gold button beside the App
+   Store badge, so visitors without an iPhone always have somewhere to go. */
+
+.site-nav .nav-play {
+  background: var(--gold);
+  color: var(--navy);
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border-bottom-color: transparent;
+}
+.site-nav .nav-play:hover,
+.site-nav .nav-play:focus-visible {
+  background: var(--gold-soft);
+  border-bottom-color: transparent;
+}
+
+.button-play {
+  background: var(--gold);
+  color: var(--navy);
+  font-weight: 700;
+}
+.button-play:hover { background: var(--gold-soft); }
+
+.hero-cta { margin-top: 20px; }
+
+.play-note {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin-top: 10px;
+}
+
+.section-cta {
+  margin: 4px 0 28px;
+  padding: 14px 18px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--gold);
+  border-radius: var(--radius);
+  color: var(--text-muted);
+}
+.section-cta a { font-weight: 600; }

@@ -1,0 +1,110 @@
+{
+  "id": "mat.born_of_a_virgin",
+  "title": "Born of a Virgin",
+  "anchorRef": "MAT.1.23",
+  "backstory": "Matthew opens the New Testament by tying Jesus back to Abraham and David, showing that the long story of Israel has been heading somewhere all along. Centuries of promises had been made and centuries of silence had passed. Now a carpenter named Joseph and a young woman named Mary are drawn into the moment God had been preparing since the beginning.",
+  "passages": [
+    {
+      "ref": "MAT.1.18-25",
+      "synopsis": "Mary was engaged to Joseph when she was found to be with child by the Holy Ghost. Joseph, a good man, planned quietly to end the engagement rather than shame her. An angel came to him in a dream and told him not to be afraid to take Mary as his wife. The child would be called Jesus, for he would save his people from their sins, and Emmanuel, meaning God with us."
+    },
+    {
+      "ref": "MAT.2.1-6",
+      "synopsis": "Jesus was born in Bethlehem while Herod was king. Wise men came from the east asking where the newborn King of the Jews could be found, because they had seen his star. Herod was troubled by the news and called together the chief priests and scribes. They pointed to the old prophecy that a ruler would come out of Bethlehem."
+    },
+    {
+      "ref": "MAT.2.7-15",
+      "synopsis": "Herod quietly asked the wise men when the star had appeared and sent them on to Bethlehem. The star went before them and stood over the place where the young child was, and they rejoiced with great joy. They came into the house, saw Jesus with Mary his mother, and worshipped him. They opened their treasures and gave him gold, frankincense, and myrrh, then went home another way after God warned them in a dream. Then the angel of the Lord told Joseph in a dream to take the young child and his mother and flee into Egypt, and there they stayed while Herod lived."
+    },
+    {
+      "ref": "MAT.2.19-23",
+      "synopsis": "After Herod died, an angel appeared again to Joseph in a dream in Egypt. He was told to take the young child and his mother back to the land of Israel. Joseph obeyed, but hearing who now ruled in Judaea, he turned aside into Galilee. There the family settled in a town called Nazareth, just as the prophets had said."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Matthew 1:21",
+          "text": "for he shall save his people from their sins."
+        },
+        {
+          "reference": "Matthew 1:23",
+          "text": "Behold, a virgin shall be with child,"
+        },
+        {
+          "reference": "Matthew 2:10",
+          "text": "When they saw the star, they rejoiced with exceeding great joy."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Born of a Virgin",
+          "words": [
+            "JESUS",
+            "JOSEPH",
+            "MARY",
+            "STAR",
+            "GOLD",
+            "MYRRH",
+            "HEROD"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Joseph",
+          "clues": [
+            "I was a just man engaged to be married.",
+            "An angel spoke to me in a dream and told me not to be afraid.",
+            "I took Mary as my wife and named her son JESUS."
+          ],
+          "wrongChoices": [
+            "Zacharias",
+            "Simeon",
+            "Herod"
+          ]
+        },
+        {
+          "name": "Mary",
+          "clues": [
+            "I was espoused to a just man named Joseph.",
+            "The child in me was of the Holy Ghost.",
+            "Wise men found me with my young son and worshipped him."
+          ],
+          "wrongChoices": [
+            "Elisabeth",
+            "Anna",
+            "Martha"
+          ]
+        },
+        {
+          "name": "Herod",
+          "clues": [
+            "I was king when Jesus was born.",
+            "I was troubled when strangers asked about a newborn King.",
+            "I sent the wise men to Bethlehem and asked them to bring me word."
+          ],
+          "wrongChoices": [
+            "Pilate",
+            "Caesar",
+            "Archelaus"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.7.14",
+    "MIC.5.2",
+    "LUK.2.7"
+  ],
+  "reflection": "The name Emmanuel means God with us. Where do you most need to know that God is with you?"
+}

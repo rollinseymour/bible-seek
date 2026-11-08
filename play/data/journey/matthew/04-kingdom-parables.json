@@ -1,0 +1,127 @@
+{
+  "id": "mat.kingdom_parables",
+  "title": "Kingdom Parables",
+  "anchorRef": "MAT.13.44",
+  "backstory": "By now the crowds around Jesus are enormous, and not everyone following him understands what he is really offering. So he sits in a boat by the shore and begins to teach in parables, short earthly stories that carry heavenly meaning. Farming, seeds, and buried treasure become windows into the kingdom of heaven.",
+  "passages": [
+    {
+      "ref": "MAT.13.1-9",
+      "synopsis": "Jesus sat in a ship by the sea while the crowd stood on the shore. He told them about a sower who went out to scatter seed. Some seed fell by the path and the birds ate it, some fell on stony ground and withered in the sun, and some fell among thorns and was choked. But some fell on good ground and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold."
+    },
+    {
+      "ref": "MAT.13.18-23",
+      "synopsis": "Jesus explained the parable to his disciples. The seed is the word of the kingdom, and the different soils are different hearts that hear it. Some do not understand, some receive it with joy but have no root when trouble comes, and some let worries and riches choke it out. The good ground is the one who hears the word, understands it, and bears fruit."
+    },
+    {
+      "ref": "MAT.13.31-33",
+      "synopsis": "Jesus compared the kingdom of heaven to a grain of mustard seed. It is one of the smallest of seeds, yet it grows into a tree where birds come and rest in the branches. He also compared the kingdom to leaven that a woman hid in three measures of meal. Small and hidden at first, it quietly works its way through the whole batch."
+    },
+    {
+      "ref": "MAT.13.44-46",
+      "synopsis": "Jesus said the kingdom of heaven is like treasure hidden in a field. When a man found it, he joyfully sold everything he had to buy that field. The kingdom is also like a merchant searching for fine pearls. When he found one pearl of great price, he sold all that he had and bought it."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Kingdom Parables",
+          "words": [
+            "SOWER",
+            "SEED",
+            "THORNS",
+            "GROUND",
+            "MUSTARD",
+            "TREASURE",
+            "PEARL"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SOWER",
+          "hint": "The man in the parable who went forth to sow",
+          "theme": "people"
+        },
+        {
+          "word": "FRUIT",
+          "hint": "What the good ground brings forth",
+          "theme": "things"
+        },
+        {
+          "word": "LEAVEN",
+          "hint": "A woman hid it in three measures of meal",
+          "theme": "things"
+        },
+        {
+          "word": "MERCHANT",
+          "hint": "He was seeking goodly pearls",
+          "theme": "people"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In the parable of the sower, which seed brought forth fruit?",
+          "options": [
+            "The seed by the way side",
+            "The seed on stony places",
+            "The seed among thorns",
+            "The seed on good ground"
+          ],
+          "correctIndex": 3,
+          "explanation": "Matthew 13:8 — \"But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did Jesus say the kingdom of heaven is like, that is least of all seeds?",
+          "options": [
+            "A grain of mustard seed",
+            "A grain of wheat",
+            "A fig",
+            "An olive"
+          ],
+          "correctIndex": 0,
+          "explanation": "Matthew 13:32 — \"Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the man do after he found treasure hid in a field?",
+          "options": [
+            "He left it where it lay",
+            "He gave it to the poor",
+            "He sold all that he had and bought that field",
+            "He divided it among his friends"
+          ],
+          "correctIndex": 2,
+          "explanation": "Matthew 13:44 — \"Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What was the merchant man seeking?",
+          "options": [
+            "Fine linen",
+            "Goodly pearls",
+            "Spices from the east",
+            "Silver and gold"
+          ],
+          "correctIndex": 1,
+          "explanation": "Matthew 13:45 — \"Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:\"",
+          "category": "newTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.55.11",
+    "MRK.4.20",
+    "PHP.3.8"
+  ],
+  "reflection": "The man in the field and the merchant both gave up everything gladly. What would it look like to treasure God's kingdom that much?"
+}

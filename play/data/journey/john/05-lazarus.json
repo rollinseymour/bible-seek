@@ -1,0 +1,105 @@
+{
+  "id": "jhn.lazarus",
+  "title": "I Am the Resurrection",
+  "anchorRef": "JHN.11.25",
+  "backstory": "In Bethany, a village near Jerusalem, lived a family Jesus loved: Lazarus and his sisters Martha and Mary. When Lazarus fell sick, the sisters sent word to Jesus, and then they had to wait. This is the last and greatest of the signs in John's Gospel, and it comes in the middle of real grief.",
+  "passages": [
+    {
+      "ref": "JHN.11.1-16",
+      "synopsis": "Martha and Mary sent word to Jesus that their brother Lazarus was sick. Jesus loved this family, yet he stayed where he was for two more days. Then he told his disciples that their friend Lazarus was sleeping, and finally said plainly that Lazarus had died. He said he was glad, for their sakes, that he had not been there, so that they would believe. Thomas urged the other disciples to go with him, whatever it might cost them."
+    },
+    {
+      "ref": "JHN.11.17-27",
+      "synopsis": "When Jesus arrived, Lazarus had already been in the grave four days, and neighbours had come to comfort the sisters. Martha ran out to meet him and said that if he had been there her brother would not have died. Jesus promised her that her brother would rise again. Then he told her that he himself is the resurrection and the life, and that whoever believes in him shall never die. Martha answered that she believed he was the Christ, the Son of God."
+    },
+    {
+      "ref": "JHN.11.28-37",
+      "synopsis": "Martha went quietly and called her sister, and Mary hurried out to where Jesus was waiting. She fell at his feet and said the same thing Martha had said, that her brother would not have died if he had been there. When Jesus saw her weeping, and all the others weeping with her, he groaned in the spirit and was troubled. He asked where they had laid him, and then Jesus wept. Some of those watching said, Behold how he loved him."
+    },
+    {
+      "ref": "JHN.11.38-44",
+      "synopsis": "Jesus came to the grave, a cave with a stone lying across it, and told them to take the stone away. Martha protested that after four days it was surely too late. Jesus reminded her that if she would believe, she would see the glory of God. He thanked his Father out loud, so that the people standing there would know he had been sent. Then he called with a loud voice for Lazarus to come forth, and the man who had died walked out, still wrapped in graveclothes."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "John 11:21",
+          "text": "Lord, if thou hadst been here, my brother had not died."
+        },
+        {
+          "reference": "John 11:25",
+          "text": "I am the resurrection, and the life:"
+        },
+        {
+          "reference": "John 11:43",
+          "text": "he cried with a loud voice, Lazarus, come forth."
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Lazarus",
+          "clues": [
+            "I lived in Bethany with my two sisters.",
+            "I was sick, and I died before Jesus came to us.",
+            "Jesus called my name with a loud voice, and I came out of the grave."
+          ],
+          "wrongChoices": [
+            "Simon",
+            "Nicodemus",
+            "Jairus"
+          ]
+        },
+        {
+          "name": "Martha",
+          "clues": [
+            "I ran out to meet Jesus on the road while my sister stayed in the house.",
+            "I told him my brother would not have died if he had been there.",
+            "He told me that he is the resurrection and the life."
+          ],
+          "wrongChoices": [
+            "Mary",
+            "Salome",
+            "Joanna"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "LAZARUS",
+          "hint": "Friend Jesus called out of the grave",
+          "theme": "people"
+        },
+        {
+          "word": "BETHANY",
+          "hint": "Village where Mary and Martha lived",
+          "theme": "places"
+        },
+        {
+          "word": "STONE",
+          "hint": "Jesus said, Take ye away this",
+          "theme": "things"
+        },
+        {
+          "word": "GLORY",
+          "hint": "What Martha would see if she believed",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EZK.37.12",
+    "1CO.15.20",
+    "REV.21.4"
+  ],
+  "reflection": "Jesus wept at the grave of a friend he was about to raise. What does it mean that God comes close to us in our sorrow?"
+}

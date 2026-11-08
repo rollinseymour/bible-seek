@@ -1,0 +1,127 @@
+{
+  "id": "mat.baptism_and_temptation",
+  "title": "Baptism and Temptation",
+  "anchorRef": "MAT.4.4",
+  "backstory": "Roughly thirty quiet years pass between Bethlehem and the Jordan River. Then a prophet in camel's hair appears in the desert calling Israel to turn back to God and get ready, because the kingdom of heaven is near. Jesus steps out of Nazareth into that crowd, and his public work begins.",
+  "passages": [
+    {
+      "ref": "MAT.3.1-12",
+      "synopsis": "John the Baptist preached in the wilderness of Judaea, telling people to repent because the kingdom of heaven was at hand. Crowds came from Jerusalem and all around the Jordan to be baptized and confess their sins. John warned the proud religious leaders not to trust in their family line but to live changed lives. He said one mightier than he was coming, who would baptize with the Holy Ghost."
+    },
+    {
+      "ref": "MAT.3.13-17",
+      "synopsis": "Jesus came from Galilee to the Jordan to be baptized by John. John objected, saying he was the one who needed baptizing. Jesus answered that this was right, so that all righteousness would be fulfilled. As Jesus came up out of the water the heavens opened, the Spirit of God came down like a dove, and a voice from heaven called him the beloved Son."
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "synopsis": "The Spirit led Jesus into the wilderness, where he fasted forty days and forty nights and was hungry. The tempter came and urged him to turn stones into bread, to throw himself from the temple, and to bow down in exchange for all the kingdoms of the world. Each time Jesus answered with the words of Scripture, saying, \"It is written.\" At last the devil left him, and angels came and ministered to him."
+    },
+    {
+      "ref": "MAT.4.18-22",
+      "synopsis": "Walking by the sea of Galilee, Jesus saw two fishermen, Simon called Peter and his brother Andrew, casting a net. He called them to follow him and promised to make them fishers of men. They left their nets at once and went with him. Farther on he called James and John, who left their boat and their father and followed him too."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where did John the Baptist preach?",
+          "options": [
+            "In the wilderness of Judaea",
+            "In the temple at Jerusalem",
+            "By the sea of Galilee",
+            "In the streets of Nazareth"
+          ],
+          "correctIndex": 0,
+          "explanation": "Matthew 3:1 — \"In those days came John the Baptist, preaching in the wilderness of Judaea,\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What came down upon Jesus when he was baptized?",
+          "options": [
+            "A pillar of fire",
+            "A bright cloud",
+            "The Spirit of God, like a dove",
+            "A rushing wind"
+          ],
+          "correctIndex": 2,
+          "explanation": "Matthew 3:16 — \"And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How long did Jesus fast in the wilderness?",
+          "options": [
+            "Seven days and seven nights",
+            "Twelve days and twelve nights",
+            "Thirty days and thirty nights",
+            "Forty days and forty nights"
+          ],
+          "correctIndex": 3,
+          "explanation": "Matthew 4:2 — \"And when he had fasted forty days and forty nights, he was afterward an hungred.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How did Jesus answer each temptation?",
+          "options": [
+            "He called for angels",
+            "He said, \"It is written\"",
+            "He said nothing at all",
+            "He walked away"
+          ],
+          "correctIndex": 1,
+          "explanation": "Matthew 4:4 — \"But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JORDAN",
+          "hint": "The river where Jesus was baptized",
+          "theme": "places"
+        },
+        {
+          "word": "WILDERNESS",
+          "hint": "Where John preached and Jesus was tempted",
+          "theme": "places"
+        },
+        {
+          "word": "DOVE",
+          "hint": "The Spirit came down like this bird",
+          "theme": "things"
+        },
+        {
+          "word": "ANDREW",
+          "hint": "Fisherman brother of Simon Peter",
+          "theme": "people"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Matthew 3:17",
+          "text": "This is my beloved Son, in whom I am well pleased."
+        },
+        {
+          "reference": "Matthew 4:4",
+          "text": "Man shall not live by bread alone,"
+        },
+        {
+          "reference": "Matthew 4:19",
+          "text": "Follow me, and I will make you fishers of men."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.40.3",
+    "DEU.8.3",
+    "HEB.4.15"
+  ],
+  "reflection": "Jesus met every temptation with Scripture he already knew by heart. What words of God would you want ready when you are tested?"
+}

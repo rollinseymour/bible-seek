@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Noah",
+    "clues": [
+      "I built something very large out of wood.",
+      "Animals came to me in pairs.",
+      "It rained for 40 days and 40 nights.",
+      "I sent out a dove to find dry land.",
+      "God placed a rainbow in the sky as a promise to me."
+    ],
+    "wrongChoices": [
+      "Moses",
+      "Abraham",
+      "Adam"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Moses",
+    "clues": [
+      "I was hidden in a basket as a baby.",
+      "I grew up in a palace, though I was not royalty by birth.",
+      "God spoke to me through a burning bush.",
+      "I led a great number of people on a long journey.",
+      "I received stone tablets on a mountaintop."
+    ],
+    "wrongChoices": [
+      "Joshua",
+      "Aaron",
+      "David"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "David",
+    "clues": [
+      "I was the youngest of many brothers.",
+      "I was a shepherd before I became famous.",
+      "I defeated a giant with an unusual weapon.",
+      "I played the harp to soothe a troubled king.",
+      "I became king of Israel and wrote many songs of praise."
+    ],
+    "wrongChoices": [
+      "Solomon",
+      "Saul",
+      "Jonathan"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Jonah",
+    "clues": [
+      "God asked me to go somewhere, but I ran away.",
+      "I boarded a ship heading in the opposite direction.",
+      "A great storm arose because of my disobedience.",
+      "I was swallowed by a great sea creature.",
+      "I spent three days inside a fish before being released."
+    ],
+    "wrongChoices": [
+      "Elijah",
+      "Peter",
+      "Paul"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Daniel",
+    "clues": [
+      "I was taken to a foreign land as a young man.",
+      "I refused to eat the king's food.",
+      "I could understand the meaning of dreams.",
+      "My friends survived a fiery furnace.",
+      "I was thrown into a den of hungry lions but was unharmed."
+    ],
+    "wrongChoices": [
+      "Joseph",
+      "Ezekiel",
+      "Jeremiah"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Adam",
+    "clues": [
+      "I was the very first of my kind.",
+      "I was made from the dust of the ground.",
+      "I lived in a perfect garden.",
+      "I named all the animals.",
+      "My wife was made from one of my ribs."
+    ],
+    "wrongChoices": [
+      "Noah",
+      "Abraham",
+      "Enoch"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Jesus",
+    "clues": [
+      "Angels announced my birth.",
+      "I was born in a humble place where animals were kept.",
+      "Wise men traveled from far away to see me.",
+      "I turned water into wine at a wedding.",
+      "I am the Son of God."
+    ],
+    "wrongChoices": [
+      "John the Baptist",
+      "Moses",
+      "Elijah"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Mary",
+    "clues": [
+      "An angel appeared to me with an incredible message.",
+      "I was engaged but not yet married when I received the news.",
+      "I visited my cousin Elizabeth who was also expecting.",
+      "I gave birth in a place far from my home.",
+      "I am the mother of Jesus."
+    ],
+    "wrongChoices": [
+      "Martha",
+      "Elizabeth",
+      "Sarah"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "John the Baptist",
+    "clues": [
+      "I lived in the wilderness.",
+      "I wore clothing made of camel hair.",
+      "I ate locusts and wild honey.",
+      "I baptized people in the Jordan River.",
+      "I prepared the way for the Messiah."
+    ],
+    "wrongChoices": [
+      "Elijah",
+      "John",
+      "Andrew"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Goliath",
+    "clues": [
+      "I was extremely tall — over nine feet.",
+      "I was a warrior from the land of the Philistines.",
+      "I challenged an entire army, and no one would face me.",
+      "I wore heavy bronze armor.",
+      "I was defeated by a shepherd boy with a sling and a stone."
+    ],
+    "wrongChoices": [
+      "Samson",
+      "Og",
+      "Saul"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Eve",
+    "clues": [
+      "I was the first woman ever created.",
+      "I was made while someone else was sleeping.",
+      "I lived in a beautiful garden.",
+      "A serpent spoke to me and deceived me.",
+      "I ate fruit from the one tree that was forbidden."
+    ],
+    "wrongChoices": [
+      "Sarah",
+      "Mary",
+      "Rebekah"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Joshua",
+    "clues": [
+      "I was an assistant to a great leader for many years.",
+      "I was one of twelve spies sent to explore a new land.",
+      "Only I and one other spy gave a good report.",
+      "I led the people across the Jordan River on dry ground.",
+      "I marched around the walls of Jericho until they fell."
+    ],
+    "wrongChoices": [
+      "Caleb",
+      "Moses",
+      "Gideon"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Samuel",
+    "clues": [
+      "My mother prayed earnestly for me before I was born.",
+      "I was dedicated to serve God at the tabernacle as a child.",
+      "I heard God calling my name at night.",
+      "I anointed the first two kings of Israel.",
+      "I was the last of the judges."
+    ],
+    "wrongChoices": [
+      "Eli",
+      "Nathan",
+      "David"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Sarah",
+    "clues": [
+      "I traveled with my husband to a land I had never seen.",
+      "For many years I could not have children.",
+      "I laughed when I overheard an incredible promise.",
+      "I gave birth to a son when I was very old.",
+      "My son Isaac was the child God promised to Abraham."
+    ],
+    "wrongChoices": [
+      "Rebekah",
+      "Rachel",
+      "Hannah"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Lazarus",
+    "clues": [
+      "I lived in the village of Bethany.",
+      "My sisters were Martha and Mary.",
+      "I became very sick and died.",
+      "My friend Jesus wept when he came to see me.",
+      "Jesus called me out of the tomb after four days."
+    ],
+    "wrongChoices": [
+      "Nicodemus",
+      "Zacchaeus",
+      "Joseph of Arimathea"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Saul",
+    "clues": [
+      "I was from the tribe of Benjamin.",
+      "I was taller than anyone else in Israel.",
+      "I was chosen as the very first king of Israel.",
+      "I grew jealous of a young shepherd who the people loved.",
+      "I consulted a medium at Endor before my final battle."
+    ],
+    "wrongChoices": [
+      "David",
+      "Solomon",
+      "Rehoboam"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "name": "Joseph",
+    "clues": [
+      "My father gave me a special colorful garment.",
+      "My brothers were very jealous of me.",
+      "I was sold and taken to a foreign country.",
+      "I could interpret dreams.",
+      "I became a powerful ruler in Egypt, second only to Pharaoh."
+    ],
+    "wrongChoices": [
+      "Benjamin",
+      "Jacob",
+      "Judah"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Samson",
+    "clues": [
+      "An angel announced my birth to my parents.",
+      "I was set apart for God from before I was born.",
+      "My strength was legendary and came from an unusual source.",
+      "I was betrayed by someone I loved.",
+      "My hair was the secret to my great power."
+    ],
+    "wrongChoices": [
+      "Goliath",
+      "David",
+      "Gideon"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Ruth",
+    "clues": [
+      "I was not originally from Israel.",
+      "I chose to stay with my mother-in-law after tragedy struck.",
+      "I said, \"Where you go, I will go.\"",
+      "I gathered leftover grain in a field.",
+      "I became the great-grandmother of King David."
+    ],
+    "wrongChoices": [
+      "Naomi",
+      "Esther",
+      "Rahab"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Elijah",
+    "clues": [
+      "I was a prophet who challenged false worship.",
+      "I was fed by ravens during a drought.",
+      "I challenged 450 prophets of Baal on a mountain.",
+      "Fire came down from heaven at my prayer.",
+      "I was taken to heaven in a chariot of fire."
+    ],
+    "wrongChoices": [
+      "Elisha",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Esther",
+    "clues": [
+      "I was an orphan raised by my cousin.",
+      "I was chosen for my beauty.",
+      "I became queen of a great empire.",
+      "I risked my life by approaching the king uninvited.",
+      "I saved my people from a plot to destroy them."
+    ],
+    "wrongChoices": [
+      "Ruth",
+      "Deborah",
+      "Bathsheba"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Peter",
+    "clues": [
+      "I was a fisherman before I was called.",
+      "I walked on water, but then began to sink.",
+      "I denied knowing my master three times.",
+      "I was the first to preach after receiving the Holy Spirit.",
+      "Jesus called me the \"rock\" upon which he would build his church."
+    ],
+    "wrongChoices": [
+      "Andrew",
+      "James",
+      "John"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Abraham",
+    "clues": [
+      "God told me to leave my home and go to a new land.",
+      "God promised to make a great nation from my descendants.",
+      "My wife and I had a child in our very old age.",
+      "God tested my faith by asking for a great sacrifice.",
+      "I am called the father of many nations."
+    ],
+    "wrongChoices": [
+      "Isaac",
+      "Jacob",
+      "Noah"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Jacob",
+    "clues": [
+      "I was born holding my twin brother's heel.",
+      "I tricked my father into giving me a blessing.",
+      "I fled from home and dreamed of a ladder reaching heaven.",
+      "I worked 14 years to marry the woman I loved.",
+      "God changed my name to Israel."
+    ],
+    "wrongChoices": [
+      "Esau",
+      "Isaac",
+      "Laban"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Zacchaeus",
+    "clues": [
+      "I was very wealthy but not well liked.",
+      "I collected money from people for the government.",
+      "I was too short to see over the crowd.",
+      "I climbed a sycamore tree to get a better view.",
+      "Jesus said he would eat at my house, and I gave half my goods to the poor."
+    ],
+    "wrongChoices": [
+      "Matthew",
+      "Nicodemus",
+      "Levi"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Hannah",
+    "clues": [
+      "I was deeply sorrowful because I had no children.",
+      "I prayed so fervently that a priest thought I was drunk.",
+      "I made a vow to dedicate my child to God.",
+      "God answered my prayer and I had a son.",
+      "I brought my son Samuel to live at the tabernacle."
+    ],
+    "wrongChoices": [
+      "Sarah",
+      "Elizabeth",
+      "Rachel"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Naomi",
+    "clues": [
+      "I moved to a foreign land during a famine with my family.",
+      "My husband and both my sons died in that land.",
+      "I told my daughters-in-law to return to their own families.",
+      "One daughter-in-law refused to leave me.",
+      "I returned to Bethlehem with Ruth by my side."
+    ],
+    "wrongChoices": [
+      "Ruth",
+      "Orpah",
+      "Deborah"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Martha",
+    "clues": [
+      "I lived in Bethany with my siblings.",
+      "I was busy preparing a meal when an important guest arrived.",
+      "I complained that my sister was not helping me.",
+      "Jesus told me I was worried about many things.",
+      "My brother Lazarus was raised from the dead by Jesus."
+    ],
+    "wrongChoices": [
+      "Mary",
+      "Joanna",
+      "Salome"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Barnabas",
+    "clues": [
+      "My name means \"Son of Encouragement.\"",
+      "I sold a field and gave the money to the apostles.",
+      "I vouched for a former persecutor of the church.",
+      "I traveled with Paul on his first missionary journey.",
+      "I had a disagreement with Paul over giving John Mark a second chance."
+    ],
+    "wrongChoices": [
+      "Silas",
+      "Timothy",
+      "Luke"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Miriam",
+    "clues": [
+      "I watched over my baby brother from the riverbank.",
+      "I suggested our mother as a nurse to a princess.",
+      "I led the women in song and dance after a great victory.",
+      "I played a tambourine at the Red Sea.",
+      "I was the sister of Moses and Aaron."
+    ],
+    "wrongChoices": [
+      "Deborah",
+      "Hannah",
+      "Jochebed"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Timothy",
+    "clues": [
+      "My mother Eunice and grandmother Lois taught me the Scriptures.",
+      "I was young when I began my ministry.",
+      "A great apostle became like a father to me.",
+      "Paul wrote two letters in the Bible addressed to me.",
+      "I was told, \"Let no one despise your youth.\""
+    ],
+    "wrongChoices": [
+      "Titus",
+      "Silas",
+      "Luke"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Philip",
+    "clues": [
+      "I was one of the seven chosen to serve the early church.",
+      "I preached the gospel in Samaria with great results.",
+      "An angel sent me to a desert road.",
+      "I met a man from Ethiopia reading the book of Isaiah.",
+      "I baptized the Ethiopian official and was then carried away by the Spirit."
+    ],
+    "wrongChoices": [
+      "Stephen",
+      "Barnabas",
+      "Andrew"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "name": "Rahab",
+    "clues": [
+      "I lived in a walled city.",
+      "I helped two strangers who came to my city.",
+      "I hid people on my rooftop.",
+      "A scarlet cord saved my family.",
+      "I was from Jericho and am in the lineage of Jesus."
+    ],
+    "wrongChoices": [
+      "Deborah",
+      "Delilah",
+      "Jezebel"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Gideon",
+    "clues": [
+      "An angel found me hiding while threshing wheat.",
+      "I asked God for signs involving a fleece.",
+      "God told me my army was too large.",
+      "My army was reduced from 32,000 to just 300.",
+      "We defeated the enemy with trumpets, jars, and torches."
+    ],
+    "wrongChoices": [
+      "Samson",
+      "Joshua",
+      "Barak"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Nehemiah",
+    "clues": [
+      "I served as cupbearer to a foreign king.",
+      "I wept when I heard about the state of my homeland.",
+      "The king granted me permission to return and rebuild.",
+      "I organized people to rebuild a wall.",
+      "The wall was completed in just 52 days despite opposition."
+    ],
+    "wrongChoices": [
+      "Ezra",
+      "Zerubbabel",
+      "Haggai"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Paul",
+    "clues": [
+      "I was a Roman citizen from birth.",
+      "I once persecuted followers of Jesus.",
+      "I was blinded by a bright light on a road.",
+      "I went on several long missionary journeys.",
+      "I wrote many letters that became part of the New Testament."
+    ],
+    "wrongChoices": [
+      "Barnabas",
+      "Silas",
+      "Timothy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Solomon",
+    "clues": [
+      "I was the son of a king.",
+      "God offered me anything I wanted, and I chose wisely.",
+      "I built a magnificent temple.",
+      "Two women came to me with a dispute over a baby.",
+      "I am known as the wisest man who ever lived."
+    ],
+    "wrongChoices": [
+      "David",
+      "Rehoboam",
+      "Hezekiah"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Deborah",
+    "clues": [
+      "I held court under a palm tree.",
+      "I was both a prophetess and a leader.",
+      "I summoned a commander named Barak.",
+      "I told Barak that a woman would get credit for the victory.",
+      "I judged Israel and led them to victory against Sisera."
+    ],
+    "wrongChoices": [
+      "Ruth",
+      "Esther",
+      "Miriam"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Elisha",
+    "clues": [
+      "I was plowing a field when I was called.",
+      "I received a double portion of my mentor's spirit.",
+      "I purified a poisonous pot of stew.",
+      "I told a foreign commander to wash in the Jordan River.",
+      "I was the successor to a prophet taken up in a chariot of fire."
+    ],
+    "wrongChoices": [
+      "Elijah",
+      "Isaiah",
+      "Nathan"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Job",
+    "clues": [
+      "I was the wealthiest man in the East.",
+      "God allowed Satan to test me.",
+      "I lost my children, livestock, and health in a single day.",
+      "Three friends came to comfort me but accused me of sin.",
+      "God restored double what I had lost after I remained faithful."
+    ],
+    "wrongChoices": [
+      "Noah",
+      "Abraham",
+      "Ezekiel"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Nicodemus",
+    "clues": [
+      "I was a Pharisee and a ruler of the Jews.",
+      "I came to see Jesus secretly at night.",
+      "Jesus told me I must be \"born again.\"",
+      "I asked, \"How can a man be born when he is old?\"",
+      "I helped prepare Jesus' body for burial with expensive spices."
+    ],
+    "wrongChoices": [
+      "Joseph of Arimathea",
+      "Gamaliel",
+      "Caiaphas"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Hagar",
+    "clues": [
+      "I was a servant from Egypt.",
+      "My mistress gave me to her husband.",
+      "I fled into the wilderness when I was mistreated.",
+      "An angel found me by a spring of water.",
+      "I gave birth to Ishmael, Abraham's first son."
+    ],
+    "wrongChoices": [
+      "Zilpah",
+      "Bilhah",
+      "Keturah"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Josiah",
+    "clues": [
+      "I became king when I was only eight years old.",
+      "I ordered repairs to the temple.",
+      "A lost scroll of the Law was found during the repairs.",
+      "I tore my robes when I heard the words of the scroll.",
+      "I led the greatest religious reform in Judah's history."
+    ],
+    "wrongChoices": [
+      "Hezekiah",
+      "Manasseh",
+      "Asa"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Balaam",
+    "clues": [
+      "I was a prophet hired by a king to curse Israel.",
+      "An angel blocked my path but I could not see him.",
+      "My donkey saw the angel before I did.",
+      "My donkey spoke to me with a human voice.",
+      "Every time I tried to curse Israel, blessings came out instead."
+    ],
+    "wrongChoices": [
+      "Elijah",
+      "Jonah",
+      "Micaiah"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Mordecai",
+    "clues": [
+      "I raised my orphaned cousin as my own daughter.",
+      "I sat at the king's gate in Susa.",
+      "I uncovered a plot to assassinate the king.",
+      "I refused to bow to a powerful official named Haman.",
+      "I was honored by the king and became second in the kingdom."
+    ],
+    "wrongChoices": [
+      "Ezra",
+      "Nehemiah",
+      "Daniel"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Jeremiah",
+    "clues": [
+      "God called me to be a prophet while I was still young.",
+      "I told God I did not know how to speak.",
+      "I wept over my nation's coming destruction.",
+      "I was thrown into a muddy cistern for speaking the truth.",
+      "I am known as the \"weeping prophet.\""
+    ],
+    "wrongChoices": [
+      "Isaiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Jezebel",
+    "clues": [
+      "I was a foreign princess who married a king of Israel.",
+      "I promoted the worship of Baal throughout the land.",
+      "I threatened to kill a great prophet after his victory.",
+      "I plotted to steal a vineyard by having its owner killed.",
+      "My husband was King Ahab, and my end was foretold by Elijah."
+    ],
+    "wrongChoices": [
+      "Athaliah",
+      "Delilah",
+      "Herodias"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Ezekiel",
+    "clues": [
+      "I was a priest who became a prophet in exile.",
+      "I lived among the captives by the river Chebar in Babylon.",
+      "I had a vision of dry bones coming to life.",
+      "God told me to lie on my side for over a year as a sign.",
+      "I saw a vision of God's glory leaving and returning to the temple."
+    ],
+    "wrongChoices": [
+      "Jeremiah",
+      "Daniel",
+      "Isaiah"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "name": "Caleb",
+    "clues": [
+      "I was one of twelve spies sent to explore Canaan.",
+      "Only I and one other spy said we could take the land.",
+      "I trusted God when ten others were afraid.",
+      "I waited 45 years for the promise God made to me.",
+      "At age 85 I asked Joshua for the hill country as my inheritance."
+    ],
+    "wrongChoices": [
+      "Joshua",
+      "Othniel",
+      "Phinehas"
+    ],
+    "difficulty": "hard"
+  }
+]

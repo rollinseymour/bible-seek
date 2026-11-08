@@ -1,0 +1,119 @@
+{
+  "id": "jol.rend_your_heart",
+  "title": "Rend Your Heart",
+  "anchorRef": "JOL.2.13",
+  "backstory": "Joel was a prophet in Judah, and his book opens in the middle of a disaster. A vast swarm of locusts — wave after wave of hungry insects — had devoured every crop in the land, and famine was close behind. Joel saw in that dark day a wake-up call: it was time for God's people to turn back to him with their whole hearts.",
+  "passages": [
+    {
+      "ref": "JOL.1.1-12",
+      "synopsis": "The word of the LORD came to Joel the son of Pethuel. Wave after wave of locusts had swept over the land, eating everything green. The vines, the fig trees, and the fields of grain were stripped bare. Joel said nothing like it had ever happened in their days. Joy itself seemed to wither away with the harvest."
+    },
+    {
+      "ref": "JOL.1.13-20",
+      "synopsis": "Joel called the priests to put on sackcloth and mourn. He told them to declare a fast and gather everyone into the house of the LORD. With the fields ruined, there was nothing left to bring as an offering. Even the animals groaned in the dry land, and Joel cried out to the LORD for help."
+    },
+    {
+      "ref": "JOL.2.1-11",
+      "synopsis": "A trumpet sounded a warning in Zion, for the day of the LORD was near. Joel described a mighty army coming like locusts, darkening the sky. Nothing could stand in its way, and every face grew pale. Behind that army was the voice of the LORD himself, and Joel asked who could abide it."
+    },
+    {
+      "ref": "JOL.2.12-17",
+      "synopsis": "Even now, God said, turn to me with all your heart. He wanted torn hearts, not torn garments, because he is gracious and merciful and slow to anger. Joel called everyone — old and young, even the little children — to gather and pray. The priests were to weep and ask the LORD to spare his people."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Joel 1:3",
+          "text": "Tell ye your children of it,"
+        },
+        {
+          "reference": "Joel 2:12",
+          "text": "turn ye even to me with all your heart,"
+        },
+        {
+          "reference": "Joel 2:15",
+          "text": "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who was Joel's father?",
+          "options": [
+            "Amittai",
+            "Pethuel",
+            "Beeri",
+            "Amoz"
+          ],
+          "correctIndex": 1,
+          "explanation": "Joel 1:1 — \"The word of the LORD that came to Joel the son of Pethuel.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What creatures stripped the land bare in Joel's day?",
+          "options": [
+            "Frogs",
+            "Flies",
+            "Locusts",
+            "Serpents"
+          ],
+          "correctIndex": 2,
+          "explanation": "Joel 1:4 — \"That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God tell the people to rend instead of their garments?",
+          "options": [
+            "Their hearts",
+            "Their sandals",
+            "Their tents",
+            "Their scrolls"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joel 2:13 — \"And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was blown in Zion to call the people together?",
+          "options": [
+            "A harp",
+            "A timbrel",
+            "An organ",
+            "A trumpet"
+          ],
+          "correctIndex": 3,
+          "explanation": "Joel 2:15 — \"Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Locusts Come",
+          "words": [
+            "LOCUST",
+            "TRUMPET",
+            "ZION",
+            "HEART",
+            "FAST",
+            "VINE",
+            "SACKCLOTH"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.34.6",
+    "PSA.51.17",
+    "JON.3.5"
+  ],
+  "reflection": "God asked his people for torn hearts, not torn garments. When trouble comes, what would it look like for you to turn to God with your whole heart?"
+}

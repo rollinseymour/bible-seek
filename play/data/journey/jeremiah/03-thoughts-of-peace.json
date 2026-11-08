@@ -1,0 +1,133 @@
+{
+  "id": "jer.thoughts_of_peace",
+  "title": "Thoughts of Peace",
+  "anchorRef": "JER.29.11",
+  "backstory": "The warnings have come true: Babylon's king has carried many of Judah's people far from home, and false prophets keep promising they will be back in no time. Jeremiah writes the exiles a letter with God's true message — the stay will be long, but God has not forgotten them. Hidden inside the hard news is one of the warmest promises in the Bible.",
+  "passages": [
+    {
+      "ref": "JER.29.1-7",
+      "synopsis": "Jeremiah sent a letter from Jerusalem to the people Nebuchadnezzar had carried captive to Babylon. God told the exiles to settle in: build houses, plant gardens, marry, and raise families. They were even to seek the peace of the city where they now lived and pray for it. God's people could still live faithfully far from home."
+    },
+    {
+      "ref": "JER.29.8-14",
+      "synopsis": "God warned the exiles not to listen to false prophets who promised a quick return. The truth was harder and better: after seventy years God would bring them home. 'For I know the thoughts that I think toward you,' he said, 'thoughts of peace, and not of evil.' When they sought him with all their heart, they would find him."
+    },
+    {
+      "ref": "JER.31.1-6",
+      "synopsis": "God spoke tender words about the days to come. 'I have loved thee with an everlasting love,' he told his people, 'therefore with lovingkindness have I drawn thee.' Israel would be built again, with music and dancing and vineyards on the hills. One day watchmen would cry, 'Arise ye, and let us go up to Zion.'"
+    },
+    {
+      "ref": "JER.31.31-34",
+      "synopsis": "God promised a new covenant, different from the one Israel had broken. This time he would write his law not on tables of stone but in his people's hearts. Everyone, from the least to the greatest, would know him. Best of all, he promised to forgive their iniquity and remember their sin no more."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Jeremiah",
+          "clues": [
+            "God chose me to be his prophet before I was born.",
+            "I sent a letter from Jerusalem to the captives in Babylon.",
+            "I promised a new covenant that God would write on hearts."
+          ],
+          "wrongChoices": [
+            "Isaiah",
+            "Ezekiel",
+            "Daniel"
+          ]
+        },
+        {
+          "name": "Nebuchadnezzar",
+          "clues": [
+            "I was the king of Babylon.",
+            "I carried the people of Judah away captive.",
+            "Jeremiah told the exiles to pray for the peace of my city."
+          ],
+          "wrongChoices": [
+            "Pharaoh",
+            "Cyrus",
+            "Belshazzar"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Jeremiah 29:11",
+          "text": "thoughts of peace, and not of evil, to give you an expected end."
+        },
+        {
+          "reference": "Jeremiah 29:13",
+          "text": "And ye shall seek me, and find me,"
+        },
+        {
+          "reference": "Jeremiah 31:3",
+          "text": "I have loved thee with an everlasting love:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How long did God say the exiles would stay in Babylon?",
+          "options": [
+            "Ten years",
+            "Forty years",
+            "One hundred years",
+            "Seventy years"
+          ],
+          "correctIndex": 3,
+          "explanation": "Jeremiah 29:10 — \"For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What kind of thoughts does God think toward his people?",
+          "options": [
+            "Thoughts of peace, and not of evil",
+            "Thoughts of anger",
+            "No thoughts at all",
+            "Thoughts of riches and fame"
+          ],
+          "correctIndex": 0,
+          "explanation": "Jeremiah 29:11 — \"For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God tell the exiles to do in Babylon?",
+          "options": [
+            "Fight against the city",
+            "Refuse to work",
+            "Build houses and plant gardens",
+            "Escape back to Jerusalem"
+          ],
+          "correctIndex": 2,
+          "explanation": "Jeremiah 29:5 — \"Build ye houses, and dwell in them; and plant gardens, and eat the fruit of them;\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where will God write his law under the new covenant?",
+          "options": [
+            "On tables of stone",
+            "In his people's hearts",
+            "On the temple walls",
+            "On a golden scroll"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jeremiah 31:33 — \"But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "DAN.9.2",
+    "HEB.8.10",
+    "LUK.22.20"
+  ],
+  "reflection": "God's plans for his people were 'thoughts of peace' even in faraway Babylon. Can you trust that God is at work during a long wait?"
+}

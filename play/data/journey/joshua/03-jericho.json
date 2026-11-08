@@ -1,0 +1,127 @@
+{
+  "id": "jos.jericho",
+  "title": "The Fall of Jericho",
+  "anchorRef": "JOS.6.20",
+  "backstory": "Jericho was the gateway to Canaan — a fortified city with walls thick enough to build houses on. Israel had no siege engines and no experience taking cities. God's battle plan sounded like anything but a battle plan.",
+  "passages": [
+    {
+      "ref": "JOS.6.1-5",
+      "synopsis": "Jericho was shut up tight because of Israel. God gave Joshua an unusual battle plan. The army was to march around the city once a day for six days. On the seventh day they would march seven times, and at a great shout the walls would fall."
+    },
+    {
+      "ref": "JOS.6.12-20",
+      "synopsis": "For six days Israel marched silently around Jericho with the ark and trumpets. On the seventh day they circled seven times, and Joshua told them to shout. When the trumpets blew and the people shouted, the walls fell down flat. The army went straight in and took the city."
+    },
+    {
+      "ref": "JOS.6.22-25",
+      "synopsis": "Joshua remembered the promise made to Rahab. He sent the two spies to bring her and her family safely out. Because she had hidden the spies, Rahab and her household were spared. Her faith saved her, and she lived among Israel."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Rahab",
+          "clues": [
+            "I lived in the wall of Jericho.",
+            "I hid the two Israelite spies.",
+            "I tied a scarlet cord in my window and was spared."
+          ],
+          "wrongChoices": [
+            "Deborah",
+            "Ruth",
+            "Jael"
+          ]
+        },
+        {
+          "name": "Joshua",
+          "clues": [
+            "I sent the people around the city once a day for six days.",
+            "At the seventh time I said, Shout; for the LORD hath given you the city.",
+            "I saved Rahab alive, and all her father's household with her."
+          ],
+          "wrongChoices": [
+            "Caleb",
+            "Moses",
+            "Gideon"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What made the walls of Jericho fall down?",
+          "options": [
+            "The people shouted as trumpets blew",
+            "A battering ram",
+            "An earthquake",
+            "A great fire"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 6:20 — \"So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who was spared when Jericho fell?",
+          "options": [
+            "Rahab and her family",
+            "The king",
+            "The soldiers",
+            "No one"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 6:25 — \"And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How many priests bore trumpets of rams' horns before the ark?",
+          "options": [
+            "Three",
+            "Seven",
+            "Twelve",
+            "Forty"
+          ],
+          "correctIndex": 1,
+          "explanation": "Joshua 6:4 — \"And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Joshua tell the people at the seventh time the trumpets blew?",
+          "options": [
+            "Wait quietly until morning",
+            "Build a ramp against the wall",
+            "Return to the camp at Gilgal",
+            "Shout, for the LORD hath given you the city"
+          ],
+          "correctIndex": 3,
+          "explanation": "Joshua 6:16 — \"And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the LORD hath given you the city.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Jericho",
+          "words": [
+            "WALLS",
+            "SHOUT",
+            "MARCH",
+            "HORN",
+            "FALL"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.11.30",
+    "HEB.11.31",
+    "JAS.2.25"
+  ],
+  "reflection": "Jericho fell by obedience and faith, not by force. Where is God asking you to trust His way over your own?"
+}

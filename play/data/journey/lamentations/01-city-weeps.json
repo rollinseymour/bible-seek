@@ -1,0 +1,133 @@
+{
+  "id": "lam.city_weeps",
+  "title": "The City Weeps",
+  "anchorRef": "LAM.2.19",
+  "backstory": "For many years the prophets pleaded with Judah to turn back to God, but the people would not listen. Now Babylon's army has broken down Jerusalem's walls, and God's people have been carried far from home. Jeremiah, who loved the city, pours out its sorrow in five sad songs — showing us that even the deepest grief can be brought honestly to God.",
+  "passages": [
+    {
+      "ref": "LAM.1.1-6",
+      "synopsis": "The city of Jerusalem, once full of people, now sits alone like a widow. She weeps in the night, and there is no one to comfort her. Her gates are empty, her roads are quiet, and her children have been carried away to a far country. Judah has gone into captivity, and all the city's beauty is gone."
+    },
+    {
+      "ref": "LAM.1.12-14",
+      "synopsis": "Jerusalem calls out to everyone passing by: is there any sorrow like my sorrow? The city knows this trouble came in the day of the LORD's fierce anger, after long years of turning away from him. She feels it as fire sent into her bones, as a net spread for her feet, as a yoke bound upon her neck. Her strength has fallen, and she does not hide her grief but speaks it out loud."
+    },
+    {
+      "ref": "LAM.1.18",
+      "synopsis": "In the middle of her tears Jerusalem says the truest thing of all: \"The LORD is righteous.\" She does not blame God for her ruin; she owns that she rebelled against his commandment. Then she asks everyone to look and see her sorrow, for her young men and young women have been carried far away. Honest grief and honest confession stand side by side in one short verse."
+    },
+    {
+      "ref": "LAM.2.13-19",
+      "synopsis": "Jeremiah searches for words of comfort and cannot find any: what could he even compare to this? Jerusalem's hurt is as wide as the sea, and no one but God can heal it. Passers-by clap and hiss at the city that people once called the joy of the whole earth. Then comes the call the whole book has been reaching toward: arise, cry out in the night, and pour out thine heart like water before the face of the Lord. Even the deepest grief can be brought to God."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Jerusalem",
+          "clues": [
+            "I am not a person but a city, once full of people.",
+            "Men once called me the joy of the whole earth; now those who pass by hiss at me.",
+            "Lamentations says I sit solitary, like a widow, and weep in the night."
+          ],
+          "wrongChoices": [
+            "Babylon",
+            "Nineveh",
+            "Samaria"
+          ]
+        },
+        {
+          "name": "Jeremiah",
+          "clues": [
+            "Tradition says I wrote the five sad songs of Lamentations.",
+            "People call me the weeping prophet.",
+            "I warned Judah for forty years, and then I watched my warnings come true."
+          ],
+          "wrongChoices": [
+            "Habakkuk",
+            "Zephaniah",
+            "Obadiah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In Lamentations 1:1, the lonely city is said to have become like what?",
+          "options": [
+            "A desert",
+            "A widow",
+            "A shepherd",
+            "A stranger"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lamentations 1:1 — \"How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did grieving Jerusalem ask those who passed by?",
+          "options": [
+            "To rebuild her walls",
+            "To bring her food",
+            "To see if there was any sorrow like her sorrow",
+            "To carry her to Babylon"
+          ],
+          "correctIndex": 2,
+          "explanation": "Lamentations 1:12 — \"Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does Lamentations say to pour out like water before the face of the Lord?",
+          "options": [
+            "Thine heart",
+            "Thy treasures",
+            "Thine oil",
+            "Thy tears"
+          ],
+          "correctIndex": 0,
+          "explanation": "Lamentations 2:19 — \"Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Even in her sorrow, what did Jerusalem confess about the LORD?",
+          "options": [
+            "The LORD had forgotten her",
+            "The LORD was far away",
+            "The LORD was asleep",
+            "The LORD is righteous"
+          ],
+          "correctIndex": 3,
+          "explanation": "Lamentations 1:18 — \"The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The City Weeps",
+          "words": [
+            "ZION",
+            "JUDAH",
+            "WIDOW",
+            "TEARS",
+            "GATES",
+            "HEART",
+            "CITY"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JER.9.1",
+    "PSA.137.1",
+    "LUK.19.41"
+  ],
+  "reflection": "Jerusalem poured out her heart to God instead of hiding her sorrow. What sadness could you bring honestly to him today?"
+}

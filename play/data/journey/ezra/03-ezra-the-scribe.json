@@ -1,0 +1,97 @@
+{
+  "id": "ezr.ezra_the_scribe",
+  "title": "Ezra the Scribe",
+  "anchorRef": "EZR.7.10",
+  "backstory": "About sixty years after the temple was finished, God raised up a man to teach his people. Ezra was a priest and a ready scribe in the law of Moses, still living in Babylon. With the king's blessing he set out on a long, dangerous road to Jerusalem, trusting the good hand of his God the whole way.",
+  "passages": [
+    {
+      "ref": "EZR.7.1-10",
+      "synopsis": "In the days of king Artaxerxes, Ezra went up from Babylon to Jerusalem. He was a ready scribe in the law of Moses, and the king granted him everything he asked, for God's hand was upon him. The journey took about four months. Ezra had prepared his heart to seek the law of the LORD, to do it, and to teach it in Israel."
+    },
+    {
+      "ref": "EZR.7.11-28",
+      "synopsis": "King Artaxerxes gave Ezra a letter granting him all he needed. Anyone who wished could go with him, and the king sent silver and gold for the house of God. The letter told Ezra to teach God's laws to those who did not know them. Ezra blessed the LORD, who had put such a thing in the king's heart, and gathered leaders of Israel to travel with him."
+    },
+    {
+      "ref": "EZR.8.21-30",
+      "synopsis": "At the river of Ahava, Ezra proclaimed a fast to seek a safe road from God. He was ashamed to ask the king for soldiers, because he had said God's hand is on all who seek him. So they fasted and prayed, and God heard them. Then Ezra weighed out the silver, gold, and holy vessels to twelve trusted priests to carry to Jerusalem."
+    },
+    {
+      "ref": "EZR.8.31-36",
+      "synopsis": "The travelers left the river of Ahava on the twelfth day of the first month. The hand of God was upon them, and he delivered them from enemies who lay in wait along the way. They came safely to Jerusalem and rested three days. The silver and gold were weighed in the house of God, and offerings were made to the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ezra 7:10",
+          "text": "For Ezra had prepared his heart to seek the law of the LORD"
+        },
+        {
+          "reference": "Ezra 8:23",
+          "text": "So we fasted and besought our God for this:"
+        },
+        {
+          "reference": "Ezra 8:32",
+          "text": "And we came to Jerusalem, and abode there three days."
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Ezra",
+          "clues": [
+            "I was a ready scribe in the law of Moses.",
+            "I led a fast at the river of Ahava instead of asking for soldiers.",
+            "I prepared my heart to seek the law of the LORD, to do it, and to teach it."
+          ],
+          "wrongChoices": [
+            "Nehemiah",
+            "Zerubbabel",
+            "Aaron"
+          ]
+        },
+        {
+          "name": "Artaxerxes",
+          "clues": [
+            "I was the Persian king who sent Ezra up to Jerusalem with a letter.",
+            "I decreed that whatsoever Ezra required be given him out of the king's treasure house.",
+            "I commanded that no toll or tribute be laid upon the priests and Levites."
+          ],
+          "wrongChoices": [
+            "Cyrus",
+            "Ahasuerus",
+            "Belshazzar"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Ezra the Scribe",
+          "words": [
+            "EZRA",
+            "SCRIBE",
+            "LAW",
+            "BABYLON",
+            "JERUSALEM",
+            "AHAVA",
+            "FAST"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "NEH.8.8",
+    "PSA.34.7",
+    "MAT.5.19"
+  ],
+  "reflection": "Ezra prepared his heart to seek God's word, to live it, and then to teach it. Which of those three steps do you want to grow in this week?"
+}

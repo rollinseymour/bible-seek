@@ -1,0 +1,101 @@
+{
+  "id": "sng.seal_upon_the_heart",
+  "title": "A Seal Upon the Heart",
+  "anchorRef": "SNG.8.6",
+  "backstory": "The song now rises to a wedding day and the promise that follows it. The bride and her beloved give themselves to each other for good — their love is not a passing feeling but a promise, pressed like a seal into the heart. Scripture often uses this kind of faithful love as a picture of God's unbreakable love for his people.",
+  "passages": [
+    {
+      "ref": "SNG.3.6-11",
+      "synopsis": "A wedding procession comes up from the wilderness in a cloud of sweet perfume. It is King Solomon's great day, and sixty valiant men of Israel guard the way. His carriage is made of the wood of Lebanon, with pillars of silver, a bottom of gold, and a covering of purple. The daughters of Zion are called to come and see the king crowned in the day of the gladness of his heart."
+    },
+    {
+      "ref": "SNG.5.9-6.3",
+      "synopsis": "The daughters of Jerusalem ask the bride what makes her beloved better than any other. She answers with a song of praise, and ends by saying, this is my beloved, and this is my friend. Her friends offer to seek him with her, but she knows just where he is. She says, I am my beloved's, and my beloved is mine."
+    },
+    {
+      "ref": "SNG.8.5-7",
+      "synopsis": "The bride comes up from the wilderness leaning upon her beloved. She asks to be set as a seal upon his heart, for love is strong as death. Many waters cannot quench love, neither can the floods drown it. Such love is worth more than all the riches of a house."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Solomon",
+          "clues": [
+            "I was King David's son, and I ruled Israel from Jerusalem.",
+            "I wrote the song of songs, the sweetest of my many songs.",
+            "My mother crowned me in the day of the gladness of my heart."
+          ],
+          "wrongChoices": [
+            "David",
+            "Rehoboam",
+            "Hezekiah"
+          ]
+        },
+        {
+          "name": "The Bride",
+          "clues": [
+            "I called myself the rose of Sharon and the lily of the valleys.",
+            "I said of my beloved, this is my beloved, and this is my friend.",
+            "I asked to be set as a seal upon my beloved's heart."
+          ],
+          "wrongChoices": [
+            "The queen of Sheba",
+            "The daughters of Jerusalem",
+            "The king's mother"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Song of Solomon 6:3",
+          "text": "I am my beloved’s, and my beloved is mine:"
+        },
+        {
+          "reference": "Song of Solomon 5:16",
+          "text": "This is my beloved, and this is my friend"
+        },
+        {
+          "reference": "Song of Solomon 8:7",
+          "text": "Many waters cannot quench love, neither can the floods drown it:"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SEAL",
+          "hint": "The bride asked to be set as one upon her beloved's heart",
+          "theme": "things"
+        },
+        {
+          "word": "MYRRH",
+          "hint": "Sweet perfume rising from the wedding procession",
+          "theme": "things"
+        },
+        {
+          "word": "LEBANON",
+          "hint": "Solomon's carriage was made from this land's wood",
+          "theme": "places"
+        },
+        {
+          "word": "SOLOMON",
+          "hint": "The king whose song this is",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ROM.8.39",
+    "1CO.13.8",
+    "REV.19.7"
+  ],
+  "reflection": "Many waters cannot quench love. What does it mean to you that God's love is strong, steadfast, and never gives up?"
+}

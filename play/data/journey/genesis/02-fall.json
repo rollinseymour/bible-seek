@@ -1,0 +1,171 @@
+{
+  "id": "gen.fall",
+  "title": "The Fall",
+  "anchorRef": "GEN.3.15",
+  "backstory": "God had made a world he called very good and placed the first man and woman in a garden with everything they needed — freedom, purpose, and only one boundary. This story explains how that harmony was broken, and why the world we know is not the world God made.",
+  "passages": [
+    {
+      "ref": "GEN.2.15-17",
+      "synopsis": "God placed the man in the garden of Eden to tend and keep it. He allowed him to eat freely from every tree but one. God warned that eating from the tree of the knowledge of good and evil would bring death. It was a test of trust and obedience."
+    },
+    {
+      "ref": "GEN.3.1-7",
+      "synopsis": "The serpent was more crafty than any creature and questioned God's command. He told the woman she would not surely die but would become like God. She took the fruit, ate, and gave some to her husband. Their eyes were opened, and for the first time they felt shame."
+    },
+    {
+      "ref": "GEN.3.8-19",
+      "synopsis": "When God walked in the garden, the man and woman hid themselves. God asked what they had done, and each shifted the blame. He spoke the consequences of their sin to the serpent, the woman, and the man. Yet even here he hinted at a rescue to come."
+    },
+    {
+      "ref": "GEN.3.20-24",
+      "synopsis": "God clothed the man and woman with garments of skin, covering their shame. Because they had sinned, he sent them out of the garden. Cherubim and a flaming sword guarded the way back to the tree of life. Life outside Eden would now be marked by toil and sorrow."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Eve",
+          "clues": [
+            "I was the very first of my kind to walk the earth.",
+            "I was deceived, took the fruit, and gave some to my husband.",
+            "My husband named me because I am \"the mother of all living\"."
+          ],
+          "wrongChoices": [
+            "Sarah",
+            "Mary",
+            "Rebekah"
+          ]
+        },
+        {
+          "name": "Adam",
+          "clues": [
+            "I was given charge over a garden in the east.",
+            "When I sinned, the very ground was cursed for my sake.",
+            "I blamed the woman God gave me, who gave me of the tree."
+          ],
+          "wrongChoices": [
+            "Noah",
+            "Cain",
+            "Abraham"
+          ]
+        },
+        {
+          "name": "The serpent",
+          "clues": [
+            "I was more subtil than any beast of the field the LORD God made.",
+            "I told a half-truth: \"Ye shall not surely die.\"",
+            "For what I did, I was cursed to go upon my belly and eat dust."
+          ],
+          "wrongChoices": [
+            "The dove",
+            "The raven",
+            "Leviathan"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "GARDEN",
+          "hint": "The place in Eden where Adam and Eve lived.",
+          "theme": "places"
+        },
+        {
+          "word": "TREE",
+          "hint": "In the midst of the garden grew the one of knowledge of good and evil.",
+          "theme": "things"
+        },
+        {
+          "word": "SERPENT",
+          "hint": "The subtil creature that beguiled the woman.",
+          "theme": "things"
+        },
+        {
+          "word": "APRONS",
+          "hint": "What Adam and Eve sewed from fig leaves to cover themselves.",
+          "theme": "things"
+        },
+        {
+          "word": "CHERUBIMS",
+          "hint": "Placed at the east of Eden to guard the way of the tree of life.",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In Genesis 3, what creature tempted the woman to eat the fruit?",
+          "options": [
+            "A lion",
+            "The serpent",
+            "A raven",
+            "A goat"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 3:1 — \"Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "After eating, what did Adam and Eve sew together to cover themselves?",
+          "options": [
+            "Fig leaves",
+            "Animal skins",
+            "Wool",
+            "Linen cloth"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 3:7 — \"And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When the LORD God called to Adam, what did He ask him?",
+          "options": [
+            "What hast thou done?",
+            "Why art thou wroth?",
+            "Where art thou?",
+            "Who told thee?"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 3:9 — \"And the LORD God called unto Adam, and said unto him, Where art thou?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What part of the serpent did God say the woman's seed would bruise?",
+          "options": [
+            "His heel",
+            "His tail",
+            "His head",
+            "His belly"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 3:15 — \"And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In Genesis 3:21, what did the LORD God make to clothe Adam and his wife?",
+          "options": [
+            "Aprons of fig leaves",
+            "Robes of fine linen",
+            "Garments of wool",
+            "Coats of skins"
+          ],
+          "correctIndex": 3,
+          "explanation": "Genesis 3:21 — \"Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ROM.5.12",
+    "ROM.5.19",
+    "1JN.3.8"
+  ],
+  "reflection": "Where do you see God's mercy even in the moment of judgment?"
+}

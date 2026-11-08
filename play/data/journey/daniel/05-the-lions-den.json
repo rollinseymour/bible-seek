@@ -1,0 +1,129 @@
+{
+  "id": "dan.the_lions_den",
+  "title": "The Lions' Den",
+  "anchorRef": "DAN.6.22",
+  "backstory": "Babylon has fallen, and Darius the Median now rules the kingdom. Daniel is an old man by now, so faithful and trusted that the king plans to set him over the whole realm. Jealous officials can find no fault in him — except his faithful prayers to his God.",
+  "passages": [
+    {
+      "ref": "DAN.6.1-9",
+      "synopsis": "King Darius set a hundred and twenty princes over the kingdom, with Daniel first among the three presidents above them. Daniel was so faithful that the king thought to set him over the whole realm. The jealous officials could find no fault in him, so they aimed at his faith in God. They flattered the king into signing a law that for thirty days anyone who prayed to any god or man except the king would be cast into the den of lions."
+    },
+    {
+      "ref": "DAN.6.10-15",
+      "synopsis": "When Daniel knew the law was signed, he went home and did just what he had always done. With his windows open toward Jerusalem, he kneeled and prayed and gave thanks to God three times a day. The men found him praying and reported him to the king. Darius was greatly displeased with himself and labored until sundown to save Daniel, but the law of the Medes and Persians could not be changed."
+    },
+    {
+      "ref": "DAN.6.16-23",
+      "synopsis": "Daniel was cast into the den of lions, and the king said to him, 'Thy God whom thou servest continually, he will deliver thee.' Darius passed a sleepless night without food or music. Very early in the morning he hurried to the den and cried out to Daniel — and Daniel answered! God had sent His angel to shut the lions' mouths, and no hurt was found on Daniel, because he believed in his God."
+    },
+    {
+      "ref": "DAN.6.25-28",
+      "synopsis": "Then King Darius wrote to all people, nations, and languages that dwell in all the earth, saying, 'Peace be multiplied unto you.' He made a decree that in every dominion of his kingdom men should fear before the God of Daniel, for He is the living God, stedfast for ever, and His kingdom shall never be destroyed. He delivers and rescues, and He works signs and wonders in heaven and in earth. And so Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Daniel",
+          "clues": [
+            "God shut the lions' mouths to keep me safe.",
+            "I prayed three times a day with my windows open toward Jerusalem.",
+            "I served kings of Babylon and Persia because an excellent spirit was in me."
+          ],
+          "wrongChoices": [
+            "Joseph",
+            "Jeremiah",
+            "Mordecai"
+          ]
+        },
+        {
+          "name": "Darius",
+          "clues": [
+            "I could not sleep while my faithful servant was in the lions' den.",
+            "I was tricked into signing a decree against prayer.",
+            "I was a Median who received the kingdom of Babylon."
+          ],
+          "wrongChoices": [
+            "Cyrus",
+            "Nebuchadnezzar",
+            "Ahasuerus"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How often did Daniel kneel and pray each day?",
+          "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Seven times"
+          ],
+          "correctIndex": 2,
+          "explanation": "Daniel 6:10 — \"Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did King Darius say to Daniel at the den of lions?",
+          "options": [
+            "I cannot help you now",
+            "Thy God whom thou servest continually, he will deliver thee",
+            "Why have you broken my law?",
+            "Pray only to me from now on"
+          ],
+          "correctIndex": 1,
+          "explanation": "Daniel 6:16 — \"Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Daniel say God kept him safe in the den?",
+          "options": [
+            "God sent his angel and shut the lions' mouths",
+            "The lions were fed before he came",
+            "He hid in a corner all night",
+            "The king's guards protected him"
+          ],
+          "correctIndex": 0,
+          "explanation": "Daniel 6:22 — \"My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why was no manner of hurt found upon Daniel?",
+          "options": [
+            "The lions were old and weak",
+            "The den was empty that night",
+            "He was taken out right away",
+            "Because he believed in his God"
+          ],
+          "correctIndex": 3,
+          "explanation": "Daniel 6:23 — \"Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Daniel 6:21",
+          "text": "Then said Daniel unto the king, O king, live for ever."
+        },
+        {
+          "reference": "Daniel 6:27",
+          "text": "who hath delivered Daniel from the power of the lions."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.34.7",
+    "HEB.11.33",
+    "2TI.4.17"
+  ],
+  "reflection": "Daniel kept right on praying, just as he had always done. What faithful habit can you keep, no matter what happens around you?"
+}

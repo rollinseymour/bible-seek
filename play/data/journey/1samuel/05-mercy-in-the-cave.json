@@ -1,0 +1,141 @@
+{
+  "id": "1sa.mercy_in_the_cave",
+  "title": "Mercy in the Cave",
+  "anchorRef": "1SA.24.6",
+  "backstory": "David's victory made him famous, and King Saul's heart filled with jealousy until David had to run for his life. But Saul's own son Jonathan loved David like a brother, and God kept David safe in the wilderness. In a dark cave, David gets the chance to end the chase — and chooses mercy instead.",
+  "passages": [
+    {
+      "ref": "1SA.18.1-9",
+      "synopsis": "After the victory, Jonathan the king's son loved David as his own soul, and they made a covenant. Jonathan gave David his own robe, his sword, his bow, and his girdle. But when the women sang that Saul had slain his thousands and David his ten thousands, Saul was very angry. From that day Saul eyed David with jealousy."
+    },
+    {
+      "ref": "1SA.24.1-7",
+      "synopsis": "Saul hunted David in the wilderness of En-gedi with three thousand chosen men. Saul stepped alone into the very cave where David and his men were hiding. David's men whispered that God had delivered his enemy into his hand. But David only cut off the skirt of Saul's robe secretly, and even then his heart smote him. He would not touch the LORD's anointed, and he held his men back."
+    },
+    {
+      "ref": "1SA.24.8-15",
+      "synopsis": "When Saul left the cave, David came out and bowed himself to the ground. He held up the piece of the robe as proof that he could have harmed Saul and did not. My hand shall not be upon thee, David promised. He asked the LORD to judge between them and to plead his cause."
+    },
+    {
+      "ref": "1SA.24.16-22",
+      "synopsis": "Saul lifted up his voice and wept. Thou art more righteous than I, he confessed, for thou hast rewarded me good, whereas I have rewarded thee evil. Saul admitted that he knew David would surely be king. David swore kindness to Saul's family, and Saul went home while David returned to the stronghold."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Jonathan give David as a sign of their covenant?",
+          "options": [
+            "His robe, his sword, his bow, and his girdle",
+            "A horn of oil",
+            "Thirty pieces of silver",
+            "A shepherd's staff"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Samuel 18:4 — \"And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did David do while Saul was in the cave?",
+          "options": [
+            "He took Saul's spear",
+            "He slipped out the back",
+            "He cut off the skirt of Saul's robe",
+            "He woke Saul's guards"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Samuel 24:4 — \"And the men of David said unto him, Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why would David not lift his hand against Saul?",
+          "options": [
+            "He feared Saul's army",
+            "Saul was the LORD's anointed",
+            "Jonathan had made him promise",
+            "He had no sword"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Samuel 24:6 — \"And he said unto his men, The LORD forbid that I should do this thing unto my master, the LORD’s anointed, to stretch forth mine hand against him, seeing he is the anointed of the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Saul confess after David spared his life?",
+          "options": [
+            "I will make thee my heir today",
+            "The kingdom is lost to me",
+            "The Philistines shall fear thee",
+            "Thou art more righteous than I"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Samuel 24:17 — \"And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Jonathan",
+          "clues": [
+            "My father was King Saul.",
+            "I gave David my robe, my sword, and my bow.",
+            "I loved David as my own soul."
+          ],
+          "wrongChoices": [
+            "Joab",
+            "Abner",
+            "Eliab"
+          ]
+        },
+        {
+          "name": "Saul",
+          "clues": [
+            "I chased David through the wilderness with three thousand men.",
+            "I walked into a cave where David was hiding.",
+            "I wept when David spared my life."
+          ],
+          "wrongChoices": [
+            "Abner",
+            "Jonathan",
+            "Achish"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JONATHAN",
+          "hint": "Saul's son and David's true friend",
+          "theme": "people"
+        },
+        {
+          "word": "ENGEDI",
+          "hint": "Wilderness where David hid from Saul",
+          "theme": "places"
+        },
+        {
+          "word": "ROBE",
+          "hint": "David cut off the skirt of this garment",
+          "theme": "things"
+        },
+        {
+          "word": "CAVE",
+          "hint": "Dark place where David spared Saul",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PRO.17.17",
+    "ROM.12.19",
+    "JHN.15.13"
+  ],
+  "reflection": "David held his enemy's life in his hand and chose mercy. When someone treats you wrongly, how can you answer evil with good?"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "1sa.hannahs_prayer",
+  "title": "Hannah's Prayer",
+  "anchorRef": "1SA.1.27",
+  "backstory": "The time of the judges is drawing to a close, and Israel needs a faithful voice to lead them back to God. In the hill country lives a woman named Hannah, who has no children and carries a deep sorrow. Her honest prayer at Shiloh will set the whole story of prophets and kings in motion.",
+  "passages": [
+    {
+      "ref": "1SA.1.1-8",
+      "synopsis": "Elkanah of Ramah had two wives, and Hannah, whom he loved, had no children. Year after year the family went up to worship the LORD at Shiloh. There Peninnah teased Hannah until she wept and could not eat. Elkanah loved her, but her heart was still grieved."
+    },
+    {
+      "ref": "1SA.1.9-18",
+      "synopsis": "Hannah went to the tabernacle and poured out her soul to the LORD. She vowed that if God gave her a son, she would give him back to the LORD all the days of his life. Eli the priest thought at first that something was wrong, but when he understood, he blessed her. Hannah went her way, and her face was no more sad."
+    },
+    {
+      "ref": "1SA.1.19-28",
+      "synopsis": "The LORD remembered Hannah, and she bore a son and named him Samuel, because she had asked him of the LORD. When the boy was still young, she brought him to Eli at Shiloh, just as she had promised. She lent him to the LORD for as long as he lived. And Samuel worshipped the LORD there."
+    },
+    {
+      "ref": "1SA.2.1-10",
+      "synopsis": "Hannah answered God's gift with a song of praise. She sang that there is none holy like the LORD, and no rock like our God. He lifts the poor from the dust and keeps the feet of his saints. Her song even looks ahead to a king — the LORD's anointed."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Hannah promise the LORD if he gave her a son?",
+          "options": [
+            "She would build him an altar",
+            "She would give the child to the LORD all his days",
+            "She would bring a yearly offering",
+            "She would name him after Eli"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Samuel 1:11 — \"And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What name did Hannah give her son?",
+          "options": [
+            "Samuel",
+            "Saul",
+            "Eli",
+            "Elkanah"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Samuel 1:20 — \"Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, saying, Because I have asked him of the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who saw Hannah praying and told her, Go in peace?",
+          "options": [
+            "Elkanah",
+            "Samuel",
+            "Eli the priest",
+            "Peninnah"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Samuel 1:17 — \"Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In her song of praise, Hannah said there is no rock like whom?",
+          "options": [
+            "Israel",
+            "The mountains",
+            "The king",
+            "Our God"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Samuel 2:2 — \"There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "1 Samuel 1:27",
+          "text": "For this child I prayed;"
+        },
+        {
+          "reference": "1 Samuel 2:2",
+          "text": "There is none holy as the LORD:"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "HANNAH",
+          "hint": "She prayed at Shiloh for a son",
+          "theme": "people"
+        },
+        {
+          "word": "ELKANAH",
+          "hint": "Hannah's husband",
+          "theme": "people"
+        },
+        {
+          "word": "SHILOH",
+          "hint": "Town where the tabernacle stood",
+          "theme": "places"
+        },
+        {
+          "word": "SAMUEL",
+          "hint": "The boy Hannah asked of the LORD",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.30.22",
+    "PSA.113.7",
+    "LUK.1.46"
+  ],
+  "reflection": "Hannah brought her deepest sorrow to God in honest prayer. What would it look like for you to trust God with what you want most?"
+}

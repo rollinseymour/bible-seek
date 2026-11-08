@@ -1,0 +1,90 @@
+{
+  "id": "book.your_story_id",
+  "title": "Your Story Title",
+  "anchorRef": "GEN.1.1",
+  "backstory": "2-3 sentences of context that set up the story: where we are in the bigger narrative, who the people are, and what's at stake going in. Leave this blank and the section simply won't render.",
+  "passages": [
+    {
+      "ref": "GEN.1.1-5",
+      "synopsis": "3-5 sentence summary of this passage, shown on the card before the reader taps in to read the actual Scripture. Add or remove passage blocks freely — the 'X / N read' counter follows this list automatically."
+    },
+    {
+      "ref": "GEN.1.6-19",
+      "synopsis": "Summary of the second passage."
+    },
+    {
+      "ref": "GEN.1.20-31",
+      "synopsis": "Summary of the third passage."
+    },
+    {
+      "ref": "GEN.2.1-3",
+      "synopsis": "Summary of the fourth passage."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Genesis 1:3",
+          "text": "And God said, Let there be light: and there was light."
+        },
+        {
+          "reference": "Genesis 1:5",
+          "text": "And God called the light Day, and the darkness he called Night."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Creation",
+          "words": [
+            "GOD",
+            "LIGHT",
+            "EARTH",
+            "DAY",
+            "NIGHT",
+            "HEAVEN"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God create in the beginning?",
+          "options": [
+            "The heaven and the earth",
+            "The sun only",
+            "The animals",
+            "The nations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 1:1 — \"In the beginning God created the heaven and the earth.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God call the light?",
+          "options": [
+            "Day",
+            "Dawn",
+            "Morning",
+            "Sun"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 1:5 — \"And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JHN.1.1",
+    "PSA.33.6",
+    "COL.1.16"
+  ],
+  "reflection": "A closing question for the reader to sit with."
+}

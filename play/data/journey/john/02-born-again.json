@@ -1,0 +1,141 @@
+{
+  "id": "jhn.born_again",
+  "title": "Born Again",
+  "anchorRef": "JHN.3.16",
+  "backstory": "Jesus had begun teaching in Jerusalem, and the leaders of the city were watching him closely. One of them, a Pharisee named Nicodemus, could not stay away — but he came at night, when no one would see him. What follows is the best known conversation in the Bible about how anyone can begin again with God.",
+  "passages": [
+    {
+      "ref": "JHN.3.1-8",
+      "synopsis": "Nicodemus, a ruler of the Jews, came to Jesus by night and said that God must surely be with him. Jesus told him that no one can see the kingdom of God unless he is born again. Nicodemus could not understand how a grown man could be born a second time. Jesus explained that this birth is not of the flesh but of the Spirit. It is as free and as mysterious as the wind, which you hear without knowing where it comes from."
+    },
+    {
+      "ref": "JHN.3.9-15",
+      "synopsis": "Nicodemus asked how such things could be. Jesus answered that he speaks of what he knows and has seen, and that heavenly things are harder to receive than earthly ones. He reminded Nicodemus of the day Moses lifted up a serpent in the wilderness so that the dying could look at it and live. In the same way, Jesus said, the Son of man must be lifted up. Whoever believes in him will have eternal life."
+    },
+    {
+      "ref": "JHN.3.16-21",
+      "synopsis": "God so loved the world that he gave his only begotten Son, so that whoever believes in him should not perish but have everlasting life. Jesus said God did not send his Son to condemn the world, but so that the world through him might be saved. Light has come into the world, and some people love the darkness better because of what they are doing. But whoever does the truth comes gladly to the light."
+    },
+    {
+      "ref": "JHN.3.22-30",
+      "synopsis": "Jesus and his disciples went into the land of Judaea, where he stayed and baptized, and John the Baptist was baptizing nearby. Some of John's followers were troubled that the crowds were leaving them for Jesus. John answered that a man can receive only what heaven gives him, and reminded them he had always said he was not the Christ. He said he was like the friend of the bridegroom, whose joy is full just to hear the bridegroom's voice. Jesus must increase, John said, and he himself must decrease."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who came to Jesus by night with his questions?",
+          "options": [
+            "Nicodemus",
+            "Nathanael",
+            "Joseph of Arimathaea",
+            "Zacchaeus"
+          ],
+          "correctIndex": 0,
+          "explanation": "John 3:1 — \"There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did Jesus tell Nicodemus he must be?",
+          "options": [
+            "Wiser",
+            "Born again",
+            "Wealthier",
+            "A priest"
+          ],
+          "correctIndex": 1,
+          "explanation": "John 3:7 — \"Marvel not that I said unto thee, Ye must be born again.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Why did God give his only begotten Son?",
+          "options": [
+            "To condemn the world",
+            "To reward the strong",
+            "Because he loved the world",
+            "To give Israel a king"
+          ],
+          "correctIndex": 2,
+          "explanation": "John 3:16 — \"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did John the Baptist say about himself and Jesus?",
+          "options": [
+            "That they were equals",
+            "That he was the Christ",
+            "That Jesus should wait",
+            "That Jesus must increase and he must decrease"
+          ],
+          "correctIndex": 3,
+          "explanation": "John 3:30 — \"He must increase, but I must decrease.\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Nicodemus",
+          "clues": [
+            "I was a Pharisee and a ruler of the Jews.",
+            "I came to Jesus at night, when no one would see me.",
+            "Jesus told me I must be born again."
+          ],
+          "wrongChoices": [
+            "Nathanael",
+            "Joseph of Arimathaea",
+            "Gamaliel"
+          ]
+        },
+        {
+          "name": "John the Baptist",
+          "clues": [
+            "I baptized people with water.",
+            "I called Jesus the Lamb of God.",
+            "I said he must increase, but I must decrease."
+          ],
+          "wrongChoices": [
+            "Andrew",
+            "Elijah",
+            "Peter"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "NICODEMUS",
+          "hint": "Ruler who came to Jesus by night",
+          "theme": "people"
+        },
+        {
+          "word": "SPIRIT",
+          "hint": "Born of water and of this",
+          "theme": "things"
+        },
+        {
+          "word": "SERPENT",
+          "hint": "Moses lifted this up in the wilderness",
+          "theme": "things"
+        },
+        {
+          "word": "BRIDEGROOM",
+          "hint": "John called himself the friend of this man",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "NUM.21.9",
+    "EZK.36.26",
+    "1PE.1.23"
+  ],
+  "reflection": "Nicodemus came in the dark with a question he could not answer on his own. What question would you bring to Jesus tonight?"
+}

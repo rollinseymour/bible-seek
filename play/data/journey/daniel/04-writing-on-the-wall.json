@@ -1,0 +1,128 @@
+{
+  "id": "dan.writing_on_the_wall",
+  "title": "The Writing on the Wall",
+  "anchorRef": "DAN.5.27",
+  "backstory": "Many years have passed, and a new king, Belshazzar, rules in Babylon. God had once humbled proud Nebuchadnezzar until he praised the Most High and knew that God rules the kingdoms of men, but Belshazzar has not learned that lesson. At a great feast he proudly drinks from the holy cups taken from God's temple in Jerusalem. That very night, God sends him a message no one can ignore.",
+  "passages": [
+    {
+      "ref": "DAN.5.1-9",
+      "synopsis": "King Belshazzar made a great feast for a thousand of his lords. He called for the golden cups taken from God's temple in Jerusalem, and they drank from them while praising idols of gold, silver, brass, iron, wood, and stone. Suddenly the fingers of a man's hand appeared, writing on the palace wall. The king's face went pale and his knees knocked together, and none of his wise men could read the writing."
+    },
+    {
+      "ref": "DAN.5.10-16",
+      "synopsis": "The queen came in and remembered a man in the kingdom in whom, she said, was the spirit of the holy gods — Daniel, who had explained dreams for Nebuchadnezzar long ago. So Daniel was brought in before Belshazzar. The king promised him scarlet clothing, a chain of gold, and third place in the kingdom if he could read the writing. The old servant of God stood before the proud king."
+    },
+    {
+      "ref": "DAN.5.17-24",
+      "synopsis": "Daniel told the king to keep his gifts, but said he would read the writing. He reminded Belshazzar how God had humbled mighty Nebuchadnezzar until he knew that the most high God rules in the kingdoms of men. Belshazzar knew all this, yet he did not humble his heart. He lifted himself up against the Lord of heaven and praised gods that cannot see or hear. So the hand was sent from God."
+    },
+    {
+      "ref": "DAN.5.25-31",
+      "synopsis": "Daniel read the writing: MENE, MENE, TEKEL, UPHARSIN. God had numbered the days of Belshazzar's kingdom, weighed the king in the balances and found him wanting, and would give the kingdom to the Medes and Persians. Belshazzar kept his promise and honored Daniel. That very night the kingdom was taken from him, and Darius the Median began to rule."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Writing on the Wall",
+          "words": [
+            "BELSHAZZAR",
+            "FEAST",
+            "HAND",
+            "WALL",
+            "MENE",
+            "TEKEL",
+            "QUEEN",
+            "DANIEL"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did King Belshazzar see during his great feast?",
+          "options": [
+            "A burning lamp",
+            "An angel with a sword",
+            "A shining cloud",
+            "Fingers of a man's hand writing on the wall"
+          ],
+          "correctIndex": 3,
+          "explanation": "Daniel 5:5 — \"In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was the writing on the wall?",
+          "options": [
+            "MENE, MENE, TEKEL, UPHARSIN",
+            "HOLY, HOLY, HOLY",
+            "SEVENTY YEARS ARE FINISHED",
+            "RETURN TO JERUSALEM"
+          ],
+          "correctIndex": 0,
+          "explanation": "Daniel 5:25 — \"And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did TEKEL mean?",
+          "options": [
+            "Your kingdom is divided",
+            "God has numbered your kingdom",
+            "You are weighed in the balances and found wanting",
+            "Peace be multiplied unto you"
+          ],
+          "correctIndex": 2,
+          "explanation": "Daniel 5:27 — \"TEKEL; Thou art weighed in the balances, and art found wanting.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who took the kingdom that very night?",
+          "options": [
+            "Cyrus the Persian",
+            "Darius the Median",
+            "Nebuchadnezzar",
+            "Evil-merodach"
+          ],
+          "correctIndex": 1,
+          "explanation": "Daniel 5:31 — \"And Darius the Median took the kingdom, being about threescore and two years old.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SCARLET",
+          "hint": "Daniel was clothed in this royal color",
+          "theme": "things"
+        },
+        {
+          "word": "BALANCES",
+          "hint": "Belshazzar was weighed in these",
+          "theme": "things"
+        },
+        {
+          "word": "MEDES",
+          "hint": "The kingdom was given to them and the Persians",
+          "theme": "people"
+        },
+        {
+          "word": "FINGERS",
+          "hint": "These came forth of a man's hand and wrote on the wall",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PRO.16.18",
+    "1SA.2.3",
+    "JAS.4.6"
+  ],
+  "reflection": "Belshazzar knew what God had done for Nebuchadnezzar, yet he did not humble his heart. What would it look like for you to stay humble before God this week?"
+}

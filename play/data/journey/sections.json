@@ -1,0 +1,303 @@
+[
+  {
+    "id": "genesis",
+    "title": "Genesis",
+    "themeVerse": "GEN.1.1",
+    "badge": "badge_beginnings",
+    "folder": "genesis"
+  },
+  {
+    "id": "exodus",
+    "title": "Exodus",
+    "themeVerse": "EXO.14.14",
+    "badge": "badge_deliverance",
+    "folder": "exodus"
+  },
+  {
+    "id": "leviticus",
+    "title": "Leviticus",
+    "themeVerse": "LEV.19.2",
+    "badge": "badge_holiness",
+    "folder": "leviticus"
+  },
+  {
+    "id": "numbers",
+    "title": "Numbers",
+    "themeVerse": "NUM.6.24",
+    "badge": "badge_wilderness",
+    "folder": "numbers"
+  },
+  {
+    "id": "deuteronomy",
+    "title": "Deuteronomy",
+    "themeVerse": "DEU.6.5",
+    "badge": "badge_covenant",
+    "folder": "deuteronomy"
+  },
+  {
+    "id": "joshua",
+    "title": "Joshua",
+    "themeVerse": "JOS.1.9",
+    "badge": "badge_promised_land",
+    "folder": "joshua"
+  },
+  {
+    "id": "judges",
+    "title": "Judges",
+    "themeVerse": "JDG.2.16",
+    "badge": "badge_deliverers",
+    "folder": "judges"
+  },
+  {
+    "id": "ruth",
+    "title": "Ruth",
+    "themeVerse": "RUT.1.16",
+    "badge": "badge_kindness",
+    "folder": "ruth"
+  },
+  {
+    "id": "1samuel",
+    "title": "1 Samuel",
+    "themeVerse": "1SA.16.7",
+    "badge": "badge_anointed",
+    "folder": "1samuel"
+  },
+  {
+    "id": "2samuel",
+    "title": "2 Samuel",
+    "themeVerse": "2SA.7.22",
+    "badge": "badge_davids_house",
+    "folder": "2samuel"
+  },
+  {
+    "id": "1kings",
+    "title": "1 Kings",
+    "themeVerse": "1KI.3.9",
+    "badge": "badge_temple",
+    "folder": "1kings"
+  },
+  {
+    "id": "2kings",
+    "title": "2 Kings",
+    "themeVerse": "2KI.6.16",
+    "badge": "badge_chariots",
+    "folder": "2kings"
+  },
+  {
+    "id": "1chronicles",
+    "title": "1 Chronicles",
+    "themeVerse": "1CH.16.34",
+    "badge": "badge_songs_of_david",
+    "folder": "1chronicles"
+  },
+  {
+    "id": "2chronicles",
+    "title": "2 Chronicles",
+    "themeVerse": "2CH.7.14",
+    "badge": "badge_revival",
+    "folder": "2chronicles"
+  },
+  {
+    "id": "ezra",
+    "title": "Ezra",
+    "themeVerse": "EZR.7.10",
+    "badge": "badge_return",
+    "folder": "ezra"
+  },
+  {
+    "id": "nehemiah",
+    "title": "Nehemiah",
+    "themeVerse": "NEH.8.10",
+    "badge": "badge_the_wall",
+    "folder": "nehemiah"
+  },
+  {
+    "id": "esther",
+    "title": "Esther",
+    "themeVerse": "EST.4.14",
+    "badge": "badge_such_a_time",
+    "folder": "esther"
+  },
+  {
+    "id": "job",
+    "title": "Job",
+    "themeVerse": "JOB.19.25",
+    "badge": "badge_whirlwind",
+    "folder": "job"
+  },
+  {
+    "id": "psalms",
+    "title": "Psalms",
+    "themeVerse": "PSA.23.1",
+    "badge": "badge_psalmist",
+    "folder": "psalms"
+  },
+  {
+    "id": "proverbs",
+    "title": "Proverbs",
+    "themeVerse": "PRO.3.5",
+    "badge": "badge_wisdom_way",
+    "folder": "proverbs"
+  },
+  {
+    "id": "ecclesiastes",
+    "title": "Ecclesiastes",
+    "themeVerse": "ECC.12.13",
+    "badge": "badge_under_the_sun",
+    "folder": "ecclesiastes"
+  },
+  {
+    "id": "songofsolomon",
+    "title": "Song of Solomon",
+    "themeVerse": "SNG.8.7",
+    "badge": "badge_beloved",
+    "folder": "songofsolomon"
+  },
+  {
+    "id": "isaiah",
+    "title": "Isaiah",
+    "themeVerse": "ISA.9.6",
+    "badge": "badge_light_nations",
+    "folder": "isaiah"
+  },
+  {
+    "id": "jeremiah",
+    "title": "Jeremiah",
+    "themeVerse": "JER.29.11",
+    "badge": "badge_new_covenant",
+    "folder": "jeremiah"
+  },
+  {
+    "id": "lamentations",
+    "title": "Lamentations",
+    "themeVerse": "LAM.3.22",
+    "badge": "badge_faithfulness",
+    "folder": "lamentations"
+  },
+  {
+    "id": "ezekiel",
+    "title": "Ezekiel",
+    "themeVerse": "EZK.36.26",
+    "badge": "badge_dry_bones",
+    "folder": "ezekiel"
+  },
+  {
+    "id": "daniel",
+    "title": "Daniel",
+    "themeVerse": "DAN.6.26",
+    "badge": "badge_lions_den",
+    "folder": "daniel"
+  },
+  {
+    "id": "hosea",
+    "title": "Hosea",
+    "themeVerse": "HOS.6.6",
+    "badge": "badge_steadfast_love",
+    "folder": "hosea"
+  },
+  {
+    "id": "joel",
+    "title": "Joel",
+    "themeVerse": "JOL.2.28",
+    "badge": "badge_poured_out",
+    "folder": "joel"
+  },
+  {
+    "id": "amos",
+    "title": "Amos",
+    "themeVerse": "AMO.5.24",
+    "badge": "badge_plumbline",
+    "folder": "amos"
+  },
+  {
+    "id": "obadiah",
+    "title": "Obadiah",
+    "themeVerse": "OBA.1.15",
+    "badge": "badge_zion",
+    "folder": "obadiah"
+  },
+  {
+    "id": "jonah",
+    "title": "Jonah",
+    "themeVerse": "JON.2.9",
+    "badge": "badge_great_fish",
+    "folder": "jonah"
+  },
+  {
+    "id": "micah",
+    "title": "Micah",
+    "themeVerse": "MIC.6.8",
+    "badge": "badge_walk_humbly",
+    "folder": "micah"
+  },
+  {
+    "id": "nahum",
+    "title": "Nahum",
+    "themeVerse": "NAM.1.7",
+    "badge": "badge_stronghold",
+    "folder": "nahum"
+  },
+  {
+    "id": "habakkuk",
+    "title": "Habakkuk",
+    "themeVerse": "HAB.3.18",
+    "badge": "badge_yet_rejoice",
+    "folder": "habakkuk"
+  },
+  {
+    "id": "zephaniah",
+    "title": "Zephaniah",
+    "themeVerse": "ZEP.3.17",
+    "badge": "badge_singing_god",
+    "folder": "zephaniah"
+  },
+  {
+    "id": "haggai",
+    "title": "Haggai",
+    "themeVerse": "HAG.2.9",
+    "badge": "badge_build_house",
+    "folder": "haggai"
+  },
+  {
+    "id": "zechariah",
+    "title": "Zechariah",
+    "themeVerse": "ZEC.4.6",
+    "badge": "badge_not_by_might",
+    "folder": "zechariah"
+  },
+  {
+    "id": "malachi",
+    "title": "Malachi",
+    "themeVerse": "MAL.3.6",
+    "badge": "badge_sunrise",
+    "folder": "malachi"
+  },
+  {
+    "id": "matthew",
+    "title": "Matthew",
+    "themeVerse": "MAT.28.20",
+    "badge": "badge_immanuel",
+    "folder": "matthew"
+  },
+  {
+    "id": "mark",
+    "title": "Mark",
+    "themeVerse": "MRK.10.45",
+    "badge": "badge_servant_king",
+    "folder": "mark"
+  },
+  {
+    "id": "luke",
+    "title": "Luke",
+    "themeVerse": "LUK.19.10",
+    "badge": "badge_seeking_savior",
+    "folder": "luke"
+  },
+  {
+    "id": "john",
+    "title": "John",
+    "themeVerse": "JHN.3.16",
+    "badge": "badge_word_of_life",
+    "folder": "john"
+  }
+]

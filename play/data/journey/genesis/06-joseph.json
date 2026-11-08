@@ -1,0 +1,129 @@
+{
+  "id": "gen.joseph",
+  "title": "Joseph",
+  "anchorRef": "GEN.50.20",
+  "backstory": "Jacob, now called Israel, had twelve sons by four women — a household already strained by rivalry and favoritism. Joseph was the firstborn of the wife Jacob loved most, and his father made no secret of it. What his brothers meant for evil, God would use to save them all.",
+  "passages": [
+    {
+      "ref": "GEN.37.3-11",
+      "synopsis": "Israel loved Joseph more than his other sons and gave him a coat of many colors. This made his brothers jealous, and they hated him. Joseph then dreamed that his family would one day bow down to him. His dreams only deepened his brothers' resentment."
+    },
+    {
+      "ref": "GEN.37.23-28",
+      "synopsis": "When Joseph came to his brothers in the field, they seized him and stripped off his coat. They threw him into a pit and sat down to eat. Seeing traders passing by, they sold Joseph for twenty pieces of silver. He was carried away to Egypt as a slave."
+    },
+    {
+      "ref": "GEN.41.14-40",
+      "synopsis": "Years later Pharaoh was troubled by dreams no one could explain. Joseph was brought from prison and, by God's help, told their meaning: seven years of plenty followed by seven of famine. He wisely advised Pharaoh to store up grain. Pharaoh then set Joseph over all the land of Egypt."
+    },
+    {
+      "ref": "GEN.45.1-15",
+      "synopsis": "When his brothers came to Egypt for food, Joseph finally revealed who he was. They were terrified, but he spoke gently and wept over them. He told them not to be angry with themselves, for God had sent him ahead to save lives. Joseph forgave them and welcomed his whole family to Egypt."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Joseph's Coat & Dreams",
+          "words": [
+            "COAT",
+            "DREAM",
+            "PIT",
+            "SHEAF",
+            "JACOB"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What special gift did Jacob give to Joseph?",
+          "options": [
+            "A golden crown",
+            "A coat of many colours",
+            "A flock of sheep",
+            "A silver ring"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 37:3 — \"Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In Joseph's second dream, what bowed down to him?",
+          "options": [
+            "Twelve sheaves of wheat",
+            "Seven fat cows",
+            "The trees of the field",
+            "The sun, moon, and eleven stars"
+          ],
+          "correctIndex": 3,
+          "explanation": "Genesis 37:9 — \"And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where was Joseph taken after his brothers sold him?",
+          "options": [
+            "Babylon",
+            "Canaan",
+            "Egypt",
+            "Assyria"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 37:28 — \"Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the seven good and seven bad cows represent?",
+          "options": [
+            "Seven years of plenty and seven years of famine",
+            "Seven kings and seven wars",
+            "Seven rivers and seven cities",
+            "Seven tribes and seven feasts"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 41:27 — \"And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When Joseph forgave his brothers, who did he say truly sent him to Egypt?",
+          "options": [
+            "Pharaoh",
+            "God",
+            "His father Jacob",
+            "The Ishmeelites"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 45:8 — \"So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Genesis 45:4",
+          "text": "And he said, I am Joseph your brother"
+        },
+        {
+          "reference": "Genesis 45:5",
+          "text": "for God did send me before you to preserve life."
+        },
+        {
+          "reference": "Genesis 50:20",
+          "text": "but God meant it unto good"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ACT.7.9",
+    "PSA.105.17",
+    "ROM.8.28"
+  ],
+  "reflection": "When have you seen God take something painful or unfair in your life and, in time, turn it into good for yourself and others?"
+}

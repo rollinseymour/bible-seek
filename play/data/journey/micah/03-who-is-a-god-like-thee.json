@@ -1,0 +1,93 @@
+{
+  "id": "mic.who_is_a_god_like_thee",
+  "title": "Who Is a God Like Thee?",
+  "anchorRef": "MIC.7.18",
+  "backstory": "Micah looks around and sees a land where good people seem to have vanished and even families cannot trust one another. Instead of despairing, the prophet turns his eyes to the LORD and waits for the God of his salvation. His book ends with a song of wonder at a God who pardons sin and delights in mercy.",
+  "passages": [
+    {
+      "ref": "MIC.7.1-7",
+      "synopsis": "Micah felt like a gleaner in an empty vineyard, longing for good fruit and finding none. Good and upright people seemed to have vanished from the land, and even friends and family could not be trusted. Princes and judges asked for rewards, and the great wrapped up their mischief together. Yet Micah refused to give up: he would look unto the LORD, wait for the God of his salvation, and trust that his God would hear him."
+    },
+    {
+      "ref": "MIC.7.8-13",
+      "synopsis": "Micah warned his enemy not to gloat over him. Though he had fallen, he would rise again; though he sat in darkness, the LORD would be his light. He would patiently bear the LORD's correction, because he had sinned, until God pleaded his cause and brought him out into the light. Then the enemies who had mocked him would be ashamed, and he would see the righteousness of God."
+    },
+    {
+      "ref": "MIC.7.14-20",
+      "synopsis": "Micah prayed for God to shepherd His people with His rod, as in the days of old. God promised to show marvellous things, as when He brought Israel out of Egypt, and the nations would see it and be humbled. Then Micah burst into a song of wonder: who is a God like unto thee, that pardoneth iniquity? God does not hold on to His anger, because He delights in mercy, and He will cast all our sins into the depths of the sea."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Micah 7:7",
+          "text": "I will wait for the God of my salvation:"
+        },
+        {
+          "reference": "Micah 7:8",
+          "text": "when I fall, I shall arise;"
+        },
+        {
+          "reference": "Micah 7:19",
+          "text": "He will turn again, he will have compassion upon us;"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "A God Who Pardons",
+          "words": [
+            "MERCY",
+            "COMPASSION",
+            "PARDON",
+            "DEPTHS",
+            "SEA",
+            "LIGHT",
+            "JACOB"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Abraham",
+          "clues": [
+            "God promised to make of me a great nation.",
+            "My wife Sarah bore our son Isaac when we were very old.",
+            "Micah says God will perform to me the mercy sworn in days of old."
+          ],
+          "wrongChoices": [
+            "Isaac",
+            "Noah",
+            "Lot"
+          ]
+        },
+        {
+          "name": "Jacob",
+          "clues": [
+            "My twelve sons became the tribes of Israel.",
+            "God changed my name to Israel.",
+            "Micah says God will perform the truth promised to me."
+          ],
+          "wrongChoices": [
+            "Esau",
+            "Joseph",
+            "Laban"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.103.12",
+    "LUK.1.72",
+    "1JN.1.9"
+  ],
+  "reflection": "God delights in mercy and casts sin into the depths of the sea. Is there a sin you need to bring to Him today — and leave in those depths for good?"
+}

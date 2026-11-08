@@ -1,0 +1,113 @@
+{
+  "id": "num.blessing",
+  "title": "The Blessing and the Cloud",
+  "anchorRef": "NUM.6.24",
+  "backstory": "Israel had been camped at Sinai nearly a year, receiving the law and building the tabernacle. Now the camp was counted, organized, and ready to march for the promised land. Before they set out, God gave them words to carry and a visible sign of his presence.",
+  "passages": [
+    {
+      "ref": "NUM.6.22-27",
+      "synopsis": "God gave Aaron a blessing to speak over the people. He asked the LORD to bless them, keep them, and make His face shine upon them. It ended by asking God to give them peace. By it, God put His own name upon Israel."
+    },
+    {
+      "ref": "NUM.9.15-23",
+      "synopsis": "A cloud covered the tabernacle by day, and it looked like fire by night. When the cloud lifted, Israel journeyed; when it settled, they camped. They moved only at the LORD's command. God Himself was guiding their every step."
+    },
+    {
+      "ref": "NUM.10.33-36",
+      "synopsis": "Israel set out from the mountain of the LORD on a three-day journey. The ark of the covenant went before them to find a resting place. Whenever it set out, Moses prayed for God to scatter His enemies. God led His people forward into the unknown."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Numbers 6:24",
+          "text": "The LORD bless thee, and keep thee:"
+        },
+        {
+          "reference": "Numbers 6:26",
+          "text": "The LORD lift up his countenance upon thee, and give thee peace."
+        },
+        {
+          "reference": "Numbers 6:25",
+          "text": "The LORD make his face shine upon thee, and be gracious unto thee:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How did God guide Israel through the wilderness?",
+          "options": [
+            "By a cloud and fire",
+            "By a map",
+            "By the stars",
+            "By a prophet's dreams"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 9:17 — \"And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Aaron's blessing asks the LORD to bless and to ___ you.",
+          "options": [
+            "keep",
+            "test",
+            "send",
+            "teach"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 6:24 — \"The LORD bless thee, and keep thee:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the LORD say putting this blessing on Israel would do?",
+          "options": [
+            "Make them wealthy",
+            "Put his name upon them",
+            "Give them many years",
+            "Win their battles"
+          ],
+          "correctIndex": 1,
+          "explanation": "Numbers 6:27 — \"And they shall put my name upon the children of Israel; and I will bless them.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When the cloud lifted from the tabernacle, what did Israel do?",
+          "options": [
+            "They rested",
+            "They offered sacrifice",
+            "They journeyed onward",
+            "They gathered manna"
+          ],
+          "correctIndex": 2,
+          "explanation": "Numbers 9:17 — \"And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Blessing",
+          "words": [
+            "BLESS",
+            "KEEP",
+            "PEACE",
+            "FACE",
+            "SHINE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.121.8",
+    "EXO.13.21",
+    "2CO.13.14"
+  ],
+  "reflection": "Israel moved only when God moved. Where do you need to wait for God's leading rather than run ahead?"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "deu.shema",
+  "title": "Love the LORD",
+  "anchorRef": "DEU.6.5",
+  "backstory": "The wilderness generation had died, and their children stood on the plains of Moab, about to cross into Canaan without Moses. Deuteronomy is his farewell — the law explained again for a new generation. He begins not with rules but with love.",
+  "passages": [
+    {
+      "ref": "DEU.6.1-9",
+      "synopsis": "Moses gave Israel the heart of God's law before they entered the land. \"Hear, O Israel: The LORD our God is one LORD.\" They were to love Him with all their heart, soul, and might. These words were to fill their homes and be taught to their children."
+    },
+    {
+      "ref": "DEU.6.10-19",
+      "synopsis": "God would give them cities, houses, and wells they had not built. In their plenty they must not forget the LORD who rescued them. They were to fear Him, serve Him, and not follow other gods. Remembering God guards the heart in good times."
+    },
+    {
+      "ref": "DEU.7.6-11",
+      "synopsis": "Israel was a holy people, chosen by God as His treasure. He set His love on them not because they were great but because He is faithful. He keeps covenant and mercy to those who love Him. His choosing rested on His own steadfast love."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Deuteronomy 6:4",
+          "text": "Hear, O Israel: The LORD our God is one LORD:"
+        },
+        {
+          "reference": "Deuteronomy 6:6",
+          "text": "And these words, which I command thee this day, shall be in thine heart:"
+        },
+        {
+          "reference": "Deuteronomy 6:5",
+          "text": "And thou shalt love the LORD thy God with all thine heart,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "With all your heart, soul, and might, you are to ___ the LORD.",
+          "options": [
+            "love",
+            "fear",
+            "test",
+            "teach"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 6:5 — \"And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "\"Hear, O Israel: The LORD our God is one ___.\"",
+          "options": [
+            "LORD",
+            "King",
+            "Rock",
+            "Judge"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 6:4 — \"Hear, O Israel: The LORD our God is one LORD:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where were the Israelites told to write God's words?",
+          "options": [
+            "On tablets kept in the tabernacle",
+            "In a book carried by the priests",
+            "Upon the posts of their houses and on their gates",
+            "On the walls of the city"
+          ],
+          "correctIndex": 2,
+          "explanation": "Deuteronomy 6:9 — \"And thou shalt write them upon the posts of thy house, and on thy gates.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did the LORD choose Israel, though they were the fewest of all people?",
+          "options": [
+            "Because they were the strongest",
+            "Because the LORD loved them and kept his oath to their fathers",
+            "Because they had built him a house",
+            "Because they asked him to"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deuteronomy 7:8 — \"But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Love the LORD",
+          "words": [
+            "HEART",
+            "SOUL",
+            "MIGHT",
+            "LOVE",
+            "HEAR"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.22.37",
+    "MRK.12.29",
+    "DEU.10.12"
+  ],
+  "reflection": "Jesus called loving God with all you are the greatest commandment. What would loving God 'with all your might' look like today?"
+}

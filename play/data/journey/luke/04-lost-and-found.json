@@ -1,0 +1,154 @@
+{
+  "id": "luk.lost_and_found",
+  "title": "The Lost Are Found",
+  "anchorRef": "LUK.15.10",
+  "backstory": "By now Jesus is well known, and the people nobody respected are crowding in to hear him. The religious leaders grumble that he welcomes such people and even eats with them. Jesus answers their complaint with three stories about something precious that is lost, searched for, and found.",
+  "passages": [
+    {
+      "ref": "LUK.15.1-10",
+      "synopsis": "Tax collectors and other outsiders came near to listen to Jesus, and the Pharisees and scribes murmured about it. So Jesus told them about a shepherd with a hundred sheep who loses one. He leaves the ninety and nine, searches until he finds it, carries it home on his shoulders, and calls his friends to rejoice with him. He told a second story about a woman who lights a candle and sweeps the whole house to find one lost coin, and said heaven rejoices the same way over one sinner who repents."
+    },
+    {
+      "ref": "LUK.15.11-19",
+      "synopsis": "A certain man had two sons, and the younger asked for his share of the family goods right away. He took it all to a far country and wasted every bit of it on careless living. A famine came, his money was gone, and he ended up in the fields feeding pigs and longing for their food. Hungry and alone, he came to himself and decided to go home and ask to be treated as one of his father's hired servants."
+    },
+    {
+      "ref": "LUK.15.20-24",
+      "synopsis": "So he got up and started for home. While he was still a great way off his father saw him, ran to meet him, and threw his arms around him. The son began his rehearsed apology, but his father called for the best robe, a ring, and shoes, and ordered a feast. He said his son had been dead and was alive again, had been lost and was found."
+    },
+    {
+      "ref": "LUK.15.25-32",
+      "synopsis": "The older brother was out in the field and came home to the sound of music and dancing. When a servant explained that his brother was back and safe, he was angry and refused to go in. His father came outside and pleaded with him, and the son complained that he had served for years without a party of his own. The father answered that everything he had was already his, and that they had to be glad, because this brother was lost and is found."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "The Younger Son",
+          "clues": [
+            "I asked my father for my share of his goods and left home.",
+            "I spent it all in a far country and ended up feeding swine.",
+            "My father saw me coming and ran to meet me."
+          ],
+          "wrongChoices": [
+            "The Elder Brother",
+            "Zacchaeus",
+            "Simon Peter"
+          ]
+        },
+        {
+          "name": "The Elder Brother",
+          "clues": [
+            "I was working in the field when I heard musick and dancing.",
+            "I was angry and would not go in to the feast.",
+            "My father told me, 'Son, thou art ever with me.'"
+          ],
+          "wrongChoices": [
+            "The Younger Son",
+            "The Rich Ruler",
+            "Andrew"
+          ]
+        },
+        {
+          "name": "The Shepherd",
+          "clues": [
+            "I had an hundred sheep, and one of them was lost.",
+            "I left the ninety and nine and searched until I found it.",
+            "I laid it on my shoulders, rejoicing, and carried it home."
+          ],
+          "wrongChoices": [
+            "The Sower",
+            "The Good Samaritan",
+            "David"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SHEEP",
+          "hint": "One was lost, and the shepherd went after it",
+          "theme": "things"
+        },
+        {
+          "word": "SILVER",
+          "hint": "The woman swept her house to find one piece of it",
+          "theme": "things"
+        },
+        {
+          "word": "FATHER",
+          "hint": "He ran to meet his son while he was still far off",
+          "theme": "people"
+        },
+        {
+          "word": "ROBE",
+          "hint": "The best one was brought out for the son who came home",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How many sheep did the shepherd leave to go after the one that was lost?",
+          "options": [
+            "Ten",
+            "Fifty",
+            "Ninety and nine",
+            "A thousand"
+          ],
+          "correctIndex": 2,
+          "explanation": "Luke 15:4 — \"What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the woman lose and sweep her house to find?",
+          "options": [
+            "A piece of silver",
+            "A lamb",
+            "A ring",
+            "A loaf of bread"
+          ],
+          "correctIndex": 0,
+          "explanation": "Luke 15:8 — \"Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the younger son decide to do when he came to himself?",
+          "options": [
+            "Stay in the far country",
+            "Arise and go to his father",
+            "Ask the citizen for bread",
+            "Sell his coat"
+          ],
+          "correctIndex": 1,
+          "explanation": "Luke 15:18 — \"I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How did the father greet his son on the road?",
+          "options": [
+            "He turned away",
+            "He sent out a servant",
+            "He waited at the door",
+            "He ran and fell on his neck and kissed him"
+          ],
+          "correctIndex": 3,
+          "explanation": "Luke 15:20 — \"And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.\"",
+          "category": "newTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EZK.34.16",
+    "MAT.18.12",
+    "1TI.1.15"
+  ],
+  "reflection": "In all three stories somebody keeps searching until the lost thing is found. What does that tell you about how God looks for people?"
+}

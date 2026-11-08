@@ -1,0 +1,116 @@
+{
+  "id": "dan.statue_and_stone",
+  "title": "The Statue and the Stone",
+  "anchorRef": "DAN.2.22",
+  "backstory": "Daniel now serves in the court of Nebuchadnezzar, the most powerful king on earth. One night the king dreams a dream that troubles him so deeply that he threatens all the wise men of Babylon. Only the God of heaven can reveal secrets — and Daniel knows where to turn.",
+  "passages": [
+    {
+      "ref": "DAN.2.1-13",
+      "synopsis": "King Nebuchadnezzar dreamed a dream that troubled him so much he could not sleep. He demanded that his wise men tell him both the dream and its meaning, but no one could. The angry king commanded that all the wise men of Babylon be destroyed. That terrible decree included Daniel and his three friends."
+    },
+    {
+      "ref": "DAN.2.14-23",
+      "synopsis": "Daniel wisely asked the king for a little time, then went home and asked his three friends to pray for mercy from the God of heaven. God revealed the secret to Daniel in a night vision. Daniel blessed God, who gives wisdom to the wise and reveals deep and secret things. Before he ever stood before the king, Daniel gave thanks."
+    },
+    {
+      "ref": "DAN.2.24-35",
+      "synopsis": "Daniel told the king that no wise man could show this secret, but there is a God in heaven that reveals secrets. Then he described the dream: a great statue with a head of gold, chest of silver, belly of brass, legs of iron, and feet of iron mixed with clay. A stone cut out without hands struck the statue, and the whole thing crumbled like chaff. The stone became a great mountain that filled the whole earth."
+    },
+    {
+      "ref": "DAN.2.36-49",
+      "synopsis": "Daniel explained the dream: each part of the statue stood for a kingdom, beginning with Nebuchadnezzar, the head of gold. After him other kingdoms would rise and pass away. But the God of heaven will set up a kingdom that shall never be destroyed. The amazed king honored Daniel's God and made Daniel ruler over the whole province of Babylon."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Daniel 2:20",
+          "text": "Blessed be the name of God for ever and ever:"
+        },
+        {
+          "reference": "Daniel 2:22",
+          "text": "He revealeth the deep and secret things:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who did Daniel say makes known secrets?",
+          "options": [
+            "The wise men of Babylon",
+            "A God in heaven that revealeth secrets",
+            "The stars and their signs",
+            "The king's counsellors"
+          ],
+          "correctIndex": 1,
+          "explanation": "Daniel 2:28 — \"But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What became of the stone that struck the statue?",
+          "options": [
+            "It sank into the sea",
+            "It crumbled into dust",
+            "It became a great mountain and filled the whole earth",
+            "It was kept in the king's treasury"
+          ],
+          "correctIndex": 2,
+          "explanation": "Daniel 2:35 — \"Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What kind of kingdom will the God of heaven set up?",
+          "options": [
+            "A kingdom which shall never be destroyed",
+            "A kingdom of gold",
+            "A kingdom ruled by Babylon",
+            "A kingdom lasting seventy years"
+          ],
+          "correctIndex": 0,
+          "explanation": "Daniel 2:44 — \"And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did King Nebuchadnezzar call Daniel's God?",
+          "options": [
+            "A god of the mountains",
+            "One god among many",
+            "The god of dreams only",
+            "A God of gods, and a Lord of kings"
+          ],
+          "correctIndex": 3,
+          "explanation": "Daniel 2:47 — \"The king answered unto Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The King's Dream",
+          "words": [
+            "DREAM",
+            "GOLD",
+            "SILVER",
+            "BRASS",
+            "IRON",
+            "CLAY",
+            "STONE",
+            "MOUNTAIN"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.118.22",
+    "MAT.21.44",
+    "REV.11.15"
+  ],
+  "reflection": "Only God could reveal the king's dream, and Daniel gave Him all the praise. When God helps you, who hears about it?"
+}

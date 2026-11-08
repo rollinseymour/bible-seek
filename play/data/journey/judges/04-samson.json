@@ -1,0 +1,116 @@
+{
+  "id": "jdg.samson",
+  "title": "Samson the Strong",
+  "anchorRef": "JDG.16.28",
+  "backstory": "The Philistines had ruled Israel for forty years, and unlike earlier oppressors they came with iron and settled in to stay. Israel had grown so used to them that they no longer even cried out. God raised up a deliverer anyway — a man set apart before birth.",
+  "passages": [
+    {
+      "ref": "JDG.13.2-7",
+      "synopsis": "An angel promised a childless couple that they would have a son. The boy was to be a Nazarite, set apart to God, and no razor was to touch his head. He would begin to deliver Israel from the Philistines. The child was Samson, and God's hand was on him."
+    },
+    {
+      "ref": "JDG.16.4-21",
+      "synopsis": "Samson loved a woman named Delilah, who was paid to learn the secret of his strength. Again and again she pressed him until he told her it lay in his uncut hair. While he slept, his hair was cut, and his strength left him. The Philistines captured and blinded him."
+    },
+    {
+      "ref": "JDG.16.23-30",
+      "synopsis": "The Philistines gathered to celebrate and brought Samson out to mock him. But his hair had begun to grow again. Samson prayed for God to strengthen him one last time. He pushed against the pillars, and the building fell, defeating more enemies in his death than in his life."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SAMSON",
+          "hint": "Strong judge with uncut hair",
+          "theme": "people"
+        },
+        {
+          "word": "DELILAH",
+          "hint": "She learned the secret of Samson's strength",
+          "theme": "people"
+        },
+        {
+          "word": "PILLARS",
+          "hint": "Samson pushed these down at the end",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where did Samson's great strength come from?",
+          "options": [
+            "His uncut hair as a Nazarite",
+            "His sword",
+            "His shield",
+            "His shoes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 16:17 — \"That he told her all his heart, and said unto her, There hath not come a razor upon mine head; for I have been a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any other man.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who coaxed Samson into telling his secret?",
+          "options": [
+            "Delilah",
+            "Deborah",
+            "Jael",
+            "Rahab"
+          ],
+          "correctIndex": 0,
+          "explanation": "Judges 16:6 — \"And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the angel say must never come upon the promised child's head?",
+          "options": [
+            "A crown",
+            "A razor",
+            "Anointing oil",
+            "A covering"
+          ],
+          "correctIndex": 1,
+          "explanation": "Judges 13:5 — \"For, lo, thou shalt conceive, and bear a son; and no razor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was the name of Samson's father?",
+          "options": [
+            "Joash",
+            "Abinoam",
+            "Kenaz",
+            "Manoah"
+          ],
+          "correctIndex": 3,
+          "explanation": "Judges 13:2 — \"And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Samson",
+          "words": [
+            "HAIR",
+            "LION",
+            "STRONG",
+            "VOW",
+            "GATE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.11.32",
+    "NUM.6.5",
+    "JDG.13.5"
+  ],
+  "reflection": "Even after failure, Samson turned back to God in his last prayer. How does it encourage you that God still hears?"
+}

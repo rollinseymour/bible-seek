@@ -1,0 +1,119 @@
+{
+  "id": "est.for_such_a_time",
+  "title": "For Such a Time as This",
+  "anchorRef": "EST.4.14",
+  "backstory": "Esther now wears the crown of Persia, but she has kept her Jewish family a secret. A proud man named Haman has risen to power, and his anger at one man, Mordecai, swells into a plan against all of Esther's people. Everything now hangs on whether a young queen will find courage.",
+  "passages": [
+    {
+      "ref": "EST.3.1-7",
+      "synopsis": "The king promoted Haman above all his princes, and everyone at the king's gate bowed to him. Everyone, that is, except Mordecai, who would not bow, for he was a Jew. When Haman saw it, he was filled with rage. Not content to punish one man, he set his heart against all of Mordecai's people. Day after day and month after month they cast Pur, that is, the lot, before Haman, until it fell upon the twelfth month, the month Adar."
+    },
+    {
+      "ref": "EST.3.8-15",
+      "synopsis": "Haman told the king about 'a certain people' whose laws were different, and asked leave to destroy them, even offering silver for the royal treasury. The king handed Haman his ring, and letters went out to every province setting a day for the Jews to be destroyed. The king and Haman sat down to drink, but the city of Shushan was troubled and confused."
+    },
+    {
+      "ref": "EST.4.1-9",
+      "synopsis": "When Mordecai learned what had been done, he tore his clothes and cried out in the city in sackcloth and ashes. In every province the Jews mourned, wept, and fasted. Esther sent her servant Hatach to find out what was wrong. Mordecai sent back a copy of the decree and a solemn charge: Esther must go to the king and plead for her people."
+    },
+    {
+      "ref": "EST.4.10-17",
+      "synopsis": "Esther reminded Mordecai of the law: anyone who came to the king uninvited could die, unless he held out his golden sceptre. Mordecai answered that she should not think she alone would escape, and asked who knows whether she had come to the kingdom for such a time as this. Esther asked all the Jews in Shushan to fast with her for three days. Then she resolved to go in to the king, saying, 'If I perish, I perish.'"
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Esther 3:5",
+          "text": "then was Haman full of wrath."
+        },
+        {
+          "reference": "Esther 4:13",
+          "text": "Think not with thyself that thou shalt escape in the king’s house"
+        },
+        {
+          "reference": "Esther 4:17",
+          "text": "and did according to all that Esther had commanded him."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "For Such a Time as This",
+          "words": [
+            "ESTHER",
+            "MORDECAI",
+            "HAMAN",
+            "SACKCLOTH",
+            "FASTING",
+            "DECREE",
+            "SCEPTRE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Why would Mordecai not bow to Haman?",
+          "options": [
+            "He could not see him",
+            "He was away from the gate",
+            "He had told them that he was a Jew",
+            "The king forbade it"
+          ],
+          "correctIndex": 2,
+          "explanation": "Esther 3:4 — \"Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai’s matters would stand: for he had told them that he was a Jew.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What question did Mordecai send to Esther?",
+          "options": [
+            "Who knoweth whether thou art come to the kingdom for such a time as this?",
+            "Why hast thou forgotten thy people?",
+            "Shall we return to Jerusalem?",
+            "Where is thy royal crown?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Esther 4:14 — \"For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Esther ask the Jews in Shushan to do for her?",
+          "options": [
+            "Leave the city",
+            "Fast for her three days, night and day",
+            "Bring her gifts",
+            "Write letters to the king"
+          ],
+          "correctIndex": 1,
+          "explanation": "Esther 4:16 — \"Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How was the day chosen for Haman's evil plan?",
+          "options": [
+            "The wise men chose it",
+            "The king named his birthday",
+            "Haman waited for a sign",
+            "They cast Pur, that is, the lot"
+          ],
+          "correctIndex": 3,
+          "explanation": "Esther 3:7 — \"In the first month, that is, the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, to the twelfth month, that is, the month Adar.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.50.20",
+    "DAN.3.17",
+    "HEB.4.16"
+  ],
+  "reflection": "Mordecai trusted that deliverance would come, and Esther risked everything to be part of it. What would it look like for you to be brave for such a time as this?"
+}

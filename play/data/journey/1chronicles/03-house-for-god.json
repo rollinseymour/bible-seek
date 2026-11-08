@@ -1,0 +1,105 @@
+{
+  "id": "1ch.house_for_god",
+  "title": "A House for God",
+  "anchorRef": "1CH.29.11",
+  "backstory": "David is old now, and his heart still longs to build a house for the LORD. God has said no — that work belongs to his son Solomon — but David can still prepare the way. In his last days the king gathers the treasure, charges his son, and leads all Israel in one great prayer of praise.",
+  "passages": [
+    {
+      "ref": "1CH.28.1-10",
+      "synopsis": "David gathered all the leaders of Israel to Jerusalem. He told them he had longed to build a house of rest for the ark, but God said no, because David had been a man of war. Instead the LORD chose Solomon to build the house and to sit on the throne of Israel. David charged his son to know the God of his father and to serve him with a perfect heart and a willing mind."
+    },
+    {
+      "ref": "1CH.29.1-9",
+      "synopsis": "David reminded the people that Solomon was still young, and the work was great, for the palace was not for man but for the LORD God. So David gave gold and silver from his own treasure for the house of his God. Then he asked who else was willing, and the leaders of Israel offered willingly too. The people rejoiced at such glad, generous hearts, and King David rejoiced with great joy."
+    },
+    {
+      "ref": "1CH.29.10-19",
+      "synopsis": "Before all the congregation David blessed the LORD. 'Thine, O LORD, is the greatness, and the power, and the glory,' he prayed. He confessed that everything they had given had come from God's own hand in the first place. Then he asked God to keep his people's hearts faithful and to give Solomon a perfect heart to build the house."
+    },
+    {
+      "ref": "1CH.29.20-28",
+      "synopsis": "All the congregation blessed the LORD, bowed their heads, and worshipped. The next day they offered sacrifices and ate and drank before the LORD with great gladness. Solomon was made king, and the LORD magnified him in the sight of all Israel. David died in a good old age, full of days, riches, and honour, with his son safe on the throne."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "1 Chronicles 28:10",
+          "text": "be strong, and do it."
+        },
+        {
+          "reference": "1 Chronicles 29:13",
+          "text": "Now therefore, our God, we thank thee, and praise thy glorious name."
+        },
+        {
+          "reference": "1 Chronicles 29:26",
+          "text": "Thus David the son of Jesse reigned over all Israel."
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Solomon",
+          "clues": [
+            "I was David's son, still young and tender.",
+            "God chose me to sit on the throne of Israel.",
+            "My father told me to know God and build the house of the LORD."
+          ],
+          "wrongChoices": [
+            "Adonijah",
+            "Absalom",
+            "Rehoboam"
+          ]
+        },
+        {
+          "name": "David",
+          "clues": [
+            "I wanted to build God a house, but he told me no.",
+            "I had been a man of war and had shed blood.",
+            "I gathered gold and silver so my son could build the temple."
+          ],
+          "wrongChoices": [
+            "Saul",
+            "Joab",
+            "Jesse"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SOLOMON",
+          "hint": "The young king chosen to build the LORD's house",
+          "theme": "people"
+        },
+        {
+          "word": "GOLD",
+          "hint": "David gave talents of it from Ophir",
+          "theme": "things"
+        },
+        {
+          "word": "HEBRON",
+          "hint": "David reigned there seven years",
+          "theme": "places"
+        },
+        {
+          "word": "THRONE",
+          "hint": "Solomon sat on it as king in David's place",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.6.13",
+    "2CO.9.7",
+    "1KI.8.20"
+  ],
+  "reflection": "David prayed, 'Of thine own have we given thee.' If everything already belongs to God, how does that change the way you give?"
+}

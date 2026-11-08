@@ -1,0 +1,128 @@
+{
+  "id": "isa.come_to_the_waters",
+  "title": "Come to the Waters",
+  "anchorRef": "ISA.55.1",
+  "backstory": "Isaiah's book closes with a wide-open invitation and a breathtaking promise. God calls everyone who is thirsty to come to him freely, and he unveils new heavens and a new earth where sorrow is gone for good. The prophet who began with a rebellious nation ends with a world made new.",
+  "passages": [
+    {
+      "ref": "ISA.55.1-5",
+      "synopsis": "God calls out like a merchant in the marketplace, but his goods are free. Everyone who thirsts may come to the waters, and those with no money may buy wine and milk without price. God offers an everlasting covenant, the sure mercies promised to David. His feast is for every hungry soul."
+    },
+    {
+      "ref": "ISA.55.6-13",
+      "synopsis": "Seek the LORD while he may be found, for he will abundantly pardon. His thoughts and ways are higher than ours, as the heavens are higher than the earth. His word is like rain and snow that water the earth, and it never returns to him empty. His people will go out with joy, and the mountains will break into singing."
+    },
+    {
+      "ref": "ISA.61.1-3",
+      "synopsis": "The Spirit of the Lord rests on God's anointed one, who brings good tidings to the meek. He binds up the brokenhearted and proclaims liberty to the captives. He gives beauty for ashes and the oil of joy for mourning. Centuries later, Jesus read these very words in Nazareth and said they were being fulfilled."
+    },
+    {
+      "ref": "ISA.65.17-25",
+      "synopsis": "God promises to create new heavens and a new earth, where former troubles are not remembered. Weeping will be heard no more, and his people will enjoy the work of their hands. Before they even call, God will answer. The wolf and the lamb will feed together, and nothing will hurt or destroy in all his holy mountain."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who does Isaiah invite to come to the waters?",
+          "options": [
+            "Only the kings of Israel",
+            "Every one that thirsteth",
+            "Only the priests",
+            "Those with the most money"
+          ],
+          "correctIndex": 1,
+          "explanation": "Isaiah 55:1 — \"Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How much higher are God's ways than our ways?",
+          "options": [
+            "As the heavens are higher than the earth",
+            "As a mountain above a valley",
+            "As an eagle above its nest",
+            "As a king above his servants"
+          ],
+          "correctIndex": 0,
+          "explanation": "Isaiah 55:9 — \"For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What shall the mountains and the hills do when God's people go out with joy?",
+          "options": [
+            "Melt away like wax",
+            "Bow down low",
+            "Tremble and shake",
+            "Break forth into singing"
+          ],
+          "correctIndex": 3,
+          "explanation": "Isaiah 55:12 — \"For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In God's new earth, which two animals shall feed together?",
+          "options": [
+            "The eagle and the sparrow",
+            "The fox and the hen",
+            "The wolf and the lamb",
+            "The bear and the ox"
+          ],
+          "correctIndex": 2,
+          "explanation": "Isaiah 65:25 — \"The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Come to the Waters",
+          "words": [
+            "WATERS",
+            "WINE",
+            "MILK",
+            "MYRTLE",
+            "RAIN",
+            "JOY",
+            "PEACE",
+            "WOLF"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "DAVID",
+          "hint": "God promised an everlasting covenant, the sure mercies of this king",
+          "theme": "people"
+        },
+        {
+          "word": "MYRTLE",
+          "hint": "This tree shall come up instead of the brier",
+          "theme": "things"
+        },
+        {
+          "word": "WOLF",
+          "hint": "In the new earth it shall feed together with the lamb",
+          "theme": "things"
+        },
+        {
+          "word": "RAIN",
+          "hint": "Like God's word, it comes down from heaven and waters the earth",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JHN.7.37",
+    "REV.21.1",
+    "REV.22.17"
+  ],
+  "reflection": "God invites everyone who thirsts to come without money and without price. What are you thirsty for that only God can satisfy?"
+}

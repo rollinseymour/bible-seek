@@ -1,0 +1,129 @@
+{
+  "id": "hab.how_long",
+  "title": "How Long, O LORD?",
+  "anchorRef": "HAB.1.5",
+  "backstory": "Habakkuk lived in Judah in the troubled years after good king Josiah died, when violence and injustice filled the land. Most prophets carried God's words to the people, but Habakkuk did something different: he carried the people's hard questions straight to God. His little book is an honest conversation between a puzzled prophet and the faithful LORD.",
+  "passages": [
+    {
+      "ref": "HAB.1.1-4",
+      "synopsis": "Habakkuk the prophet cried out to the LORD with an honest question. How long would he cry for help while wrong things kept happening all around him? Everywhere he looked he saw violence, strife, and unfair judgments. It seemed as if God's law had gone limp and the wicked were winning."
+    },
+    {
+      "ref": "HAB.1.5-11",
+      "synopsis": "The LORD answered Habakkuk with a surprising word. God was already at work, doing something so amazing that people would hardly believe it. He was raising up the Chaldeans of Babylon, a fierce and hasty nation, to correct His people. Their horses were swifter than leopards, and they swept across the land like an eagle diving for food."
+    },
+    {
+      "ref": "HAB.1.12-17",
+      "synopsis": "God's answer left Habakkuk with an even harder question. He knew the LORD is everlasting and too pure to look on evil with approval. So how could God use the cruel Chaldeans, who were even worse than Judah, to punish His own people? Babylon caught nations like a fisherman catching fish in a net, and Habakkuk asked how long that could go on."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Habakkuk",
+          "clues": [
+            "I was a prophet in Judah with a heavy burden.",
+            "I asked the LORD, 'How long shall I cry?'",
+            "Instead of only speaking for God, I brought my hard questions to Him."
+          ],
+          "wrongChoices": [
+            "Jeremiah",
+            "Nahum",
+            "Zephaniah"
+          ]
+        },
+        {
+          "name": "The Chaldeans",
+          "clues": [
+            "We were a bitter and hasty nation.",
+            "Our horses were swifter than leopards.",
+            "God raised us up to correct His people Judah."
+          ],
+          "wrongChoices": [
+            "The Assyrians",
+            "The Egyptians",
+            "The Philistines"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What question did Habakkuk cry out to the LORD?",
+          "options": [
+            "\"Where art thou?\"",
+            "\"O LORD, how long shall I cry?\"",
+            "\"Why hast thou made me?\"",
+            "\"Who is like unto thee?\""
+          ],
+          "correctIndex": 1,
+          "explanation": "Habakkuk 1:2 — \"O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which nation did God say He was raising up?",
+          "options": [
+            "The Egyptians",
+            "The Philistines",
+            "The Chaldeans",
+            "The Assyrians"
+          ],
+          "correctIndex": 2,
+          "explanation": "Habakkuk 1:6 — \"For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "The Chaldeans' horses were said to be swifter than what?",
+          "options": [
+            "Leopards",
+            "Lions",
+            "Deer",
+            "The wind"
+          ],
+          "correctIndex": 0,
+          "explanation": "Habakkuk 1:8 — \"Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Habakkuk say about the LORD's eyes?",
+          "options": [
+            "They never close in sleep",
+            "They search the whole earth",
+            "They shine like flames of fire",
+            "They are too pure to behold evil"
+          ],
+          "correctIndex": 3,
+          "explanation": "Habakkuk 1:13 — \"Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Habakkuk's Question",
+          "words": [
+            "HABAKKUK",
+            "CHALDEANS",
+            "PROPHET",
+            "BURDEN",
+            "HORSES",
+            "LEOPARDS",
+            "EAGLE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.13.1",
+    "PSA.73.3",
+    "ACT.13.41"
+  ],
+  "reflection": "Habakkuk brought his hardest questions honestly to God instead of walking away from Him. When life seems unfair, what would it look like for you to pray that honestly — and then wait for God's answer?"
+}

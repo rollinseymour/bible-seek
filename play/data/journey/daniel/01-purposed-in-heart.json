@@ -1,0 +1,107 @@
+{
+  "id": "dan.purposed_in_heart",
+  "title": "Purposed in His Heart",
+  "anchorRef": "DAN.1.8",
+  "backstory": "Judah has fallen, and King Nebuchadnezzar has carried treasures and captives from Jerusalem to mighty Babylon. Among the captives are four young friends chosen to be trained in the king's palace and given new Babylonian names. Far from home, Daniel must decide in his heart whom he will truly serve.",
+  "passages": [
+    {
+      "ref": "DAN.1.1-7",
+      "synopsis": "King Nebuchadnezzar of Babylon besieged Jerusalem and carried away treasures from God's house and some of the people. Among them were four young men of Judah: Daniel, Hananiah, Mishael, and Azariah. They were chosen to be trained for three years to stand in the king's palace. The prince of the eunuchs gave them new names: Belteshazzar, Shadrach, Meshach, and Abed-nego."
+    },
+    {
+      "ref": "DAN.1.8-16",
+      "synopsis": "Daniel purposed in his heart not to defile himself with the king's meat and wine. He kindly asked for a ten-day test: pulse to eat and water to drink. At the end of ten days the four friends looked healthier than all the young men who ate the king's food. So their keeper let them keep eating the simple food."
+    },
+    {
+      "ref": "DAN.1.17-21",
+      "synopsis": "God gave the four young men knowledge and skill in all learning and wisdom. Daniel could also understand visions and dreams. When the king questioned them, he found them ten times better than all the magicians and astrologers in his realm. Daniel went on serving in Babylon for many years, even until the reign of King Cyrus."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Daniel purpose in his heart at the king's court?",
+          "options": [
+            "To ask to go home to Jerusalem",
+            "To learn all the songs of Babylon",
+            "Not to defile himself with the king's meat",
+            "To become chief of the wise men"
+          ],
+          "correctIndex": 2,
+          "explanation": "Daniel 1:8 — \"But Daniel purposed in his heart that he would not defile himself with the portion of the king’s meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Daniel ask to eat and drink during the ten-day test?",
+          "options": [
+            "Pulse to eat and water to drink",
+            "Bread and honey",
+            "The king's meat and wine",
+            "Figs and milk"
+          ],
+          "correctIndex": 0,
+          "explanation": "Daniel 1:12 — \"Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did the king find Daniel and his friends compared with all his magicians?",
+          "options": [
+            "A little wiser",
+            "About the same",
+            "Twice as good",
+            "Ten times better"
+          ],
+          "correctIndex": 3,
+          "explanation": "Daniel 1:20 — \"And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "DANIEL",
+          "hint": "Young captive who purposed in his heart",
+          "theme": "people"
+        },
+        {
+          "word": "BABYLON",
+          "hint": "The kingdom where the captives were taken",
+          "theme": "places"
+        },
+        {
+          "word": "PULSE",
+          "hint": "The simple food Daniel asked to eat",
+          "theme": "things"
+        },
+        {
+          "word": "WISDOM",
+          "hint": "God gave the four friends skill in this",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Daniel 1:12",
+          "text": "Prove thy servants, I beseech thee, ten days;"
+        },
+        {
+          "reference": "Daniel 1:17",
+          "text": "God gave them knowledge and skill in all learning and wisdom:"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.39.9",
+    "ROM.12.2",
+    "1CO.10.31"
+  ],
+  "reflection": "Daniel decided ahead of time to honor God, even far from home. What choice could you settle in your heart before the next test comes?"
+}

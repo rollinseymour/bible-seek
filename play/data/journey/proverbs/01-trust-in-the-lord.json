@@ -1,0 +1,120 @@
+{
+  "id": "pro.trust_in_the_lord",
+  "title": "Trust in the LORD",
+  "anchorRef": "PRO.3.5",
+  "backstory": "Solomon, David's son, became king of Israel and asked God for wisdom above all else — and God gave it. Proverbs gathers that wisdom into short sayings a father might pass to his children. The book opens by inviting everyone, young and old, to listen and grow wise, beginning with the fear of the LORD.",
+  "passages": [
+    {
+      "ref": "PRO.1.1-7",
+      "synopsis": "The book introduces itself as the proverbs of Solomon, king of Israel. These sayings were written to teach wisdom, instruction, and understanding to the simple and the young. Even the wise can listen and keep learning. The starting point of it all is the fear of the LORD, for that is the beginning of knowledge."
+    },
+    {
+      "ref": "PRO.3.1-12",
+      "synopsis": "A father urges his son to keep God's commandments and to bind mercy and truth about his neck. The heart of it comes in two famous lines: trust in the LORD with all your heart, and acknowledge him in all your ways, and he will direct your paths. The son is told to honour the LORD with his firstfruits and not to despise God's correction. Like a good father, the LORD corrects those he loves."
+    },
+    {
+      "ref": "PRO.3.13-18",
+      "synopsis": "Happy is the one who finds wisdom, for her worth is beyond silver, gold, and rubies. Nothing we could wish for compares to her. In her hands are long life, riches, and honour, and all her paths are peace. She is a tree of life to everyone who takes hold of her."
+    },
+    {
+      "ref": "PRO.3.21-26",
+      "synopsis": "The father tells his son to keep sound wisdom and discretion always in view. With them he can walk safely and his foot will not stumble. Even sleep becomes sweet, and sudden fear loses its power. The LORD himself will be his confidence and keep his foot from being taken."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Proverbs 3:5",
+          "text": "Trust in the LORD with all thine heart;"
+        },
+        {
+          "reference": "Proverbs 3:6",
+          "text": "In all thy ways acknowledge him, and he shall direct thy paths."
+        },
+        {
+          "reference": "Proverbs 1:7",
+          "text": "The fear of the LORD is the beginning of knowledge:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How does Proverbs tell us to trust in the LORD?",
+          "options": [
+            "Only when life is easy",
+            "With all thine heart",
+            "With half thine heart",
+            "When others agree"
+          ],
+          "correctIndex": 1,
+          "explanation": "Proverbs 3:5 — \"Trust in the LORD with all thine heart; and lean not unto thine own understanding.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What is the beginning of knowledge?",
+          "options": [
+            "The fear of the LORD",
+            "Great riches",
+            "Many books",
+            "Long journeys"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proverbs 1:7 — \"The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "If we acknowledge God in all our ways, what will he do?",
+          "options": [
+            "Give us silver",
+            "Make us kings",
+            "Direct our paths",
+            "Build our houses"
+          ],
+          "correctIndex": 2,
+          "explanation": "Proverbs 3:6 — \"In all thy ways acknowledge him, and he shall direct thy paths.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Wisdom is more precious than what?",
+          "options": [
+            "Rubies",
+            "Barns of plenty",
+            "New wine",
+            "Fine horses"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proverbs 3:15 — \"She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Wisdom's Invitation",
+          "words": [
+            "WISDOM",
+            "TRUST",
+            "HEART",
+            "PATHS",
+            "RUBIES",
+            "GOLD",
+            "PEACE",
+            "TREE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "1KI.3.12",
+    "PSA.37.5",
+    "JAS.1.5"
+  ],
+  "reflection": "Trusting God with all your heart means not leaning only on what you can figure out. Where is God asking you to trust him instead of your own understanding this week?"
+}

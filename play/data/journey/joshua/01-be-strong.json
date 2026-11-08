@@ -1,0 +1,113 @@
+{
+  "id": "jos.be_strong",
+  "title": "Be Strong and Courageous",
+  "anchorRef": "JOS.1.9",
+  "backstory": "Moses was dead, and the man who had served at his side for forty years now had to lead a nation into a land of walled cities. Joshua had been one of only two spies who believed God could do it. Now he had to act on that faith himself.",
+  "passages": [
+    {
+      "ref": "JOS.1.1-9",
+      "synopsis": "After Moses died, God spoke to Joshua and told him to lead Israel into the land. Three times God told him to be strong and courageous. He promised to be with Joshua wherever he went, as He had been with Moses. Joshua was to hold fast to God's law and obey it."
+    },
+    {
+      "ref": "JOS.2.1-14",
+      "synopsis": "Joshua sent two spies into Jericho, where a woman named Rahab hid them. She had heard how God dried up the Red Sea and believed He would give Israel the land. She asked the spies to spare her family when they returned. They promised to keep her safe."
+    },
+    {
+      "ref": "JOS.2.15-24",
+      "synopsis": "Rahab let the spies down by a rope through her window in the wall. They told her to tie a scarlet cord there and gather her family inside. Everyone in the house would be spared when the city fell. The spies returned and reported that God had given them the land."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Joshua 1:6",
+          "text": "Be strong and of a good courage:"
+        },
+        {
+          "reference": "Joshua 1:9",
+          "text": "for the LORD thy God is with thee whithersoever thou goest."
+        },
+        {
+          "reference": "Joshua 1:7",
+          "text": "Only be thou strong and very courageous,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How many times did God tell Joshua to be strong and courageous?",
+          "options": [
+            "Three times",
+            "Once",
+            "Seven times",
+            "Ten times"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 1:9 — \"Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who hid the two spies in Jericho?",
+          "options": [
+            "Rahab",
+            "Deborah",
+            "Ruth",
+            "Miriam"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 2:4 — \"And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they were:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God tell Joshua to meditate in day and night?",
+          "options": [
+            "The songs of Moses",
+            "This book of the law",
+            "The dreams of the elders",
+            "The report of the spies"
+          ],
+          "correctIndex": 1,
+          "explanation": "Joshua 1:8 — \"This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Rahab let the two spies down from her house?",
+          "options": [
+            "Through a hidden tunnel",
+            "By a ladder at the gate",
+            "Down the stairs at midnight",
+            "By a cord through the window"
+          ],
+          "correctIndex": 3,
+          "explanation": "Joshua 2:15 — \"Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Be Strong",
+          "words": [
+            "STRONG",
+            "BRAVE",
+            "LEAD",
+            "OBEY",
+            "LAW"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.13.6",
+    "JOS.24.15",
+    "PSA.1.2"
+  ],
+  "reflection": "God grounded Joshua's courage in His presence, not in Joshua's strength. Where do you need that same courage today?"
+}

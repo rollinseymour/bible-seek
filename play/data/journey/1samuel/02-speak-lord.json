@@ -1,0 +1,119 @@
+{
+  "id": "1sa.speak_lord",
+  "title": "Speak, LORD",
+  "anchorRef": "1SA.3.10",
+  "backstory": "Little Samuel now lives at the tabernacle in Shiloh, helping Eli the old priest and wearing the little coat his mother brings each year. In those days messages from God were rare. One night, God himself calls a child by name.",
+  "passages": [
+    {
+      "ref": "1SA.2.18-21",
+      "synopsis": "While Eli grew old, little Samuel ministered before the LORD wearing a linen ephod. Each year his mother made him a little coat and brought it when the family came to sacrifice. Eli blessed Elkanah and Hannah, and God gave Hannah more sons and daughters. And the child Samuel grew before the LORD."
+    },
+    {
+      "ref": "1SA.3.1-10",
+      "synopsis": "One night Samuel lay down in the tabernacle, where the lamp of God still burned. The LORD called his name, and three times Samuel ran to Eli, thinking the old priest had called him. Then Eli understood that it was the LORD, and told Samuel how to answer. When the call came again, Samuel said, Speak; for thy servant heareth."
+    },
+    {
+      "ref": "1SA.3.11-18",
+      "synopsis": "God gave young Samuel a hard message: Eli's family would lose its place, because his sons did evil and Eli did not stop them. In the morning Samuel was afraid to tell the vision. But Eli asked him to hide nothing, and Samuel told him every word. Eli answered, It is the LORD: let him do what seemeth him good."
+    },
+    {
+      "ref": "1SA.3.19-21",
+      "synopsis": "Samuel grew, and the LORD was with him. God let none of Samuel's words fall to the ground. All Israel, from Dan to Beer-sheba, knew that Samuel was established to be a prophet of the LORD. And the LORD kept speaking to him at Shiloh."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "1 Samuel 2:18",
+          "text": "But Samuel ministered before the LORD, being a child,"
+        },
+        {
+          "reference": "1 Samuel 3:10",
+          "text": "Then Samuel answered, Speak; for thy servant heareth."
+        },
+        {
+          "reference": "1 Samuel 3:19",
+          "text": "And Samuel grew, and the LORD was with him,"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "God Calls Samuel",
+          "words": [
+            "SAMUEL",
+            "ELI",
+            "SHILOH",
+            "LAMP",
+            "TEMPLE",
+            "VISION",
+            "PROPHET"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What was rare in Israel in the days when Samuel was a boy?",
+          "options": [
+            "Rain in harvest",
+            "Priests in Shiloh",
+            "The word of the LORD",
+            "Songs in the temple"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Samuel 3:1 — \"And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; there was no open vision.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who told Samuel how to answer when the LORD called?",
+          "options": [
+            "Eli",
+            "Hannah",
+            "Elkanah",
+            "An angel"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Samuel 3:9 — \"Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Samuel say when the LORD called him the fourth time?",
+          "options": [
+            "Here am I; send me",
+            "Depart from me",
+            "Call me no more",
+            "Speak; for thy servant heareth"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Samuel 3:10 — \"And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did all Israel from Dan to Beer-sheba know about Samuel?",
+          "options": [
+            "He would be king",
+            "He was established to be a prophet of the LORD",
+            "He was Eli's son",
+            "He was a mighty soldier"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Samuel 3:20 — \"And all Israel from Dan even to Beer-sheba knew that Samuel was established to be a prophet of the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.6.8",
+    "JHN.10.27",
+    "HEB.1.1"
+  ],
+  "reflection": "Samuel was young, yet he listened when God called and obeyed. How can you make room to hear God's word and answer him?"
+}

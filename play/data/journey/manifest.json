@@ -1,0 +1,252 @@
+{
+"1chronicles": [
+"01-ark-comes-home.json",
+"02-song-of-thanks.json",
+"03-house-for-god.json"
+],
+"1kings": [
+"01-wisdom.json",
+"02-temple.json",
+"03-kingdom-divides.json",
+"04-elijah.json"
+],
+"1samuel": [
+"01-hannahs-prayer.json",
+"02-speak-lord.json",
+"03-give-us-a-king.json",
+"04-david-and-goliath.json",
+"05-mercy-in-the-cave.json"
+],
+"2chronicles": [
+"01-glory-fills-the-temple.json",
+"02-battle-belongs-to-god.json",
+"03-hezekiahs-passover.json",
+"04-book-and-promise.json"
+],
+"2kings": [
+"01-chariot-of-fire.json",
+"02-naaman-washed-clean.json",
+"03-hezekiahs-prayer.json",
+"04-book-of-the-law.json"
+],
+"2samuel": [
+"01-king-and-ark.json",
+"02-everlasting-throne.json",
+"03-kindness-to-mephibosheth.json",
+"04-davids-repentance.json"
+],
+"amos": [
+"01-shepherd-called.json",
+"02-seek-and-live.json",
+"03-plumbline-promise.json"
+],
+"daniel": [
+"01-purposed-in-heart.json",
+"02-statue-and-stone.json",
+"03-fiery-furnace.json",
+"04-writing-on-the-wall.json",
+"05-the-lions-den.json"
+],
+"deuteronomy": [
+"01-shema.json",
+"02-remember.json",
+"03-choose-life.json",
+"04-moses-death.json"
+],
+"ecclesiastes": [
+"01-all-is-vanity.json",
+"02-a-time-for-everything.json",
+"03-remember-thy-creator.json"
+],
+"esther": [
+"01-esther-becomes-queen.json",
+"02-for-such-a-time.json",
+"03-sleepless-night.json",
+"04-days-of-purim.json"
+],
+"exodus": [
+"01-burning-bush.json",
+"02-plagues.json",
+"03-passover.json",
+"04-red-sea.json",
+"05-commandments.json",
+"06-golden-calf.json"
+],
+"ezekiel": [
+"01-watchman-call.json",
+"02-heart-of-flesh.json",
+"03-dry-bones.json",
+"04-river-of-life.json"
+],
+"ezra": [
+"01-home-from-exile.json",
+"02-temple-finished.json",
+"03-ezra-the-scribe.json"
+],
+"genesis": [
+"01-creation.json",
+"02-fall.json",
+"03-noah.json",
+"04-abraham.json",
+"05-jacob.json",
+"06-joseph.json"
+],
+"habakkuk": [
+"01-how-long.json",
+"02-write-the-vision.json",
+"03-yet-will-i-rejoice.json"
+],
+"haggai": [
+"01-consider-your-ways.json",
+"02-the-greater-glory.json"
+],
+"hosea": [
+"01-hosea-and-gomer.json",
+"02-cords-of-love.json",
+"03-return-to-the-lord.json"
+],
+"isaiah": [
+"01-here-am-i.json",
+"02-prince-of-peace.json",
+"03-eagles-wings.json",
+"04-suffering-servant.json",
+"05-come-to-the-waters.json"
+],
+"jeremiah": [
+"01-called-as-a-boy.json",
+"02-potters-house.json",
+"03-thoughts-of-peace.json",
+"04-kindness-remembered.json"
+],
+"job": [
+"01-the-lord-gave.json",
+"02-my-redeemer-liveth.json",
+"03-out-of-the-whirlwind.json",
+"04-job-restored.json"
+],
+"joel": [
+"01-rend-your-heart.json",
+"02-years-restored.json"
+],
+"john": [
+"01-the-word-made-flesh.json",
+"02-born-again.json",
+"03-the-woman-at-the-well.json",
+"04-bread-and-light.json",
+"05-lazarus.json",
+"06-the-cross-and-the-risen-lord.json"
+],
+"jonah": [
+"01-the-runaway.json",
+"02-prayer-from-the-deep.json",
+"03-nineveh-believes.json",
+"04-the-gourd.json"
+],
+"joshua": [
+"01-be-strong.json",
+"02-jordan.json",
+"03-jericho.json",
+"04-achan.json",
+"05-choose-serve.json"
+],
+"judges": [
+"01-cycle.json",
+"02-deborah.json",
+"03-gideon.json",
+"04-samson.json"
+],
+"lamentations": [
+"01-city-weeps.json",
+"02-great-faithfulness.json"
+],
+"leviticus": [
+"01-offerings.json",
+"02-priests.json",
+"03-atonement.json",
+"04-holiness.json"
+],
+"luke": [
+"01-gabriel-and-mary.json",
+"02-born-in-bethlehem.json",
+"03-my-fathers-business.json",
+"04-lost-and-found.json",
+"05-seek-and-save.json",
+"06-the-emmaus-road.json"
+],
+"malachi": [
+"01-i-have-loved-you.json",
+"02-windows-of-heaven.json",
+"03-sun-of-righteousness.json"
+],
+"mark": [
+"01-the-beginning.json",
+"02-power-to-forgive.json",
+"03-loaves-and-the-sea.json",
+"04-the-road-to-jerusalem.json",
+"05-he-is-risen.json"
+],
+"matthew": [
+"01-born-of-a-virgin.json",
+"02-baptism-and-temptation.json",
+"03-sermon-on-the-mount.json",
+"04-kingdom-parables.json",
+"05-thou-art-the-christ.json",
+"06-the-cross-and-the-empty-tomb.json"
+],
+"micah": [
+"01-out-of-bethlehem.json",
+"02-what-the-lord-requires.json",
+"03-who-is-a-god-like-thee.json"
+],
+"nahum": [
+"01-strong-hold.json",
+"02-good-tidings.json"
+],
+"nehemiah": [
+"01-cupbearers-prayer.json",
+"02-sword-and-trowel.json",
+"03-joy-of-the-lord.json"
+],
+"numbers": [
+"01-blessing.json",
+"02-spies.json",
+"03-korah.json",
+"04-serpent.json",
+"05-balaam.json"
+],
+"obadiah": [
+"01-eagles-nest.json",
+"02-deliverance-on-zion.json"
+],
+"proverbs": [
+"01-trust-in-the-lord.json",
+"02-guard-your-heart.json",
+"03-words-and-friends.json"
+],
+"psalms": [
+"01-two-paths.json",
+"02-the-shepherd.json",
+"03-a-clean-heart.json",
+"04-enter-his-gates.json",
+"05-kept-and-known.json"
+],
+"ruth": [
+"01-loyalty.json",
+"02-gleaning.json",
+"03-threshing.json",
+"04-redeemer.json"
+],
+"songofsolomon": [
+"01-springtime-of-love.json",
+"02-seal-upon-the-heart.json"
+],
+"zechariah": [
+"01-not-by-might.json",
+"02-jerusalem-comforted.json",
+"03-thy-king-cometh.json"
+],
+"zephaniah": [
+"01-seek-the-lord.json",
+"02-joy-over-zion.json"
+]
+}

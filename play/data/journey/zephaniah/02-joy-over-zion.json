@@ -1,0 +1,115 @@
+{
+  "id": "zep.joy_over_zion",
+  "title": "Joy Over Zion",
+  "anchorRef": "ZEP.3.17",
+  "backstory": "Zephaniah's little book begins with a storm warning, but it ends with a song. Beyond the day of the LORD, God promises to gather a humble, trusting people, take away their fear, and bring the scattered ones home. Best of all, God himself will be in the midst of them — so glad about his people that he sings.",
+  "passages": [
+    {
+      "ref": "ZEP.3.9-13",
+      "synopsis": "God promises to give the people a pure language, so that everyone can call on the name of the LORD together. He will take away the proud and leave in the land a humble, poor people who trust in his name. This remnant of Israel will not lie or deceive. Like a flock in a safe pasture, they will feed and lie down, and no one will make them afraid."
+    },
+    {
+      "ref": "ZEP.3.14-17",
+      "synopsis": "Now the prophet bursts into celebration: sing, O daughter of Zion, shout, O Israel! The LORD has taken away the judgments against his people and cast out their enemy. The King of Israel, the LORD himself, is in the midst of them, so there is nothing left to fear. He is mighty to save, he rests in his love, and he rejoices over his people with joy and with singing."
+    },
+    {
+      "ref": "ZEP.3.18-20",
+      "synopsis": "God remembers the ones who are sorrowful and far from home. He promises to save the hurt, gather those who were driven out, and turn their shame into praise. He will bring his people back before their own eyes and make them a name and a praise among all the people of the earth. The book closes with God's own signature: saith the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Zephaniah 3:14",
+          "text": "Sing, O daughter of Zion; shout, O Israel;"
+        },
+        {
+          "reference": "Zephaniah 3:16",
+          "text": "In that day it shall be said to Jerusalem, Fear thou not:"
+        },
+        {
+          "reference": "Zephaniah 3:12",
+          "text": "and they shall trust in the name of the LORD."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Joy Over Zion",
+          "words": [
+            "ZION",
+            "SING",
+            "REJOICE",
+            "ISRAEL",
+            "MIGHTY",
+            "LOVE",
+            "GATHER"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who is told to sing and be glad with all the heart?",
+          "options": [
+            "The daughter of Zion",
+            "The kings of the earth",
+            "The priests",
+            "The shepherds"
+          ],
+          "correctIndex": 0,
+          "explanation": "Zephaniah 3:14 — \"Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What kind of language did God promise to turn to the people?",
+          "options": [
+            "A secret language",
+            "A pure language",
+            "An ancient language",
+            "A new song"
+          ],
+          "correctIndex": 1,
+          "explanation": "Zephaniah 3:9 — \"For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How does the LORD in the midst of his people rejoice over them?",
+          "options": [
+            "With trumpets",
+            "With feasting",
+            "With singing",
+            "With shouting"
+          ],
+          "correctIndex": 2,
+          "explanation": "Zephaniah 3:17 — \"The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God promise to make his people among all people of the earth?",
+          "options": [
+            "A mighty army",
+            "A great city",
+            "A wealthy nation",
+            "A name and a praise"
+          ],
+          "correctIndex": 3,
+          "explanation": "Zephaniah 3:20 — \"At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.62.5",
+    "ZEC.2.10",
+    "REV.21.3"
+  ],
+  "reflection": "God does not only forgive his people — he delights in them and sings over them. How does it change your picture of God to know he rejoices over you with singing?"
+}

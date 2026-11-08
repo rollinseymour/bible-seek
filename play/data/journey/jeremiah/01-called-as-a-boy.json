@@ -1,0 +1,123 @@
+{
+  "id": "jer.called_as_a_boy",
+  "title": "Called as a Boy",
+  "anchorRef": "JER.1.5",
+  "backstory": "The little kingdom of Judah is drifting far from God, and hard days are coming. In the town of Anathoth lives a priest's son named Jeremiah — still young, quiet, and unsure of himself. God is about to give him a lifelong task: carrying heaven's words to a people who mostly will not want to hear them.",
+  "passages": [
+    {
+      "ref": "JER.1.1-10",
+      "synopsis": "Jeremiah was a priest's son from the town of Anathoth, and God's word came to him in the days of King Josiah. God told him something amazing: before Jeremiah was even born, God knew him and set him apart to be a prophet to the nations. Jeremiah protested that he could not speak because he was only a child. God answered, 'Say not, I am a child,' then touched his mouth and put his own words there."
+    },
+    {
+      "ref": "JER.1.11-16",
+      "synopsis": "God showed young Jeremiah two pictures. First he saw a rod of an almond tree, a sign that God was watching over his word to make it happen. Then he saw a boiling pot tipping from the north. It meant trouble would come upon Judah from the kingdoms of the north, because the people had turned to other gods."
+    },
+    {
+      "ref": "JER.1.17-19",
+      "synopsis": "God told Jeremiah to stand up and speak everything he commanded, without fearing anyone's face. He promised to make him like a fortified city, an iron pillar, and walls of brass. People would fight against him, God said, but they would not win. 'For I am with thee, saith the LORD, to deliver thee.'"
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Jeremiah 1:6",
+          "text": "I cannot speak: for I am a child."
+        },
+        {
+          "reference": "Jeremiah 1:8",
+          "text": "Be not afraid of their faces:"
+        },
+        {
+          "reference": "Jeremiah 1:12",
+          "text": "for I will hasten my word to perform it."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God say he did before Jeremiah was born?",
+          "options": [
+            "He gave him great riches",
+            "He taught him to read",
+            "He knew him and set him apart as a prophet",
+            "He made him a king"
+          ],
+          "correctIndex": 2,
+          "explanation": "Jeremiah 1:5 — \"Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did Jeremiah think he could not speak for God?",
+          "options": [
+            "He was only a child",
+            "He was too old",
+            "He was a shepherd",
+            "He did not know God"
+          ],
+          "correctIndex": 0,
+          "explanation": "Jeremiah 1:6 — \"Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Jeremiah see in his first vision?",
+          "options": [
+            "A burning bush",
+            "A golden lampstand",
+            "A flying scroll",
+            "A rod of an almond tree"
+          ],
+          "correctIndex": 3,
+          "explanation": "Jeremiah 1:11 — \"Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God promise Jeremiah when he was afraid?",
+          "options": [
+            "An easy life",
+            "To be with him and deliver him",
+            "A great army",
+            "Silver and gold"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jeremiah 1:8 — \"Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JEREMIAH",
+          "hint": "The young prophet God called",
+          "theme": "people"
+        },
+        {
+          "word": "ANATHOTH",
+          "hint": "Jeremiah's hometown in the land of Benjamin",
+          "theme": "places"
+        },
+        {
+          "word": "ALMOND",
+          "hint": "Jeremiah saw a rod of this tree",
+          "theme": "things"
+        },
+        {
+          "word": "PROPHET",
+          "hint": "God ordained Jeremiah to be this to the nations",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.4.10",
+    "PSA.139.13",
+    "GAL.1.15"
+  ],
+  "reflection": "God told young Jeremiah, 'Be not afraid... for I am with thee.' When have you felt too small for something God wanted you to do?"
+}

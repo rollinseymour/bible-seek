@@ -1,0 +1,129 @@
+{
+  "id": "gen.noah",
+  "title": "Noah's Ark",
+  "anchorRef": "GEN.9.13",
+  "backstory": "Generations after Eden, humanity had multiplied and so had its violence, until the corruption was so complete that God resolved to begin again. Into that darkness steps one man who still walked with God.",
+  "passages": [
+    {
+      "ref": "GEN.6.5-14",
+      "synopsis": "The earth had become full of violence and evil, and it grieved God's heart. But Noah found grace in the eyes of the LORD, for he walked with God. God told Noah of the flood to come and commanded him to build an ark. It would keep his family and the animals safe."
+    },
+    {
+      "ref": "GEN.7.11-24",
+      "synopsis": "Noah, his family, and the animals entered the ark, and God shut them in. The fountains of the deep burst open and rain fell for forty days and nights. The waters rose until they covered even the mountains, and every living thing on land perished. Only those in the ark survived."
+    },
+    {
+      "ref": "GEN.8.1-19",
+      "synopsis": "God remembered Noah and sent a wind, and the waters began to recede. Noah sent out a raven and then a dove to see if the land was dry. At last the dove returned with an olive leaf, a sign of new life. When the earth was dry, God told them to leave the ark."
+    },
+    {
+      "ref": "GEN.9.8-17",
+      "synopsis": "God made a covenant with Noah and with every living creature. He promised never again to destroy the earth with a flood. As the sign of this promise, God set his rainbow in the clouds. Whenever it appears, it is a reminder of his faithful word."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Genesis 6:8",
+          "text": "But Noah found grace in the eyes of the LORD."
+        },
+        {
+          "reference": "Genesis 7:5",
+          "text": "And Noah did according unto all that the LORD commanded him."
+        },
+        {
+          "reference": "Genesis 9:13",
+          "text": "I do set my bow in the cloud"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Noah's Ark",
+          "words": [
+            "NOAH",
+            "ARK",
+            "FLOOD",
+            "DOVE",
+            "RAIN"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How many days and nights did it rain upon the earth?",
+          "options": [
+            "Seven",
+            "Twelve",
+            "Forty",
+            "Fifty"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 7:12 — \"And the rain was upon the earth forty days and forty nights.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God set in the cloud as the token of His covenant?",
+          "options": [
+            "A star",
+            "A rainbow (bow)",
+            "A cloud pillar",
+            "A fire"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 9:13 — \"I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What bird did Noah send out that returned with an olive leaf?",
+          "options": [
+            "A dove",
+            "A raven",
+            "An eagle",
+            "A sparrow"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 8:11 — \"And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Of what kind of wood was Noah told to build the ark?",
+          "options": [
+            "Cedar wood",
+            "Acacia wood",
+            "Olive wood",
+            "Gopher wood"
+          ],
+          "correctIndex": 3,
+          "explanation": "Genesis 6:14 — \"Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Upon what mountains did the ark come to rest?",
+          "options": [
+            "Sinai",
+            "Ararat",
+            "Nebo",
+            "Horeb"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 8:4 — \"And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.11.7",
+    "1PE.3.20",
+    "MAT.24.37"
+  ],
+  "reflection": "What does the rainbow tell you about how God keeps his promises?"
+}

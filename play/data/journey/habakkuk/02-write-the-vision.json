@@ -1,0 +1,127 @@
+{
+  "id": "hab.write_the_vision",
+  "title": "Write the Vision",
+  "anchorRef": "HAB.2.4",
+  "backstory": "Habakkuk had asked God why He would use cruel Babylon to correct Judah, and now the prophet waits for a reply. Like a soldier on duty he climbs his watchtower, determined not to move until the LORD speaks. The answer God gives him becomes one of the most important sentences in the whole Bible: the just shall live by his faith.",
+  "passages": [
+    {
+      "ref": "HAB.2.1-4",
+      "synopsis": "Habakkuk stood at his watch like a guard on a tower, waiting to see what God would say. The LORD answered and told him to write the vision plainly on tablets, so plainly that a runner could read it. The vision was for an appointed time, and even if it seemed slow, it would surely come. Then came the great promise: the proud heart is not right, but the just shall live by his faith."
+    },
+    {
+      "ref": "HAB.2.5-8",
+      "synopsis": "God said that proud Babylon, always grabbing for more, would never be satisfied. One day all the nations it had robbed would take up a taunting song against it. Woe to him who piles up what is not his, for suddenly the tables would turn. Because Babylon had spoiled many nations, the remnant of the peoples would spoil Babylon."
+    },
+    {
+      "ref": "HAB.2.9-14",
+      "synopsis": "More woes fell on the proud empire. Woe to those who build their house by taking from others, thinking a high nest will keep them safe. Woe to those who build a town with blood, for even the stones in the wall would cry out against them. All that grasping labor ends in smoke, but the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea."
+    },
+    {
+      "ref": "HAB.2.17-20",
+      "synopsis": "The last woes fall on the violent and on those who trust in idols. All the harm Babylon had done to the land and the city would come rolling back to cover it. What good is a carved image, a teacher of lies covered over with gold and silver, with no breath in it at all? An idol cannot wake up, speak, or help anyone who calls to it. But the LORD is in His holy temple, so let all the earth keep silence before Him."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Habakkuk 2:4",
+          "text": "but the just shall live by his faith."
+        },
+        {
+          "reference": "Habakkuk 2:2",
+          "text": "Write the vision, and make it plain upon tables,"
+        },
+        {
+          "reference": "Habakkuk 2:20",
+          "text": "But the LORD is in his holy temple:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the LORD tell Habakkuk to do with the vision?",
+          "options": [
+            "Write it and make it plain upon tables",
+            "Whisper it to the elders",
+            "Seal it up until the last day",
+            "Sing it in the temple"
+          ],
+          "correctIndex": 0,
+          "explanation": "Habakkuk 2:2 — \"And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "According to the vision, how shall the just live?",
+          "options": [
+            "By his wisdom",
+            "By his strength",
+            "By his faith",
+            "By his riches"
+          ],
+          "correctIndex": 2,
+          "explanation": "Habakkuk 2:4 — \"Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "With what shall the earth be filled, as the waters cover the sea?",
+          "options": [
+            "The songs of the redeemed",
+            "The knowledge of the glory of the LORD",
+            "The riches of the nations",
+            "The light of the sun"
+          ],
+          "correctIndex": 1,
+          "explanation": "Habakkuk 2:14 — \"For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where is the LORD while all the earth keeps silence?",
+          "options": [
+            "On the mountain top",
+            "In the whirlwind",
+            "Above the cherubims",
+            "In his holy temple"
+          ],
+          "correctIndex": 3,
+          "explanation": "Habakkuk 2:20 — \"But the LORD is in his holy temple: let all the earth keep silence before him.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "TOWER",
+          "hint": "Where Habakkuk stood to watch for God's answer",
+          "theme": "places"
+        },
+        {
+          "word": "VISION",
+          "hint": "God said to write it plainly upon tables",
+          "theme": "things"
+        },
+        {
+          "word": "FAITH",
+          "hint": "The just shall live by his...",
+          "theme": "things"
+        },
+        {
+          "word": "TEMPLE",
+          "hint": "The LORD is in this holy place — let all the earth keep silence",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ROM.1.17",
+    "HEB.10.38",
+    "ISA.11.9"
+  ],
+  "reflection": "God told Habakkuk the answer would surely come, even if it seemed slow. What promise of God are you waiting for, and how can you keep trusting Him while you wait?"
+}

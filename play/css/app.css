@@ -1,0 +1,459 @@
+/* Bible Games — web edition.
+   Colour tokens mirror Theme.swift so the web and iOS apps look like one product. */
+
+:root {
+  --primary: #1A3A5C;      /* navy */
+  --secondary: #D4A843;    /* gold */
+  --success: #4CAF50;
+  --error: #E53935;
+
+  --scaffold: #EEF1F6;
+  --card: #FFFFFF;
+  --on-scaffold: #2C2C2C;
+  --on-muted: #6B6B6B;
+  --rule: #DCE3EC;
+  --shadow: 0 1px 2px rgba(26,58,92,.07), 0 8px 24px rgba(26,58,92,.07);
+
+  --f-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --f-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --maxw: 760px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --scaffold: #10151C;
+    --card: #1B2230;
+    --on-scaffold: #ECECEC;
+    --on-muted: #AEB6C2;
+    --rule: #2A3443;
+    --shadow: 0 1px 2px rgba(0,0,0,.35), 0 8px 24px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"] {
+  --scaffold: #10151C;
+  --card: #1B2230;
+  --on-scaffold: #ECECEC;
+  --on-muted: #AEB6C2;
+  --rule: #2A3443;
+  --shadow: 0 1px 2px rgba(0,0,0,.35), 0 8px 24px rgba(0,0,0,.3);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  background: var(--scaffold);
+  color: var(--on-scaffold);
+  font-family: var(--f-ui);
+  font-size: 17px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+h1, h2, h3 { margin: 0; line-height: 1.2; text-wrap: balance; }
+p { margin: 0; }
+.muted { color: var(--on-muted); }
+.small { font-size: 14px; }
+.success { color: var(--success); }
+.center { text-align: center; }
+
+/* ── App chrome ───────────────────────────────────────────────────────────── */
+
+#app { min-height: 100%; display: flex; flex-direction: column; }
+
+.topbar {
+  position: sticky; top: 0; z-index: 20;
+  display: flex; align-items: center; gap: 12px;
+  padding: 12px 16px;
+  background: var(--primary);
+  color: #fff;
+}
+.topbar .title { font-weight: 700; font-size: 17px; flex: 1; text-align: center; }
+.topbar button {
+  background: rgba(255,255,255,.14); color: #fff; border: 0;
+  width: 36px; height: 36px; border-radius: 10px; font-size: 17px; cursor: pointer;
+}
+.topbar button:hover { background: rgba(255,255,255,.24); }
+.topbar .spacer { width: 36px; }
+
+main { flex: 1; width: 100%; max-width: var(--maxw); margin: 0 auto; padding: 16px; }
+
+.card {
+  background: var(--card); border-radius: 16px; padding: 16px;
+  box-shadow: var(--shadow);
+}
+
+button { font-family: inherit; font-size: inherit; }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  padding: 13px 20px; border-radius: 14px; border: 1px solid var(--rule);
+  background: var(--card); color: var(--on-scaffold);
+  font-weight: 600; cursor: pointer; width: 100%;
+}
+.btn:hover { filter: brightness(.97); }
+.btn.primary { background: var(--primary); color: #fff; border-color: transparent; }
+.btn.gold { background: var(--secondary); color: #22282f; border-color: transparent; }
+.btn:disabled { opacity: .45; cursor: default; }
+.actions { display: flex; gap: 10px; margin-top: 18px; }
+
+:focus-visible { outline: 3px solid var(--secondary); outline-offset: 2px; border-radius: 8px; }
+
+/* ── Home ─────────────────────────────────────────────────────────────────── */
+
+.hero {
+  background: var(--primary); color: #fff;
+  padding: 22px 16px 26px; text-align: center;
+}
+.hero h1 { font-size: 26px; font-weight: 800; }
+.hero .tagline { opacity: .82; font-size: 14px; margin-top: 4px; }
+.hero-stats { display: flex; justify-content: center; gap: 10px; margin-top: 16px; flex-wrap: wrap; }
+.pill {
+  background: rgba(255,255,255,.14); border-radius: 999px;
+  padding: 6px 14px; font-size: 13px; font-weight: 600;
+}
+.xp-bar { height: 6px; border-radius: 3px; background: rgba(255,255,255,.2); margin-top: 14px; overflow: hidden; }
+.xp-bar > i { display: block; height: 100%; background: var(--secondary); }
+
+.journey-card {
+  display: flex; align-items: center; gap: 14px; width: 100%; text-align: left;
+  border: 1px solid var(--rule); cursor: pointer;
+  color: var(--on-scaffold);
+}
+.journey-card .glyph { font-size: 26px; }
+.journey-card .grow { flex: 1; }
+.journey-card .sub { font-size: 13px; color: var(--on-muted); }
+
+.game-grid {
+  display: grid; gap: 12px; margin-top: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+.game-tile {
+  display: flex; flex-direction: column; align-items: flex-start; gap: 6px;
+  padding: 18px; border-radius: 18px; border: 1px solid var(--rule);
+  background: var(--card); cursor: pointer; text-align: left; width: 100%;
+  box-shadow: var(--shadow);
+  color: var(--on-scaffold);
+}
+.game-tile:hover { transform: translateY(-2px); }
+.game-tile .disc {
+  width: 46px; height: 46px; border-radius: 50%;
+  display: grid; place-items: center; font-size: 22px; margin-bottom: 4px;
+}
+.game-tile .gt-name { font-weight: 700; font-size: 17px; }
+.game-tile .gt-blurb { font-size: 13px; color: var(--on-muted); }
+.game-tile .gt-best { font-size: 12px; color: var(--on-muted); margin-top: 6px; }
+
+/* ── Game flow ────────────────────────────────────────────────────────────── */
+
+.picker { text-align: center; display: flex; flex-direction: column; gap: 10px; align-items: center; }
+.picker-icon { width: 86px; height: 86px; border-radius: 50%; display: grid; place-items: center; font-size: 38px; }
+.label { font-size: 12px; font-weight: 800; letter-spacing: .12em; color: var(--on-muted); margin-top: 8px; }
+.tiers { display: flex; flex-direction: column; gap: 10px; width: 100%; max-width: 340px; }
+.tier { display: flex; justify-content: space-between; align-items: center;
+  padding: 15px 18px; border-radius: 14px; border: 1px solid var(--rule);
+  background: var(--card); cursor: pointer; width: 100%;
+  color: var(--on-scaffold);
+}
+.tier-name { font-weight: 700; }
+.tier-mult { color: var(--on-muted); font-size: 14px; }
+
+.countdown { display: grid; place-items: center; gap: 10px; padding: 60px 0; }
+.countdown-game { font-weight: 800; font-size: 20px; }
+.countdown-num { font-size: 76px; font-weight: 800; color: var(--secondary); }
+
+.progress-row { display: flex; justify-content: space-between; align-items: center; font-size: 14px; color: var(--on-muted); }
+.bar { height: 6px; border-radius: 3px; background: var(--rule); overflow: hidden; margin: 8px 0 16px; }
+.bar > i { display: block; height: 100%; background: var(--secondary); transition: width .3s; }
+
+.results { text-align: center; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.results-badge { width: 64px; height: 64px; border-radius: 50%; display: grid; place-items: center;
+  color: #fff; font-size: 30px; margin-bottom: 6px; }
+.score-big { font-size: 50px; font-weight: 800; line-height: 1; }
+.stat-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 100%; margin-top: 18px; }
+.stat { background: var(--card); border-radius: 12px; padding: 12px; box-shadow: var(--shadow); }
+.stat-value { font-weight: 800; font-size: 19px; }
+.stat-label { font-size: 12px; color: var(--on-muted); }
+.xp-row { margin-top: 14px; font-weight: 700; color: var(--secondary); }
+
+.story-complete {
+  width: 100%; margin-top: 16px; padding: 16px; border-radius: 16px;
+  background: color-mix(in srgb, var(--secondary) 16%, transparent);
+  border: 1px solid color-mix(in srgb, var(--secondary) 50%, transparent);
+  display: flex; flex-direction: column; gap: 6px; align-items: center;
+}
+.sc-title { font-weight: 800; font-size: 19px; }
+.stars { font-size: 22px; color: var(--secondary); letter-spacing: 3px; }
+
+/* ── Shared game pieces ───────────────────────────────────────────────────── */
+
+.q-card { background: var(--card); border-radius: 16px; padding: 18px; text-align: center;
+  font-size: 19px; font-weight: 600; box-shadow: var(--shadow); }
+.options { display: flex; flex-direction: column; gap: 10px; margin-top: 14px; }
+.option {
+  display: flex; align-items: center; gap: 12px; text-align: left; width: 100%;
+  padding: 14px 16px; border-radius: 12px; border: 1px solid var(--rule);
+  background: var(--card); cursor: pointer;
+  color: var(--on-scaffold);
+}
+.option .letter { width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center;
+  font-size: 14px; font-weight: 700; flex: none; }
+.option.correct { border-color: var(--success); background: color-mix(in srgb, var(--success) 15%, var(--card)); }
+.option.wrong { border-color: var(--error); background: color-mix(in srgb, var(--error) 15%, var(--card)); }
+.explain { margin-top: 12px; padding: 12px; border-radius: 12px; font-size: 14px;
+  background: color-mix(in srgb, var(--secondary) 14%, transparent); }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  padding: 9px 13px; border-radius: 10px; border: 1px solid var(--rule);
+  background: var(--card); cursor: pointer; font-family: var(--f-serif); font-size: 17px;
+  /* A <button> does not inherit page colour — without this, chips rendered
+     near-black on the dark card and were effectively invisible. */
+  color: var(--on-scaffold);
+}
+.chip.used { opacity: .35; cursor: default; }
+.answer-box {
+  min-height: 62px; padding: 12px; border-radius: 12px; border: 1px solid var(--rule);
+  background: var(--card); display: flex; flex-wrap: wrap; gap: 8px; align-content: flex-start;
+}
+
+.verse-ref { text-align: center; font-weight: 800; font-size: 19px; padding: 16px;
+  border-radius: 16px; background: color-mix(in srgb, var(--secondary) 15%, transparent); }
+
+/* ── Journey ──────────────────────────────────────────────────────────────── */
+
+.vault-card {
+  display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; cursor: pointer;
+  padding: 14px; border-radius: 16px; margin-bottom: 14px;
+  background: color-mix(in srgb, var(--secondary) 16%, transparent);
+  border: 1px solid color-mix(in srgb, var(--secondary) 50%, transparent);
+  color: var(--on-scaffold);
+}
+.section-head { text-align: center; margin: 22px 0 10px; }
+.section-head .bk { font-size: 20px; font-weight: 800; }
+.section-head .tv { font-size: 13px; color: var(--on-muted); font-style: italic; }
+.badge-chip { display: inline-block; margin-top: 6px; font-size: 12px; font-weight: 700;
+  padding: 3px 10px; border-radius: 999px; background: var(--rule); color: var(--on-muted); }
+.badge-chip.earned { background: color-mix(in srgb, var(--secondary) 22%, transparent); color: var(--secondary); }
+
+.stops { display: flex; flex-direction: column; gap: 8px; }
+.stop-row {
+  display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; cursor: pointer;
+  padding: 13px 14px; border-radius: 14px; border: 1px solid var(--rule); background: var(--card);
+  color: var(--on-scaffold);
+}
+.stop-row[disabled] { opacity: .5; cursor: default; }
+.stop-row .node {
+  width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center;
+  font-size: 15px; font-weight: 700; flex: none; background: var(--rule); color: var(--on-muted);
+}
+.stop-row.done .node { background: var(--success); color: #fff; }
+.stop-row.current .node { background: var(--secondary); color: #22282f; }
+.stop-row .st-title { font-weight: 600; flex: 1; }
+.stop-row .st-stars { color: var(--secondary); font-size: 13px; letter-spacing: 1px; }
+
+.anchor-chip { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; font-weight: 600;
+  padding: 7px 13px; border-radius: 999px;
+  background: color-mix(in srgb, var(--secondary) 16%, transparent); }
+.sec-title { font-size: 16px; font-weight: 800; margin-top: 18px; }
+.passage {
+  display: flex; gap: 12px; align-items: flex-start; width: 100%; text-align: left; cursor: pointer;
+  padding: 14px; border-radius: 14px; border: 1px solid var(--rule); background: var(--card);
+  color: var(--on-scaffold);
+}
+.passage[disabled] { opacity: .55; cursor: default; }
+.passage .mark { font-size: 18px; flex: none; }
+.passage .pr { font-weight: 700; font-size: 14px; }
+.passage .syn { font-size: 14px; color: var(--on-muted); margin-top: 2px; }
+
+.reader-verse { font-family: var(--f-serif); font-size: 18px; line-height: 1.62; margin-bottom: 10px; }
+.reader-verse .vn { font-size: 12px; font-weight: 700; color: var(--secondary); margin-right: 4px; vertical-align: super; }
+
+.gate-grid { display: grid; gap: 10px; grid-template-columns: 1fr; margin-top: 10px; }
+.gate {
+  display: flex; align-items: center; gap: 12px; padding: 14px; border-radius: 14px;
+  border: 1px solid var(--rule); background: var(--card); cursor: pointer; width: 100%;
+  text-align: left; color: var(--on-scaffold);
+}
+.gate[disabled] { opacity: .5; cursor: default; }
+.gate .disc { width: 36px; height: 36px; border-radius: 50%; display: grid; place-items: center;
+  color: #fff; font-size: 17px; flex: none; }
+
+.fade-meter { display: inline-flex; gap: 3px; }
+.fade-meter i { width: 14px; height: 5px; border-radius: 3px; background: var(--rule); display: block; }
+.fade-meter i.on { background: var(--secondary); }
+.slot { font-family: var(--f-serif); font-size: 18px; padding: 2px 8px; border-radius: 7px;
+  background: color-mix(in srgb, var(--primary) 12%, transparent); }
+.slot.filled { background: color-mix(in srgb, var(--success) 20%, transparent); font-weight: 700; }
+.slot.next { outline: 2px solid var(--secondary); }
+
+.empty { text-align: center; padding: 48px 20px; color: var(--on-muted); }
+.toast {
+  position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%);
+  background: var(--primary); color: #fff; padding: 10px 18px; border-radius: 999px;
+  font-size: 14px; z-index: 50; box-shadow: var(--shadow);
+}
+
+/* ── Grid games ───────────────────────────────────────────────────────────── */
+
+.ws-grid { display: grid; gap: 2px; user-select: none; touch-action: none; margin: 0 auto; }
+.ws-cell {
+  aspect-ratio: 1; display: grid; place-items: center; border-radius: 5px;
+  background: var(--card); font-weight: 700; font-size: 15px; cursor: pointer;
+  color: var(--on-scaffold);
+}
+.ws-cell.sel { background: var(--secondary); color: #22282f; }
+.ws-cell.found { color: #fff; }
+.ws-words { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 14px; }
+.ws-word { font-size: 13px; font-weight: 700; padding: 4px 10px; border-radius: 999px;
+  background: var(--card); border: 1px solid var(--rule); }
+.ws-word.hit { text-decoration: line-through; opacity: .55; }
+
+.mem-grid { display: grid; gap: 8px; }
+.mem-card {
+  aspect-ratio: 3/4; border-radius: 12px; border: 1px solid var(--rule); cursor: pointer;
+  display: grid; place-items: center; padding: 8px; text-align: center; font-size: 12px;
+  background: var(--primary); color: #fff;
+}
+.mem-card.up { background: var(--card); color: var(--on-scaffold); }
+.mem-card.gone { opacity: .25; cursor: default; }
+
+.hang-word { font-family: var(--f-serif); font-size: 26px; letter-spacing: 7px; text-align: center; font-weight: 700; }
+.keys { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; margin-top: 16px; }
+.key { padding: 11px 0; border-radius: 9px; border: 1px solid var(--rule); background: var(--card);
+  font-weight: 700; cursor: pointer;
+  color: var(--on-scaffold);
+}
+.key[disabled] { opacity: .32; cursor: default; }
+
+.order-list { display: flex; flex-direction: column; gap: 7px; }
+.order-item { display: flex; align-items: center; gap: 10px; padding: 11px 14px; border-radius: 11px;
+  border: 1px solid var(--rule); background: var(--card); cursor: grab; }
+.order-item .num { width: 24px; color: var(--on-muted); font-size: 13px; font-weight: 700; }
+.order-item.ok { border-color: var(--success); }
+.order-item.no { border-color: var(--error); }
+
+@media (max-width: 520px) {
+  .stat-grid { grid-template-columns: repeat(2, 1fr); }
+  .keys { grid-template-columns: repeat(7, 1fr); }
+  body { font-size: 16px; }
+}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+/* ── Who Am I? ────────────────────────────────────────────────────────────────
+   The clue list inside .q-card: left-aligned body text with an accent-numbered
+   gutter, since .q-card itself is centred and bold for one-line prompts. */
+
+.wai-head { font-size: 13px; font-weight: 800; letter-spacing: .1em; }
+.wai-clues {
+  display: flex; flex-direction: column; gap: 9px; margin-top: 12px;
+  text-align: left; font-size: 16px; font-weight: 400; line-height: 1.45;
+}
+.wai-clue { display: flex; gap: 9px; align-items: baseline; }
+.wai-clue .n { font-weight: 800; font-size: 14px; flex: none; }
+.wai-clue.fresh { animation: wai-reveal .28s ease-out; }
+@keyframes wai-reveal { from { opacity: 0; transform: translateY(-6px); } }
+.wai-worth { text-align: center; margin: 12px 0; }
+
+/* ── Verse Scramble ───────────────────────────────────────────────────────────
+   Tap-to-lock means a wrong word is refused rather than placed, so the only
+   feedback there is lives on the chip itself; a placed word, by contrast, has
+   to read as settled. The nudge needs !important because the bank tints each
+   chip inline with the game's accent. The colour is here because shared .chip
+   sets none, so a <button> chip falls back to the UA's black and vanishes in
+   dark mode — scoped rather than fixed in .chip, which other games share. */
+
+.sc-bank .chip { min-height: 44px; color: var(--on-scaffold); }
+.sc-placed {
+  border-color: var(--success); font-weight: 600; cursor: default;
+  background: color-mix(in srgb, var(--success) 18%, transparent);
+  animation: sc-pop .2s ease-out;
+}
+.sc-nudge {
+  border-color: var(--error) !important;
+  background: color-mix(in srgb, var(--error) 16%, transparent) !important;
+  animation: sc-nudge .26s ease-in-out;
+}
+@keyframes sc-pop { from { opacity: 0; transform: scale(.6); } }
+@keyframes sc-nudge { 25% { transform: translateX(-5px); } 75% { transform: translateX(5px); } }
+
+.sc-coach {
+  margin-top: 12px; padding: 10px 12px; border-radius: 10px;
+  font-size: 14px; font-weight: 600; color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 14%, transparent);
+  border: 1px solid color-mix(in srgb, var(--secondary) 55%, transparent);
+}
+
+.sc-done {
+  margin-top: 14px; padding: 14px; border-radius: 12px;
+  display: flex; flex-direction: column; gap: 9px;
+  background: color-mix(in srgb, var(--success) 14%, transparent);
+  border: 1.5px solid var(--success);
+}
+.sc-done-head { font-weight: 800; font-size: 15px; color: var(--success); }
+.sc-done-text { font-family: var(--f-serif); font-style: italic; font-size: 15px; }
+
+/* ── Memory Match (js/games/memory.js) ────────────────────────────────────── */
+/* Cards get small on a phone (4 columns on medium/hard), so each face carries
+   its own type scale: the reference stays bold and legible while a 99-character
+   verse still fits inside the card. */
+.mem-card { overflow: hidden; }
+.mem-ref { font-weight: 800; font-size: clamp(11px, 3vw, 14px); }
+.mem-text { font-style: italic; font-size: clamp(9px, 2.6vw, 12px); line-height: 1.25; }
+.mem-back { font-size: clamp(20px, 6vw, 28px); opacity: .75; }
+/* Matched pairs stay readable rather than fading almost all the way out. */
+.mem-card.up.gone { opacity: .5; }
+
+/* ── Books of the Bible ───────────────────────────────────────────────────── */
+/* The list itself reuses .order-list / .order-item; these are the controls a
+   thumb needs, since drag alone is unusable for a child on a phone. */
+
+.bk-clock { font-variant-numeric: tabular-nums; }
+.bk-pick {
+  flex: 1; min-width: 0; min-height: 44px; padding: 10px 2px; text-align: left;
+  background: none; border: 0; color: inherit; font-weight: 600; cursor: pointer;
+}
+.bk-pick:disabled { opacity: 1; cursor: default; }
+.bk-lock { flex: none; font-weight: 700; }
+.order-item.ok .num, .order-item.ok .bk-lock { color: var(--success); }
+.order-item.sel {
+  border-color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 18%, var(--card));
+}
+.order-item.bk-over { border-color: var(--secondary); }
+.order-item.bk-drag { opacity: .55; }
+
+.bk-ctl { display: flex; gap: 3px; flex: none; }
+.bk-step, .bk-grip {
+  width: 44px; height: 44px; border-radius: 10px; border: 1px solid var(--rule);
+  background: var(--card); color: var(--on-muted); font-size: 15px;
+  display: grid; place-items: center; flex: none; cursor: pointer;
+}
+.bk-step:disabled { opacity: .3; cursor: default; }
+.bk-grip { cursor: grab; touch-action: none; } /* own the touch, or the page scrolls instead */
+
+/* 66 rows put the Check button far below the fold. */
+.bk-bar {
+  position: sticky; bottom: 0; z-index: 5; margin-top: 14px;
+  padding: 12px 0 max(12px, env(safe-area-inset-bottom));
+  background: linear-gradient(to top, var(--scaffold) 74%, transparent);
+  display: flex; flex-direction: column; gap: 6px;
+}
+.order-item.ok { cursor: default; }
+
+/* ── Word Search ──────────────────────────────────────────────────────────────
+   The board is one square panel whose cells stay square via aspect-ratio, so
+   letters are sized from the grid's own width: a fixed px size is either tiny
+   on an 8×8 board or illegible on a 12×12 one at phone width. Cells share the
+   card colour with the panel behind them, so the hairline is what separates
+   them; selected and found cells take their ring from the text colour. */
+
+.ws-grid {
+  container-type: inline-size;
+  max-width: 520px; padding: 4px;
+  background: var(--card); border-radius: 12px; box-shadow: var(--shadow);
+}
+.ws-cell {
+  font-size: min(var(--ws-letter, 15px), 22px);
+  border: 1px solid color-mix(in srgb, var(--on-muted) 28%, transparent);
+}
+.ws-cell.sel, .ws-cell.found { border-color: currentColor; }

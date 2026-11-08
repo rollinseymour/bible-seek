@@ -1,0 +1,116 @@
+{
+  "id": "jon.the_runaway",
+  "title": "Jonah Runs Away",
+  "anchorRef": "JON.1.9",
+  "backstory": "Jonah is a prophet in Israel, and God gives him a surprising job: go warn Nineveh, the capital of Assyria, Israel's most feared enemy. Jonah does not want that great city to get a warning at all. So instead of heading east to Nineveh, he boards a ship sailing the opposite way — as if anyone could sail away from God.",
+  "passages": [
+    {
+      "ref": "JON.1.1-3",
+      "synopsis": "The word of the LORD came to Jonah: arise, go to Nineveh, and cry against its wickedness. Jonah arose — but to flee. He went down to Joppa, found a ship bound for Tarshish, and paid the fare. He sailed away from the presence of the LORD, or so he hoped."
+    },
+    {
+      "ref": "JON.1.4-10",
+      "synopsis": "The LORD sent a great wind, and the storm nearly broke the ship apart. The frightened sailors cried to their gods and threw the cargo overboard, while Jonah lay fast asleep below deck. The shipmaster woke him, and the sailors cast lots to find whose fault the trouble was. The lot fell on Jonah, and he admitted he was running from the LORD, the God who made the sea and the dry land."
+    },
+    {
+      "ref": "JON.1.11-17",
+      "synopsis": "The sea grew wilder, and Jonah told the men to throw him overboard, for the storm was his fault. The sailors rowed hard for land instead, but they could not make it. At last they prayed to the LORD, cast Jonah into the sea, and the raging water went still. The men feared the LORD and made vows — and the LORD prepared a great fish to swallow Jonah, who stayed in its belly three days and three nights."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Jonah 1:2",
+          "text": "Arise, go to Nineveh, that great city, and cry against it;"
+        },
+        {
+          "reference": "Jonah 1:15",
+          "text": "So they took up Jonah, and cast him forth into the sea:"
+        },
+        {
+          "reference": "Jonah 1:16",
+          "text": "Then the men feared the LORD exceedingly,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "To what great city did God tell Jonah to go and cry against?",
+          "options": [
+            "Tarshish",
+            "Nineveh",
+            "Joppa",
+            "Babylon"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jonah 1:2 — \"Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did the sailors find out the storm had come because of Jonah?",
+          "options": [
+            "They cast lots",
+            "An angel told them",
+            "Jonah had a dream",
+            "The shipmaster guessed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Jonah 1:7 — \"And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What happened when the men cast Jonah into the sea?",
+          "options": [
+            "The ship broke apart",
+            "The wind grew stronger",
+            "The sea ceased from her raging",
+            "It began to rain"
+          ],
+          "correctIndex": 2,
+          "explanation": "Jonah 1:15 — \"So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the LORD prepare to swallow up Jonah?",
+          "options": [
+            "A great wind",
+            "A mighty wave",
+            "A strong current",
+            "A great fish"
+          ],
+          "correctIndex": 3,
+          "explanation": "Jonah 1:17 — \"Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Jonah Runs Away",
+          "words": [
+            "JONAH",
+            "NINEVEH",
+            "TARSHISH",
+            "JOPPA",
+            "SHIP",
+            "TEMPEST",
+            "LOTS",
+            "FISH"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "2KI.14.25",
+    "PSA.139.7",
+    "PSA.107.28"
+  ],
+  "reflection": "Jonah tried to sail away from what God asked of him, but God's care followed him even into the storm. When have you wanted to run from something God asked you to do?"
+}

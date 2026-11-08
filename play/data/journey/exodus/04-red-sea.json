@@ -1,0 +1,133 @@
+{
+  "id": "exo.red_sea",
+  "title": "The Red Sea",
+  "anchorRef": "EXO.14.14",
+  "backstory": "Israel walked out of Egypt as free people, only to find themselves camped against an impassable sea. Behind them came the sound of six hundred chariots. Freed slaves with no army and no way forward were about to learn what kind of God had rescued them.",
+  "passages": [
+    {
+      "ref": "EXO.14.5-14",
+      "synopsis": "Pharaoh changed his mind and chased after Israel with his army and chariots. Trapped against the sea, the people were terrified and cried out. Moses told them not to fear but to stand still and see the salvation of the LORD. \"The LORD shall fight for you,\" he said, \"and ye shall hold your peace.\""
+    },
+    {
+      "ref": "EXO.14.15-22",
+      "synopsis": "God told Moses to lift his rod and stretch out his hand over the sea. A strong east wind blew all night and divided the waters. The people of Israel walked through on dry ground, with walls of water on their right and left. The pillar of cloud stood between them and Egypt."
+    },
+    {
+      "ref": "EXO.14.23-31",
+      "synopsis": "The Egyptians rushed into the sea after Israel, but their chariots bogged down. When Israel had crossed, God told Moses to stretch out his hand again. The waters rushed back and covered Pharaoh's whole army. Israel saw the great work of the LORD, and they feared and believed him."
+    },
+    {
+      "ref": "EXO.15.1-13",
+      "synopsis": "Safe on the far shore, Moses and the people sang to the LORD. They praised him as their strength and their song, the one who had triumphed gloriously. They sang of how he threw horse and rider into the sea. In his mercy the LORD had led out the people he redeemed."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Exodus 14:14",
+          "text": "The LORD shall fight for you, and ye shall hold your peace."
+        },
+        {
+          "reference": "Exodus 15:13",
+          "text": "thou hast guided them in thy strength unto thy holy habitation."
+        },
+        {
+          "reference": "Exodus 14:21",
+          "text": "And Moses stretched out his hand over the sea;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Moses said, \"The LORD shall ___ for you, and ye shall hold your peace.\"",
+          "options": [
+            "fight",
+            "wait",
+            "pray",
+            "hide"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exodus 14:14 — \"The LORD shall fight for you, and ye shall hold your peace.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did God make a path through the sea?",
+          "options": [
+            "An earthquake",
+            "A great fish",
+            "A strong east wind",
+            "A stone bridge"
+          ],
+          "correctIndex": 2,
+          "explanation": "Exodus 14:21 — \"And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Israel walk across as the waters stood on either side?",
+          "options": [
+            "A raft of reeds",
+            "Dry ground",
+            "A rope bridge",
+            "Stepping stones"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exodus 14:16 — \"But lift thou up thy rod, and stretch out thine hand over the sea, and divide it: and the children of Israel shall go on dry ground through the midst of the sea.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "After crossing safely, how did Moses and Israel respond?",
+          "options": [
+            "A fast",
+            "Silence",
+            "A sacrifice of bulls",
+            "A song to the LORD"
+          ],
+          "correctIndex": 3,
+          "explanation": "Exodus 15:1 — \"Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Miriam",
+          "clues": [
+            "I was the sister of Moses and Aaron.",
+            "I watched over my baby brother by the river.",
+            "I led the women with a timbrel and dancing after the sea."
+          ],
+          "wrongChoices": [
+            "Deborah",
+            "Rahab",
+            "Ruth"
+          ]
+        },
+        {
+          "name": "Moses",
+          "clues": [
+            "I stretched my hand over the Red Sea.",
+            "I told the people to fear not, stand still, and see the salvation of the LORD.",
+            "I sang a song of victory on the far shore."
+          ],
+          "wrongChoices": [
+            "Aaron",
+            "Joshua",
+            "Caleb"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "1CO.10.1",
+    "PSA.106.9",
+    "HEB.11.29"
+  ],
+  "reflection": "Israel had to move forward before the sea opened. Where is God asking you to trust and step out?"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "lev.priests",
+  "title": "Aaron and His Sons",
+  "anchorRef": "LEV.10.3",
+  "backstory": "The tabernacle was finished and the offerings commanded, but someone had to stand between the people and God's presence. God set apart Aaron and his sons for that work. What follows shows both the glory and the seriousness of drawing near.",
+  "passages": [
+    {
+      "ref": "LEV.8.1-13",
+      "synopsis": "Moses set apart Aaron and his sons to serve as priests. He washed them, clothed them in the holy garments, and anointed them with oil. This ordination showed that those who come near to God must be consecrated. Aaron was made high priest for the people."
+    },
+    {
+      "ref": "LEV.9.22-24",
+      "synopsis": "After the first offerings, Aaron blessed the people, and the glory of the LORD appeared. Fire came out from before the LORD and consumed the offering on the altar. When the people saw it, they shouted for joy and fell on their faces. God had accepted their worship."
+    },
+    {
+      "ref": "LEV.10.1-7",
+      "synopsis": "Aaron's sons Nadab and Abihu offered strange fire the LORD had not commanded. Fire went out from the LORD and they died before him. God is holy and must be honored by those who draw near. It was a solemn warning to take his presence seriously."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Aaron",
+          "clues": [
+            "I was the brother of Moses.",
+            "Two of my sons offered strange fire before the LORD, and I held my peace.",
+            "I offered the sacrifices and blessed the people."
+          ],
+          "wrongChoices": [
+            "Moses",
+            "Joshua",
+            "Eleazar"
+          ]
+        },
+        {
+          "name": "Moses",
+          "clues": [
+            "I anointed my brother and his sons as priests.",
+            "I set the breastplate with the Urim and the Thummim upon my brother.",
+            "I met with God on the mountain."
+          ],
+          "wrongChoices": [
+            "Aaron",
+            "Caleb",
+            "Joshua"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What appeared and consumed the offering when Aaron finished?",
+          "options": [
+            "Fire from the LORD",
+            "A cloud",
+            "An angel",
+            "A wind"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 9:24 — \"And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did Nadab and Abihu die before the LORD?",
+          "options": [
+            "They offered strange fire He had not commanded",
+            "They stole the offering",
+            "They fled the camp",
+            "They spoke against Moses"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leviticus 10:2 — \"And there went out fire from the LORD, and devoured them, and they died before the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Moses put in the breastplate when he clothed Aaron?",
+          "options": [
+            "Twelve almond rods",
+            "The Urim and the Thummim",
+            "The tables of stone",
+            "A pot of manna"
+          ],
+          "correctIndex": 1,
+          "explanation": "Leviticus 8:8 — \"And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Aaron do when he came down from offering for the people?",
+          "options": [
+            "He went home to his tent",
+            "He called for the elders",
+            "He set up a pillar of stone",
+            "He lifted up his hand and blessed them"
+          ],
+          "correctIndex": 3,
+          "explanation": "Leviticus 9:22 — \"And Aaron lifted up his hand toward the people, and blessed them, and came down from offering of the sin offering, and the burnt offering, and peace offerings.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Leviticus 8:6",
+          "text": "And Moses brought Aaron and his sons, and washed them with water."
+        },
+        {
+          "reference": "Leviticus 9:6",
+          "text": "and the glory of the LORD shall appear unto you."
+        },
+        {
+          "reference": "Leviticus 10:3",
+          "text": "I will be sanctified in them that come nigh me,"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.28.1",
+    "HEB.5.4",
+    "1PE.2.9"
+  ],
+  "reflection": "God is holy, and coming near to Him is a serious gift. What does it mean to treat God with reverence?"
+}

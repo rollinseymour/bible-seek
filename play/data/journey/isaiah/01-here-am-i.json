@@ -1,0 +1,127 @@
+{
+  "id": "isa.here_am_i",
+  "title": "Here Am I; Send Me",
+  "anchorRef": "ISA.6.8",
+  "backstory": "Isaiah was a prophet in Jerusalem about seven hundred years before Jesus, in the days when kings of Judah rose and fell. His book opens with a heartbroken charge: God's own people have forgotten him. Yet before Isaiah could carry God's message, he first had to see God's glory for himself.",
+  "passages": [
+    {
+      "ref": "ISA.1.1-9",
+      "synopsis": "Isaiah saw visions about Judah and Jerusalem during the reigns of four kings. God called heaven and earth to listen: his own children had turned away from him. Even the ox and the donkey know their master, but God's people did not know him. Yet God kept a small remnant safe, for he was not finished with them."
+    },
+    {
+      "ref": "ISA.1.16-20",
+      "synopsis": "God invited his people to wash and be clean, to stop doing evil and learn to do good. He told them to care for the orphan and the widow. Then came a tender promise: though their sins were like scarlet, they could be white as snow. God was ready to forgive all who were willing and obedient."
+    },
+    {
+      "ref": "ISA.6.1-4",
+      "synopsis": "In the year King Uzziah died, Isaiah saw the Lord seated on a throne, high and lifted up. The train of his robe filled the temple. Above the throne stood the seraphims, each with six wings, crying, Holy, holy, holy, is the LORD of hosts. The doorposts shook, and the house filled with smoke."
+    },
+    {
+      "ref": "ISA.6.5-8",
+      "synopsis": "Isaiah cried out that he was a man of unclean lips who had seen the King. One of the seraphims flew to him with a live coal from the altar and touched his lips, taking his sin away. Then the Lord asked who would go for him. Isaiah answered, Here am I; send me."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Isaiah 1:17",
+          "text": "Learn to do well; seek judgment, relieve the oppressed,"
+        },
+        {
+          "reference": "Isaiah 6:3",
+          "text": "Holy, holy, holy, is the LORD of hosts:"
+        },
+        {
+          "reference": "Isaiah 6:8",
+          "text": "Then said I, Here am I; send me."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In the year that which king died did Isaiah see the Lord on his throne?",
+          "options": [
+            "Ahaz",
+            "Uzziah",
+            "Hezekiah",
+            "Solomon"
+          ],
+          "correctIndex": 1,
+          "explanation": "Isaiah 6:1 — \"In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the seraphims cry to one another?",
+          "options": [
+            "Glory to God in the highest",
+            "Great and marvellous are thy works",
+            "Holy, holy, holy, is the LORD of hosts",
+            "Blessed be the name of the LORD"
+          ],
+          "correctIndex": 2,
+          "explanation": "Isaiah 6:3 — \"And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did one of the seraphims bring to Isaiah?",
+          "options": [
+            "A live coal from the altar",
+            "A golden scroll",
+            "A cup of water",
+            "A branch of hyssop"
+          ],
+          "correctIndex": 0,
+          "explanation": "Isaiah 6:6 — \"Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When the Lord asked, Whom shall I send, what did Isaiah answer?",
+          "options": [
+            "Send my brother instead",
+            "I am too young to go",
+            "Let another go for me",
+            "Here am I; send me"
+          ],
+          "correctIndex": 3,
+          "explanation": "Isaiah 6:8 — \"Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "UZZIAH",
+          "hint": "The king who died the year Isaiah saw the Lord",
+          "theme": "people"
+        },
+        {
+          "word": "SERAPHIMS",
+          "hint": "Six-winged ones who cried, Holy, holy, holy",
+          "theme": "people"
+        },
+        {
+          "word": "TEMPLE",
+          "hint": "The train of the Lord's robe filled this house",
+          "theme": "places"
+        },
+        {
+          "word": "ALTAR",
+          "hint": "The live coal was taken from here with tongs",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JHN.12.41",
+    "REV.4.8",
+    "JER.1.7"
+  ],
+  "reflection": "God cleansed Isaiah's lips before he sent him out. When God calls, what would it mean for you to answer, Here am I; send me?"
+}

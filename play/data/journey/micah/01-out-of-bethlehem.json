@@ -1,0 +1,146 @@
+{
+  "id": "mic.out_of_bethlehem",
+  "title": "Out of Bethlehem",
+  "anchorRef": "MIC.5.2",
+  "backstory": "Micah was a prophet from the small town of Moresheth, preaching in the days of kings Jotham, Ahaz, and Hezekiah — the same years as Isaiah. Israel and Judah looked strong, but greedy leaders and false worship had weakened them from within, and the armies of Assyria were on the move. Micah brought both hard news of judgment and a bright promise: out of little Bethlehem, God would send a Ruler whose goings forth are from everlasting.",
+  "passages": [
+    {
+      "ref": "MIC.1.1-6",
+      "synopsis": "The word of the LORD came to Micah in the days of three kings of Judah. He called all the peoples of the earth to listen, for the Lord GOD Himself would be a witness against His people from His holy temple. God was coming forth out of His place to tread upon the high places, and the mountains would melt like wax before Him. All of this was for the sin of Jacob, and the heart of that sin was Samaria, the proud capital that had filled the land with idols. So Samaria would be made a heap of the field, her stones poured down into the valley."
+    },
+    {
+      "ref": "MIC.3.5-12",
+      "synopsis": "Micah spoke plainly against the false prophets, who promised peace to anyone who fed them. The rulers judged for reward and the priests taught for hire, yet they leaned on the LORD and said no evil could touch them. Micah, filled with the Spirit of the LORD, was not afraid to name their sin. Because of them, Zion would one day be plowed like a field."
+    },
+    {
+      "ref": "MIC.4.1-8",
+      "synopsis": "After the hard words comes a shining promise about the last days. The mountain of the house of the LORD will be lifted above the hills, and many nations will stream to it to learn God's ways. Swords will be beaten into plowshares, and no one will learn war any more. Every man will sit under his own vine and fig tree with nothing to fear, for the LORD will reign in mount Zion for ever."
+    },
+    {
+      "ref": "MIC.5.1-5",
+      "synopsis": "Enemies would lay siege to the land and strike Israel's judge upon the cheek. But God pointed to Bethlehem, a town too little to be counted among the thousands of Judah. Out of that small place would come a Ruler whose goings forth are from of old, from everlasting. He would stand and feed His flock in the strength of the LORD, and this man would be their peace."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Out of which little town did Micah say Israel's Ruler would come?",
+          "options": [
+            "Jerusalem",
+            "Bethlehem",
+            "Samaria",
+            "Hebron"
+          ],
+          "correctIndex": 1,
+          "explanation": "Micah 5:2 — \"But thou, Beth-lehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Micah say the nations will beat their swords into?",
+          "options": [
+            "Shields",
+            "Anchors",
+            "Plowshares",
+            "Crowns"
+          ],
+          "correctIndex": 2,
+          "explanation": "Micah 4:3 — \"And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "During the reigns of which kings did the word of the LORD come to Micah?",
+          "options": [
+            "Jotham, Ahaz, and Hezekiah",
+            "Saul, David, and Solomon",
+            "Omri, Ahab, and Jehu",
+            "Josiah, Jehoiakim, and Zedekiah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Micah 1:1 — \"The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Because of its corrupt leaders, what did Micah say would happen to Zion?",
+          "options": [
+            "It would sink into the sea",
+            "It would become a garden",
+            "It would be given to Assyria",
+            "It would be plowed as a field"
+          ],
+          "correctIndex": 3,
+          "explanation": "Micah 3:12 — \"Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Micah",
+          "clues": [
+            "I was a prophet from the little town of Moresheth.",
+            "I preached to Samaria and Jerusalem in the days of King Hezekiah.",
+            "I foretold that Israel's Ruler would come out of Bethlehem."
+          ],
+          "wrongChoices": [
+            "Isaiah",
+            "Amos",
+            "Hosea"
+          ]
+        },
+        {
+          "name": "Hezekiah",
+          "clues": [
+            "I was a king of Judah who listened when God's prophets spoke.",
+            "Micah preached the word of the LORD during my reign.",
+            "When Assyria threatened Jerusalem, I spread the matter before the LORD in prayer."
+          ],
+          "wrongChoices": [
+            "Ahaz",
+            "Jotham",
+            "Josiah"
+          ]
+        },
+        {
+          "name": "Jesus",
+          "clues": [
+            "I was born in Bethlehem when Joseph and Mary went there to be taxed, and I was laid in a manger.",
+            "When wise men asked where I would be born, the scribes read Micah's words aloud to Herod.",
+            "Micah said my goings forth are from of old, from everlasting."
+          ],
+          "wrongChoices": [
+            "Samuel",
+            "Solomon",
+            "John the Baptist"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Out of Bethlehem",
+          "words": [
+            "MICAH",
+            "BETHLEHEM",
+            "JUDAH",
+            "RULER",
+            "PEACE",
+            "ZION",
+            "PLOWSHARES"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.2.4",
+    "MAT.2.6",
+    "LUK.2.4"
+  ],
+  "reflection": "God chose little Bethlehem to bring forth the everlasting Ruler. Where have you seen God do great things through small places and small beginnings?"
+}

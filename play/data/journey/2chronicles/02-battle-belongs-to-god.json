@@ -1,0 +1,141 @@
+{
+  "id": "2ch.battle_belongs_to_god",
+  "title": "The Battle Belongs to God",
+  "anchorRef": "2CH.20.15",
+  "backstory": "Years after Solomon, the kingdom has split in two, and Jehoshaphat rules the southern kingdom of Judah. He is a king who seeks the LORD and teaches the people God's law. Then word comes that three armies have joined together and are marching against him.",
+  "passages": [
+    {
+      "ref": "2CH.20.1-4",
+      "synopsis": "A huge army from Moab, Ammon, and mount Seir came marching against Judah. When the news reached Jehoshaphat, he was afraid — and he set himself to seek the LORD. He proclaimed a fast throughout all Judah. From every city the people gathered together to ask the LORD for help."
+    },
+    {
+      "ref": "2CH.20.5-12",
+      "synopsis": "Jehoshaphat stood before all the people in the house of the LORD and prayed. He remembered that God rules over all kingdoms and that no one is able to withstand him. He told God plainly that Judah had no might against this great company. His prayer ended with simple trust — we do not know what to do, but our eyes are upon thee."
+    },
+    {
+      "ref": "2CH.20.13-19",
+      "synopsis": "As all Judah stood waiting, the Spirit of the LORD came upon a Levite named Jahaziel. He told them not to be afraid, for the battle was not theirs but God's. They would not even need to fight — only stand still and see the salvation of the LORD. Jehoshaphat and all the people bowed and worshipped, and the Levites praised God with a loud voice."
+    },
+    {
+      "ref": "2CH.20.20-30",
+      "synopsis": "Early in the morning Jehoshaphat told the people to believe in the LORD, and he appointed singers to march out in front of the army. As they began to sing and praise, the LORD set ambushes against their enemies, and the invaders fell. Judah spent three days gathering the spoil and then blessed the LORD in the valley of Berachah. They came home to Jerusalem with joy, and God gave the kingdom rest."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Jehoshaphat",
+          "clues": [
+            "I was a king of Judah who sought the LORD.",
+            "When three armies marched against me, I proclaimed a fast.",
+            "I sent singers out in front of my army."
+          ],
+          "wrongChoices": [
+            "Hezekiah",
+            "Asa",
+            "Ahab"
+          ]
+        },
+        {
+          "name": "Jahaziel",
+          "clues": [
+            "The Spirit of the LORD came upon me in the congregation.",
+            "I was a Levite who spoke to King Jehoshaphat.",
+            "I said the battle is not yours, but God's."
+          ],
+          "wrongChoices": [
+            "Elijah",
+            "Micaiah",
+            "Isaiah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Jehoshaphat proclaim throughout all Judah when the great army came?",
+          "options": [
+            "A feast",
+            "A fast",
+            "A census",
+            "A new tax"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Chronicles 20:3 — \"And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whom did Jehoshaphat appoint to go out before the army?",
+          "options": [
+            "Archers",
+            "Horsemen",
+            "Singers",
+            "Spearmen"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Chronicles 20:21 — \"And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endureth for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What happened when Judah began to sing and to praise?",
+          "options": [
+            "The LORD set ambushments against their enemies",
+            "It began to rain",
+            "The city walls fell down",
+            "Their enemies fled to the sea"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Chronicles 20:22 — \"And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was the valley called where Judah blessed the LORD?",
+          "options": [
+            "The valley of Achor",
+            "The valley of Elah",
+            "The valley of Jezreel",
+            "The valley of Berachah"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Chronicles 20:26 — \"And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SINGERS",
+          "hint": "Jehoshaphat sent them out in front of the army",
+          "theme": "people"
+        },
+        {
+          "word": "BERACHAH",
+          "hint": "The valley of blessing where Judah thanked God",
+          "theme": "places"
+        },
+        {
+          "word": "TEKOA",
+          "hint": "Judah marched into this wilderness singing",
+          "theme": "places"
+        },
+        {
+          "word": "JUDAH",
+          "hint": "The kingdom Jehoshaphat ruled",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.14.13",
+    "PSA.22.3",
+    "ACT.16.25"
+  ],
+  "reflection": "Judah won the battle by trusting God and singing his praise. When you face something too big for you, where do your eyes turn first?"
+}

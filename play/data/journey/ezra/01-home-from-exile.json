@@ -1,0 +1,119 @@
+{
+  "id": "ezr.home_from_exile",
+  "title": "Home from Exile",
+  "anchorRef": "EZR.3.11",
+  "backstory": "For seventy years God's people lived far from home in Babylon, just as the prophet Jeremiah had said. Then God stirred the heart of Cyrus, the great king of Persia, to send them back to Jerusalem. Ezra opens with a long journey home and the first brave steps of rebuilding what was lost.",
+  "passages": [
+    {
+      "ref": "EZR.1.1-4",
+      "synopsis": "In his very first year as king, Cyrus of Persia made a surprising announcement. The LORD had stirred his spirit, fulfilling the word spoken through Jeremiah. Cyrus said God had charged him to build a house for the LORD in Jerusalem. Any of God's people who wished could go up, and their neighbors were to help them with silver, gold, goods, and animals."
+    },
+    {
+      "ref": "EZR.1.5-11",
+      "synopsis": "The leaders of Judah and Benjamin, with the priests and Levites, rose up to go — everyone whose spirit God had stirred. Their neighbors filled their hands with silver, gold, and precious things. Cyrus even brought out the temple vessels that Nebuchadnezzar had carried off to Babylon long ago. The king's treasurer counted them out to Sheshbazzar, thousands of gold and silver vessels, and he brought them home to Jerusalem."
+    },
+    {
+      "ref": "EZR.3.1-7",
+      "synopsis": "When the seventh month came, the people gathered at Jerusalem as one man. Jeshua the priest and Zerubbabel built the altar of God and offered burnt offerings, just as the law of Moses commanded. They kept the feast of tabernacles together. The temple foundation was not yet laid, but worship had begun again."
+    },
+    {
+      "ref": "EZR.3.8-13",
+      "synopsis": "In the second year the builders laid the foundation of the temple of the LORD. The priests blew trumpets and the Levites clashed cymbals, singing that God is good and his mercy endures for ever. The people shouted with a great shout of joy. But the old men who remembered the first temple wept aloud, and no one could tell the weeping from the shouting."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ezra 1:6",
+          "text": "And all they that were about them strengthened their hands with vessels of silver"
+        },
+        {
+          "reference": "Ezra 3:1",
+          "text": "the people gathered themselves together as one man to Jerusalem."
+        },
+        {
+          "reference": "Ezra 3:6",
+          "text": "But the foundation of the temple of the LORD was not yet laid."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Which king of Persia did the LORD stir up to send his people home?",
+          "options": [
+            "Nebuchadnezzar",
+            "Cyrus",
+            "Darius",
+            "Artaxerxes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ezra 1:2 — \"Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Jeshua and Zerubbabel build first when the people gathered at Jerusalem?",
+          "options": [
+            "The altar of the God of Israel",
+            "The city wall",
+            "The king's palace",
+            "A watchtower"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ezra 3:2 — \"Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What happened when the foundation of the temple was laid?",
+          "options": [
+            "Everyone stood in silence",
+            "The people went back to Babylon",
+            "Some shouted for joy while others wept aloud",
+            "The foundation cracked"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ezra 3:13 — \"So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whose prophecy was fulfilled when the LORD brought his people home?",
+          "options": [
+            "Elijah's",
+            "Daniel's",
+            "Ezekiel's",
+            "Jeremiah's"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ezra 1:1 — \"Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Home from Exile",
+          "words": [
+            "CYRUS",
+            "PERSIA",
+            "VESSELS",
+            "ALTAR",
+            "TRUMPETS",
+            "CYMBALS",
+            "JOY"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.44.28",
+    "JER.29.10",
+    "PSA.126.1"
+  ],
+  "reflection": "At the temple foundation, joy and weeping rose together in one great sound. When has God brought you back to something you thought was lost for good?"
+}

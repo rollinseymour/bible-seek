@@ -1,0 +1,119 @@
+{
+  "id": "amo.seek_and_live",
+  "title": "Seek the LORD and Live",
+  "anchorRef": "AMO.5.24",
+  "backstory": "Israel in Amos's day looked strong and very religious. The markets were busy and the songs at the altars were loud, but the poor were being crushed and the worship was hollow. Through Amos, God called His people back to Himself while there was still time.",
+  "passages": [
+    {
+      "ref": "AMO.4.6-13",
+      "synopsis": "God had allowed hard times to wake His people up. There had been hunger, drought, and ruined harvests. After each one came the same sad refrain: yet have ye not returned unto me. So God told Israel to prepare to meet Him, the One who forms the mountains and creates the wind."
+    },
+    {
+      "ref": "AMO.5.4-15",
+      "synopsis": "Here is the heart of the book: Seek ye me, and ye shall live. God told Israel not to trust in famous shrines like Beth-el and Gilgal. He is the One who made the seven stars and Orion and turns deep darkness into morning. He asked His people to seek good and not evil, and to be fair in the gate where judgments were made. It may be, said Amos, that the LORD will be gracious."
+    },
+    {
+      "ref": "AMO.5.18-24",
+      "synopsis": "Some in Israel talked eagerly about the day of the LORD, but Amos warned it would not be what they expected. God said He took no delight in their feasts, songs, and offerings, because their hearts and their dealings were wrong. What He wanted was judgment rolling down like waters. He longed for righteousness like a mighty, never-failing stream."
+    },
+    {
+      "ref": "AMO.8.4-12",
+      "synopsis": "Amos spoke to merchants who could hardly wait for the sabbath to end so they could sell again. They made the measure small and the price great, cheating the poor with false balances. God said He would not forget such deeds. One day, He warned, there would be a famine in the land — not of bread or water, but of hearing the words of the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Amos 5:4",
+          "text": "Seek ye me, and ye shall live:"
+        },
+        {
+          "reference": "Amos 5:14",
+          "text": "Seek good, and not evil, that ye may live:"
+        },
+        {
+          "reference": "Amos 5:24",
+          "text": "But let judgment run down as waters, and righteousness as a mighty stream."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Seek the LORD",
+          "words": [
+            "SEEK",
+            "LIVE",
+            "GOOD",
+            "WATERS",
+            "STREAM",
+            "JUDGMENT",
+            "GILGAL"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the LORD tell the house of Israel to do so they would live?",
+          "options": [
+            "Build a bigger altar",
+            "Travel to Beer-sheba",
+            "Seek Him",
+            "Offer more sacrifices"
+          ],
+          "correctIndex": 2,
+          "explanation": "Amos 5:4 — \"For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God want to run down like waters?",
+          "options": [
+            "Judgment",
+            "Sweet wine",
+            "Rain on the fields",
+            "The songs of the temple"
+          ],
+          "correctIndex": 0,
+          "explanation": "Amos 5:24 — \"But let judgment run down as waters, and righteousness as a mighty stream.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Even after hunger and drought, what had Israel still not done?",
+          "options": [
+            "Planted their vineyards",
+            "Paid their tithes",
+            "Built new cities",
+            "Returned to the LORD"
+          ],
+          "correctIndex": 3,
+          "explanation": "Amos 4:6 — \"And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What kind of famine did God say He would send on the land?",
+          "options": [
+            "A famine of bread",
+            "A famine of hearing the words of the LORD",
+            "A famine of water",
+            "A famine of oil and wine"
+          ],
+          "correctIndex": 1,
+          "explanation": "Amos 8:11 — \"Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MIC.6.8",
+    "HOS.6.6",
+    "MAT.23.23"
+  ],
+  "reflection": "God cared more about fair dealings and loving hearts than loud songs and full altars. What would it look like for justice to run down like waters where you live?"
+}

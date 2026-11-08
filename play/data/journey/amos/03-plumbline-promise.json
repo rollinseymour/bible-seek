@@ -1,0 +1,97 @@
+{
+  "id": "amo.plumbline_promise",
+  "title": "The Plumbline and the Promise",
+  "anchorRef": "AMO.9.11",
+  "backstory": "The book of Amos ends with visions. Some are sobering, like a wall measured by a plumbline, and some show Amos pleading for his people while God mercifully listens. The very last vision is full of hope: the fallen tent of David raised up, and God's people planted safely at home forever.",
+  "passages": [
+    {
+      "ref": "AMO.7.1-6",
+      "synopsis": "God showed Amos a swarm of grasshoppers eating up the land, and then a great fire. Both times Amos prayed for his people. O Lord GOD, forgive, he begged the first time; and the second time, O Lord GOD, cease, I beseech thee, for Jacob is small. Both times the LORD heard him and said, It shall not be. The prayers of Amos mattered to God."
+    },
+    {
+      "ref": "AMO.7.7-9",
+      "synopsis": "Then Amos saw the Lord standing by a wall with a plumbline in His hand. A plumbline is a string with a weight that shows whether a wall stands straight and true. God said He was setting a plumbline in the midst of His people Israel. The nation had leaned far from His straight standard, and it could not stay unmeasured forever."
+    },
+    {
+      "ref": "AMO.9.5-10",
+      "synopsis": "Amos reminded Israel how great God is: He touches the land and it melts, and He calls for the waters of the sea. God said He would sift the house of Israel among the nations like grain in a sieve. Hard days were coming because of sin. Yet God promised He would not utterly destroy the house of Jacob. Not one true grain would be lost."
+    },
+    {
+      "ref": "AMO.9.11-15",
+      "synopsis": "The book ends in sunshine. God promised to raise up the fallen tabernacle of David and repair its broken places. The plowman would overtake the reaper, and the mountains would drip sweet wine. God's people would rebuild their cities, plant vineyards and gardens, and never be pulled up out of their land again."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Amos 7:3",
+          "text": "The LORD repented for this: It shall not be, saith the LORD."
+        },
+        {
+          "reference": "Amos 7:5",
+          "text": "Then said I, O Lord GOD, cease, I beseech thee:"
+        },
+        {
+          "reference": "Amos 9:15",
+          "text": "And I will plant them upon their land,"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Amos",
+          "clues": [
+            "God asked me what I saw, and I answered, A plumbline.",
+            "I begged God to forgive when I saw the grasshoppers.",
+            "My book ends with the promise of David's fallen tent raised up."
+          ],
+          "wrongChoices": [
+            "Micah",
+            "Obadiah",
+            "Jonah"
+          ]
+        },
+        {
+          "name": "David",
+          "clues": [
+            "I was a shepherd who became Israel's king.",
+            "My city was Jerusalem, and my son built the temple.",
+            "Amos promised that my fallen tabernacle would be raised up."
+          ],
+          "wrongChoices": [
+            "Solomon",
+            "Saul",
+            "Jesse"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Plumbline and the Promise",
+          "words": [
+            "PLUMBLINE",
+            "WALL",
+            "SIEVE",
+            "DAVID",
+            "VINEYARDS",
+            "GARDENS",
+            "JACOB"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ACT.15.16",
+    "JER.31.28",
+    "LUK.1.32"
+  ],
+  "reflection": "After the plumbline came a promise: God rebuilds what is fallen. Where do you need to trust God to raise up something broken and plant it firm again?"
+}

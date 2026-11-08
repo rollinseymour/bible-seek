@@ -1,0 +1,101 @@
+{
+  "id": "mrk.road_to_jerusalem",
+  "title": "The Road to Jerusalem",
+  "anchorRef": "MRK.10.45",
+  "backstory": "Jesus is now walking steadily toward Jerusalem, and he has told his disciples that suffering waits for him there. They still dream of thrones and glory, so along the road he keeps teaching them what true greatness is. A blind beggar outside Jericho sees more clearly than most — and the city ahead is about to welcome its King.",
+  "passages": [
+    {
+      "ref": "MRK.10.35-45",
+      "synopsis": "James and John ask Jesus for the best seats beside him in his glory. The other ten disciples are displeased when they hear of it. Jesus gathers them all and explains that his kingdom is not like the kingdoms of the world, where rulers lord it over people. Whoever wants to be great must be a servant, for even the Son of man came not to be served, but to serve, and to give his life a ransom for many."
+    },
+    {
+      "ref": "MRK.10.46-52",
+      "synopsis": "Outside Jericho, blind Bartimaeus sits begging by the highway. Hearing that Jesus of Nazareth is passing, he cries out, \"Jesus, thou Son of David, have mercy on me,\" and will not be hushed. Jesus stands still and calls for him, and Bartimaeus casts away his garment and comes. \"Thy faith hath made thee whole,\" Jesus says, and at once the man receives his sight and follows Jesus in the way."
+    },
+    {
+      "ref": "MRK.11.1-11",
+      "synopsis": "Near Jerusalem, Jesus sends two disciples to fetch a colt that has never been ridden, just as he describes. They set him on it, and people spread their garments and leafy branches on the road before him. The crowds cry, \"Hosanna; Blessed is he that cometh in the name of the Lord.\" Jesus enters Jerusalem and the temple, looks around at everything, and returns to Bethany with the twelve as evening falls."
+    },
+    {
+      "ref": "MRK.12.28-34",
+      "synopsis": "In the temple, a scribe asks Jesus which commandment is the first of all. Jesus answers: love the Lord thy God with all thy heart, soul, mind, and strength — and the second is to love thy neighbour as thyself. The scribe agrees that these matter more than all burnt offerings and sacrifices. Jesus tells him, \"Thou art not far from the kingdom of God.\""
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JERICHO",
+          "hint": "City where a blind beggar met Jesus",
+          "theme": "places"
+        },
+        {
+          "word": "COLT",
+          "hint": "Jesus rode into Jerusalem on this young animal",
+          "theme": "things"
+        },
+        {
+          "word": "HOSANNA",
+          "hint": "The crowd's shout of praise",
+          "theme": "things"
+        },
+        {
+          "word": "JERUSALEM",
+          "hint": "The city Jesus entered while crowds waved branches",
+          "theme": "places"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Mark 10:45",
+          "text": "and to give his life a ransom for many."
+        },
+        {
+          "reference": "Mark 10:52",
+          "text": "Go thy way; thy faith hath made thee whole."
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Bartimaeus",
+          "clues": [
+            "I sat begging beside the highway outside Jericho.",
+            "I cried out, \"Jesus, thou Son of David, have mercy on me.\"",
+            "When Jesus healed my blind eyes, I followed him in the way."
+          ],
+          "wrongChoices": [
+            "Zacchaeus",
+            "Lazarus",
+            "Nicodemus"
+          ]
+        },
+        {
+          "name": "James",
+          "clues": [
+            "I was a son of Zebedee, and my brother John and I followed Jesus.",
+            "We asked Jesus for the seats at his right and left hand in glory.",
+            "Jesus taught us that whoever will be great must be a servant."
+          ],
+          "wrongChoices": [
+            "Peter",
+            "Andrew",
+            "Philip"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ZEC.9.9",
+    "PSA.118.26",
+    "PHP.2.7"
+  ],
+  "reflection": "Jesus said the greatest in his kingdom is the servant of all. What is one quiet way you could serve someone this week?"
+}

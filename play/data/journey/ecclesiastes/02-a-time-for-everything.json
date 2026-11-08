@@ -1,0 +1,123 @@
+{
+  "id": "ecc.a_time_for_everything",
+  "title": "A Time for Everything",
+  "anchorRef": "ECC.3.1",
+  "backstory": "The Preacher has seen that riches and pleasure cannot satisfy, so now he looks at time itself. Life moves in seasons — planting and harvest, weeping and laughter — and every one of them comes from God's hand. He also learns that life was never meant to be walked alone.",
+  "passages": [
+    {
+      "ref": "ECC.3.1-8",
+      "synopsis": "To every thing there is a season, and a time to every purpose under the heaven. There is a time to be born and a time to die, a time to plant and a time to reap. There is a time to weep and a time to laugh, a time to mourn and a time to dance. Every season of life has its place in God's design."
+    },
+    {
+      "ref": "ECC.3.9-14",
+      "synopsis": "The Preacher sees that God hath made every thing beautiful in his time. God has also set the world in man's heart — a longing for things that last for ever. To eat, to drink, and to enjoy the good of our labour is the gift of God. Whatever God does shall stand for ever, so that men should fear before him."
+    },
+    {
+      "ref": "ECC.4.9-12",
+      "synopsis": "Two are better than one, because they have a good reward for their labour. If one falls, his friend can lift him up, but woe to him that is alone when he falleth. Two lying together keep warm, and two can stand against an enemy that would overcome one. A threefold cord is not quickly broken."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SEASON",
+          "hint": "To every thing there is one, under heaven",
+          "theme": "things"
+        },
+        {
+          "word": "CORD",
+          "hint": "Threefold, it is not quickly broken",
+          "theme": "things"
+        },
+        {
+          "word": "STONES",
+          "hint": "A time to cast them away, and a time to gather them",
+          "theme": "things"
+        },
+        {
+          "word": "DANCE",
+          "hint": "There is a time to mourn, and a time to do this",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What does Ecclesiastes say there is for every purpose under the heaven?",
+          "options": [
+            "A price",
+            "A ruler",
+            "A time",
+            "A reward"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ecclesiastes 3:1 — \"To every thing there is a season, and a time to every purpose under the heaven:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does the Preacher say God has set in man's heart?",
+          "options": [
+            "The world",
+            "The law",
+            "A new song",
+            "Great riches"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ecclesiastes 3:11 — \"He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why are two better than one?",
+          "options": [
+            "They can run faster",
+            "They have a good reward for their labour",
+            "They fear no man",
+            "They gather more gold"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ecclesiastes 4:9 — \"Two are better than one; because they have a good reward for their labour.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What is not quickly broken?",
+          "options": [
+            "A potter's vessel",
+            "A bow of steel",
+            "A staff of oak",
+            "A threefold cord"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ecclesiastes 4:12 — \"And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ecclesiastes 3:1",
+          "text": "To every thing there is a season"
+        },
+        {
+          "reference": "Ecclesiastes 4:9",
+          "text": "Two are better than one;"
+        },
+        {
+          "reference": "Ecclesiastes 4:12",
+          "text": "a threefold cord is not quickly broken."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.2.18",
+    "PSA.31.15",
+    "MAT.18.20"
+  ],
+  "reflection": "God has set a time for every season of life and makes everything beautiful in his time. Can you trust his timing in the season you are in right now?"
+}

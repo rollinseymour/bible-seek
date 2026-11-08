@@ -1,0 +1,97 @@
+{
+  "id": "ezk.dry_bones",
+  "title": "The Valley of Dry Bones",
+  "anchorRef": "EZK.37.5",
+  "backstory": "The exiles in Babylon had given up hope. \"Our bones are dried,\" they said, \"and our hope is lost.\" So God carried Ezekiel in the Spirit to a valley floor covered with old, dry bones — and asked him a question only God could answer: can these bones live?",
+  "passages": [
+    {
+      "ref": "EZK.37.1-6",
+      "synopsis": "The hand of the LORD carried Ezekiel to a valley full of bones, and they were very dry. God asked, \"Son of man, can these bones live?\" Ezekiel answered, \"O Lord GOD, thou knowest.\" Then God told him to prophesy to the bones: God would lay sinews and flesh upon them, cover them with skin, and put breath in them, and they would live and know that he is the LORD."
+    },
+    {
+      "ref": "EZK.37.7-14",
+      "synopsis": "As Ezekiel prophesied there was a noise and a shaking, and the bones came together, bone to his bone. Flesh and skin covered them, but there was no breath in them. So God told him to prophesy to the wind, and breath came into them, and they stood up — an exceeding great army. God explained that the bones were the whole house of Israel, who said their hope was lost. But God would open their graves, bring them home, and put his spirit in them."
+    },
+    {
+      "ref": "EZK.37.15-23",
+      "synopsis": "God told Ezekiel to take two sticks and write on them — one for Judah, and one for Joseph and the house of Israel. He was to join them into one stick in his hand. This was God's promise: he would gather the scattered children of Israel from among the nations and make them one nation with one king. No longer would they be two kingdoms, and no longer would they defile themselves with idols. They would be his people, and he would be their God."
+    },
+    {
+      "ref": "EZK.37.24-28",
+      "synopsis": "God promised that David his servant would be king over his gathered people, and they would all have one shepherd. They would dwell in the land of their fathers forever, with their children and their children's children. God would make an everlasting covenant of peace with them and set his sanctuary in their midst for evermore. Then all nations would know that the LORD makes his people holy."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Valley of Dry Bones",
+          "words": [
+            "BONES",
+            "BREATH",
+            "VALLEY",
+            "ARMY",
+            "WIND",
+            "GRAVES",
+            "DAVID"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Ezekiel",
+          "clues": [
+            "I was a priest carried away captive to Babylon.",
+            "God called me son of man and showed me great visions.",
+            "I prophesied to a valley of dry bones, and they lived."
+          ],
+          "wrongChoices": [
+            "Jeremiah",
+            "Daniel",
+            "Isaiah"
+          ]
+        },
+        {
+          "name": "David",
+          "clues": [
+            "I kept sheep in Bethlehem before I ever wore a crown.",
+            "I was Israel's shepherd king, long before the exile.",
+            "God told Ezekiel that his servant by my name would be king, one shepherd over one people."
+          ],
+          "wrongChoices": [
+            "Solomon",
+            "Saul",
+            "Josiah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ezekiel 37:3",
+          "text": "Son of man, can these bones live?"
+        },
+        {
+          "reference": "Ezekiel 37:5",
+          "text": "I will cause breath to enter into you, and ye shall live:"
+        },
+        {
+          "reference": "Ezekiel 37:27",
+          "text": "My tabernacle also shall be with them:"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.2.7",
+    "JHN.5.25",
+    "ROM.8.11"
+  ],
+  "reflection": "The bones did not live until God's breath entered them. Is there a place in your life that feels too dry for hope — and can you trust God to breathe life there?"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "2sa.davids_repentance",
+  "title": "David's Repentance",
+  "anchorRef": "2SA.12.13",
+  "backstory": "David, the man after God's own heart, did a very wrong thing: he took what was not his and tried to hide it. But nothing is hidden from God, and God loved David too much to leave him hiding. He sent the prophet Nathan to the palace with a simple story about a little lamb.",
+  "passages": [
+    {
+      "ref": "2SA.12.1-6",
+      "synopsis": "The LORD sent Nathan the prophet to King David with a story. A rich man had many flocks, and a poor man had only one little lamb that he loved like a daughter. When a traveller came, the rich man would not take from his own flock — he took the poor man's lamb instead. David grew very angry and said the man who did this deserved to die."
+    },
+    {
+      "ref": "2SA.12.7-14",
+      "synopsis": "Nathan looked at the king and said, \"Thou art the man\". God had given David everything, yet David had taken what was not his and tried to hide it. David did not make excuses; he said, \"I have sinned against the LORD\". Nathan answered that the LORD had put away his sin — David would not die. Yet sin brings sorrow, and Nathan said that trouble would touch David's own house."
+    },
+    {
+      "ref": "2SA.12.15-25",
+      "synopsis": "Sorrow followed David's sin, and the little son born to him became very sick. David fasted and prayed for the child, but the baby died. Then David rose, washed, worshipped the LORD, and said he would one day go to be with his child. Later God gave David and his wife Bath-sheba another son, Solomon, and the LORD loved him. God even sent Nathan with a special name for the boy: Jedidiah, beloved of the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In Nathan's story, what did the rich man take?",
+          "options": [
+            "A traveller's donkey",
+            "The poor man's field",
+            "The poor man's lamb",
+            "A bag of silver"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Samuel 12:4 — \"And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him; but took the poor man’s lamb, and dressed it for the man that was come to him.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Nathan say to David after telling the story?",
+          "options": [
+            "Thou art the man",
+            "The LORD is with thee",
+            "Build the temple",
+            "Flee to the wilderness"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Samuel 12:7 — \"And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did David say when he saw his sin?",
+          "options": [
+            "It was not my fault",
+            "I have sinned against the LORD",
+            "Nathan speaks falsely",
+            "Let the rich man die"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Samuel 12:13 — \"And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What name, meaning beloved of the LORD, was given to Solomon?",
+          "options": [
+            "Absalom",
+            "Adonijah",
+            "Ithream",
+            "Jedidiah"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Samuel 12:25 — \"And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Samuel 12:6",
+          "text": "And he shall restore the lamb fourfold,"
+        },
+        {
+          "reference": "2 Samuel 12:13",
+          "text": "And David said unto Nathan, I have sinned against the LORD."
+        },
+        {
+          "reference": "2 Samuel 12:25",
+          "text": "and he called his name Jedidiah, because of the LORD."
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "LAMB",
+          "hint": "The poor man had one little one that he loved",
+          "theme": "things"
+        },
+        {
+          "word": "NATHAN",
+          "hint": "The brave prophet who told the king a story",
+          "theme": "people"
+        },
+        {
+          "word": "SOLOMON",
+          "hint": "The son of David who would be king after him",
+          "theme": "people"
+        },
+        {
+          "word": "JEDIDIAH",
+          "hint": "Solomon's special name, meaning beloved of the LORD",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.51.10",
+    "PSA.32.5",
+    "1JN.1.9"
+  ],
+  "reflection": "David hid his sin until Nathan's story opened his eyes, and God forgave him the moment he confessed. Is there anything you need to bring honestly to God today?"
+}

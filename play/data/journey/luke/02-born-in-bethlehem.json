@@ -1,0 +1,96 @@
+{
+  "id": "luk.born_in_bethlehem",
+  "title": "Born in Bethlehem",
+  "anchorRef": "LUK.2.11",
+  "backstory": "Caesar Augustus ruled the Roman world, and his order sent whole families walking to their home towns to be counted. Joseph came from the line of King David, so he and Mary travelled to David's town of Bethlehem. Seven hundred years earlier the prophet Micah had said the ruler of Israel would come from that very village.",
+  "passages": [
+    {
+      "ref": "LUK.2.1-7",
+      "synopsis": "A decree from Caesar Augustus sent everyone to his own city to be taxed. Joseph left Nazareth and went up to Bethlehem, the city of David, with Mary. While they were there, the time came for her baby to be born. She wrapped him in swaddling clothes and laid him in a manger, because there was no room for them in the inn."
+    },
+    {
+      "ref": "LUK.2.8-14",
+      "synopsis": "Out in the fields nearby, shepherds were keeping watch over their flock at night. An angel of the Lord stood before them, and the glory of the Lord shone all around, and they were terrified. The angel told them not to fear, for a Saviour had been born that day in the city of David. Then a great multitude of the heavenly host joined him, praising God and saying, Glory to God in the highest, and on earth peace."
+    },
+    {
+      "ref": "LUK.2.15-20",
+      "synopsis": "As soon as the angels were gone, the shepherds hurried to Bethlehem to see it for themselves. They found Mary and Joseph and the baby lying in a manger, just as they had been told. They told everyone what the angel had said, and all who heard it wondered. Mary kept these things and pondered them in her heart, and the shepherds went back praising God."
+    },
+    {
+      "ref": "LUK.2.25-35",
+      "synopsis": "In Jerusalem lived an old man named Simeon, who was waiting for God to comfort Israel. The Holy Ghost had promised him that he would not die before he saw the Lord's Christ. When Mary and Joseph brought the baby to the temple, Simeon took him in his arms and blessed God. He said his eyes had now seen God's salvation, a light for the Gentiles and the glory of Israel."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Born in Bethlehem",
+          "words": [
+            "BETHLEHEM",
+            "MANGER",
+            "SHEPHERDS",
+            "ANGELS",
+            "JOSEPH",
+            "MARY",
+            "SIMEON",
+            "PEACE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Luke 2:11",
+          "text": "For unto you is born this day in the city of David a Saviour,"
+        },
+        {
+          "reference": "Luke 2:14",
+          "text": "Glory to God in the highest, and on earth peace, good will toward men."
+        },
+        {
+          "reference": "Luke 2:19",
+          "text": "But Mary kept all these things, and pondered them in her heart."
+        },
+        {
+          "reference": "Luke 2:30",
+          "text": "For mine eyes have seen thy salvation,"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "MANGER",
+          "hint": "Where Mary laid her newborn son",
+          "theme": "things"
+        },
+        {
+          "word": "SHEPHERDS",
+          "hint": "They kept watch over their flock by night",
+          "theme": "people"
+        },
+        {
+          "word": "BETHLEHEM",
+          "hint": "The city of David, where Jesus was born",
+          "theme": "places"
+        },
+        {
+          "word": "SIMEON",
+          "hint": "Old man who held the child in the temple",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MIC.5.2",
+    "MAT.2.10",
+    "JHN.1.14"
+  ],
+  "reflection": "God announced the birth of a king to shepherds working the night shift. Why do you think he told them first?"
+}

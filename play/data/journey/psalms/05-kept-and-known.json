@@ -1,0 +1,90 @@
+{
+  "id": "psa.kept_and_known",
+  "title": "Kept and Known",
+  "anchorRef": "PSA.139.14",
+  "backstory": "Pilgrims sang Psalm 121 as they climbed the long road up to Jerusalem, trusting the LORD to keep them every step of the way. In Psalm 139 David marvels that God knows him completely — every thought, every word, every day. The God who keeps his people is the God who knows them by name.",
+  "passages": [
+    {
+      "ref": "PSA.121.1-8",
+      "synopsis": "A pilgrim lifts his eyes to the hills and asks where his help comes from. The answer rings out — help comes from the LORD, who made heaven and earth. The keeper of Israel never slumbers and never sleeps. He preserves his people going out and coming in, from this time forth and even for evermore."
+    },
+    {
+      "ref": "PSA.139.1-6",
+      "synopsis": "David marvels that God has searched him and known him completely. God knows when he sits down and when he rises up, and understands his thoughts afar off. Before a word is on his tongue, the LORD knows it altogether. Such knowledge is too wonderful for him."
+    },
+    {
+      "ref": "PSA.139.7-12",
+      "synopsis": "David asks where he could ever go from God's spirit. If he climbs up into heaven, God is there. Even the wings of the morning and the uttermost parts of the sea cannot carry him beyond God's hand. Darkness and light are both alike to God, so no night can hide his child from him."
+    },
+    {
+      "ref": "PSA.139.13-18",
+      "synopsis": "God formed David before he was born and covered him in his mother's womb. David praises God because he is fearfully and wonderfully made. All his days were written in God's book before one of them had come. God's precious thoughts toward him are more in number than the sand."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Psalms 121:1",
+          "text": "I will lift up mine eyes unto the hills, from whence cometh my help."
+        },
+        {
+          "reference": "Psalms 121:2",
+          "text": "My help cometh from the LORD, which made heaven and earth."
+        },
+        {
+          "reference": "Psalms 139:14",
+          "text": "I will praise thee; for I am fearfully and wonderfully made:"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Kept and Known",
+          "words": [
+            "HILLS",
+            "SHADE",
+            "SUN",
+            "MOON",
+            "WINGS",
+            "DARKNESS"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "KEEPER",
+          "hint": "Psalm 121 calls the LORD this — he never sleeps",
+          "theme": "people"
+        },
+        {
+          "word": "ISRAEL",
+          "hint": "He that keepeth this people shall neither slumber nor sleep",
+          "theme": "people"
+        },
+        {
+          "word": "HEAVEN",
+          "hint": "The LORD made this and earth",
+          "theme": "places"
+        },
+        {
+          "word": "SEA",
+          "hint": "Even in its uttermost parts, God's hand shall lead me",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JER.1.5",
+    "MAT.10.30",
+    "ROM.8.38"
+  ],
+  "reflection": "The God who made heaven and earth keeps your going out and your coming in, and he knew you before you were born. How does it change today to know you are fully known and dearly kept?"
+}

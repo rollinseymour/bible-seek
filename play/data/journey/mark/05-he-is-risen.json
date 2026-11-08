@@ -1,0 +1,133 @@
+{
+  "id": "mrk.he_is_risen",
+  "title": "He Is Risen",
+  "anchorRef": "MRK.16.6",
+  "backstory": "Everything in Mark's gospel has been leading to this week in Jerusalem. Jesus knows what is coming: he will be handed over to men who want him dead, and he will lay down his life as the ransom he promised. It is the darkest moment in the whole Bible — and then, at sunrise on the first day of the week, everything changes.",
+  "passages": [
+    {
+      "ref": "MRK.14.3-9",
+      "synopsis": "In Bethany, a woman breaks an alabaster box of very precious ointment and pours it on Jesus' head. Some complain that it could have been sold to help the poor. But Jesus says she has done a good work, anointing his body ahead of time for burial. Wherever the gospel is preached in all the world, he says, what she has done will be told as a memorial of her."
+    },
+    {
+      "ref": "MRK.14.32-42",
+      "synopsis": "In the garden of Gethsemane, Jesus asks Peter, James, and John to sit and watch while he prays. His soul is exceeding sorrowful, and he falls to the ground and prays, \"Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt.\" Three times he returns to find his friends asleep. Then the hour comes, and the betrayer is at hand."
+    },
+    {
+      "ref": "MRK.15.22-39",
+      "synopsis": "Soldiers bring Jesus to Golgotha, the place of a skull, and crucify him between two thieves, with \"THE KING OF THE JEWS\" written above him. People passing by mock him, telling him to save himself and come down from the cross, but he stays. At noon darkness covers the land for three hours, and Jesus cries out, \"My God, my God, why hast thou forsaken me?\" Then he gives up his life. The temple veil tears from top to bottom, and the centurion standing there says, \"Truly this man was the Son of God.\""
+    },
+    {
+      "ref": "MRK.16.1-8",
+      "synopsis": "Very early on the first day of the week, Mary Magdalene, Mary the mother of James, and Salome come to the tomb with sweet spices, wondering who will roll away the great stone. They find it already rolled back, and inside sits a young man in a long white garment. \"Be not affrighted,\" he says. \"Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here.\" He sends them to tell the disciples and Peter that Jesus goes before them into Galilee."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Mary Magdalene",
+          "clues": [
+            "I came to the tomb very early with sweet spices.",
+            "I wondered who would roll away the stone, but it was already rolled back.",
+            "Jesus had once set me free from seven devils, and after he rose he appeared first of all to me."
+          ],
+          "wrongChoices": [
+            "Martha",
+            "Elisabeth",
+            "Anna"
+          ]
+        },
+        {
+          "name": "Peter",
+          "clues": [
+            "Jesus found the three of us sleeping in the garden, and it was me he spoke to: could I not watch one hour?",
+            "I had told him that even if all the others were offended, I never would be.",
+            "The young man at the empty tomb told the women to tell the disciples and me by name."
+          ],
+          "wrongChoices": [
+            "Philip",
+            "Andrew",
+            "Thomas"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Empty Tomb",
+          "words": [
+            "GETHSEMANE",
+            "GOLGOTHA",
+            "SPICES",
+            "STONE",
+            "RISEN",
+            "GALILEE",
+            "SALOME"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Where did Jesus pray on the night he was betrayed?",
+          "options": [
+            "The temple court",
+            "Bethany",
+            "The upper room",
+            "Gethsemane"
+          ],
+          "correctIndex": 3,
+          "explanation": "Mark 14:32 — \"And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the centurion say when he saw how Jesus died?",
+          "options": [
+            "\"Truly this man was the Son of God\"",
+            "\"He saved others; himself he cannot save\"",
+            "\"Behold, he calleth Elias\"",
+            "\"Save thyself, and come down from the cross\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Mark 15:39 — \"And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Whom did the women see when they entered the sepulchre?",
+          "options": [
+            "Two shining angels",
+            "A young man in a long white garment",
+            "Peter and John",
+            "The gardener"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mark 16:5 — \"And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the young man at the tomb tell the women?",
+          "options": [
+            "\"Blessed are they that have not seen, and yet have believed\"",
+            "\"Why weepest thou?\"",
+            "\"He is risen; he is not here\"",
+            "\"Go into all the world\""
+          ],
+          "correctIndex": 2,
+          "explanation": "Mark 16:6 — \"And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.\"",
+          "category": "newTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.53.5",
+    "PSA.22.1",
+    "1CO.15.4"
+  ],
+  "reflection": "The women came to the tomb in sorrow and left with the best news the world has ever heard. What does it mean for you that Jesus is risen?"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "neh.cupbearers_prayer",
+  "title": "The Cupbearer's Prayer",
+  "anchorRef": "NEH.2.4",
+  "backstory": "About a hundred years have passed since Babylon carried Judah away, and though many exiles have returned and rebuilt the temple, Jerusalem's wall still lies in ruins. Far away in Shushan the palace, a Jewish man named Nehemiah serves as cupbearer to Artaxerxes, king of Persia. One day his brother brings news from home that will change his life.",
+  "passages": [
+    {
+      "ref": "NEH.1.1-4",
+      "synopsis": "Nehemiah was serving in the palace at Shushan when his brother Hanani arrived with men from Judah. Nehemiah asked about Jerusalem and the Jews who had returned there. The news was sad: the people were in trouble, the wall was broken down, and the gates were burned. When Nehemiah heard it, he sat down and wept, and he fasted and prayed for days."
+    },
+    {
+      "ref": "NEH.1.5-11",
+      "synopsis": "Nehemiah poured out his heart to the God of heaven. He praised God for keeping covenant and mercy, and he confessed that Israel, including his own family, had sinned. He remembered God's promise to Moses to gather his scattered people if they returned to him. Then he asked God to give him favor with the king, for Nehemiah was the king's cupbearer."
+    },
+    {
+      "ref": "NEH.2.1-4",
+      "synopsis": "Months later, Nehemiah carried wine to King Artaxerxes, and for the first time his face showed his sorrow. The king noticed and asked why he was sad. Nehemiah was afraid, but he told the king about the ruined city of his fathers. When the king asked what he wanted, Nehemiah prayed to the God of heaven before he answered."
+    },
+    {
+      "ref": "NEH.2.5-8",
+      "synopsis": "Nehemiah asked the king to send him to Judah so he could rebuild the city. The king was pleased to send him and set a time for his return. Nehemiah also asked for letters for safe travel and for timber from the king's forest. The king granted it all, because the good hand of God was upon Nehemiah."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Nehemiah 2:4",
+          "text": "So I prayed to the God of heaven."
+        },
+        {
+          "reference": "Nehemiah 1:4",
+          "text": "that I sat down and wept, and mourned certain days"
+        },
+        {
+          "reference": "Nehemiah 1:10",
+          "text": "Now these are thy servants and thy people"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What was Nehemiah's job in the king's palace?",
+          "options": [
+            "Baker",
+            "Scribe",
+            "Cupbearer",
+            "Gatekeeper"
+          ],
+          "correctIndex": 2,
+          "explanation": "Nehemiah 1:11 — \"O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What news about Jerusalem made Nehemiah weep?",
+          "options": [
+            "The wall was broken down and the gates burned",
+            "The temple had fallen",
+            "The king had died",
+            "There was a famine in the land"
+          ],
+          "correctIndex": 0,
+          "explanation": "Nehemiah 1:3 — \"And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Nehemiah do before he answered the king's question?",
+          "options": [
+            "He bowed to the ground",
+            "He called for Hanani",
+            "He asked for wine",
+            "He prayed to the God of heaven"
+          ],
+          "correctIndex": 3,
+          "explanation": "Nehemiah 2:4 — \"Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which king did Nehemiah serve as cupbearer?",
+          "options": [
+            "Cyrus",
+            "Artaxerxes",
+            "Darius",
+            "Nebuchadnezzar"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nehemiah 2:1 — \"And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "NEHEMIAH",
+          "hint": "He wept and prayed when he heard of Jerusalem's broken wall",
+          "theme": "people"
+        },
+        {
+          "word": "SHUSHAN",
+          "hint": "The palace where Nehemiah served the king",
+          "theme": "places"
+        },
+        {
+          "word": "WINE",
+          "hint": "Nehemiah carried this to the king",
+          "theme": "things"
+        },
+        {
+          "word": "LETTERS",
+          "hint": "Nehemiah asked the king for these so he could travel safely",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.137.1",
+    "DAN.9.3",
+    "PRO.21.1"
+  ],
+  "reflection": "Before Nehemiah spoke one word to the king, he prayed to the God of heaven. What would change if prayer came first when you face something hard?"
+}

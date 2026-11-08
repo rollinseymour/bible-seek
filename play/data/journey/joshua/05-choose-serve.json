@@ -1,0 +1,113 @@
+{
+  "id": "jos.choose_serve",
+  "title": "Choose Whom You Will Serve",
+  "anchorRef": "JOS.24.15",
+  "backstory": "Years of campaigns had given Israel the land, and the tribes settled into their inheritance. Joshua was old now, and he knew the greater danger was no longer Canaan's armies but its gods. He gathered the nation one last time.",
+  "passages": [
+    {
+      "ref": "JOS.10.7-14",
+      "synopsis": "When enemies attacked Israel's ally Gibeon, Joshua marched all night to help. God threw the enemy into confusion and fought for Israel with great hailstones. Joshua prayed, and the sun stood still until the battle was won. There was no day like it, for the LORD fought for Israel."
+    },
+    {
+      "ref": "JOS.23.1-11",
+      "synopsis": "When Joshua was old, he gathered Israel's leaders for a farewell. He reminded them how God had fought for them and kept every promise. He urged them to hold fast to the LORD and love Him. They were not to turn aside to other gods."
+    },
+    {
+      "ref": "JOS.24.14-18",
+      "synopsis": "Joshua called the people to choose whom they would serve. \"As for me and my house, we will serve the LORD,\" he declared. The people answered that they too would serve the LORD, who had done such great things. They remembered how He brought them out of Egypt."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Joshua 24:24",
+          "text": "The LORD our God will we serve,"
+        },
+        {
+          "reference": "Joshua 10:25",
+          "text": "Fear not, nor be dismayed, be strong and of good courage:"
+        },
+        {
+          "reference": "Joshua 24:15",
+          "text": "but as for me and my house, we will serve the LORD."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What miracle happened as Joshua fought for Gibeon?",
+          "options": [
+            "The sun stood still",
+            "The sea parted",
+            "Fire fell from heaven",
+            "The walls fell"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 10:13 — \"And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "\"As for me and my house, we will serve the ___.\"",
+          "options": [
+            "LORD",
+            "king",
+            "land",
+            "law"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joshua 24:15 — \"And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the aged Joshua tell Israel to be very courageous to keep?",
+          "options": [
+            "The covenant of Abraham",
+            "All that is written in the book of the law of Moses",
+            "The counsel of the elders",
+            "The songs of the tabernacle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Joshua 23:6 — \"Be ye therefore very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom to the right hand or to the left;\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did the people answer when Joshua told them to choose?",
+          "options": [
+            "They asked for more time to decide",
+            "They chose the gods of the Amorites",
+            "They said, God forbid that we should forsake the LORD",
+            "They went back over the Jordan"
+          ],
+          "correctIndex": 2,
+          "explanation": "Joshua 24:16 — \"And the people answered and said, God forbid that we should forsake the LORD, to serve other gods;\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Choose Whom",
+          "words": [
+            "SERVE",
+            "CHOOSE",
+            "HOUSE",
+            "GODS",
+            "SUN"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JOS.21.45",
+    "1KI.18.21",
+    "MAT.6.24"
+  ],
+  "reflection": "Joshua made his choice public: 'as for me and my house.' What would it look like to choose the LORD for your home?"
+}

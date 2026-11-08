@@ -1,0 +1,116 @@
+{
+  "id": "hag.consider_your_ways",
+  "title": "Consider Your Ways",
+  "anchorRef": "HAG.1.5",
+  "backstory": "The people of Judah have come home from seventy years of exile in Babylon. They laid the foundation of the LORD's temple with joy, but discouragement stopped the work, and for years it sat unfinished while everyone busied themselves with their own homes. In the second year of King Darius, God sent the prophet Haggai with a loving wake-up call.",
+  "passages": [
+    {
+      "ref": "HAG.1.1-6",
+      "synopsis": "In the second year of King Darius, God's word came through the prophet Haggai to Zerubbabel the governor and Joshua the high priest. The people had been saying it was not yet time to build the LORD's house, yet they lived in fine paneled houses while God's house lay in ruins. They planted much but harvested little, ate but were never full, and their wages seemed to vanish like coins in a bag with holes. God asked them to stop and consider their ways."
+    },
+    {
+      "ref": "HAG.1.7-11",
+      "synopsis": "God told the people again to consider their ways, then gave them a task: go up to the mountain, bring wood, and build his house, and he would take pleasure in it. He explained why life had felt so dry — they had run to care for their own houses while his lay waste. So the heavens held back their dew and the earth held back her fruit. God had called for a drought on the land, the grain, the wine, the oil, and all the labor of their hands."
+    },
+    {
+      "ref": "HAG.1.12-15",
+      "synopsis": "Then something wonderful happened: Zerubbabel, Joshua, and all the remnant of the people obeyed the voice of the LORD. Haggai brought them God's tender answer — \"I am with you, saith the LORD.\" God stirred up the spirit of the leaders and of all the people, and they came and did work in the house of the LORD of hosts. Only a few weeks after the first message, the building had begun."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Haggai 1:4",
+          "text": "Is it time for you, O ye, to dwell in your cieled houses,"
+        },
+        {
+          "reference": "Haggai 1:5",
+          "text": "Now therefore thus saith the LORD of hosts; Consider your ways."
+        },
+        {
+          "reference": "Haggai 1:8",
+          "text": "Go up to the mountain, and bring wood, and build the house;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In the reign of which king did God's word come through Haggai?",
+          "options": [
+            "Cyrus",
+            "Nebuchadnezzar",
+            "Darius",
+            "Ahasuerus"
+          ],
+          "correctIndex": 2,
+          "explanation": "Haggai 1:1 — \"In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the LORD of hosts tell the people to consider?",
+          "options": [
+            "Their ways",
+            "The stars",
+            "The harvest",
+            "The nations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Haggai 1:5 — \"Now therefore thus saith the LORD of hosts; Consider your ways.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "According to Haggai, earned wages were being put into what?",
+          "options": [
+            "A treasure chest",
+            "A storehouse",
+            "The temple",
+            "A bag with holes"
+          ],
+          "correctIndex": 3,
+          "explanation": "Haggai 1:6 — \"Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did the people respond to Haggai's message?",
+          "options": [
+            "They mocked him",
+            "They obeyed the voice of the LORD",
+            "They fled to Egypt",
+            "They ignored him"
+          ],
+          "correctIndex": 1,
+          "explanation": "Haggai 1:12 — \"Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Consider Your Ways",
+          "words": [
+            "HAGGAI",
+            "DARIUS",
+            "ZERUBBABEL",
+            "JOSHUA",
+            "WOOD",
+            "HOUSE",
+            "DROUGHT",
+            "BUILD"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EZR.5.1",
+    "PSA.127.1",
+    "MAT.6.33"
+  ],
+  "reflection": "The people were busy with their own houses while God's house lay waste, and life felt strangely empty. What would it look like for you to put God first this week?"
+}

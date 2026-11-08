@@ -1,0 +1,123 @@
+{
+  "id": "2ki.book_of_the_law",
+  "title": "Josiah and the Book",
+  "anchorRef": "2KI.23.25",
+  "backstory": "After Hezekiah, the kings of Judah wandered far from God, until a boy named Josiah took the throne at just eight years old. Josiah loved the LORD and set out to repair His neglected temple. Hidden in that temple lay a forgotten treasure — the book of God's law — and finding it would stir the whole nation. But the story does not end with Josiah: it runs on to the years when the book's warnings were forgotten, when Jerusalem fell and the people were carried away to Babylon — and to a quiet mercy God showed them even there.",
+  "passages": [
+    {
+      "ref": "2KI.22.1-13",
+      "synopsis": "Josiah became king when he was eight years old, and he did what was right in the sight of the LORD. In the eighteenth year of his reign he sent workers to repair the house of the LORD. There Hilkiah the high priest found the book of the law, and Shaphan the scribe read it to the king. When Josiah heard the words of the book, he tore his clothes in sorrow. He sent his men to ask the LORD about it, for the nation had not obeyed what was written."
+    },
+    {
+      "ref": "2KI.22.14-23.3",
+      "synopsis": "Josiah's men went to Huldah the prophetess. She said the LORD would indeed judge the nation for forsaking Him, but because Josiah's heart was tender and he had humbled himself before the LORD, he would not live to see the trouble that was coming. Then Josiah gathered all the people, small and great, and read them the whole book of the covenant. Standing by a pillar, the king made a covenant to follow the LORD with all his heart and soul. And all the people stood with him in the covenant."
+    },
+    {
+      "ref": "2KI.25.8-12",
+      "synopsis": "Years after Josiah, the people turned back to their old ways, and the warnings of the book came true. The army of Babylon came to Jerusalem and burned the house of the LORD, the king's house, and the great houses of the city. The walls of Jerusalem were broken down. The people were carried far away to Babylon, and only the poorest were left behind to tend the vineyards and fields."
+    },
+    {
+      "ref": "2KI.25.27-30",
+      "synopsis": "Even in Babylon, God had not forgotten His people. After thirty-seven years, a new king of Babylon lifted Jehoiachin king of Judah out of prison. He spoke kindly to him, gave him new garments, and let him eat at the king's table every day for the rest of his life. The line of David was still alive, and so was hope."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JOSIAH",
+          "hint": "Boy king who loved the book of the law",
+          "theme": "people"
+        },
+        {
+          "word": "HULDAH",
+          "hint": "Prophetess who spoke the word of the LORD",
+          "theme": "people"
+        },
+        {
+          "word": "BABYLON",
+          "hint": "Land where the people were carried away",
+          "theme": "places"
+        },
+        {
+          "word": "COVENANT",
+          "hint": "The king and people stood to keep this",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Kings 23:1",
+          "text": "and they gathered unto him all the elders of Judah and of Jerusalem."
+        },
+        {
+          "reference": "2 Kings 25:29",
+          "text": "And changed his prison garments:"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Who found the book of the law in the house of the LORD?",
+          "options": [
+            "Shaphan the scribe",
+            "Hilkiah the high priest",
+            "Huldah the prophetess",
+            "King Josiah"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Kings 22:8 — \"And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Josiah do when he heard the words of the book?",
+          "options": [
+            "He hid the book again",
+            "He called for a feast",
+            "He punished the priests",
+            "He rent his clothes"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Kings 22:11 — \"And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Josiah promise in his covenant before the LORD?",
+          "options": [
+            "To walk after the LORD and keep his commandments",
+            "To rebuild the walls of Jerusalem",
+            "To defeat the army of Babylon",
+            "To gather more silver for the temple"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Kings 23:3 — \"And the king stood by a pillar, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments and his testimonies and his statutes with all their heart and all their soul, to perform the words of this covenant that were written in this book. And all the people stood to the covenant.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Which prophetess did Josiah's men ask about the book?",
+          "options": [
+            "Deborah",
+            "Miriam",
+            "Huldah",
+            "Anna"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Kings 22:14 — \"So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "2CH.34.14",
+    "PSA.119.11",
+    "JER.29.10"
+  ],
+  "reflection": "One forgotten book changed a king and a whole kingdom, and when its warnings were forgotten again Jerusalem fell — yet even in Babylon God kept the promise of David's house alive. How can you keep God's Word from being forgotten in your own life?"
+}

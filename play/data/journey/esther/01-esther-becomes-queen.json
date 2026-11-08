@@ -1,0 +1,154 @@
+{
+  "id": "est.esther_becomes_queen",
+  "title": "Esther Becomes Queen",
+  "anchorRef": "EST.2.17",
+  "backstory": "The story of Esther takes place in Persia, where many Jews still lived far from their homeland years after the exile to Babylon. King Ahasuerus ruled a vast empire of one hundred twenty-seven provinces from his palace in Shushan. God's name is never mentioned in this book, yet his quiet care is woven through every page.",
+  "passages": [
+    {
+      "ref": "EST.1.1-12",
+      "synopsis": "King Ahasuerus of Persia held a magnificent feast that lasted many days, showing off the riches of his kingdom. On the last day he sent for Queen Vashti so everyone could see her beauty. But Vashti refused to come. The king burned with anger, and soon the door opened for a new queen."
+    },
+    {
+      "ref": "EST.2.5-11",
+      "synopsis": "In Shushan lived a Jew named Mordecai, who had raised his young cousin Hadassah, called Esther, as his own daughter after her parents died. When the king's officers gathered fair young women to the palace, Esther was taken among them. She quickly won the kindness of Hegai, the keeper of the women. Following Mordecai's advice she told no one she was Jewish, and Mordecai walked by the court every day to see how she was doing."
+    },
+    {
+      "ref": "EST.2.15-18",
+      "synopsis": "When Esther's turn came to go before the king, she asked for nothing extra, and everyone who saw her loved her. The king loved Esther more than all the others. He set the royal crown upon her head and made her queen instead of Vashti. Then he held a great feast in her honor."
+    },
+    {
+      "ref": "EST.2.19-23",
+      "synopsis": "While Mordecai sat in the king's gate, he overheard two doorkeepers plotting to harm the king. He told Queen Esther, and she warned the king in Mordecai's name. The plot was found to be true, and the whole matter was written down in the king's book of records. That quiet entry would matter greatly later on."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Esther",
+          "clues": [
+            "My Hebrew name was Hadassah.",
+            "My cousin Mordecai raised me as his own daughter.",
+            "The king set the royal crown upon my head."
+          ],
+          "wrongChoices": [
+            "Vashti",
+            "Ruth",
+            "Deborah"
+          ]
+        },
+        {
+          "name": "Mordecai",
+          "clues": [
+            "I sat in the king's gate in Shushan.",
+            "I raised my uncle's daughter as my own child.",
+            "I uncovered a plot against the king, and it was written in the chronicles."
+          ],
+          "wrongChoices": [
+            "Haman",
+            "Nehemiah",
+            "Ezra"
+          ]
+        },
+        {
+          "name": "Vashti",
+          "clues": [
+            "I was queen of Persia before Esther.",
+            "I made a feast for the women in the royal house.",
+            "I refused to come at the king's commandment."
+          ],
+          "wrongChoices": [
+            "Zeresh",
+            "Esther",
+            "Michal"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "By what Hebrew name was Esther also known?",
+          "options": [
+            "Miriam",
+            "Deborah",
+            "Hadassah",
+            "Abigail"
+          ],
+          "correctIndex": 2,
+          "explanation": "Esther 2:7 — \"And he brought up Hadassah, that is, Esther, his uncle’s daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why was King Ahasuerus angry with Queen Vashti?",
+          "options": [
+            "She broke a vessel of gold",
+            "She refused to come at the king's commandment",
+            "She left Shushan without leave",
+            "She spoke against the princes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Esther 1:12 — \"But the queen Vashti refused to come at the king’s commandment by his chamberlains: therefore was the king very wroth, and his anger burned in him.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Mordecai discover while sitting in the king's gate?",
+          "options": [
+            "A hidden treasure",
+            "A letter from Haman",
+            "A coming famine",
+            "Two chamberlains plotting against the king"
+          ],
+          "correctIndex": 3,
+          "explanation": "Esther 2:21 — \"In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Over how many provinces did King Ahasuerus reign?",
+          "options": [
+            "An hundred and seven and twenty",
+            "Twelve",
+            "Seventy",
+            "Forty"
+          ],
+          "correctIndex": 0,
+          "explanation": "Esther 1:1 — \"Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SHUSHAN",
+          "hint": "The palace city where King Ahasuerus reigned",
+          "theme": "places"
+        },
+        {
+          "word": "HADASSAH",
+          "hint": "Esther's Hebrew name",
+          "theme": "people"
+        },
+        {
+          "word": "VASHTI",
+          "hint": "The queen who refused the king's summons",
+          "theme": "people"
+        },
+        {
+          "word": "CROWN",
+          "hint": "The king set this royal sign upon Esther's head",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.39.21",
+    "DAN.1.9",
+    "PSA.75.7"
+  ],
+  "reflection": "Esther was an orphan far from home, yet God was quietly setting her in place. Where might God be placing you for a purpose you cannot yet see?"
+}

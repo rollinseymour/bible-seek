@@ -1,0 +1,123 @@
+{
+  "id": "2ki.naaman_washed_clean",
+  "title": "Naaman Washed Clean",
+  "anchorRef": "2KI.5.14",
+  "backstory": "Elisha now carries Elijah's mantle, and God is doing wonderful things through him in Israel. Across the border in Syria lives Naaman, a famous army commander with leprosy, a skin disease no one can cure. Through a little servant girl far from home, God is about to show that His mercy reaches beyond Israel's borders.",
+  "passages": [
+    {
+      "ref": "2KI.5.1-4",
+      "synopsis": "Naaman was a great and honourable commander of the army of Syria, but he had leprosy. A little girl from Israel had been carried away captive, and she served Naaman's wife. She said that the prophet in Samaria could heal her master of his leprosy. Naaman's household told the king of Syria what the girl had said."
+    },
+    {
+      "ref": "2KI.5.5-8",
+      "synopsis": "The king of Syria sent Naaman to Israel with silver, gold, and a letter for Israel's king. When the king of Israel read the letter he tore his clothes, afraid it was a trick — was he God, to kill and to make alive? Elisha heard what had happened and sent word to the king. Let Naaman come to me, he said, and he shall know that there is a prophet in Israel."
+    },
+    {
+      "ref": "2KI.5.9-14",
+      "synopsis": "Naaman arrived at Elisha's door with his horses and chariot. Elisha did not even come out — he simply sent a message to wash in the Jordan seven times and be clean. Naaman went away angry, for he had expected something grander, and he asked why the rivers of Damascus were not better. His servants gently reasoned with him, so he went down and dipped seven times in the Jordan. His flesh became like a little child's, and he was clean."
+    },
+    {
+      "ref": "2KI.5.15-19",
+      "synopsis": "Naaman returned to Elisha and confessed that there is no God in all the earth but in Israel. He offered a rich gift, but Elisha would not take anything. Naaman promised to worship only the LORD from that day forward. Elisha sent him home with the words, 'Go in peace.'"
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Elisha tell Naaman to do to be healed?",
+          "options": [
+            "Offer a sacrifice",
+            "Wash in the Jordan seven times",
+            "Pray at the temple",
+            "Give silver and gold"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Kings 5:10 — \"And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who told Naaman's household about the prophet in Samaria?",
+          "options": [
+            "The king of Syria",
+            "Naaman's servants",
+            "A little maid from Israel",
+            "Elisha's messenger"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Kings 5:3 — \"And she said unto her mistress, Would God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Naaman first react to Elisha's instructions?",
+          "options": [
+            "He went away in a rage",
+            "He obeyed at once",
+            "He laughed out loud",
+            "He offered more money"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Kings 5:11 — \"But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Naaman say after he was healed?",
+          "options": [
+            "Now I will return to Damascus",
+            "The prophet has great power",
+            "The waters of Israel are best",
+            "There is no God in all the earth, but in Israel"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Kings 5:15 — \"And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "NAAMAN",
+          "hint": "Syrian captain healed of leprosy",
+          "theme": "people"
+        },
+        {
+          "word": "JORDAN",
+          "hint": "The river where he washed seven times",
+          "theme": "places"
+        },
+        {
+          "word": "LETTER",
+          "hint": "The king of Syria sent this to the king of Israel",
+          "theme": "things"
+        },
+        {
+          "word": "SAMARIA",
+          "hint": "City where the prophet lived",
+          "theme": "places"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Kings 5:9",
+          "text": "So Naaman came with his horses and with his chariot"
+        },
+        {
+          "reference": "2 Kings 5:19",
+          "text": "And he said unto him, Go in peace."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "LUK.4.27",
+    "JHN.9.7",
+    "PSA.51.7"
+  ],
+  "reflection": "Naaman wanted a grand miracle, but God asked for simple obedience. Will you trust God's way even when it seems too plain?"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rut.redeemer",
+  "title": "A Redeemer and a King",
+  "anchorRef": "RUT.4.14",
+  "backstory": "Boaz was willing to redeem Ruth, but the law was clear: a nearer relative had the first right. Everything now rested on a public transaction at the town gate. What looks like a small family matter turns out to be part of a much bigger story.",
+  "passages": [
+    {
+      "ref": "RUT.4.1-10",
+      "synopsis": "Boaz met the nearer kinsman at the town gate before the elders. When that man declined to redeem the land and marry Ruth, Boaz stepped forward. He publicly agreed to redeem all that had belonged to Naomi's family. He took Ruth to be his wife."
+    },
+    {
+      "ref": "RUT.4.11-17",
+      "synopsis": "Boaz and Ruth married, and God gave them a son named Obed. The women of Bethlehem blessed Naomi, whose emptiness was now filled. The baby became like a son to Naomi in her old age. Her bitter sorrow had turned to joy."
+    },
+    {
+      "ref": "RUT.4.18-22",
+      "synopsis": "The book ends with a family line that carries a surprise. Obed became the father of Jesse, and Jesse the father of David. From this Moabite widow's loyalty came Israel's greatest king. And through that line would come the Messiah Himself."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Redeemer",
+          "words": [
+            "OBED",
+            "BOAZ",
+            "SON",
+            "DAVID",
+            "JESSE"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Whom did Ruth marry?",
+          "options": [
+            "Boaz",
+            "The nearer kinsman",
+            "Obed",
+            "Jesse"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 4:13 — \"So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Ruth's son Obed became the grandfather of which king?",
+          "options": [
+            "David",
+            "Saul",
+            "Solomon",
+            "Josiah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 4:17 — \"And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where did Boaz settle the matter of redeeming the land?",
+          "options": [
+            "At the gate of the city",
+            "In the barley field",
+            "At the threshingfloor",
+            "In Naomi's house"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 4:1 — \"Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the women of Bethlehem call Naomi's grandson to her?",
+          "options": [
+            "A judge of Israel",
+            "A restorer of her life",
+            "A mighty man of war",
+            "A prophet to the people"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ruth 4:15 — \"And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ruth 4:15",
+          "text": "And he shall be unto thee a restorer of thy life,"
+        },
+        {
+          "reference": "Ruth 4:17",
+          "text": "and they called his name Obed:"
+        },
+        {
+          "reference": "Ruth 4:22",
+          "text": "And Obed begat Jesse, and Jesse begat David."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.1.5",
+    "MAT.1.6",
+    "ISA.11.1"
+  ],
+  "reflection": "A famine-struck outsider became part of the line of David and of Jesus. How does God weave small acts of faith into His great story?"
+}

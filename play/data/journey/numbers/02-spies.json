@@ -1,0 +1,127 @@
+{
+  "id": "num.spies",
+  "title": "The Twelve Spies",
+  "anchorRef": "NUM.14.9",
+  "backstory": "Israel arrived at the southern edge of Canaan — the land promised to Abraham centuries earlier. It was an eleven-day journey from Sinai, and they were standing at the door. What happened next cost them forty years.",
+  "passages": [
+    {
+      "ref": "NUM.13.17-33",
+      "synopsis": "Moses sent twelve men to explore the promised land. They returned with huge fruit but a fearful report of giants and walled cities. Ten spies said the people were too strong to defeat. Only Caleb urged Israel to trust God and go up."
+    },
+    {
+      "ref": "NUM.14.1-10",
+      "synopsis": "The people wept and talked of returning to Egypt. Joshua and Caleb tore their clothes and pleaded with them to trust the LORD. They said God would bring them in if He delighted in them. But the crowd threatened to stone them."
+    },
+    {
+      "ref": "NUM.14.26-38",
+      "synopsis": "Because Israel refused to trust God, they would wander forty years in the wilderness. That generation would not enter the land they had feared to take. Only Joshua and Caleb, who believed, would go in. God keeps His promises, but unbelief costs dearly."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Caleb",
+          "clues": [
+            "I was one of the twelve spies.",
+            "I said, 'Let us go up at once, and possess it.'",
+            "I trusted God when others were afraid."
+          ],
+          "wrongChoices": [
+            "Joshua",
+            "Moses",
+            "Aaron"
+          ]
+        },
+        {
+          "name": "Joshua",
+          "clues": [
+            "I was one of only two faithful spies.",
+            "I was Moses' assistant.",
+            "I later led Israel into the promised land."
+          ],
+          "wrongChoices": [
+            "Caleb",
+            "Eleazar",
+            "Nun"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How many spies were sent into the land?",
+          "options": [
+            "Twelve",
+            "Seven",
+            "Ten",
+            "Two"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 14:9 — \"Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why did that generation wander forty years?",
+          "options": [
+            "They refused to trust God",
+            "They lost the way",
+            "They ran out of food",
+            "They fought each other"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 14:34 — \"After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the spies bring back from the valley of Eshcol?",
+          "options": [
+            "A branch with one cluster of grapes",
+            "A jar of honey",
+            "A sheaf of barley",
+            "A lamb"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 13:23 — \"And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Caleb urge the people to do?",
+          "options": [
+            "Wait for a sign",
+            "Go up at once and possess it",
+            "Return to Egypt",
+            "Send more spies"
+          ],
+          "correctIndex": 1,
+          "explanation": "Numbers 13:30 — \"And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Twelve Spies",
+          "words": [
+            "SPIES",
+            "GRAPES",
+            "LAND",
+            "GIANTS",
+            "TRUST"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HEB.3.19",
+    "NUM.13.30",
+    "DEU.1.36"
+  ],
+  "reflection": "Ten spies saw the giants; two saw God. When fear and faith pull at you, which report do you believe?"
+}

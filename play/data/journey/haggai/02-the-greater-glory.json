@@ -1,0 +1,150 @@
+{
+  "id": "hag.greater_glory",
+  "title": "The Greater Glory",
+  "anchorRef": "HAG.2.9",
+  "backstory": "The building has begun again, but some of the older people remember Solomon's temple and weep — this new house looks so small. Haggai brings God's answer: be strong, for I am with you, and the glory of this house will one day be greater than the first. God even gives Zerubbabel the governor a promise that points far ahead to the coming King.",
+  "passages": [
+    {
+      "ref": "HAG.2.1-9",
+      "synopsis": "About a month into the work, God spoke again. Those old enough to remember Solomon's temple looked at the new one and saw almost nothing by comparison. God told Zerubbabel, Joshua, and all the people three times to be strong and to work, for he was with them, just as he had promised when they came out of Egypt. One day he would shake the nations, fill this house with glory, and give peace. The silver and the gold were already his, and the glory of this latter house would be greater than the former."
+    },
+    {
+      "ref": "HAG.2.10-19",
+      "synopsis": "God had Haggai ask the priests two questions about the law, and their answers showed that holiness does not rub off on things, but uncleanness does. In the same way, the people's long neglect of God's house had touched everything they did. God reminded them of the lean harvests of those years — ten measures where they looked for twenty, and twenty vessels of wine where they looked for fifty. But now that the temple's foundation was laid, he gave them a fresh promise: from this day I will bless you."
+    },
+    {
+      "ref": "HAG.2.20-23",
+      "synopsis": "On that same day, God gave Haggai one more message, just for Zerubbabel. One day God would shake the heavens and the earth and bring down the proud kingdoms of the world. But Zerubbabel, his chosen servant, would be like a signet ring on God's own hand — a precious sign of his authority and love. Through Zerubbabel's family line, God's promised King would one day come."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Zerubbabel",
+          "clues": [
+            "I was governor of Judah after the exile.",
+            "I led the people in rebuilding the house of the LORD.",
+            "God promised to make me like a signet ring."
+          ],
+          "wrongChoices": [
+            "Nehemiah",
+            "Ezra",
+            "Solomon"
+          ]
+        },
+        {
+          "name": "Haggai",
+          "clues": [
+            "I asked, Is it time for you to dwell in your cieled houses, and this house lie waste?",
+            "I told the people, Consider your ways.",
+            "I am called the LORD’s messenger, and the message I carried was, I am with you."
+          ],
+          "wrongChoices": [
+            "Zechariah",
+            "Malachi",
+            "Ezekiel"
+          ]
+        },
+        {
+          "name": "Joshua",
+          "clues": [
+            "I was the high priest when the temple was rebuilt.",
+            "I served beside Zerubbabel the governor.",
+            "My father's name was Josedech."
+          ],
+          "wrongChoices": [
+            "Aaron",
+            "Eli",
+            "Ezra"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "TEMPLE",
+          "hint": "The house the people rebuilt for God",
+          "theme": "places"
+        },
+        {
+          "word": "SIGNET",
+          "hint": "God would make Zerubbabel like this ring",
+          "theme": "things"
+        },
+        {
+          "word": "GLORY",
+          "hint": "The latter house would have more of this than the former",
+          "theme": "things"
+        },
+        {
+          "word": "ZERUBBABEL",
+          "hint": "The governor God chose as his servant",
+          "theme": "people"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the LORD say about the glory of the latter house?",
+          "options": [
+            "It would never return",
+            "It shall be greater than of the former",
+            "It would equal Solomon's",
+            "It would fade away"
+          ],
+          "correctIndex": 1,
+          "explanation": "Haggai 2:9 — \"The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the LORD of hosts say belongs to him?",
+          "options": [
+            "The cedars and the stones",
+            "The sun and the moon",
+            "The rivers and the seas",
+            "The silver and the gold"
+          ],
+          "correctIndex": 3,
+          "explanation": "Haggai 2:8 — \"The silver is mine, and the gold is mine, saith the LORD of hosts.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God promise to make Zerubbabel as?",
+          "options": [
+            "A signet",
+            "A crown",
+            "A sword",
+            "A star"
+          ],
+          "correctIndex": 0,
+          "explanation": "Haggai 2:23 — \"In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What command did the LORD repeat to Zerubbabel, Joshua, and all the people?",
+          "options": [
+            "Be silent",
+            "Be watchful",
+            "Be strong",
+            "Be swift"
+          ],
+          "correctIndex": 2,
+          "explanation": "Haggai 2:4 — \"Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts:\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ZEC.4.6",
+    "HEB.12.26",
+    "MAT.1.12"
+  ],
+  "reflection": "The new temple looked small, but God promised a greater glory because he himself was with his people. When your best efforts feel small, how does God's promise to be with you change things?"
+}

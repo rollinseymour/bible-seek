@@ -1,0 +1,141 @@
+{
+  "id": "amo.shepherd_called",
+  "title": "A Shepherd Called to Speak",
+  "anchorRef": "AMO.3.8",
+  "backstory": "Amos lived in the days of King Uzziah of Judah and King Jeroboam of Israel, when the northern kingdom was rich, comfortable, and far from God. Amos was no palace prophet — he was a shepherd from the little town of Tekoa who also tended sycomore fruit trees. God took this ordinary working man and gave him a word Israel needed to hear.",
+  "passages": [
+    {
+      "ref": "AMO.1.1-2",
+      "synopsis": "Amos was a shepherd from Tekoa, a small town in Judah. In the days of King Uzziah and King Jeroboam, God gave him words to carry to Israel. Amos said the LORD would roar from Zion like a lion. Even the shepherds' pastures and the top of Mount Carmel would feel the weight of His voice."
+    },
+    {
+      "ref": "AMO.2.6-16",
+      "synopsis": "God named the wrongs of Israel. The rich sold the poor for silver and pushed aside the weak. God reminded His people how He brought them out of Egypt and led them forty years through the wilderness. He had raised up prophets among them, but the people told the prophets to be quiet. Now Israel would have to answer to God."
+    },
+    {
+      "ref": "AMO.3.1-8",
+      "synopsis": "God reminded Israel that He had known them out of all the families of the earth. Being God's own people came with a real responsibility. Amos asked simple questions: can two walk together unless they agree? Does a lion roar when it has caught nothing? The lion had roared — the Lord GOD had spoken — and Amos could not keep silent."
+    },
+    {
+      "ref": "AMO.7.10-15",
+      "synopsis": "Amaziah the priest of Beth-el did not want to hear Amos. He complained to King Jeroboam and told Amos to go home to Judah. Amos answered that he had never trained to be a prophet. He was a herdman and a gatherer of sycomore fruit. But the LORD took him from following the flock and said, Go, prophesy unto my people Israel."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Amos",
+          "clues": [
+            "I was a herdman from the town of Tekoa.",
+            "I gathered sycomore fruit before God called me.",
+            "The LORD took me as I followed the flock and sent me to prophesy."
+          ],
+          "wrongChoices": [
+            "Hosea",
+            "Micah",
+            "Elisha"
+          ]
+        },
+        {
+          "name": "Amaziah",
+          "clues": [
+            "I was the priest of Beth-el.",
+            "I sent word to King Jeroboam about a troublesome prophet.",
+            "I told Amos to flee to Judah and prophesy there instead."
+          ],
+          "wrongChoices": [
+            "Jeroboam",
+            "Eli",
+            "Zadok"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What was Amos before God called him to prophesy?",
+          "options": [
+            "A priest at Beth-el",
+            "A herdman from Tekoa",
+            "A scribe in the palace",
+            "A fisherman in Galilee"
+          ],
+          "correctIndex": 1,
+          "explanation": "Amos 1:1 — \"The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When Amos said, \"The lion hath roared,\" what did he mean had really happened?",
+          "options": [
+            "A lion had attacked his flock",
+            "An earthquake had shaken the land",
+            "The king had made a decree",
+            "The Lord GOD had spoken"
+          ],
+          "correctIndex": 3,
+          "explanation": "Amos 3:8 — \"The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who told Amos to leave Beth-el and go prophesy in Judah instead?",
+          "options": [
+            "Amaziah the priest",
+            "King Jeroboam",
+            "King Uzziah",
+            "Hosea the prophet"
+          ],
+          "correctIndex": 0,
+          "explanation": "Amos 7:12 — \"Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was Amos doing when the LORD took him to be a prophet?",
+          "options": [
+            "Serving in the temple",
+            "Planting a vineyard",
+            "Following the flock",
+            "Building a wall"
+          ],
+          "correctIndex": 2,
+          "explanation": "Amos 7:15 — \"And the LORD took me as I followed the flock, and the LORD said unto me, Go, prophesy unto my people Israel.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "TEKOA",
+          "hint": "Amos's hometown in Judah",
+          "theme": "places"
+        },
+        {
+          "word": "SYCOMORE",
+          "hint": "Fruit Amos gathered before God called him",
+          "theme": "things"
+        },
+        {
+          "word": "AMAZIAH",
+          "hint": "Priest of Beth-el who told Amos to leave",
+          "theme": "people"
+        },
+        {
+          "word": "FLOCK",
+          "hint": "Amos was following this when the LORD took him",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JOL.3.16",
+    "2SA.7.8",
+    "ACT.4.20"
+  ],
+  "reflection": "God chose a working shepherd, not a trained scholar, to carry His word. When God asks you to speak up for what is right, what will you say?"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2ch.hezekiahs_passover",
+  "title": "Hezekiah's Great Passover",
+  "anchorRef": "2CH.30.9",
+  "backstory": "By Hezekiah's day Assyria has already carried away many of the northern tribes, and Judah has drifted far from God — the temple doors were even shut for a time. Young King Hezekiah reopens the house of the LORD and longs to gather all Israel back to worship. He sends runners with letters to every tribe, inviting them home.",
+  "passages": [
+    {
+      "ref": "2CH.30.1-9",
+      "synopsis": "Hezekiah sent letters through all Israel and Judah, inviting everyone to Jerusalem to keep the passover. They kept it in the second month, because the priests had not sanctified themselves and the people had not yet gathered to Jerusalem. It had not been kept as it was written for a long time. The letters begged the people to turn again to the LORD and not be stubborn as their fathers had been. For the LORD your God is gracious and merciful, the king wrote, and will not turn away his face from you if you return to him."
+    },
+    {
+      "ref": "2CH.30.10-13",
+      "synopsis": "Runners carried the letters from city to city through the northern tribes. Many people laughed at them and mocked the invitation. But some from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem. In Judah, God gave the people one heart to obey, and a very great crowd gathered for the feast."
+    },
+    {
+      "ref": "2CH.30.14-20",
+      "synopsis": "The people cleared the idol altars out of Jerusalem and killed the passover lambs. Many who had come from the north had not cleansed themselves the way the law required. Hezekiah prayed for them, asking the good LORD to pardon everyone who set his heart to seek God. And the LORD hearkened to Hezekiah and healed the people."
+    },
+    {
+      "ref": "2CH.30.21-27",
+      "synopsis": "The feast was so full of gladness that everyone agreed to keep it another seven days. Hezekiah and the princes gave thousands of animals so that no one would go without. There was great joy in Jerusalem — nothing like it since the days of Solomon. The priests blessed the people, and their prayer rose all the way to God's holy dwelling place in heaven."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Chronicles 30:11",
+          "text": "Nevertheless divers of Asher and Manasseh and of Zebulun humbled themselves"
+        },
+        {
+          "reference": "2 Chronicles 30:20",
+          "text": "And the LORD hearkened to Hezekiah, and healed the people."
+        },
+        {
+          "reference": "2 Chronicles 30:26",
+          "text": "So there was great joy in Jerusalem:"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Hezekiah's Passover",
+          "words": [
+            "ISRAEL",
+            "JUDAH",
+            "EPHRAIM",
+            "ZEBULUN",
+            "ASHER",
+            "LEVITES",
+            "JOY"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "HEZEKIAH",
+          "hint": "The king who invited all Israel to the passover",
+          "theme": "people"
+        },
+        {
+          "word": "PASSOVER",
+          "hint": "The feast kept in the second month",
+          "theme": "things"
+        },
+        {
+          "word": "LETTERS",
+          "hint": "The posts carried these from city to city",
+          "theme": "things"
+        },
+        {
+          "word": "JERUSALEM",
+          "hint": "The city where the great feast was held",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.12.14",
+    "NUM.9.11",
+    "1CO.5.7"
+  ],
+  "reflection": "Hezekiah prayed for people whose hearts sought God even though they were not ready. What does that tell you about what God cares about most?"
+}

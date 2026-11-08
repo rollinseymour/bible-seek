@@ -1,0 +1,90 @@
+{
+  "id": "zec.thy_king_cometh",
+  "title": "Thy King Cometh",
+  "anchorRef": "ZEC.9.9",
+  "backstory": "Zechariah's last chapters look far past the small temple his neighbours were building. They show a King who enters Jerusalem on a donkey instead of a war horse, a shepherd counted worth thirty pieces of silver, and a fountain opened to wash away sin. Centuries later the Gospel writers reached back for these very words to tell what happened to Jesus.",
+  "passages": [
+    {
+      "ref": "ZEC.9.8-12",
+      "synopsis": "God promises to camp around his house so no oppressor passes through again. Then comes the call to rejoice: \"behold, thy King cometh unto thee,\" just, bringing salvation, lowly, riding upon a colt. This King cuts off the chariot and the battle bow and speaks peace to the nations, ruling from sea to sea. Because of the blood of the covenant, prisoners are brought up out of a waterless pit. They are told to turn to the strong hold as prisoners of hope."
+    },
+    {
+      "ref": "ZEC.11.10-14",
+      "synopsis": "Zechariah acts out a hard parable as a shepherd over a flock that will not be led. He takes his staff named Beauty and cuts it in two, and the poor of the flock who watched him know this is the word of the LORD. When he asks for his wages, they weigh out thirty pieces of silver — the price of a slave. With sorrow God calls that the \"goodly price\" they set on him, for it shows how little his care was worth in their eyes, and he tells him to cast it to the potter in the house of the LORD. Then the second staff, Bands, is broken too."
+    },
+    {
+      "ref": "ZEC.12.10-13.1",
+      "synopsis": "God promises to pour out on Jerusalem the spirit of grace and of supplications. The people will look upon the one they have pierced and mourn for him as for an only son. Family after family will grieve, each apart, until the whole land is in mourning. Then comes the turn: in that day a fountain will be opened to the house of David and to all Jerusalem, for sin and for uncleanness. Sorrow is not the last word."
+    },
+    {
+      "ref": "ZEC.14.6-11",
+      "synopsis": "Zechariah describes a day unlike any other, neither clear day nor dark night, when at evening time it will be light. Living waters will flow out of Jerusalem toward both seas, in summer and in winter alike. Then the promise the whole book has been reaching for: \"And the LORD shall be king over all the earth.\" There will be one LORD and his name one. The land is made a plain, and Jerusalem will be safely inhabited with no more destruction."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Zechariah 9:9",
+          "text": "behold, thy King cometh unto thee:"
+        },
+        {
+          "reference": "Zechariah 12:10",
+          "text": "they shall look upon me whom they have pierced,"
+        },
+        {
+          "reference": "Zechariah 14:9",
+          "text": "And the LORD shall be king over all the earth:"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Thy King Cometh",
+          "words": [
+            "ZION",
+            "KING",
+            "COLT",
+            "SILVER",
+            "FOUNTAIN",
+            "JERUSALEM"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "KING",
+          "hint": "He came lowly, riding on a colt",
+          "theme": "people"
+        },
+        {
+          "word": "SHEPHERD",
+          "hint": "The part Zechariah acted out over a flock that would not be led",
+          "theme": "people"
+        },
+        {
+          "word": "FOUNTAIN",
+          "hint": "Opened in that day for sin and uncleanness",
+          "theme": "things"
+        },
+        {
+          "word": "POTTER",
+          "hint": "The thirty pieces were cast to him in the house of the LORD",
+          "theme": "people"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.21.5",
+    "MAT.27.9",
+    "JHN.19.37"
+  ],
+  "reflection": "The King came in lowly, and the fountain was opened for anyone willing to come. What would it look like to live today as a prisoner of hope?"
+}

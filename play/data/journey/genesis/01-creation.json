@@ -1,0 +1,133 @@
+{
+  "id": "gen.creation",
+  "title": "Creation",
+  "anchorRef": "GEN.1.1",
+  "backstory": "Genesis opens before there was any world at all — no light, no land, no life. It doesn't argue for God's existence; it simply assumes it, and shows him speaking creation into order out of nothing. Everything that follows in Scripture rests on this beginning.",
+  "passages": [
+    {
+      "ref": "GEN.1.1-5",
+      "synopsis": "In the beginning God created the heavens and the earth, which lay empty and dark. God said, \"Let there be light,\" and light appeared. He separated the light from the darkness, calling them day and night. This was the first day of creation."
+    },
+    {
+      "ref": "GEN.1.6-19",
+      "synopsis": "Day by day God shaped the world with his word. He made the sky, gathered the seas, and brought forth dry land covered with plants and trees. Then he set the sun, moon, and stars in place to mark day and night and the seasons. At each step God saw that it was good."
+    },
+    {
+      "ref": "GEN.1.20-31",
+      "synopsis": "God filled the world with living things — fish in the sea, birds in the sky, and animals across the land. Then he made human beings in his own image, male and female, and blessed them. He gave them care over all he had made. Looking at everything, God saw that it was very good."
+    },
+    {
+      "ref": "GEN.2.1-3",
+      "synopsis": "With the heavens and the earth finished, God rested on the seventh day from all his work. He blessed that day and set it apart as holy. In this way God gave his people a pattern of work and rest to follow."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Genesis 1:1",
+          "text": "In the beginning God created the heaven and the earth."
+        },
+        {
+          "reference": "Genesis 1:3",
+          "text": "And God said, Let there be light: and there was light."
+        },
+        {
+          "reference": "Genesis 1:10",
+          "text": "and God saw that it was good."
+        },
+        {
+          "reference": "Genesis 2:3",
+          "text": "And God blessed the seventh day"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Creation",
+          "words": [
+            "GOD",
+            "LIGHT",
+            "DAY",
+            "NIGHT",
+            "EARTH"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "On the first day, what did God create when He said, \"Let there be...\"?",
+          "options": [
+            "Light",
+            "Trees",
+            "Fish",
+            "Stars"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 1:3 — \"And God said, Let there be light: and there was light.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "On which day did God rest from all His work?",
+          "options": [
+            "The first day",
+            "The third day",
+            "The sixth day",
+            "The seventh day"
+          ],
+          "correctIndex": 3,
+          "explanation": "Genesis 2:2 — \"And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "According to Genesis 1:16, what did God make to rule the night?",
+          "options": [
+            "The greater light",
+            "The lesser light",
+            "The firmament",
+            "The morning star"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 1:16 — \"And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God call the firmament?",
+          "options": [
+            "Earth",
+            "Day",
+            "Heaven",
+            "Seas"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 1:8 — \"And God called the firmament Heaven. And the evening and the morning were the second day.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What large sea creatures does Genesis 1:21 say God created on the fifth day?",
+          "options": [
+            "Great whales",
+            "Leviathans",
+            "Sea serpents",
+            "Great fishes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 1:21 — \"And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JHN.1.1",
+    "PSA.33.6",
+    "COL.1.16"
+  ],
+  "reflection": "What does it mean that people are made \"in God's image\"?"
+}

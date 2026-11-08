@@ -1,0 +1,123 @@
+{
+  "id": "mal.windows_of_heaven",
+  "title": "The Windows of Heaven",
+  "anchorRef": "MAL.3.10",
+  "backstory": "The same people who brought God leftovers were also careless with each other, breaking promises they had made before him. Into that drift God says something steady: I am the LORD, I change not. Then he invites them to test his goodness by giving him the first of what they have instead of the last.",
+  "passages": [
+    {
+      "ref": "MAL.2.10-16",
+      "synopsis": "Malachi asks a question that reaches everyone: have we not all one father? Judah had been unfaithful, both to God and to the promises made to husbands and wives. Tears were falling on the altar, but the broken promises stayed broken. God tells them to guard their spirit and to keep faith with the ones they pledged themselves to."
+    },
+    {
+      "ref": "MAL.3.6-12",
+      "synopsis": "God says, \"For I am the LORD, I change not,\" and that is why his people have not been consumed. He calls them to return, and they ask what they are returning from. God answers plainly: will a man rob God? By holding back the tithes and offerings that belonged to him they had robbed him, and the whole nation was cursed with a curse. Then he holds out a startling invitation — bring all the tithes into the storehouse, prove me now, and see if I do not open the windows of heaven and pour out a blessing too large to hold."
+    },
+    {
+      "ref": "MAL.3.13-18",
+      "synopsis": "Some had been saying that serving God is a waste, since proud people seem to do so well. But others who feared the LORD spoke often to one another about him. God was listening, and a book of remembrance was written before him for everyone who thought upon his name. He calls them his jewels and promises to spare them as a father spares his own son."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Malachi 3:6",
+          "text": "For I am the LORD, I change not;"
+        },
+        {
+          "reference": "Malachi 3:12",
+          "text": "And all nations shall call you blessed:"
+        },
+        {
+          "reference": "Malachi 3:18",
+          "text": "Then shall ye return, and discern between the righteous and the wicked,"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "TITHES",
+          "hint": "The tenth God asked his people to bring",
+          "theme": "things"
+        },
+        {
+          "word": "STOREHOUSE",
+          "hint": "Where the tithes were to be brought",
+          "theme": "things"
+        },
+        {
+          "word": "WINDOWS",
+          "hint": "God promised to open these of heaven",
+          "theme": "things"
+        },
+        {
+          "word": "JEWELS",
+          "hint": "What God calls those who fear him",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What does God say about himself in Malachi 3:6?",
+          "options": [
+            "\"I am weary\"",
+            "\"I have forgotten\"",
+            "\"I change not\"",
+            "\"I am far off\""
+          ],
+          "correctIndex": 2,
+          "explanation": "Malachi 3:6 — \"For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What were the people told to bring into the storehouse?",
+          "options": [
+            "All the tithes",
+            "New robes",
+            "Silver bowls",
+            "Cedar wood"
+          ],
+          "correctIndex": 0,
+          "explanation": "Malachi 3:10 — \"Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was written before the LORD for those who feared him?",
+          "options": [
+            "A song",
+            "A letter",
+            "A list of kings",
+            "A book of remembrance"
+          ],
+          "correctIndex": 3,
+          "explanation": "Malachi 3:16 — \"Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does God call those who fear him in that day?",
+          "options": [
+            "His servants",
+            "His jewels",
+            "His guests",
+            "His builders"
+          ],
+          "correctIndex": 1,
+          "explanation": "Malachi 3:17 — \"And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "DEU.14.22",
+    "2CO.9.7",
+    "HEB.13.8"
+  ],
+  "reflection": "God invited his people to prove him and see how generous he is. Where is he asking you to trust him first, before you see the blessing?"
+}

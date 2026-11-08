@@ -1,0 +1,171 @@
+{
+  "id": "gen.jacob",
+  "title": "Jacob",
+  "anchorRef": "GEN.28.15",
+  "backstory": "Abraham's promise passed to his son Isaac, who had twin sons — Esau, the elder and his father's favorite, and Jacob, a quieter man who stayed near the tents. Jacob's name meant 'heel-grabber,' fitting for a man who grasped at what wasn't his. God would meet him anyway.",
+  "passages": [
+    {
+      "ref": "GEN.25.29-34",
+      "synopsis": "Esau came in from the field worn out and hungry, while his brother Jacob was cooking stew. Esau begged for some, and Jacob asked for his birthright in exchange. Caring more for the moment than his blessing, Esau agreed and sold it. So he despised the birthright that was his as the older son."
+    },
+    {
+      "ref": "GEN.27.1-29",
+      "synopsis": "Old and nearly blind, Isaac prepared to bless his firstborn, Esau. But Rebekah helped Jacob disguise himself to receive the blessing instead. Pretending to be Esau, Jacob came to his father, and Isaac blessed him with plenty and rule over nations. When Esau returned, the blessing had already been given away."
+    },
+    {
+      "ref": "GEN.28.10-22",
+      "synopsis": "Fleeing from his brother, Jacob slept in the open with a stone for a pillow. He dreamed of a ladder reaching to heaven, with angels going up and down it. At the top stood the LORD, who promised to be with Jacob and bring him home. Jacob awoke in awe and called the place Bethel, the house of God."
+    },
+    {
+      "ref": "GEN.32.24-30",
+      "synopsis": "Alone at night, Jacob wrestled with a mysterious man until daybreak. Though his hip was wrenched, he would not let go without a blessing. The man gave him a new name, Israel, for he had struggled with God and with men. Jacob called the place Peniel, saying he had seen God face to face."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "ESAU",
+          "hint": "Jacob's older twin brother",
+          "theme": "people"
+        },
+        {
+          "word": "LADDER",
+          "hint": "Jacob dreamed of one reaching to heaven",
+          "theme": "things"
+        },
+        {
+          "word": "BETHEL",
+          "hint": "The place Jacob named the house of God",
+          "theme": "places"
+        },
+        {
+          "word": "BIRTHRIGHT",
+          "hint": "What Esau sold for a single meal",
+          "theme": "things"
+        },
+        {
+          "word": "ISRAEL",
+          "hint": "The new name God gave Jacob",
+          "theme": "people"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What food did Esau trade his birthright for?",
+          "options": [
+            "Bread and pottage",
+            "Roasted lamb",
+            "Honey and figs",
+            "Fish and barley"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 25:34 — \"Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Jacob fool his blind father Isaac?",
+          "options": [
+            "He imitated Esau's voice exactly",
+            "He wore goat skins to seem hairy like Esau",
+            "He waited until midnight",
+            "He sent a servant in his place"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 27:23 — \"And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Jacob see in his dream at Bethel?",
+          "options": [
+            "A burning bush",
+            "A great flood",
+            "A ladder reaching to heaven",
+            "A pillar of fire"
+          ],
+          "correctIndex": 2,
+          "explanation": "Genesis 28:12 — \"And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Jacob say when he woke from his dream at Bethel?",
+          "options": [
+            "Surely the LORD is in this place; and I knew it not",
+            "Here am I",
+            "Let me go, for the day breaketh",
+            "I have seen God face to face"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genesis 28:16 — \"And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What new name was Jacob given?",
+          "options": [
+            "Edom",
+            "Israel",
+            "Abraham",
+            "Peniel"
+          ],
+          "correctIndex": 1,
+          "explanation": "Genesis 32:28 — \"And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Jacob",
+          "clues": [
+            "I was the younger of twin brothers.",
+            "I bought my brother's birthright for a bowl of stew.",
+            "I wrestled with a man until the breaking of day."
+          ],
+          "wrongChoices": [
+            "Joseph",
+            "Ishmael",
+            "Benjamin"
+          ]
+        },
+        {
+          "name": "Esau",
+          "clues": [
+            "I was a skillful hunter and a man of the field.",
+            "I came out first, red and hairy.",
+            "I am also called Edom."
+          ],
+          "wrongChoices": [
+            "Cain",
+            "Ishmael",
+            "Laban"
+          ]
+        },
+        {
+          "name": "Isaac",
+          "clues": [
+            "My father once laid me on an altar, but God provided a ram.",
+            "In my old age my eyes grew too dim to see.",
+            "I was tricked into blessing my younger son."
+          ],
+          "wrongChoices": [
+            "Abraham",
+            "Laban",
+            "Bethuel"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "HOS.12.3",
+    "JHN.1.51",
+    "HEB.11.21"
+  ],
+  "reflection": "Jacob grasped for blessing through deceit, yet God still met him on the road and changed him; where might God be present in your life even when you feel you have failed?"
+}

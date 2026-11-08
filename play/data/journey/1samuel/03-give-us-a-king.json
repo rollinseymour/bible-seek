@@ -1,0 +1,141 @@
+{
+  "id": "1sa.give_us_a_king",
+  "title": "Give Us a King",
+  "anchorRef": "1SA.12.24",
+  "backstory": "Samuel has grown old, and his sons do not walk in his ways. The elders of Israel look at the nations around them and decide they want what everyone else has — a king. God will grant their request, but he warns them what it will cost, for Israel is turning from the King they already have.",
+  "passages": [
+    {
+      "ref": "1SA.8.1-9",
+      "synopsis": "When Samuel grew old, his sons judged Israel, but they took bribes and twisted justice. So the elders came to Samuel at Ramah and demanded a king, to be like all the nations. The request grieved Samuel, and he prayed. The LORD told him the people had not rejected Samuel — they had rejected the LORD as their king. Still, God said to listen to them, but to warn them first."
+    },
+    {
+      "ref": "1SA.8.10-22",
+      "synopsis": "Samuel told the people plainly what a king would take. He would take their sons for his armies, their daughters for his kitchens, and the best of their fields and flocks. One day they would cry out because of the king they had chosen. But the people refused to listen and said, Nay; but we will have a king over us. And the LORD told Samuel to make them a king."
+    },
+    {
+      "ref": "1SA.9.15-21",
+      "synopsis": "The day before Saul arrived, the LORD had told Samuel he was coming. Saul was searching for his father's lost donkeys when he met the prophet. The LORD said, Behold the man of whom I spake to thee. Saul was amazed, for he came from the smallest tribe of Israel and thought little of himself."
+    },
+    {
+      "ref": "1SA.10.17-25",
+      "synopsis": "Samuel gathered Israel to Mizpeh and reminded them that God had saved them again and again. Then lots were cast, and the tribe of Benjamin was taken, and at last Saul the son of Kish. But the new king was hiding among the stuff, and they had to run and fetch him. Saul stood taller than anyone, and the people shouted, God save the king. Samuel wrote down the manner of the kingdom and sent everyone home."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Saul",
+          "clues": [
+            "I became Israel's very first king.",
+            "I stood taller than any of the people, from my shoulders and upward.",
+            "When they came to crown me, I was hiding among the stuff."
+          ],
+          "wrongChoices": [
+            "David",
+            "Jonathan",
+            "Abner"
+          ]
+        },
+        {
+          "name": "Samuel",
+          "clues": [
+            "The elders of Israel asked me to give them a king.",
+            "I warned the people what a king would take from them.",
+            "As a boy I heard God call my name in the night."
+          ],
+          "wrongChoices": [
+            "Eli",
+            "Saul",
+            "Nathan"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "Why did the elders of Israel say they wanted a king?",
+          "options": [
+            "To fight the Philistines",
+            "Because Samuel had died",
+            "Because God commanded it",
+            "To be like all the nations"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Samuel 8:5 — \"And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "When Israel asked for a king, whom did God say they had really rejected?",
+          "options": [
+            "Samuel",
+            "The LORD himself",
+            "Samuel's sons",
+            "The judges"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Samuel 8:7 — \"And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where was Saul when the people came to make him king?",
+          "options": [
+            "Hiding among the stuff",
+            "Plowing his field",
+            "Fighting the Ammonites",
+            "At his father's house"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Samuel 10:22 — \"Therefore they enquired of the LORD further, if the man should yet come thither. And the LORD answered, Behold, he hath hid himself among the stuff.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Saul stand out when he stood among the people?",
+          "options": [
+            "He wore royal robes",
+            "He carried a great spear",
+            "He was taller than any of the people",
+            "He spoke with a loud voice"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Samuel 10:23 — \"And they ran and fetched him thence: and when he stood among the people, he was higher than any of the people from his shoulders and upward.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "SAUL",
+          "hint": "Israel's first king",
+          "theme": "people"
+        },
+        {
+          "word": "KISH",
+          "hint": "Father of the first king",
+          "theme": "people"
+        },
+        {
+          "word": "RAMAH",
+          "hint": "Samuel's home town",
+          "theme": "places"
+        },
+        {
+          "word": "MIZPEH",
+          "hint": "Where Israel gathered to choose a king",
+          "theme": "places"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "DEU.17.15",
+    "PSA.146.3",
+    "HOS.13.11"
+  ],
+  "reflection": "Israel wanted a king so they could be like all the nations. When have you wanted what everyone else has instead of trusting what God has given you?"
+}

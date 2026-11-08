@@ -1,0 +1,106 @@
+{
+  "id": "1sa.david_and_goliath",
+  "title": "David and Goliath",
+  "anchorRef": "1SA.16.7",
+  "backstory": "King Saul has stopped listening to God, so God sends Samuel to Bethlehem to anoint a new king — a shepherd boy no one expects. Meanwhile the Philistine army gathers for war, led by a giant named Goliath who defies the armies of the living God. God is about to show that the battle is his.",
+  "passages": [
+    {
+      "ref": "1SA.16.1-13",
+      "synopsis": "The LORD sent Samuel to Bethlehem, to the house of Jesse, to anoint a new king. Seven sons passed before Samuel, but God had chosen none of them, for the LORD looks on the heart and not on the outward appearance. They sent for the youngest, David, who was keeping the sheep. Samuel anointed him, and the Spirit of the LORD came upon David from that day forward."
+    },
+    {
+      "ref": "1SA.17.1-11",
+      "synopsis": "The Philistines gathered for battle, and their champion strode out — Goliath of Gath, a giant covered in armour of brass. He shouted his challenge across the valley: choose a man to fight me, and the losers will serve the winners. He defied the armies of Israel. Saul and all his soldiers were dismayed and greatly afraid."
+    },
+    {
+      "ref": "1SA.17.32-40",
+      "synopsis": "David told Saul, Let no man's heart fail because of this Philistine — thy servant will go and fight him. He remembered how the LORD had delivered him from the lion and the bear while he kept his father's sheep. Saul dressed David in his own armour, but David put it off, for he had not proved it. He took his staff, his sling, and five smooth stones from the brook, and drew near to the giant."
+    },
+    {
+      "ref": "1SA.17.41-50",
+      "synopsis": "Goliath looked down at the boy and mocked him. But David answered that he came in the name of the LORD of hosts, the God of the armies of Israel. The battle is the LORD's, David said, and he does not save with sword and spear. David ran toward the giant and slung one stone, and Goliath fell to the earth — God had given the victory without a sword in David's hand."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "1 Samuel 17:32",
+          "text": "thy servant will go and fight with this Philistine."
+        },
+        {
+          "reference": "1 Samuel 17:47",
+          "text": "for the battle is the LORD’s,"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "David and Goliath",
+          "words": [
+            "DAVID",
+            "GOLIATH",
+            "SLING",
+            "STONE",
+            "BROOK",
+            "SHEPHERD",
+            "GATH"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "David",
+          "clues": [
+            "I am the youngest of Jesse's sons.",
+            "I kept my father's sheep in Bethlehem.",
+            "I faced a giant with a sling and five smooth stones."
+          ],
+          "wrongChoices": [
+            "Eliab",
+            "Saul",
+            "Jonathan"
+          ]
+        },
+        {
+          "name": "Goliath",
+          "clues": [
+            "I was the champion of the Philistines.",
+            "I came from the city of Gath.",
+            "I shouted a challenge to Israel's army across the valley."
+          ],
+          "wrongChoices": [
+            "Achish",
+            "Abner",
+            "Eliab"
+          ]
+        },
+        {
+          "name": "Jesse",
+          "clues": [
+            "I had eight sons, and the youngest of them kept my sheep.",
+            "Samuel came to my house to find a king.",
+            "Seven of my sons passed by before the youngest was chosen."
+          ],
+          "wrongChoices": [
+            "Obed",
+            "Boaz",
+            "Elkanah"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.20.7",
+    "1CO.1.27",
+    "HEB.11.32"
+  ],
+  "reflection": "Everyone saw a giant too big to fight; David saw a God too great to doubt. What giant in your life needs to be measured against God instead?"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "jhn.word_made_flesh",
+  "title": "The Word Made Flesh",
+  "anchorRef": "JHN.1.14",
+  "backstory": "John does not begin his Gospel with a manger. He begins before the world was made, with the Word who was with God and who was God — and then tells us that this Word became a man and lived among us. John writes down what he saw so that we may know who Jesus really is.",
+  "passages": [
+    {
+      "ref": "JHN.1.1-14",
+      "synopsis": "Before anything was made, the Word was with God, and the Word was God. All things were made by him, and in him was life that shone like light in the darkness. God sent a man named John to point people to that light. Many did not recognize him, but all who received him were given the right to become the children of God. Then the Word was made flesh and lived among us, full of grace and truth."
+    },
+    {
+      "ref": "JHN.1.29-34",
+      "synopsis": "The next day John the Baptist saw Jesus coming toward him and called him the Lamb of God, who takes away the sin of the world. John said that Jesus was greater than he was, even though Jesus came after him. He told how he had seen the Spirit come down from heaven like a dove and rest on Jesus. By that sign John knew, and told everyone, that this is the Son of God."
+    },
+    {
+      "ref": "JHN.1.35-42",
+      "synopsis": "Standing with two of his disciples, John looked at Jesus and said again, Behold the Lamb of God. The two men followed Jesus, who turned and asked them what they were seeking. He invited them to come and see, and they stayed with him that day. One of them was Andrew, who hurried off to find his brother Simon. Andrew brought him to Jesus, who looked at him and gave him a new name."
+    },
+    {
+      "ref": "JHN.2.1-11",
+      "synopsis": "At a wedding in Cana of Galilee the wine ran out, and the mother of Jesus told him about it. She turned to the servants and said that whatever he told them to do, they should do it. Jesus had them fill six stone waterpots with water and then draw some out for the ruler of the feast. The water had become wine, and the best of the feast came last. This was the first of the miracles of Jesus, and his disciples believed on him."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "John 1:4",
+          "text": "In him was life; and the life was the light of men."
+        },
+        {
+          "reference": "John 1:36",
+          "text": "he saith, Behold the Lamb of God!"
+        },
+        {
+          "reference": "John 2:5",
+          "text": "Whatsoever he saith unto you, do it."
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Word Made Flesh",
+          "words": [
+            "WORD",
+            "LIGHT",
+            "LAMB",
+            "ANDREW",
+            "CANA",
+            "WINE",
+            "GLORY"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What does John call Jesus at the very beginning of his Gospel?",
+          "options": [
+            "A shepherd",
+            "The Word",
+            "A prophet",
+            "A carpenter"
+          ],
+          "correctIndex": 1,
+          "explanation": "John 1:1 — \"In the beginning was the Word, and the Word was with God, and the Word was God.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did John the Baptist call Jesus when he saw him coming?",
+          "options": [
+            "The Lamb of God",
+            "The Rock",
+            "The Lion of Judah",
+            "The Bread of Life"
+          ],
+          "correctIndex": 0,
+          "explanation": "John 1:29 — \"The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Where did Jesus turn water into wine?",
+          "options": [
+            "Bethany",
+            "Capernaum",
+            "Cana of Galilee",
+            "Jerusalem"
+          ],
+          "correctIndex": 2,
+          "explanation": "John 2:11 — \"This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did the mother of Jesus tell the servants at the wedding?",
+          "options": [
+            "To go home",
+            "To buy more wine",
+            "To wait for the feast to end",
+            "To do whatever Jesus told them"
+          ],
+          "correctIndex": 3,
+          "explanation": "John 2:5 — \"His mother saith unto the servants, Whatsoever he saith unto you, do it.\"",
+          "category": "newTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "GEN.1.1",
+    "COL.1.16",
+    "1JN.1.1"
+  ],
+  "reflection": "John says the Word was made flesh and lived among us. What difference does it make that God came close enough to be seen?"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "jon.prayer_from_the_deep",
+  "title": "Prayer from the Deep",
+  "anchorRef": "JON.2.9",
+  "backstory": "Jonah has been thrown into the sea, and the storm is over at last — but Jonah's trouble is not. God prepares a great fish to swallow him, and for three days and three nights Jonah sits alive in the darkness. From the strangest prayer closet in the Bible, the runaway prophet finally turns back to the LORD.",
+  "passages": [
+    {
+      "ref": "JON.2.1-4",
+      "synopsis": "From inside the fish, Jonah prayed to the LORD his God. He remembered crying out in his trouble, and God heard his voice. The floods and billows had rolled right over him, and he felt cast out of God's sight. Yet even there he chose hope, saying he would look again toward God's holy temple."
+    },
+    {
+      "ref": "JON.2.5-7",
+      "synopsis": "Jonah described how close he came to death. The waters closed around him, weeds wrapped about his head, and he sank down toward the roots of the mountains. But God brought his life up from the pit. When his soul fainted, Jonah remembered the LORD, and his prayer rose all the way to God's holy temple."
+    },
+    {
+      "ref": "JON.2.8-10",
+      "synopsis": "Jonah finished his prayer with a promise and a truth. Those who cling to worthless idols give up the mercy that could be theirs. Jonah vowed to sacrifice to God with thanksgiving, declaring that salvation is of the LORD. Then the LORD spoke to the fish, and it set Jonah safely on dry land."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "PRAYER",
+          "hint": "What Jonah offered from inside the fish",
+          "theme": "things"
+        },
+        {
+          "word": "FISH",
+          "hint": "God prepared this great creature to swallow Jonah",
+          "theme": "things"
+        },
+        {
+          "word": "TEMPLE",
+          "hint": "Jonah promised to look again toward this holy place",
+          "theme": "places"
+        },
+        {
+          "word": "SALVATION",
+          "hint": "Jonah said this is of the LORD",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Jonah 2:1",
+          "text": "Then Jonah prayed unto the LORD his God out of the fish’s belly,"
+        },
+        {
+          "reference": "Jonah 2:9",
+          "text": "Salvation is of the LORD."
+        },
+        {
+          "reference": "Jonah 2:10",
+          "text": "And the LORD spake unto the fish,"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "How long was Jonah in the belly of the fish?",
+          "options": [
+            "One day and one night",
+            "Three days and three nights",
+            "Seven days and seven nights",
+            "Forty days and forty nights"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jonah 1:17 — \"Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What great truth did Jonah declare at the end of his prayer?",
+          "options": [
+            "Salvation is of the LORD",
+            "The sea obeys the LORD",
+            "The temple stands for ever",
+            "Mercy is for Israel alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Jonah 2:9 — \"But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did Jonah get back to dry land?",
+          "options": [
+            "He swam to the shore",
+            "The sailors pulled him from the sea",
+            "The fish vomited him out at the LORD's word",
+            "An angel carried him"
+          ],
+          "correctIndex": 2,
+          "explanation": "Jonah 2:10 — \"And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.130.1",
+    "PSA.3.8",
+    "MAT.12.40"
+  ],
+  "reflection": "Jonah prayed from the darkest place he had ever been, and God heard every word. What could you say to God from your hardest place this week?"
+}

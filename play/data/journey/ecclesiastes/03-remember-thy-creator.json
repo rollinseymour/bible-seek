@@ -1,0 +1,118 @@
+{
+  "id": "ecc.remember_thy_creator",
+  "title": "Remember Thy Creator",
+  "anchorRef": "ECC.12.13",
+  "backstory": "The Preacher's long search is nearly over, and he turns to speak to the young. Life is a gift to be enjoyed, but it passes quickly, and old age comes to everyone. So he saves his most important words for last — the conclusion of the whole matter.",
+  "passages": [
+    {
+      "ref": "ECC.11.7-10",
+      "synopsis": "Truly the light is sweet, says the Preacher, and it is a pleasant thing to see the sun. He tells the young to rejoice in their youth and to let their hearts cheer them. But he adds a word to remember: God will bring every thing into judgment. So put away sorrow and evil, for childhood and youth pass quickly."
+    },
+    {
+      "ref": "ECC.12.1-8",
+      "synopsis": "Remember now thy Creator in the days of thy youth, before the difficult days come. The Preacher paints old age in gentle pictures — trembling keepers of the house, darkened windows, the almond tree in blossom. One day the silver cord is loosed and the golden bowl is broken. Then the dust returns to the earth, and the spirit returns unto God who gave it."
+    },
+    {
+      "ref": "ECC.12.9-14",
+      "synopsis": "Because the Preacher was wise, he taught the people knowledge and set in order many proverbs. The words of the wise are like goads and well-fastened nails, given from one shepherd. At last he reaches the conclusion of the whole matter: fear God, and keep his commandments, for this is the whole duty of man. God shall bring every work into judgment, with every secret thing."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "When does the Preacher say to remember thy Creator?",
+          "options": [
+            "In old age",
+            "In the days of thy youth",
+            "At the harvest",
+            "On the sabbath"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ecclesiastes 12:1 — \"Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Where does the spirit return when the dust returns to the earth?",
+          "options": [
+            "To the grave",
+            "To the wind",
+            "To the sea",
+            "Unto God who gave it"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ecclesiastes 12:7 — \"Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What is the conclusion of the whole matter?",
+          "options": [
+            "Fear God, and keep his commandments",
+            "Eat, drink, and be merry",
+            "Build houses and plant vineyards",
+            "Seek riches and honour"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ecclesiastes 12:13 — \"Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What shall God bring into judgment?",
+          "options": [
+            "Only great deeds",
+            "Only the words of kings",
+            "Every work, with every secret thing",
+            "Only what is done in public"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ecclesiastes 12:14 — \"For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Remember Thy Creator",
+          "words": [
+            "CREATOR",
+            "YOUTH",
+            "LIGHT",
+            "ALMOND",
+            "PITCHER",
+            "WHEEL",
+            "DUST"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "JUDGMENT",
+          "hint": "God shall bring every work into this",
+          "theme": "things"
+        },
+        {
+          "word": "FEAR",
+          "hint": "Have this toward God, and keep his commandments",
+          "theme": "things"
+        },
+        {
+          "word": "SPIRIT",
+          "hint": "At the end it returns unto God who gave it",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.90.12",
+    "PRO.1.7",
+    "2CO.5.10"
+  ],
+  "reflection": "The whole matter comes down to fearing God and keeping his commandments. What would it look like for you to remember your Creator this week?"
+}

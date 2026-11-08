@@ -1,0 +1,105 @@
+{
+  "id": "neh.joy_of_the_lord",
+  "title": "The Joy of the LORD",
+  "anchorRef": "NEH.8.10",
+  "backstory": "The wall is finished, and the people are safe inside their city at last. But stones alone cannot make God's people strong — they need to hear his word again. So all the people gather as one at the water gate, and Ezra the scribe brings out the book of the law of Moses.",
+  "passages": [
+    {
+      "ref": "NEH.8.1-6",
+      "synopsis": "All the people gathered as one man in the street before the water gate. They asked Ezra the scribe to bring the book of the law of Moses. From morning until midday he read aloud, and the ears of all the people were attentive. When Ezra opened the book, everyone stood up, and when he blessed the LORD, the people answered, Amen, Amen, and worshipped."
+    },
+    {
+      "ref": "NEH.8.7-12",
+      "synopsis": "The Levites helped the people understand what was read, giving the sense of every part. When the people understood the law, they began to weep. But Nehemiah, Ezra, and the Levites told them not to mourn, because the day was holy to the LORD. They said to go and feast and share with those who had nothing, for the joy of the LORD is your strength. So the people made great mirth, because they had understood the words."
+    },
+    {
+      "ref": "NEH.8.13-18",
+      "synopsis": "On the second day the leaders came back to Ezra to learn more of the law. They found written there that Israel should live in booths during the feast of the seventh month. So the people went out, gathered branches, and built leafy booths on their roofs and in their courts. Israel had not kept the feast this way since the days of Joshua, and there was very great gladness."
+    },
+    {
+      "ref": "NEH.12.43",
+      "synopsis": "Later, when the wall of Jerusalem was dedicated, the people offered great sacrifices and rejoiced. God had made them rejoice with great joy. The wives and the children rejoiced too, so that the joy of Jerusalem was heard even afar off."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Ezra",
+          "clues": [
+            "I was a priest and a scribe.",
+            "I read the book of the law from morning until midday.",
+            "I stood upon a pulpit of wood above all the people."
+          ],
+          "wrongChoices": [
+            "Nehemiah",
+            "Aaron",
+            "Baruch"
+          ]
+        },
+        {
+          "name": "Nehemiah",
+          "clues": [
+            "I was the governor of Judah when the wall was finished.",
+            "I stood with Ezra and told the people not to weep, for the day was holy.",
+            "They called me the Tirshatha."
+          ],
+          "wrongChoices": [
+            "Ezra",
+            "Zerubbabel",
+            "Sanballat"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Joy of the LORD",
+          "words": [
+            "EZRA",
+            "LAW",
+            "AMEN",
+            "PULPIT",
+            "BOOTHS",
+            "JOY",
+            "GLADNESS"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "EZRA",
+          "hint": "The scribe who read the book of the law",
+          "theme": "people"
+        },
+        {
+          "word": "PULPIT",
+          "hint": "Ezra stood on one made of wood",
+          "theme": "things"
+        },
+        {
+          "word": "BOOTHS",
+          "hint": "Leafy shelters where the people lived during the feast",
+          "theme": "things"
+        },
+        {
+          "word": "JOY",
+          "hint": "This, from the LORD, is your strength",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "DEU.31.12",
+    "PSA.19.8",
+    "JAS.1.22"
+  ],
+  "reflection": "When the people understood God's word, their tears turned to great joy. Where do you look for strength when you are sad — and how could God's joy become yours?"
+}

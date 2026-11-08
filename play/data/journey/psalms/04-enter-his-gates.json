@@ -1,0 +1,138 @@
+{
+  "id": "psa.enter_his_gates",
+  "title": "Enter His Gates",
+  "anchorRef": "PSA.100.4",
+  "backstory": "God's people came up to the temple in Jerusalem with songs of thanksgiving on their lips. Psalm 100 was a song for entering God's gates, and in Psalm 103 David tells his own soul to bless the LORD. Together they count the reasons God's people can never stop singing.",
+  "passages": [
+    {
+      "ref": "PSA.100.1-5",
+      "synopsis": "All lands are called to make a joyful noise unto the LORD. We are invited to serve him with gladness and come before his presence with singing. He made us, and we are his people, the sheep of his pasture. So we enter his gates with thanksgiving, for his mercy is everlasting."
+    },
+    {
+      "ref": "PSA.103.1-5",
+      "synopsis": "David tells his own soul to bless the LORD and forget not all his benefits. God forgives, heals, and redeems. He crowns his people with lovingkindness and tender mercies. He satisfies them with good things, so that their youth is renewed like the eagle."
+    },
+    {
+      "ref": "PSA.103.6-14",
+      "synopsis": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy. He does not deal with us after our sins. As high as the heaven is above the earth, so great is his mercy toward them that fear him. He has removed our transgressions as far as the east is from the west, for he remembers that we are dust."
+    },
+    {
+      "ref": "PSA.103.15-22",
+      "synopsis": "Our days are like grass — a flower that the wind passes over and it is gone. But the mercy of the LORD is from everlasting to everlasting upon them that fear him. His throne is in the heavens, and his kingdom rules over all. Angels, hosts, and all his works are called to bless the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Songs of Praise",
+          "words": [
+            "PRAISE",
+            "JOYFUL",
+            "SINGING",
+            "BLESS",
+            "SOUL",
+            "GLADNESS"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "GATES",
+          "hint": "Enter into these with thanksgiving",
+          "theme": "things"
+        },
+        {
+          "word": "COURTS",
+          "hint": "Enter into these with praise",
+          "theme": "places"
+        },
+        {
+          "word": "EAGLE",
+          "hint": "Your youth is renewed like this bird",
+          "theme": "things"
+        },
+        {
+          "word": "MERCY",
+          "hint": "Psalm 100 says his ___ is everlasting",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What does Psalm 100 tell all lands to make unto the LORD?",
+          "options": [
+            "A solemn vow",
+            "A burnt offering",
+            "A joyful noise",
+            "A new covenant"
+          ],
+          "correctIndex": 2,
+          "explanation": "Psalms 100:1 — \"Make a joyful noise unto the LORD, all ye lands.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How should we enter into his gates?",
+          "options": [
+            "With thanksgiving",
+            "With trembling",
+            "With silver and gold",
+            "With sackcloth"
+          ],
+          "correctIndex": 0,
+          "explanation": "Psalms 100:4 — \"Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Psalm 103 says bless the LORD, O my soul, and forget not all his what?",
+          "options": [
+            "Commandments",
+            "Benefits",
+            "Judgments",
+            "Statutes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Psalms 103:2 — \"Bless the LORD, O my soul, and forget not all his benefits:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How far has God removed our transgressions from us?",
+          "options": [
+            "As deep as the sea",
+            "As high as the mountains",
+            "As far as the north is from the south",
+            "As far as the east is from the west"
+          ],
+          "correctIndex": 3,
+          "explanation": "Psalms 103:12 — \"As far as the east is from the west, so far hath he removed our transgressions from us.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Like as a father pitieth his children, so the LORD pitieth whom?",
+          "options": [
+            "All the nations",
+            "Them that fear him",
+            "The mighty men",
+            "The angels"
+          ],
+          "correctIndex": 1,
+          "explanation": "Psalms 103:13 — \"Like as a father pitieth his children, so the LORD pitieth them that fear him.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "LAM.3.22",
+    "EPH.5.19",
+    "1TH.5.18"
+  ],
+  "reflection": "Psalm 100 and Psalm 103 overflow with reasons to thank God — he forgives, he heals, he crowns his people with mercy. What benefits of the LORD do you never want to forget?"
+}

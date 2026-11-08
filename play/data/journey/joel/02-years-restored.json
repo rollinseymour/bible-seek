@@ -1,0 +1,141 @@
+{
+  "id": "jol.years_restored",
+  "title": "The Years Restored",
+  "anchorRef": "JOL.2.25",
+  "backstory": "The locusts had done their worst, and Joel had called all Judah to fast and cry out to God. Now comes the great turn in the book: the LORD answers his people with tenderness. What follows are some of the sweetest promises in the Old Testament — restored years, a poured-out Spirit, and a God who dwells with his people.",
+  "passages": [
+    {
+      "ref": "JOL.2.18-27",
+      "synopsis": "Then the LORD had pity on his land and his people. He promised to send corn, new wine, and oil until everyone was satisfied, and to drive the destroying army far away. Best of all, he promised to restore the years that the locusts had eaten. His people would know that he was in their midst, and they would never be ashamed."
+    },
+    {
+      "ref": "JOL.2.28-32",
+      "synopsis": "God promised something even greater for the days to come. He would pour out his Spirit upon all flesh — sons and daughters, old and young, servants and handmaids. There would be wonders in the heavens before the great day of the LORD. And whosoever called on the name of the LORD would be delivered."
+    },
+    {
+      "ref": "JOL.3.9-17",
+      "synopsis": "Joel looked ahead to a day when God would gather the nations into the valley of decision. There the LORD would judge every wrong done to his people. The sun and moon would grow dark, and the LORD would roar out of Zion. Yet through all the shaking, the LORD would be the hope of his people, dwelling in Zion, his holy mountain."
+    },
+    {
+      "ref": "JOL.3.18-21",
+      "synopsis": "Joel's book ends with a picture of overflowing blessing. The mountains would drop down new wine, and the hills would flow with milk. A fountain would spring from the house of the LORD and water the dry valley. Judah would dwell for ever, for the LORD dwells in Zion."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Joel",
+          "clues": [
+            "I was a prophet, and my father's name was Pethuel.",
+            "I told Judah that a terrible swarm of locusts was a call to turn back to God.",
+            "I promised that God would pour out his Spirit upon all flesh."
+          ],
+          "wrongChoices": [
+            "Amos",
+            "Hosea",
+            "Obadiah"
+          ]
+        },
+        {
+          "name": "Peter",
+          "clues": [
+            "Jesus gave me a new name that means a stone.",
+            "On the day of Pentecost I stood up and preached to the crowd in Jerusalem.",
+            "I told the people, 'This is that which was spoken by the prophet Joel.'"
+          ],
+          "wrongChoices": [
+            "John",
+            "Paul",
+            "Stephen"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God promise to restore to his people?",
+          "options": [
+            "The walls of Jerusalem",
+            "The years that the locust had eaten",
+            "The ark of the covenant",
+            "The throne of David"
+          ],
+          "correctIndex": 1,
+          "explanation": "Joel 2:25 — \"And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Upon whom did God promise to pour out his Spirit?",
+          "options": [
+            "Only the priests",
+            "Only the kings",
+            "Only the prophets",
+            "All flesh"
+          ],
+          "correctIndex": 3,
+          "explanation": "Joel 2:28 — \"And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Joel say would happen to whosoever calls on the name of the LORD?",
+          "options": [
+            "They shall be delivered",
+            "They shall be made king",
+            "They shall be given land",
+            "They shall be made priests"
+          ],
+          "correctIndex": 0,
+          "explanation": "Joel 2:32 — \"And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who quoted Joel's prophecy about the Spirit on the day of Pentecost?",
+          "options": [
+            "Paul",
+            "Peter",
+            "James",
+            "Barnabas"
+          ],
+          "correctIndex": 1,
+          "explanation": "Acts 2:16 — \"But this is that which was spoken by the prophet Joel;\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "LOCUST",
+          "hint": "God promised to give back the years this creature had eaten",
+          "theme": "things"
+        },
+        {
+          "word": "SPIRIT",
+          "hint": "God promised to pour this out upon all flesh",
+          "theme": "things"
+        },
+        {
+          "word": "ZION",
+          "hint": "God's holy mountain, where the LORD dwells",
+          "theme": "places"
+        },
+        {
+          "word": "FOUNTAIN",
+          "hint": "It shall come forth of the house of the LORD",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ACT.2.17",
+    "ROM.10.13",
+    "AMO.9.13"
+  ],
+  "reflection": "God promised to give back the years the locusts had eaten and to pour out his Spirit on all flesh. What lost or ruined thing would you trust God to restore?"
+}

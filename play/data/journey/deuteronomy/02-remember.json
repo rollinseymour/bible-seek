@@ -1,0 +1,113 @@
+{
+  "id": "deu.remember",
+  "title": "Remember and Obey",
+  "anchorRef": "DEU.8.3",
+  "backstory": "This generation had grown up on manna and miracles, but they were about to enter a land of houses they didn't build and wells they didn't dig. Moses knew prosperity can be more dangerous to faith than the desert, so he warned them about forgetting.",
+  "passages": [
+    {
+      "ref": "DEU.8.1-10",
+      "synopsis": "Moses told Israel to remember how God led them forty years in the wilderness. God humbled them and fed them with manna to teach them. \"Man doth not live by bread only, but by every word\" from God. He was training them to depend on Him."
+    },
+    {
+      "ref": "DEU.8.11-20",
+      "synopsis": "The danger in the good land would be forgetting God. When they grew rich, they might say their own hand had made their wealth. Moses warned them to remember it was the LORD who gave them power. Forgetting God is the root of pride."
+    },
+    {
+      "ref": "DEU.10.12-22",
+      "synopsis": "Moses asked what the LORD really requires: to fear Him, walk in His ways, and love Him. God, who owns heaven and earth, cares for the fatherless, widow, and stranger. His people were to love the stranger, for they had been strangers in Egypt. True religion works itself out in love."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "In the Wilderness",
+          "words": [
+            "MANNA",
+            "BREAD",
+            "OBEY",
+            "LOVE",
+            "FEAR"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "\"Man doth not live by bread only, but by every ___ of God.\"",
+          "options": [
+            "word",
+            "gift",
+            "law",
+            "promise"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 8:3 — \"And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What does the LORD require, according to Moses?",
+          "options": [
+            "To fear, walk with, and love Him",
+            "To build a temple",
+            "To conquer nations",
+            "To offer gold"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deuteronomy 10:12 — \"And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How many years did the LORD lead Israel in the wilderness?",
+          "options": [
+            "Seven",
+            "Twelve",
+            "Forty",
+            "Seventy"
+          ],
+          "correctIndex": 2,
+          "explanation": "Deuteronomy 8:2 — \"And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whom did Moses say the LORD loves, giving him food and raiment?",
+          "options": [
+            "The king",
+            "The priest",
+            "The mighty man",
+            "The stranger"
+          ],
+          "correctIndex": 3,
+          "explanation": "Deuteronomy 10:18 — \"He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Deuteronomy 8:6",
+          "text": "Therefore thou shalt keep the commandments of the LORD thy God,"
+        },
+        {
+          "reference": "Deuteronomy 8:11",
+          "text": "Beware that thou forget not the LORD thy God,"
+        },
+        {
+          "reference": "Deuteronomy 8:3",
+          "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna,"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "MAT.4.4",
+    "LUK.4.4",
+    "MIC.6.8"
+  ],
+  "reflection": "Jesus quoted 'man shall not live by bread alone' when tempted. What word of God feeds you when you're empty?"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "1ch.song_of_thanks",
+  "title": "A Song of Thanks",
+  "anchorRef": "1CH.16.34",
+  "backstory": "The ark now rests in the tent David pitched for it in Jerusalem. On that joyful day David handed Asaph the singer a psalm of thanksgiving for all Israel to sing. It gathers up the whole story so far — God's covenant with Abraham, his faithful care, and his glory over all the earth.",
+  "passages": [
+    {
+      "ref": "1CH.16.7-13",
+      "synopsis": "On that day David delivered his psalm of thanksgiving to Asaph and his brethren. It begins by calling God's people to give thanks, to sing, and to make his deeds known among the people. It tells them to glory in his holy name and to seek his face continually. The seed of Israel are to remember all his marvellous works."
+    },
+    {
+      "ref": "1CH.16.14-22",
+      "synopsis": "The psalm remembers God's covenant with Abraham, Isaac, and Jacob. God promised them the land of Canaan when they were only a few strangers wandering in it. As they went from nation to nation, he let no man do them wrong. He even reproved kings for their sakes, saying, 'Touch not mine anointed.'"
+    },
+    {
+      "ref": "1CH.16.23-30",
+      "synopsis": "Now the song turns to the whole earth. Everyone everywhere is called to sing unto the LORD and declare his glory among the nations. The gods of the peoples are only idols, but the LORD made the heavens. So all the earth should bring an offering, fear before him, and worship the LORD in the beauty of holiness."
+    },
+    {
+      "ref": "1CH.16.31-36",
+      "synopsis": "The heavens, the earth, the sea, the fields, and even the trees of the wood rejoice, for the LORD reigns. The psalm gives thanks that God is good and that his mercy endures for ever. It closes with a prayer that God would save and gather his people. And all the people said, 'Amen,' and praised the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "1 Chronicles 16:8",
+          "text": "Give thanks unto the LORD, call upon his name"
+        },
+        {
+          "reference": "1 Chronicles 16:11",
+          "text": "Seek the LORD and his strength, seek his face continually."
+        },
+        {
+          "reference": "1 Chronicles 16:23",
+          "text": "Sing unto the LORD, all the earth;"
+        },
+        {
+          "reference": "1 Chronicles 16:34",
+          "text": "for he is good; for his mercy endureth for ever."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "To whom did David first deliver this psalm of thanksgiving?",
+          "options": [
+            "Asaph and his brethren",
+            "Zadok the priest",
+            "Solomon his son",
+            "The captains of thousands"
+          ],
+          "correctIndex": 0,
+          "explanation": "1 Chronicles 16:7 — \"Then on that day David delivered first this psalm to thank the LORD into the hand of Asaph and his brethren.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "According to the psalm, the gods of the people are idols, but what did the LORD make?",
+          "options": [
+            "The seas",
+            "The mountains",
+            "The heavens",
+            "The rivers"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 Chronicles 16:26 — \"For all the gods of the people are idols: but the LORD made the heavens.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How long does the psalm say God's mercy endures?",
+          "options": [
+            "A thousand years",
+            "For ever",
+            "Until the morning",
+            "Forty generations"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 Chronicles 16:34 — \"O give thanks unto the LORD; for he is good; for his mercy endureth for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did all the people say when the psalm ended?",
+          "options": [
+            "Hosanna",
+            "Glory",
+            "Selah",
+            "Amen"
+          ],
+          "correctIndex": 3,
+          "explanation": "1 Chronicles 16:36 — \"Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "ASAPH",
+          "hint": "The chief singer David set before the ark",
+          "theme": "people"
+        },
+        {
+          "word": "COVENANT",
+          "hint": "God's promise, remembered to a thousand generations",
+          "theme": "things"
+        },
+        {
+          "word": "CANAAN",
+          "hint": "The land God promised to Abraham",
+          "theme": "places"
+        },
+        {
+          "word": "MERCY",
+          "hint": "The psalm says it endureth for ever",
+          "theme": "things"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.105.1",
+    "PSA.96.9",
+    "HEB.13.15"
+  ],
+  "reflection": "David's psalm calls the whole earth to give thanks to the LORD. What has God done for you that deserves a song of thanks today?"
+}

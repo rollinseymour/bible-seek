@@ -1,0 +1,87 @@
+{
+  "id": "hos.return_to_the_lord",
+  "title": "Return to the LORD",
+  "anchorRef": "HOS.14.4",
+  "backstory": "Hosea's book ends not with a threat but with an invitation. After all the wandering and all the warnings, God still holds the door open for his people. He even teaches Israel the very words to say on the way home, and promises healing, free love, and new life like a well-watered garden.",
+  "passages": [
+    {
+      "ref": "HOS.14.1-3",
+      "synopsis": "Hosea called Israel home one last time. O Israel, return unto the LORD thy God, for thou hast fallen by thine iniquity. He even taught them what to pray — take away all iniquity, and receive us graciously. No army, no horses, and no handmade gods could save them, for only in the LORD does the fatherless find mercy."
+    },
+    {
+      "ref": "HOS.14.4-7",
+      "synopsis": "God answered the returning prayer with pure promise. I will heal their backsliding, I will love them freely, for mine anger is turned away. He would be as the dew to Israel, so that they would blossom like the lily and take root like the trees of Lebanon. Their beauty would spread like the olive tree, and they would revive like grain and grow like the vine."
+    },
+    {
+      "ref": "HOS.14.8-9",
+      "synopsis": "Ephraim would finally say farewell to idols for good. God himself would be their evergreen shelter, the source of all their fruit. The book closes with a word to every reader. The ways of the LORD are right, and the wise will walk in them."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Hosea 14:1",
+          "text": "O Israel, return unto the LORD thy God;"
+        },
+        {
+          "reference": "Hosea 14:4",
+          "text": "I will heal their backsliding, I will love them freely:"
+        },
+        {
+          "reference": "Hosea 14:5",
+          "text": "I will be as the dew unto Israel:"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "MERCY",
+          "hint": "Israel said that in the LORD the fatherless findeth this",
+          "theme": "things"
+        },
+        {
+          "word": "IDOLS",
+          "hint": "Ephraim will ask what he has to do with these any more",
+          "theme": "things"
+        },
+        {
+          "word": "ASSHUR",
+          "hint": "Israel confessed this nation could not save them",
+          "theme": "places"
+        },
+        {
+          "word": "EPHRAIM",
+          "hint": "Hosea's name for the people of Israel",
+          "theme": "people"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Return to the LORD",
+          "words": [
+            "DEW",
+            "LILY",
+            "LEBANON",
+            "OLIVE",
+            "VINE",
+            "CORN",
+            "WINE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JER.3.22",
+    "JOL.2.13",
+    "1JN.1.9"
+  ],
+  "reflection": "God promised to heal their backsliding and love them freely. What words would you take with you as you return to the LORD today?"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "2ch.glory_fills_temple",
+  "title": "Glory Fills the Temple",
+  "anchorRef": "2CH.7.14",
+  "backstory": "Solomon has finished building the temple in Jerusalem, the house for God's name that his father David longed to build. The ark of the covenant is carried into the holy place, and the whole nation gathers to worship. Now everyone waits to see whether God himself will come near.",
+  "passages": [
+    {
+      "ref": "2CH.5.11-14",
+      "synopsis": "As the priests came out of the holy place, the singers and trumpeters praised the LORD together as one. They sang that God is good and that his mercy endures for ever. Then a cloud filled the house of the LORD. The glory of God so filled the temple that the priests could not stand to minister."
+    },
+    {
+      "ref": "2CH.6.12-21",
+      "synopsis": "Solomon knelt before all Israel, spread out his hands toward heaven, and prayed. He praised the God who keeps covenant and shows mercy, a God so great that even heaven cannot contain him. Yet Solomon asked God to let his eyes rest upon this house day and night. He asked that when his people prayed toward this place, God would hear from heaven and forgive."
+    },
+    {
+      "ref": "2CH.7.1-10",
+      "synopsis": "When Solomon finished praying, fire came down from heaven and burned up the offerings, and the glory of the LORD filled the house. All the people bowed with their faces to the ground and worshipped. They gave thanks, saying that God is good and his mercy endures for ever. The whole nation kept a joyful feast for days, then went home glad in heart."
+    },
+    {
+      "ref": "2CH.7.12-16",
+      "synopsis": "That night the LORD appeared to Solomon and said he had heard his prayer. He gave a precious promise for hard times to come. If his people would humble themselves, pray, seek his face, and turn from their sin, he would hear from heaven, forgive them, and heal their land. His eyes and his heart, he said, would be in that house for ever."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Chronicles 5:14",
+          "text": "for the glory of the LORD had filled the house of God."
+        },
+        {
+          "reference": "2 Chronicles 7:15",
+          "text": "Now mine eyes shall be open"
+        },
+        {
+          "reference": "2 Chronicles 7:16",
+          "text": "For now have I chosen and sanctified this house"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "When Solomon finished praying, what came down from heaven?",
+          "options": [
+            "A dove",
+            "Manna",
+            "Fire",
+            "Rain"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Chronicles 7:1 — \"Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why could the priests not enter the house of the LORD?",
+          "options": [
+            "The glory of the LORD had filled it",
+            "The doors were shut",
+            "The crowd was too great",
+            "The ark was not yet inside"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Chronicles 7:2 — \"And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD’s house.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In God's promise to Solomon, what must his people do so that he will hear, forgive, and heal their land?",
+          "options": [
+            "Build more altars",
+            "Humble themselves, pray, and seek his face",
+            "Offer a thousand sacrifices",
+            "March around Jerusalem"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Chronicles 7:14 — \"If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did the LORD say about his eyes and his heart?",
+          "options": [
+            "They would watch Israel's armies",
+            "They would turn away from Israel",
+            "They would search the whole earth",
+            "They would be in that house perpetually"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Chronicles 7:16 — \"For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Glory Fills the Temple",
+          "words": [
+            "SOLOMON",
+            "TEMPLE",
+            "GLORY",
+            "CLOUD",
+            "FIRE",
+            "PRAYER",
+            "HEAVEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.40.34",
+    "1KI.8.11",
+    "REV.21.3"
+  ],
+  "reflection": "God promised to hear his people whenever they humble themselves and pray. What would it look like for you to seek his face this week?"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "num.serpent",
+  "title": "Water and the Bronze Serpent",
+  "anchorRef": "NUM.21.8",
+  "backstory": "Nearly forty years of wandering had passed and the first generation was dying out. Miriam died at Kadesh, water ran short again, and the old complaints returned. Even Moses would stumble in these final miles.",
+  "passages": [
+    {
+      "ref": "NUM.20.1-13",
+      "synopsis": "The people quarreled with Moses because there was no water. God told Moses to speak to the rock, but in anger he struck it twice. Water gushed out, yet Moses had not honored God before the people. For this he would not lead them into the land."
+    },
+    {
+      "ref": "NUM.20.22-29",
+      "synopsis": "At Mount Hor, Aaron's time as high priest came to an end. Moses took Aaron's garments and put them on his son Eleazar. Aaron died on the mountain, and all Israel mourned him thirty days. The priesthood passed to the next generation."
+    },
+    {
+      "ref": "NUM.21.4-9",
+      "synopsis": "When the people spoke against God, fiery serpents bit them and many died. They confessed their sin and begged Moses to pray. God told Moses to make a bronze serpent and lift it on a pole. Everyone who looked at it in faith was healed and lived."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Look and Live",
+          "words": [
+            "SNAKE",
+            "BRASS",
+            "POLE",
+            "ROCK",
+            "WATER"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the people do to be healed of the serpents' bite?",
+          "options": [
+            "Looked at the bronze serpent",
+            "Drank the water",
+            "Touched the ark",
+            "Ran to the tent"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 21:9 — \"And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Why would Moses not enter the promised land?",
+          "options": [
+            "He struck the rock instead of speaking to it",
+            "He feared the giants",
+            "He grew too old",
+            "He stayed in Egypt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 20:12 — \"And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God tell Moses to do to the rock?",
+          "options": [
+            "Strike it twice",
+            "Speak unto it",
+            "Lift his rod over it",
+            "Build an altar on it"
+          ],
+          "correctIndex": 1,
+          "explanation": "Numbers 20:8 — \"Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Whose garments did Moses put upon Eleazar at mount Hor?",
+          "options": [
+            "Joshua's",
+            "Caleb's",
+            "Miriam's",
+            "Aaron's"
+          ],
+          "correctIndex": 3,
+          "explanation": "Numbers 20:26 — \"And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered unto his people, and shall die there.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Numbers 21:9",
+          "text": "when he beheld the serpent of brass, he lived."
+        },
+        {
+          "reference": "Numbers 21:8",
+          "text": "Make thee a fiery serpent, and set it upon a pole:"
+        },
+        {
+          "reference": "Numbers 20:9",
+          "text": "And Moses took the rod from before the LORD, as he commanded him."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JHN.3.14",
+    "1CO.10.4",
+    "2KI.18.4"
+  ],
+  "reflection": "Jesus said He would be lifted up like the serpent, so all who look to Him live. What does it mean to look to Him?"
+}

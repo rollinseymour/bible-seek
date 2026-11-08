@@ -1,0 +1,87 @@
+{
+  "id": "jon.the_gourd",
+  "title": "The Gourd and the City",
+  "anchorRef": "JON.4.2",
+  "backstory": "Nineveh has repented, and God has spared the city — wonderful news for everyone except Jonah. The prophet is angry that God showed mercy to Israel's enemy, and he stomps outside the city to sulk. God is not finished teaching Jonah, and this time the lesson comes through a plant, a worm, and a hot east wind.",
+  "passages": [
+    {
+      "ref": "JON.4.1-4",
+      "synopsis": "Jonah was very angry that Nineveh had been spared. He told God this was exactly why he had fled to Tarshish: he knew God was gracious, merciful, slow to anger, and full of kindness. Jonah was so upset that he asked God to take his life. God answered with a gentle question: doest thou well to be angry?"
+    },
+    {
+      "ref": "JON.4.5-8",
+      "synopsis": "Jonah built a little booth on the east side of Nineveh and sat down in its shade to see what would become of the city. The LORD God prepared a gourd that grew up over Jonah's head to shade him, and Jonah was exceedingly glad of it. But at dawn God prepared a worm, and the gourd withered. Then came a scorching east wind, and the sun beat on Jonah's head until he wished again that he could die."
+    },
+    {
+      "ref": "JON.4.9-11",
+      "synopsis": "God asked Jonah if he did well to be angry about the gourd, and Jonah insisted that he did. Then the LORD made his point. Jonah had pity on a plant he never labored over, one that came up in a night and perished in a night. Should not God have pity on great Nineveh, with more than a hundred and twenty thousand people who could not tell their right hand from their left, and much cattle besides?"
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Jonah 4:1",
+          "text": "But it displeased Jonah exceedingly, and he was very angry."
+        },
+        {
+          "reference": "Jonah 4:4",
+          "text": "Then said the LORD, Doest thou well to be angry?"
+        },
+        {
+          "reference": "Jonah 4:7",
+          "text": "But God prepared a worm when the morning rose the next day,"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "GOURD",
+          "hint": "It grew up in a night to shade Jonah",
+          "theme": "things"
+        },
+        {
+          "word": "WORM",
+          "hint": "It smote the gourd so that it withered",
+          "theme": "things"
+        },
+        {
+          "word": "BOOTH",
+          "hint": "The shelter Jonah made east of the city",
+          "theme": "things"
+        },
+        {
+          "word": "NINEVEH",
+          "hint": "The great city God spared",
+          "theme": "places"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Gourd and the City",
+          "words": [
+            "GOURD",
+            "WORM",
+            "WIND",
+            "BOOTH",
+            "SUN",
+            "PITY",
+            "CATTLE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.34.6",
+    "PSA.145.9",
+    "2PE.3.9"
+  ],
+  "reflection": "Jonah cared more about a shady plant than a city full of people God loved. Whom might God be asking you to care about the way he does?"
+}

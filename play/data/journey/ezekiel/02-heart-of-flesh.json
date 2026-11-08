@@ -1,0 +1,119 @@
+{
+  "id": "ezk.heart_of_flesh",
+  "title": "A Heart of Flesh",
+  "anchorRef": "EZK.36.26",
+  "backstory": "By now Jerusalem has fallen, just as Ezekiel warned, and the exiles are heartbroken — their sin has cost them their land, their temple, and their good name. But God is not finished with his people. For the sake of his own holy name, he promises to do for them what they could never do for themselves: wash them clean and give them brand-new hearts.",
+  "passages": [
+    {
+      "ref": "EZK.36.16-21",
+      "synopsis": "God reminded Ezekiel why Israel went into exile: when they lived in their own land, they defiled it with their ways and their idols. So God scattered them among the nations. But even there the trouble followed, for the nations mocked, saying these were the LORD's people, yet they were out of his land. God's own holy name was being dishonored. And God had pity — for his name's sake he resolved to act."
+    },
+    {
+      "ref": "EZK.36.22-27",
+      "synopsis": "God told Israel plainly that he would act not because they deserved it, but for his holy name's sake. He promised to gather them out of all countries and bring them home. He would sprinkle clean water on them and cleanse them from all their filthiness and idols. Best of all, he would give them a new heart and a new spirit — taking away the heart of stone and giving a soft heart of flesh, with his own Spirit within them."
+    },
+    {
+      "ref": "EZK.36.28-32",
+      "synopsis": "God promised that his people would dwell again in the land he gave their fathers. They would be his people, and he would be their God. He would save them from their uncleannesses, call for the corn, and let no famine come. Then they would remember their old evil ways and feel true sorrow for them. Again God said it was not for their sakes — his mercy was a free gift, not a wage."
+    },
+    {
+      "ref": "EZK.36.33-38",
+      "synopsis": "On the day God cleansed his people, the ruined cities would be rebuilt and the desolate land tilled. People passing by would say the wasteland had become like the garden of Eden. The nations round about would know that the LORD himself rebuilds what was broken. And God promised to increase his people like a flock — as full as Jerusalem at feast time — so all would know that he is the LORD."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ezekiel 36:25",
+          "text": "Then will I sprinkle clean water upon you,"
+        },
+        {
+          "reference": "Ezekiel 36:27",
+          "text": "And I will put my spirit within you,"
+        },
+        {
+          "reference": "Ezekiel 36:28",
+          "text": "and ye shall be my people, and I will be your God."
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What kind of heart did God promise to take out of his people?",
+          "options": [
+            "A heavy heart",
+            "The stony heart",
+            "A divided heart",
+            "A proud heart"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ezekiel 36:26 — \"A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did God say he would sprinkle upon his people to make them clean?",
+          "options": [
+            "Oil",
+            "Blood",
+            "Ashes",
+            "Clean water"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ezekiel 36:25 — \"Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What would God put within his people to cause them to walk in his statutes?",
+          "options": [
+            "His spirit",
+            "A new law",
+            "A burning lamp",
+            "A sword"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ezekiel 36:27 — \"And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do them.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "People would say the restored land had become like what?",
+          "options": [
+            "The land of Egypt",
+            "A city on a hill",
+            "The garden of Eden",
+            "The mountains of Ararat"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ezekiel 36:35 — \"And they shall say, This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities are become fenced, and are inhabited.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "A New Heart",
+          "words": [
+            "HEART",
+            "SPIRIT",
+            "CLEAN",
+            "WATER",
+            "STONE",
+            "FLESH",
+            "EDEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.51.10",
+    "JER.31.33",
+    "2CO.5.17"
+  ],
+  "reflection": "God promised to trade a heart of stone for a soft heart of flesh. What might a tender, living heart toward God look like in your everyday life?"
+}

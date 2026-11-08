@@ -1,0 +1,120 @@
+{
+  "id": "job.the_lord_gave",
+  "title": "The LORD Gave",
+  "anchorRef": "JOB.1.21",
+  "backstory": "Job lived in the land of Uz, long ago in the days of the patriarchs. He was wealthy, good, and faithful, and he loved God with all his heart. In one terrible day everything he had was taken from him — and heaven itself was watching to see what Job would do.",
+  "passages": [
+    {
+      "ref": "JOB.1.1-5",
+      "synopsis": "Job was a good man in the land of Uz who feared God and turned away from evil. He had seven sons, three daughters, and thousands of animals, and he was the greatest man of the east. Job loved his family and prayed for his children continually. He offered burnt offerings for them, just in case any of them had sinned."
+    },
+    {
+      "ref": "JOB.1.6-12",
+      "synopsis": "In heaven, Satan came before the LORD. He claimed that Job only loved God because God had blessed him and protected him. The LORD knew Job's faithful heart and allowed Satan to test him, though Satan could not touch Job himself. God had not stopped watching over his servant."
+    },
+    {
+      "ref": "JOB.1.13-19",
+      "synopsis": "In a single day messengers came running to Job, one after another. The Sabeans took his oxen and asses, fire from heaven burned up the sheep, and the Chaldeans carried off the camels. Then a great wind struck the house where his children were gathered, and everyone Job loved most was taken from him. It was the saddest day of his life."
+    },
+    {
+      "ref": "JOB.1.20-22",
+      "synopsis": "Job arose, tore his robe, and fell to the ground — but he fell down to worship. He said the LORD gave, and the LORD hath taken away, and he blessed the name of the LORD. In all this Job did not sin or blame God foolishly. His trust held firm in the darkest hour."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Job 1:22",
+          "text": "In all this Job sinned not, nor charged God foolishly."
+        },
+        {
+          "reference": "Job 1:2",
+          "text": "And there were born unto him seven sons and three daughters."
+        },
+        {
+          "reference": "Job 1:21",
+          "text": "the LORD gave, and the LORD hath taken away;"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "In what land did Job live?",
+          "options": [
+            "Canaan",
+            "Uz",
+            "Egypt",
+            "Midian"
+          ],
+          "correctIndex": 1,
+          "explanation": "Job 1:1 — \"There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How many children did Job have at the beginning?",
+          "options": [
+            "Twelve sons",
+            "Three sons and seven daughters",
+            "Seven sons and three daughters",
+            "Ten sons and ten daughters"
+          ],
+          "correctIndex": 2,
+          "explanation": "Job 1:2 — \"And there were born unto him seven sons and three daughters.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Job do after he lost everything in one day?",
+          "options": [
+            "He fell to the ground and worshipped",
+            "He ran away from Uz",
+            "He blamed his servants",
+            "He hid in his house"
+          ],
+          "correctIndex": 0,
+          "explanation": "Job 1:20 — \"Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Job say after his great loss?",
+          "options": [
+            "\"Why hast thou forsaken me?\"",
+            "\"My punishment is greater than I can bear\"",
+            "\"Let there be light\"",
+            "\"The LORD gave, and the LORD hath taken away\""
+          ],
+          "correctIndex": 3,
+          "explanation": "Job 1:21 — \"And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Job's Testing",
+          "words": [
+            "SATAN",
+            "SABEANS",
+            "CHALDEANS",
+            "CAMELS",
+            "SHEEP",
+            "OXEN",
+            "MANTLE",
+            "WORSHIP"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JAS.5.11",
+    "1TI.6.7",
+    "EZK.14.14"
+  ],
+  "reflection": "Job worshipped even on the worst day of his life. What would it look like to bless the name of the LORD in hard times as well as good?"
+}

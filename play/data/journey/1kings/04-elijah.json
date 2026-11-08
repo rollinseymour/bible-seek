@@ -1,0 +1,97 @@
+{
+  "id": "1ki.elijah",
+  "title": "Elijah the Prophet",
+  "anchorRef": "1KI.19.12",
+  "backstory": "Years after the kingdom divided, wicked King Ahab rules Israel and leads the people to worship Baal. God sends the prophet Elijah to announce that no rain will fall until he says so. Through drought, fire, and a whisper, God will show that he alone is God — and that he never stops caring for his servant.",
+  "passages": [
+    {
+      "ref": "1KI.17.1-7",
+      "synopsis": "Elijah the Tishbite told King Ahab that there would be no dew nor rain except at his word. Then God sent Elijah to hide by the brook Cherith. Ravens brought him bread and flesh every morning and evening, and he drank from the brook. When the brook dried up, God had a new plan ready."
+    },
+    {
+      "ref": "1KI.17.8-16",
+      "synopsis": "God sent Elijah to a widow in Zarephath who was down to her last handful of meal and a little oil. Elijah asked her to make him a little cake first, promising that her meal and oil would not fail. She trusted the word of the LORD and did as Elijah said. Her barrel of meal wasted not, and her cruse of oil did not fail — just as God had said."
+    },
+    {
+      "ref": "1KI.18.17-39",
+      "synopsis": "Elijah met Ahab and gathered all Israel and the prophets of Baal on Mount Carmel. He asked the people how long they would halt between two opinions. Baal's prophets cried out all day, but no fire came. Then Elijah repaired the LORD's altar, drenched it with water, and prayed — and the fire of the LORD fell. All the people fell on their faces, crying that the LORD, he is the God."
+    },
+    {
+      "ref": "1KI.19.1-18",
+      "synopsis": "Jezebel threatened Elijah's life, and he fled far into the wilderness, ready to give up. God fed him under a juniper tree and sent him forty days to Horeb, the mount of God. There came a great wind, an earthquake, and a fire, but the LORD was not in them. After the fire came a still small voice. God gently gave Elijah new work to do, and told him that seven thousand in Israel had never bowed to Baal."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "1 Kings 17:6",
+          "text": "And the ravens brought him bread and flesh in the morning"
+        },
+        {
+          "reference": "1 Kings 18:39",
+          "text": "The LORD, he is the God; the LORD, he is the God."
+        },
+        {
+          "reference": "1 Kings 19:12",
+          "text": "and after the fire a still small voice."
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Elijah",
+          "clues": [
+            "Ravens brought me bread and flesh by a brook.",
+            "I prayed on Mount Carmel, and fire fell from heaven.",
+            "God spoke to me in a still small voice."
+          ],
+          "wrongChoices": [
+            "Elisha",
+            "Moses",
+            "Samuel"
+          ]
+        },
+        {
+          "name": "Ahab",
+          "clues": [
+            "I was a king of Israel who served Baal.",
+            "I called Elijah the one that troubleth Israel.",
+            "My wife Jezebel threatened the prophets of the LORD."
+          ],
+          "wrongChoices": [
+            "Jeroboam",
+            "Jehu",
+            "Solomon"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Elijah the Prophet",
+          "words": [
+            "ELIJAH",
+            "RAVENS",
+            "CARMEL",
+            "ALTAR",
+            "FIRE",
+            "HOREB",
+            "CRUSE"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "JAS.5.17",
+    "LUK.4.26",
+    "ROM.11.4"
+  ],
+  "reflection": "God spoke to Elijah not in the wind, the earthquake, or the fire, but in a still small voice. How can you quiet your heart to listen for God?"
+}

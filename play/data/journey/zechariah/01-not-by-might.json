@@ -1,0 +1,146 @@
+{
+  "id": "zec.not_by_might",
+  "title": "Not by Might",
+  "anchorRef": "ZEC.4.6",
+  "backstory": "The exile is over. A small remnant has come home from Babylon to a Jerusalem still full of rubble, and the temple foundation lies half-finished while the builders lose heart. In the second year of Darius, God raises up two prophets, Haggai and Zechariah, to steady them. Zechariah is given a night of visions showing what God is doing behind the ruins.",
+  "passages": [
+    {
+      "ref": "ZEC.1.1-6",
+      "synopsis": "The word of the LORD comes to Zechariah, son of Berechiah, in the second year of Darius. God reminds the people how their fathers ignored the prophets and what that cost them. Then he opens the door wide: \"Turn ye unto me, and I will turn unto you.\" The generation that came home takes it to heart and admits God had dealt with them justly. The whole book begins with an invitation, not a scolding."
+    },
+    {
+      "ref": "ZEC.3.1-10",
+      "synopsis": "Zechariah sees Joshua the high priest standing before the angel of the LORD in filthy garments, with Satan at his right hand to accuse him. The LORD rebukes the accuser and calls Joshua a brand plucked out of the fire. The filthy clothes are taken away, his sin is carried off, and he is dressed in clean raiment and a fair mitre. God then promises to bring forth his servant the BRANCH and to remove the guilt of the land in one day."
+    },
+    {
+      "ref": "ZEC.4.1-7",
+      "synopsis": "The angel wakes Zechariah like a man roused from sleep and asks what he sees. He describes a golden candlestick with seven lamps, fed by pipes, and two olive trees standing beside it. Zechariah asks what it means and admits he does not know. The answer is the heart of the book: the work will be finished \"Not by might, nor by power, but by my spirit, saith the LORD of hosts.\" Before Zerubbabel the great mountain will flatten into a plain."
+    },
+    {
+      "ref": "ZEC.4.8-14",
+      "synopsis": "God promises that the hands which laid the temple foundation will also finish it. He asks who has despised the day of small things, because the plummet in Zerubbabel's hand will be a sight worth rejoicing over. The seven are the eyes of the LORD, running through the whole earth. Zechariah asks again about the two olive trees, and the angel tells him they are the two anointed ones who stand by the Lord of the whole earth."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Zechariah",
+          "clues": [
+            "I am a prophet, the son of Berechiah, the son of Iddo.",
+            "I preached in the second year of Darius, while the temple stood unfinished.",
+            "In the night I saw a golden candlestick with two olive trees beside it."
+          ],
+          "wrongChoices": [
+            "Haggai",
+            "Malachi",
+            "Ezra"
+          ]
+        },
+        {
+          "name": "Joshua",
+          "clues": [
+            "I was the high priest when the people came home from exile.",
+            "I stood before the angel of the LORD in filthy garments.",
+            "God took away my iniquity and clothed me with clean raiment and a fair mitre."
+          ],
+          "wrongChoices": [
+            "Zerubbabel",
+            "Eleazar",
+            "Nehemiah"
+          ]
+        },
+        {
+          "name": "Zerubbabel",
+          "clues": [
+            "I was the son of Shealtiel, made governor of Judah when the exiles came home.",
+            "My hands laid the foundation of the house of the LORD.",
+            "I was told the mountain before me would become a plain."
+          ],
+          "wrongChoices": [
+            "Joshua",
+            "Ezra",
+            "Cyrus"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God tell the people through Zechariah at the very start?",
+          "options": [
+            "\"Turn ye unto me, and I will turn unto you\"",
+            "\"Go back to Babylon\"",
+            "\"Keep silent before me\"",
+            "\"Build me a throne\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Zechariah 1:3 — \"Therefore say thou unto them, Thus saith the LORD of hosts; Turn ye unto me, saith the LORD of hosts, and I will turn unto you, saith the LORD of hosts.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was Joshua the high priest wearing when he stood before the angel?",
+          "options": [
+            "A royal robe",
+            "A linen ephod",
+            "Filthy garments",
+            "Sackcloth and ashes"
+          ],
+          "correctIndex": 2,
+          "explanation": "Zechariah 3:3 — \"Now Joshua was clothed with filthy garments, and stood before the angel.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What stood on either side of the golden candlestick in Zechariah's vision?",
+          "options": [
+            "Two pillars",
+            "Two olive trees",
+            "Two angels",
+            "Two altars"
+          ],
+          "correctIndex": 1,
+          "explanation": "Zechariah 4:3 — \"And two olive trees by it, one upon the right side of the bowl, and the other upon the left side thereof.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How did God say the work on the temple would be finished?",
+          "options": [
+            "By the king's army",
+            "By gold from the nations",
+            "By the strength of the builders",
+            "Not by might, nor by power, but by God's spirit"
+          ],
+          "correctIndex": 3,
+          "explanation": "Zechariah 4:6 — \"Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Not by Might",
+          "words": [
+            "ZECHARIAH",
+            "ZERUBBABEL",
+            "JOSHUA",
+            "MIGHT",
+            "OLIVE",
+            "SPIRIT",
+            "BRANCH"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EZR.5.1",
+    "HAG.2.4",
+    "REV.11.4"
+  ],
+  "reflection": "The foundation Zerubbabel laid looked far too small to matter, and God called it his own work. Where are you tempted to despise the day of small things?"
+}

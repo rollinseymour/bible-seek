@@ -1,0 +1,127 @@
+{
+  "id": "jhn.cross_and_risen",
+  "title": "The Cross and the Risen Lord",
+  "anchorRef": "JHN.20.31",
+  "backstory": "Everything in John's Gospel has been moving toward this hour. Jesus, who was called the Lamb of God and who said he is the resurrection and the life, is handed over to be crucified. John himself stood near the cross, and he wrote down what he saw so that we might believe.",
+  "passages": [
+    {
+      "ref": "JHN.19.16-30",
+      "synopsis": "Jesus was led away and crucified outside Jerusalem, at a place called Golgotha, with two others beside him. Pilate fastened a sign to the cross naming him the King of the Jews, and refused to change the wording. The soldiers divided his garments and cast lots for his coat, just as the Scriptures had said long before. From the cross Jesus saw his mother, and gave her into the care of the disciple he loved. Then, knowing that all was accomplished, he said, It is finished, and bowed his head."
+    },
+    {
+      "ref": "JHN.20.1-10",
+      "synopsis": "Early on the first day of the week, while it was still dark, Mary Magdalene came to the sepulchre and found the stone taken away. She ran to Peter and to the other disciple and said that the Lord had been taken away. The two of them ran to the tomb together. They found the linen clothes lying there, and the napkin that had been about his head folded up by itself. Then the other disciple went in, and he saw, and believed."
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "synopsis": "Mary stayed outside the sepulchre weeping, and when she stooped to look in she saw two angels in white. They asked her why she was weeping, and she said someone had taken away her Lord. Turning around, she saw a man she supposed to be the gardener. He said one word, Mary, and she knew him at once and called him Master. Jesus sent her to tell his brethren, and she went and told the disciples that she had seen the Lord."
+    },
+    {
+      "ref": "JHN.20.19-31",
+      "synopsis": "That evening the disciples were together behind shut doors, afraid, when Jesus came and stood among them and said, Peace be unto you. He showed them his hands and his side, and they were glad. Thomas was not with them, and he said he would not believe unless he saw for himself. Eight days later Jesus came again and invited Thomas to look and to touch, and Thomas answered him, My Lord and my God. John says these things were written so that we might believe and have life through his name."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Jesus say at the very end, on the cross?",
+          "options": [
+            "It is finished",
+            "It is begun",
+            "Peace be unto you",
+            "Follow me"
+          ],
+          "correctIndex": 0,
+          "explanation": "John 19:30 — \"When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Who came to the sepulchre first, early on the first day of the week?",
+          "options": [
+            "Peter",
+            "Thomas",
+            "Mary Magdalene",
+            "Martha"
+          ],
+          "correctIndex": 2,
+          "explanation": "John 20:1 — \"The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did Jesus say when he stood among the frightened disciples?",
+          "options": [
+            "Fear not, little flock",
+            "Peace be unto you",
+            "Why weepest thou",
+            "It is I"
+          ],
+          "correctIndex": 1,
+          "explanation": "John 20:19 — \"Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did Thomas say when he saw the risen Lord?",
+          "options": [
+            "Truly this was the Son of God",
+            "Rabboni, which is to say, Master",
+            "Thou art the Christ",
+            "My Lord and my God"
+          ],
+          "correctIndex": 3,
+          "explanation": "John 20:28 — \"And Thomas answered and said unto him, My Lord and my God.\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "GOLGOTHA",
+          "hint": "The place of a skull",
+          "theme": "places"
+        },
+        {
+          "word": "THOMAS",
+          "hint": "Disciple who would not believe until he saw",
+          "theme": "people"
+        },
+        {
+          "word": "SEPULCHRE",
+          "hint": "The tomb that was found empty",
+          "theme": "places"
+        },
+        {
+          "word": "PEACE",
+          "hint": "The first word Jesus spoke to the frightened disciples",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "John 19:30",
+          "text": "When Jesus therefore had received the vinegar, he said, It is finished:"
+        },
+        {
+          "reference": "John 20:28",
+          "text": "And Thomas answered and said unto him, My Lord and my God."
+        },
+        {
+          "reference": "John 20:29",
+          "text": "blessed are they that have not seen, and yet have believed."
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "ISA.53.5",
+    "PSA.22.18",
+    "1CO.15.3"
+  ],
+  "reflection": "John wrote all of this down so that we might believe and have life through his name. What will you do with what you have seen?"
+}

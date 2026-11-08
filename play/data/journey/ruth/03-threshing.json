@@ -1,0 +1,113 @@
+{
+  "id": "rut.threshing",
+  "title": "At the Threshing Floor",
+  "anchorRef": "RUT.3.11",
+  "backstory": "Boaz had shown Ruth unusual kindness, and Naomi recognized something more than generosity in it. Israel's law allowed a near relative — a kinsman-redeemer — to buy back a family's land and carry on its name. Naomi saw a way forward for them both.",
+  "passages": [
+    {
+      "ref": "RUT.3.1-6",
+      "synopsis": "Naomi wanted to find a secure home for Ruth. She told Ruth to go to Boaz at the threshing floor that night. Ruth was to ask him, as a near kinsman, to take her under his care. Ruth trusted Naomi and did all she said."
+    },
+    {
+      "ref": "RUT.3.7-13",
+      "synopsis": "That night Ruth quietly asked Boaz to spread his covering over her, a request to redeem her. Boaz blessed her for her kindness and faithfulness. He promised to do all she asked, for the whole town knew she was a virtuous woman. But there was a nearer kinsman to ask first."
+    },
+    {
+      "ref": "RUT.3.14-18",
+      "synopsis": "Before dawn Boaz sent Ruth home with a generous gift of grain. Naomi told her to wait, sure that Boaz would settle the matter that very day. He was a man who would not rest until it was done. Their future now rested in his faithful hands."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "The Threshing Floor",
+          "words": [
+            "FLOOR",
+            "GRAIN",
+            "BOAZ",
+            "RUTH",
+            "KIND"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did Boaz call Ruth?",
+          "options": [
+            "A virtuous woman",
+            "A stranger",
+            "A servant",
+            "A queen"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 3:11 — \"And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou art a virtuous woman.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What was a near kinsman able to do for Ruth and Naomi?",
+          "options": [
+            "Redeem them",
+            "Judge them",
+            "Banish them",
+            "Tax them"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 3:9 — \"And he said, Who art thou? And she answered, I am Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou art a near kinsman.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Naomi tell Ruth to do at the threshingfloor?",
+          "options": [
+            "Bring a gift of grain",
+            "Ask Boaz for wages",
+            "Lie down at his feet",
+            "Wait outside until morning"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ruth 3:4 — \"And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Boaz send home with Ruth before daybreak?",
+          "options": [
+            "Six measures of barley",
+            "A new garment",
+            "A purse of silver",
+            "A lamb"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ruth 3:15 — \"Also he said, Bring the vail that thou hast upon thee, and hold it. And when she held it, he measured six measures of barley, and laid it on her: and she went into the city.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "Ruth 3:11",
+          "text": "I will do to thee all that thou requirest:"
+        },
+        {
+          "reference": "Ruth 3:18",
+          "text": "Sit still, my daughter, until thou know how the matter will fall:"
+        },
+        {
+          "reference": "Ruth 3:10",
+          "text": "Blessed be thou of the LORD, my daughter:"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "RUT.4.10",
+    "LEV.25.25",
+    "EPH.1.7"
+  ],
+  "reflection": "Boaz was a redeemer who covered Ruth's need. How does that picture help you understand Jesus as Redeemer?"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "num.balaam",
+  "title": "Balaam and the Donkey",
+  "anchorRef": "NUM.23.19",
+  "backstory": "Israel was camped on the plains of Moab, close to the promised land, and the surrounding kings were terrified. Balak of Moab could not defeat them by force, so he tried another way — hiring a well-known seer to curse them.",
+  "passages": [
+    {
+      "ref": "NUM.22.21-35",
+      "synopsis": "A king hired Balaam to curse Israel, and Balaam set out on his donkey. An angel blocked the way, but only the donkey could see it. When Balaam beat her, the LORD opened the donkey's mouth to speak. Balaam's eyes were opened, and he saw he must speak only God's words."
+    },
+    {
+      "ref": "NUM.23.16-24",
+      "synopsis": "Again and again Balaam was asked to curse Israel. But every time, God turned his words into blessing. He declared that God had blessed Israel, and no one could reverse it. What God purposes, no curse can undo."
+    },
+    {
+      "ref": "NUM.24.15-19",
+      "synopsis": "In his final message, Balaam looked far into the future. He spoke of a Star that would come out of Jacob and a Sceptre out of Israel. It pointed beyond that day to a coming King. Even a hired prophet had to announce God's good plan."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "Balaam",
+          "clues": [
+            "I was hired to curse Israel.",
+            "My donkey saw the angel before I did.",
+            "God turned my curses into blessings."
+          ],
+          "wrongChoices": [
+            "Balak",
+            "Moses",
+            "Aaron"
+          ]
+        },
+        {
+          "name": "Balak",
+          "clues": [
+            "I was the king of Moab in the days of Moses.",
+            "I was afraid of Israel, so I sent for a famous seer.",
+            "I offered him honour to curse the people, but he blessed them instead."
+          ],
+          "wrongChoices": [
+            "Pharaoh",
+            "Sihon",
+            "Og"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did God cause Balaam's donkey to do?",
+          "options": [
+            "Speak with a voice",
+            "Fly away",
+            "Lie down and die",
+            "Run to Egypt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 22:28 — \"And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "What did Balaam do each time he tried to curse Israel?",
+          "options": [
+            "He blessed them instead",
+            "He fell silent",
+            "He fled",
+            "He wept"
+          ],
+          "correctIndex": 0,
+          "explanation": "Numbers 23:20 — \"Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who stood in the way with a drawn sword that only the donkey could see?",
+          "options": [
+            "A soldier of Moab",
+            "The angel of the LORD",
+            "Balak the king",
+            "One of Balaam's servants"
+          ],
+          "correctIndex": 1,
+          "explanation": "Numbers 22:31 — \"Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "In his last message, what did Balaam say would come out of Jacob?",
+          "options": [
+            "A river",
+            "A cloud",
+            "A Star",
+            "A sword"
+          ],
+          "correctIndex": 2,
+          "explanation": "Numbers 24:17 — \"I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.\"",
+          "category": "oldTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Balaam",
+          "words": [
+            "DONKEY",
+            "ANGEL",
+            "CURSE",
+            "BLESS",
+            "STAR"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "2PE.2.15",
+    "MIC.6.5",
+    "MAT.2.2"
+  ],
+  "reflection": "No curse could undo God's blessing on His people. How does it steady you that God's purposes cannot be reversed?"
+}

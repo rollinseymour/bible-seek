@@ -1,0 +1,133 @@
+{
+  "id": "2sa.everlasting_throne",
+  "title": "An Everlasting Throne",
+  "anchorRef": "2SA.7.16",
+  "backstory": "King David finally has rest from his enemies and a palace of cedar, yet the ark of God still sits in a tent. David wants to build God a house. Instead, God makes David a promise that reaches all the way to Jesus — a throne that will last for ever.",
+  "passages": [
+    {
+      "ref": "2SA.7.1-7",
+      "synopsis": "King David sat in his beautiful house of cedar while the ark of God stayed within curtains. He told Nathan the prophet that he wanted to build a house for God. At first Nathan told him to do all that was in his heart. But that night the word of the LORD came to Nathan with a different message: God had never asked anyone for a house of cedar."
+    },
+    {
+      "ref": "2SA.7.8-17",
+      "synopsis": "God reminded David that he had taken him from following the sheep to be ruler over Israel. Then God made an amazing promise: instead of David building God a house, God would build David a house — a family of kings. David's son would build the temple, and David's throne would be established for ever. God promised that his mercy would never depart from David's family."
+    },
+    {
+      "ref": "2SA.7.18-24",
+      "synopsis": "David went in and sat before the LORD, full of wonder. \"Who am I, O Lord GOD?\" he asked. He praised God, for there is none like him. He remembered how God had redeemed Israel to be his own people for ever."
+    },
+    {
+      "ref": "2SA.7.25-29",
+      "synopsis": "David asked God to do just as he had promised, so that God's name would be magnified for ever. He prayed that the house of his servant would continue before God. David knew that God's words are true. He closed his prayer asking God to bless his house for ever."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "scramble",
+      "scrambleVerses": [
+        {
+          "reference": "2 Samuel 7:13",
+          "text": "He shall build an house for my name,"
+        },
+        {
+          "reference": "2 Samuel 7:16",
+          "text": "thy throne shall be established for ever."
+        },
+        {
+          "reference": "2 Samuel 7:28",
+          "text": "thou art that God, and thy words be true,"
+        }
+      ]
+    },
+    {
+      "gameKey": "whoami",
+      "whoAmIChars": [
+        {
+          "name": "David",
+          "clues": [
+            "I was the shepherd boy who became king of Israel.",
+            "I wanted to build God a house of cedar.",
+            "God promised that my throne would be established for ever."
+          ],
+          "wrongChoices": [
+            "Saul",
+            "Solomon",
+            "Hezekiah"
+          ]
+        },
+        {
+          "name": "Nathan",
+          "clues": [
+            "King David told me he wanted to build a house for God.",
+            "One night God gave me a message for the king.",
+            "I told David that God would build him a house."
+          ],
+          "wrongChoices": [
+            "Samuel",
+            "Isaiah",
+            "Elijah"
+          ]
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What troubled David as he sat in his house of cedar?",
+          "options": [
+            "The ark of God dwelt within curtains",
+            "The Philistines were gathering for war",
+            "He had no heir to the throne",
+            "The city walls were broken down"
+          ],
+          "correctIndex": 0,
+          "explanation": "2 Samuel 7:2 — \"That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "To whom did the word of the LORD come that night?",
+          "options": [
+            "Samuel",
+            "Gad",
+            "Nathan",
+            "David"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 Samuel 7:4 — \"And it came to pass that night, that the word of the LORD came unto Nathan, saying,\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "How long did God promise David's throne would be established?",
+          "options": [
+            "Forty years",
+            "For ever",
+            "Until Solomon died",
+            "Seven generations"
+          ],
+          "correctIndex": 1,
+          "explanation": "2 Samuel 7:16 — \"And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.\"",
+          "category": "oldTestament"
+        },
+        {
+          "question": "Who did God say would build a house for his name?",
+          "options": [
+            "David himself",
+            "Nathan",
+            "Joab",
+            "David's son"
+          ],
+          "correctIndex": 3,
+          "explanation": "2 Samuel 7:13 — \"He shall build an house for my name, and I will stablish the throne of his kingdom for ever.\"",
+          "category": "oldTestament"
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "PSA.89.3-4",
+    "LUK.1.32-33",
+    "ACT.2.30"
+  ],
+  "reflection": "David wanted to build God a house, but God promised to build David's house instead. When has God's plan turned out to be bigger than what you asked for?"
+}

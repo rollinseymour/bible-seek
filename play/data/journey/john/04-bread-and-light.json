@@ -1,0 +1,128 @@
+{
+  "id": "jhn.bread_and_light",
+  "title": "Bread of Life, Light of the World",
+  "anchorRef": "JHN.6.35",
+  "backstory": "Great crowds were following Jesus around the sea of Galilee because of the miracles they had seen. In John's Gospel every miracle is a sign that points past itself to who Jesus is. Here he feeds a hungry crowd and opens the eyes of a man born blind, and both times he says plainly what the sign means.",
+  "passages": [
+    {
+      "ref": "JHN.6.5-14",
+      "synopsis": "Seeing a great crowd coming toward him, Jesus asked Philip where they could buy bread for so many. Philip answered that even a small fortune would not give each person a bite. Andrew found a boy who had five barley loaves and two small fishes. Jesus had the people sit down on the grass, gave thanks, and shared the food until about five thousand men were filled. Twelve baskets of fragments were gathered up afterward, so that nothing would be lost."
+    },
+    {
+      "ref": "JHN.6.31-40",
+      "synopsis": "The people reminded Jesus that their fathers ate manna in the desert. Jesus told them that the true bread from heaven comes from his Father and gives life to the world. When they asked him for that bread, he said that he himself is the bread of life, and that whoever comes to him will never hunger. He said he came down from heaven to do the will of the one who sent him. All who see the Son and believe on him have everlasting life."
+    },
+    {
+      "ref": "JHN.9.1-12",
+      "synopsis": "Jesus passed a man who had been blind from birth, and his disciples asked whose sin had caused it. Jesus answered that it was neither this man's sin nor his parents', but that the works of God would be seen in him. He said that as long as he is in the world, he is the light of the world. Then he made clay, put it on the man's eyes, and sent him to wash in the pool of Siloam. The man went and washed and came back seeing, and his neighbours could hardly believe he was the same man."
+    },
+    {
+      "ref": "JHN.9.24-38",
+      "synopsis": "The leaders called the healed man in again and insisted that Jesus was a sinner. He answered that he did not know about that, but one thing he did know: he had been blind, and now he could see. The more he defended Jesus, the angrier they grew, until they put him out. Jesus went and found him and asked whether he believed on the Son of God. When he learned that he was speaking to him, the man said he believed, and he worshipped him."
+    }
+  ],
+  "gate": [
+    {
+      "gameKey": "hangman",
+      "hangmanWords": [
+        {
+          "word": "LOAVES",
+          "hint": "Five barley ones fed a great crowd",
+          "theme": "things"
+        },
+        {
+          "word": "SILOAM",
+          "hint": "Pool where the blind man washed",
+          "theme": "places"
+        },
+        {
+          "word": "PHILIP",
+          "hint": "Jesus asked him where to buy bread",
+          "theme": "people"
+        },
+        {
+          "word": "MANNA",
+          "hint": "Bread their fathers ate in the desert",
+          "theme": "things"
+        }
+      ]
+    },
+    {
+      "gameKey": "trivia",
+      "triviaQuestions": [
+        {
+          "question": "What did the boy bring that Jesus used to feed the crowd?",
+          "options": [
+            "Five barley loaves and two small fishes",
+            "Ten loaves of wheat bread",
+            "A basket of figs",
+            "Bread and honey"
+          ],
+          "correctIndex": 0,
+          "explanation": "John 6:9 — \"There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "How many baskets of fragments were gathered after everyone had eaten?",
+          "options": [
+            "Five",
+            "Seven",
+            "Twelve",
+            "Three"
+          ],
+          "correctIndex": 2,
+          "explanation": "John 6:13 — \"Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "What did Jesus call himself after feeding the crowd?",
+          "options": [
+            "The good shepherd",
+            "The bread of life",
+            "The door of the sheep",
+            "The true vine"
+          ],
+          "correctIndex": 1,
+          "explanation": "John 6:35 — \"And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.\"",
+          "category": "newTestament"
+        },
+        {
+          "question": "Where did Jesus send the man born blind to wash?",
+          "options": [
+            "The river Jordan",
+            "The sea of Galilee",
+            "Jacob's well",
+            "The pool of Siloam"
+          ],
+          "correctIndex": 3,
+          "explanation": "John 9:7 — \"And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.\"",
+          "category": "newTestament"
+        }
+      ]
+    },
+    {
+      "gameKey": "wordsearch",
+      "wordSearchPuzzles": [
+        {
+          "category": "Bread and Light",
+          "words": [
+            "BREAD",
+            "LOAVES",
+            "FISHES",
+            "BASKETS",
+            "BLIND",
+            "SILOAM",
+            "CLAY",
+            "LIGHT"
+          ]
+        }
+      ]
+    }
+  ],
+  "crossRefs": [
+    "EXO.16.15",
+    "PSA.146.8",
+    "ISA.35.5"
+  ],
+  "reflection": "The healed man could not explain everything, but he knew what Jesus had done for him. What has God done for you that you could tell just as simply?"
+}
